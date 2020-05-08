@@ -1,0 +1,54 @@
+.card-style {
+  background: #cecdcd;
+  cursor: pointer;
+  border-radius: 0;
+  border: none;
+}
+.theme-card-style {
+  background: #cecdcd;
+  border-radius: 0;
+  border: none;
+}
+
+.explore-card-style {
+  background: #ebebeb;
+  cursor: pointer;
+  border-radius: 0;
+  border: none;
+}
+
+.explore-title-card-style {
+  background: #ebebeb;
+  cursor: pointer;
+  border-radius: 0;
+  border: none;
+  width: 80%;
+}
+
+.card-title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.explore-card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 13px;
+}
+
+.heading-style {
+  background: #ebebeb;
+}
+
+body {
+  color: #282828;
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+
+.breadcrumb {
+  background-color: #ebebeb;
+  border-radius: 0;
+}

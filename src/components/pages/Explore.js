@@ -1,0 +1,140 @@
+import React, { Component } from 'react';
+import Container from 'react-bootstrap/Container';
+import Col from 'react-bootstrap/Col';
+import Breadcrumb from 'react-bootstrap/Breadcrumb';
+import Row from 'react-bootstrap/Row';
+import Card from 'react-bootstrap/Card';
+
+export class Explore extends Component {
+  state = { explore: [] };
+
+  clickEvent(link) {
+    console.log(link);
+  }
+
+  render() {
+    return (
+      <Container>
+        <Breadcrumb>
+          <Breadcrumb.Item active>Explore</Breadcrumb.Item>
+        </Breadcrumb>
+        <Row>
+          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+            <Card
+              className={'explore-card-style'}
+              onClick={() => window.open('/Top10', '_self')}
+            >
+              <Card.Img
+                className={'explore-title-card-style'}
+                variant="top"
+                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_top10s-7488ae81b11d7a6be9cb710b12ac1c61.gif"
+              />
+            </Card>
+          </Col>
+          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+            <Card
+              className={'explore-card-style'}
+              onClick={() => window.open('/People', '_self')}
+            >
+              <Card.Img
+                className={'explore-title-card-style'}
+                variant="top"
+                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif"
+              />
+            </Card>
+          </Col>
+          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+            <Card
+              className={'explore-card-style'}
+              onClick={() => window.open('/Themes', '_self')}
+            >
+              <Card.Img
+                className={'explore-title-card-style'}
+                variant="top"
+                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif"
+              />
+            </Card>
+          </Col>
+        </Row>
+        <Row>
+          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+            <Card
+              className={'card-style my-3'}
+              onClick={() => window.open('/Top10', '_self')}
+            >
+              <Card.Img
+                className={'card-style'}
+                variant="top"
+                src="https://s3.amazonaws.com/criterion-production/explore_images/621-b9ca8a52d4a3fbae59a2183fe92c8d11/wexler_topten_original.jpg"
+              />
+              <Card.Body>
+                <Card.Title className={'explore-card-title'}>
+                  {'Explore Top 10 lists'}
+                </Card.Title>
+                <Card.Text className={'card-text'}>
+                  Every month, we ask a friend—a filmmaker, a programmer, a
+                  writer, an actor, an artist—to select their ten favorite
+                  movies available from the Criterion Collection and jot down
+                  their thoughts about them. The entries (from people like Jane
+                  Campion, Jonathan Lethem, and Sonic Youth) are often
+                  surprising, and always entertaining.
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+            <Card
+              className={'card-style my-3'}
+              onClick={() => window.open('/People', '_self')}
+            >
+              <Card.Img
+                className={'card-style'}
+                variant="top"
+                src="https://s3.amazonaws.com/criterion-production/explore_images/373-b812db5dfea2032c59bf4fe39ac494b8/explore_hans_dreier_docks_of_new_york_1086_036_original.jpg"
+              />
+              <Card.Body>
+                <Card.Title className={'explore-card-title'}>
+                  {'Explore People'}
+                </Card.Title>
+                <Card.Text className={'card-text'}>
+                  Robert Bresson, Federico Fellini, Jean-Luc Godard, Akira
+                  Kurosawa, Jeanne Moreau, Ennio Morricone, François Truffaut:
+                  there's no shortage of cinema superstars in the Criterion
+                  Collection. Take a closer look at some of the great artists
+                  who make possible the classic films in our catalog.
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+            <Card
+              className={'card-style my-3'}
+              onClick={() => window.open('/Themes', '_self')}
+            >
+              <Card.Img
+                className={'card-style'}
+                variant="top"
+                src="https://s3.amazonaws.com/criterion-production/explore_images/460-96fadaa8da02f8f673e15fd2531b28e2/explore586_137_original.jpg"
+              />
+              <Card.Body>
+                <Card.Title className={'explore-card-title'}>
+                  {'Explore Themes'}
+                </Card.Title>
+                <Card.Text className={'card-text'}>
+                  Ever wonder just what is meant by "poetic realism," "New
+                  German Cinema," or "neorealism"? Or how many cult movies,
+                  documentaries, or Oscar winners you can find in the Criterion
+                  Collection? Dig into our extensive catalog of titles by
+                  category or genre to find out a little bit more about these
+                  essential film movements and categories.
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </Col>
+        </Row>
+      </Container>
+    );
+  }
+}
+
+export default Explore;

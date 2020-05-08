@@ -1,0 +1,844 @@
+{
+ "cult_movies": [
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131989-60525774bd60a5314f3d5b1773d021c8/Film_77w_AndGodCreatedWoman_original.jpg",
+   "title": "And God Created Woman",
+   "title_url": "https://www.criterion.com/films/616-and-god-created-woman",
+   "director": "Roger Vadim",
+   "country": "France,",
+   "year": "1956",
+   "spine": "77"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/7683-981b15f6de59ba101df21efde18dd304/Film_366w_AtomicSubmarine_original.jpg",
+  	"title": "The Atomic Submarine",
+  	"director": "Spencer G. Bennet"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/131931-fc7a8298afd4e7f5fb57671b3d5d6d35/Downey_Filmw_Babo73_original.jpg",
+  	"title": "Babo 73",
+  	"director": "Rober Downey Sr."
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b4f66237d1ce4cc66036714f856abda2.jpeg",
+   "title": "Being John Malkovich",
+   "title_url": "https://www.criterion.com/films/28055-being-john-malkovich",
+   "director": "Spike Jonze",
+   "country": "United States,",
+   "year": "1999",
+   "spine": "611"
+  },
+  {
+    "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f70da8039ea53d97aa945b77bcf7f535.jpeg",
+    "title": "Beyond the Law",
+    "director": "Norman Mailer",
+    "spine": "e35"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/2a51a26b99811373b33ec7e3f8b788bf.jpeg",
+   "title": "Beyond the Valley of the Dolls",
+   "title_url": "https://www.criterion.com/films/28120-beyond-the-valley-of-the-dolls",
+   "director": "Russ Meyer",
+   "country": "United States,",
+   "year": "1970",
+   "spine": "836"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130865-15de670570112a4ffc9744b88a871568/Film_571w_BlackMoon_original.jpg",
+   "title": "Black Moon",
+   "title_url": "https://www.criterion.com/films/27627-black-moon",
+   "director": "Louis Malle",
+   "country": "France,",
+   "year": "1975",
+   "spine": "571"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131995-16127e2bdf4609687ee951e6307293e7/Blob_Film_Page_original.jpg",
+   "title": "The Blob",
+   "title_url": "https://www.criterion.com/films/630-the-blob",
+   "director": "Irvin S. Yeaworth Jr.",
+   "country": "United States,",
+   "year": "1958",
+   "spine": "91"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/5309-8125d8ce647e4aa3e78d55d46aabc69e/Film_28w_BloodDracula_original.jpg",
+  	"title": "Blood for Dracula",
+  	"director": "Paul Morrissey"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b74991f504cf680ec93c7528fad3a716.jpeg",
+   "title": "Blow-Up",
+   "title_url": "https://www.criterion.com/films/28694-blow-up",
+   "director": "Michelangelo Antonioni",
+   "country": "United Kingdom,",
+   "year": "1966",
+   "spine": "865"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bc36b43537bbe87d5bb6c163120f7a92.jpeg",
+   "title": "Blue Velvet",
+   "title_url": "https://www.criterion.com/films/29144-blue-velvet",
+   "director": "David Lynch",
+   "country": "United States,",
+   "year": "1986",
+   "spine": "977"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/10383-3ad667756902800ec441c7e8a66aebd6/Brand_w_original.jpg",
+   "title": "Brand upon the Brain!",
+   "title_url": "https://www.criterion.com/films/746-brand-upon-the-brain",
+   "director": "Guy Maddin",
+   "country": "Canada,",
+   "year": "2006",
+   "spine": "440"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/56e3d0e6090b213e620bc55c62d0aab5.jpeg",
+   "title": "Brazil",
+   "title_url": "https://www.criterion.com/films/211-brazil",
+   "director": "Terry Gilliam",
+   "country": "United Kingdom,",
+   "year": "1985",
+   "spine": "51"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/baf24a5f2d9a3f50d141fcafc3a91def.jpeg",
+   "title": "The Breakfast Club",
+   "title_url": "https://www.criterion.com/films/29272-the-breakfast-club",
+   "director": "John Hughes",
+   "country": "United States,",
+   "year": "1985",
+   "spine": "905"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/10481-a37e09518818439fd651bdc964de54cf/Film_63_CarnivalOfSouls_original.jpg",
+   "title": "Carnival of Souls",
+   "title_url": "https://www.criterion.com/films/607-carnival-of-souls",
+   "director": "Herk Harvey",
+   "country": "United States,",
+   "year": "1962",
+   "spine": "63"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/132b0a680d172b316f2855e8abff4f7c.jpeg",
+   "title": "Cat People",
+   "title_url": "https://www.criterion.com/films/28696-cat-people",
+   "director": "Jacques Tourneur",
+   "country": "United States,",
+   "year": "1942",
+   "spine": "833"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/131932-37f1a58d5f2aa8d3d93dc30de40a3ac2/Downey_Filmw_ChafedElbows_original.jpg",
+  	"title": "Chafed Elbows",
+  	"director": "Robert Downey Sr."
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/7667-3d7be484e3f46421a6f2af56dada6785/Film_368w_CorridorBlood_original.jpg",
+  	"title": "Corridors of Blood",
+  	"director": "Robert Day"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130337-46ee8317eba36ec0efa64bdbfee4681e/CRONOS_spotlight_scarab_original.jpg",
+   "title": "Cronos",
+   "title_url": "https://www.criterion.com/films/27534-cronos",
+   "director": "Guillermo del Toro",
+   "country": "Mexico,",
+   "year": "1993",
+   "spine": "551"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130217-bf855c891598618fa079fcfac9deaff6/CRUMB-new-film-still_original.jpg",
+   "title": "Crumb",
+   "title_url": "https://www.criterion.com/films/2104-crumb",
+   "director": "Terry Zwigoff",
+   "country": "United States,",
+   "year": "1995",
+   "spine": "533"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/131959-7322853fa6db0843d94f1c0a92b96203/Film_Eclipse_Daisies_original.jpg",
+  	"title": "Daisies",
+  	"director": "Věra Chytilová"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/54d963fd05ec9b4b6fa718cbc6dcfa03.jpeg",
+   "title": "Dazed and Confused",
+   "title_url": "https://www.criterion.com/films/314-dazed-and-confused",
+   "director": "Richard Linklater",
+   "country": "United States,",
+   "year": "1993",
+   "spine": "336"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/5b3501918e978ae4ca52e6f6ca7380fe.jpeg",
+   "title": "Dead Man",
+   "title_url": "https://www.criterion.com/films/29064-dead-man",
+   "director": "Jim Jarmusch",
+   "country": "United States,",
+   "year": "1995",
+   "spine": "919"
+  },
+  {
+   "image": "http://s3.amazonaws.com/criterion-production/stills/130969-e80f7363be1fccc78de05130cf3b7fc2/Film_506wb_DillingerIsDead_original.jpg",
+   "title": "Dillinger Is Dead",
+   "title_url": "https://www.criterion.com/films/21641-dillinger-is-dead",
+   "director": "Marco Ferreri",
+   "country": "Italy,",
+   "year": "1969",
+   "spine": "506"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/fd5175ea1f1b8f0be1aeddbfcff14735.jpeg",
+   "title": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
+   "title_url": "https://www.criterion.com/films/28822-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+   "director": "Stanley Kubrick",
+   "country": "United States,",
+   "year": "1964",
+   "spine": "821"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131997-79b6a6dc5cc652544a69cf028fe93fda/Film_625w_EatingRaoul_original.jpg",
+   "title": "Eating Raoul",
+   "title_url": "https://www.criterion.com/films/27767-eating-raoul",
+   "director": "Paul Bartel",
+   "country": "United States,",
+   "year": "1982",
+   "spine": "625"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/20465-96d578a1d81a537ff7cbcc404e87098b/EMPIRE_OF_PASSION_still_resized_original.jpg",
+  	"title": "Empire of Passion",
+  	"director": "Nagisa Oshima"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5981-2971113189154ac015dd59f85bd9f86c/Film_338w_Equinox_original.jpg",
+   "title": "Equinox",
+   "title_url": "https://www.criterion.com/films/780-equinox",
+   "director": "Jack Woods",
+   "country": "United States,",
+   "year": "1970",
+   "spine": "338"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132248-f0bff110c944d5916b7c5619a604f10f/Film_725w_Eraserhead_b_original.jpg",
+   "title": "Eraserhead",
+   "title_url": "https://www.criterion.com/films/28382-eraserhead",
+   "director": "David Lynch",
+   "country": "United States,",
+   "year": "1977",
+   "spine": "725"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5767-9ff16a14f0793bd2ad27d038fc0a35b8/Film_454w_Europa_original.jpg",
+   "title": "Europa",
+   "title_url": "https://www.criterion.com/films/768-europa",
+   "director": "Lars von Trier",
+   "country": "Denmark,",
+   "year": "1991",
+   "spine": "454"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6619-0a82bb4545e6e0bbee7a68db779a4864/Film_260w_EyesWithoutFace_original.jpg",
+   "title": "Eyes Without a Face",
+   "title_url": "https://www.criterion.com/films/950-eyes-without-a-face",
+   "director": "Georges Franju",
+   "country": "France,",
+   "year": "1960",
+   "spine": "260"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/6745-f6f787f327afb3dc63c55c1875bc08ce/Film_288w_FForFake_original.jpg",
+  	"title": "F for Fake",
+  	"director": "Orson Welles"
+  },
+  {
+    "image": "https://criterion-production.s3.amazonaws.com/carousel-files/268203d0d73244334e7caee72c1e2a18.jpeg",
+    "title": "The Fabulous Baron Munchausen",
+    "director": "Karel Zeman",
+    "spine": "1017"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132359-f817877867d4b2a6514f9fc3f7b7faba/Film_820_FantasticPlanet_original.jpg",
+   "title": "Fantastic Planet",
+   "title_url": "https://www.criterion.com/films/28636-fantastic-planet",
+   "director": "René Laloux",
+   "country": "France,",
+   "year": "1973",
+   "spine": "820"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/7909-fde72a57c6d1c0e5fbdfff6b6a38121a/Film_175w_FearLoathing_original.jpg",
+   "title": "Fear and Loathing in Las Vegas",
+   "title_url": "https://www.criterion.com/films/215-fear-and-loathing-in-las-vegas",
+   "director": "Terry Gilliam",
+   "country": "United States,",
+   "year": "1998",
+   "spine": "175"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/43790a724475ec9256edeebbf4a636e6.jpeg",
+   "title": "Female Trouble",
+   "title_url": "https://www.criterion.com/films/28704-female-trouble",
+   "director": "John Waters",
+   "country": "United States,",
+   "year": "1974",
+   "spine": "929"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130633-d59e5e1bc06d36fde827cecb35bcb07b/Film_92w_FiendWithoutFaceB_original.jpg",
+   "title": "Fiend Without a Face",
+   "title_url": "https://www.criterion.com/films/631-fiend-without-a-face",
+   "director": "Arthur Crabtree",
+   "country": "United Kingdom,",
+   "year": "1958",
+   "spine": "92"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/7691-381166e805183ea9ac0804e4ac477a7d/Film_365w_FirstManSpace_original.jpg",
+  	"title": "First Man into Space",
+  	"director": "Robert Day"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/5301-92002065187c6f79b2952a4471e947fe/Film_27w_FleshFrankenstein_original.jpg",
+  	"title": "Flesh for Frankenstein",
+  	"director": "Paul Morrissey"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/132024-646419b852191f7b761dba7aa16277ff/ShochikuHorror_Filmw_Genocide_original.jpg",
+  	"title": "Genocide",
+  	"director": "Kazui Nihonmatsu"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/edbbba99dd572feacca115f132a789af.jpeg",
+   "title": "Ghost World",
+   "title_url": "https://www.criterion.com/films/28687-ghost-world",
+   "director": "Terry Zwigoff",
+   "country": "United States,",
+   "year": "2001",
+   "spine": "872"
+  },
+  {
+   "image": "http://s3.amazonaws.com/criterion-production/stills/131433-b31b3f27e440ec728d6121d260406411/Film_594w_Godzilla_original.jpg",
+   "title": "Godzilla",
+   "title_url": "https://www.criterion.com/films/27755-godzilla",
+   "director": "Ishiro Honda",
+   "country": "Japan,",
+   "year": "1954",
+   "spine": "594"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1dbfd99608a04c4408acb3a29c74f52f.jpeg",
+   "title": "Godzilla: The Showa-Era Films, 1954–1975",
+   "title_url": "https://www.criterion.com/boxsets/2648-godzilla-the-showa-era-films-1954-1975",
+   "spine": "1000"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/132071-0cb3901b24ebd0e77661f8c2700d5e33/Goke_Film_page_original.jpg",
+  	"title": "Goke, Body Snatcher From Hell",
+  	"director": "Hajime Sato"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/f71bf6d59b9d781671221e8b3a469fb4.jpeg",
+   "title": "Grey Gardens",
+   "title_url": "https://www.criterion.com/films/664-grey-gardens",
+   "director": "David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer",
+   "country": "United States,",
+   "year": "1976",
+   "spine": "123"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131849-8196733720405f4d1f36f66768ac69db/Film_608w_HaroldAndMaude_original.jpg",
+   "title": "Harold and Maude",
+   "title_url": "https://www.criterion.com/films/27896-harold-and-maude",
+   "director": "Hal Ashby",
+   "country": "United States,",
+   "year": "1971",
+   "spine": "608"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/7675-b5e0a6e67afec373844c9dfaba7115a1/Film_367w_HauntedStrangler_original.jpg",
+  	"title": "The Haunted Strangler",
+  	"director": "Robert Day"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/8469-bdf01bacb7a00d6a750dfa17f2d9cc10/Film_134w_Haxan_original.jpg",
+   "title": "Häxan",
+   "title_url": "https://www.criterion.com/films/352-h-xan",
+   "director": "Benjamin Christensen",
+   "country": "Denmark,",
+   "year": "1922",
+   "spine": "134"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130265-6df2502dd6a480a6ffc848a8a88e4cd2/Film_544w_Head_original.jpg",
+   "title": "Head",
+   "title_url": "https://www.criterion.com/films/27527-head",
+   "director": "Bob Rafelson",
+   "country": "United States,",
+   "year": "1968",
+   "spine": "544"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/9759-29c31f94234e788fb06f703eedbac429/Honeymoonw_original.jpg",
+   "title": "The Honeymoon Killers",
+   "title_url": "https://www.criterion.com/films/582-the-honeymoon-killers",
+   "director": "Leonard Kastle",
+   "country": "United States,",
+   "year": "1969",
+   "spine": "200"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130177-5b40dbf6b529a3b5ae3f8862c27945d1/Film_539w_House_original.jpg",
+   "title": "House",
+   "title_url": "https://www.criterion.com/films/27523-house",
+   "director": "Nobuhiko Obayashi",
+   "country": "Japan,",
+   "year": "1977",
+   "spine": "539"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/9353-b467f9823ba3f3ff5da63f3bd2ead5ce/HowGetAheadw_original.jpg",
+  	"title": "How to Get Ahead in Advertising",
+  	"director": "Bruce Robinson"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/7861-08539d15649851f2888a7d8d7037d858/Film_181w_CuriousBlue_original.jpg",
+   "title": "I Am Curious—Blue",
+   "director": "Vilgot Sjöman",
+   "spine": "179"
+  },
+  {
+   "image": "http://s3.amazonaws.com/criterion-production/stills/7869-b4075ceb369808fe6db89ac6bf60a16e/Film_180w_CuriousYellow_original.jpg",
+   "title": "I Am Curious—Yellow",
+   "director": "Vilgot Sjöman",
+   "spine": "179"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/11923-df079655ae60641a450eadfb69989bf1/Film_469w_InTheRealmSenses_original.jpg",
+  	"title": "In the Realm of the Senses",
+  	"director": "Nagisa Oshima"
+  },
+  {
+    "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c3d088753f0759f2405b92d9edc29989.jpeg",
+    "title": "Invention for Destruction",
+    "director": "Karel Zeman",
+    "spine": "1016"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131305-40da86ee35a108fe19fa505cc5cf32f7/Film_586w_IslandLostSouls_original.jpg",
+   "title": "Island of Lost Souls",
+   "title_url": "https://www.criterion.com/films/27861-island-of-lost-souls",
+   "director": "Erle C. Kenton",
+   "country": "United States,",
+   "year": "1932",
+   "spine": "586"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/7731-d23b674745958dcacb6a821a3ba6d6c9/Film_352w_Jigoku_original.jpg",
+   "title": "Jigoku",
+   "title_url": "https://www.criterion.com/films/797-jigoku",
+   "director": "Nobuo Nakagawa",
+   "country": "Japan,",
+   "year": "1960",
+   "spine": "352"
+  },
+  {
+    "image": "https://criterion-production.s3.amazonaws.com/carousel-files/235039b53c73d5bbf1137d36b8ae8840.jpeg",
+    "title": "Journey to the Beginning of Time",
+    "director": "Karel Zeman",
+    "spine": "1015"
+  },
+  {
+   "image": "http://s3.amazonaws.com/criterion-production/stills/7787-08750abc8e1d0b26a2a898e5be0c3d21/Film_191w_Jubilee_original.jpg",
+   "title": "Jubilee",
+   "title_url": "https://www.criterion.com/films/736-jubilee",
+   "director": "Derek Jarman",
+   "country": "United Kingdom,",
+   "year": "1978",
+   "spine": "191"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/130993-fe99f296bc68e2d6b6bed3c2ac6d606e/Film_568w_KissMeDeadly_original.jpg",
+  	"title": "Kiss Me Deadly",
+  	"director": "Robert Aldrich"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/132047-c2eead4753a4f56f449e79713b5a2dd5/Film_640w_Koyaanisqatsi_original.jpg",
+  	"title": "Koyaanisqatsi",
+  	"director": "Godfrey Reggio"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/132329-de0c8aee00550512d077fbf1a3152145/Film_790_LadySnowblood1_original.jpg",
+  	"title": "Lady Snowblood",
+  	"director": "Toshiya Fujita"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/132328-b62b6897ca076b3686065ae5474614db/Film_791_LadySnowblood2_original.jpg",
+  	"title": "Lady Snowblood: Love Song of Vengeance",
+  	"director": "Toshiya Fujita"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/131489-fd7c6023fd4a138d8e204573d002e83f/Leningrad_Cowboys_Still_original.jpg",
+  	"title": "Leningrad Cowboys Go America",
+  	"director": "Aki Kaurismäki"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/131249-9e7ae17d4588f9071065f7b03e0d02d3/Kaurismaki_Filmw_LeningradMoses_original.jpg",
+  	"title": "Leningrad Cowboys Meet Moses",
+  	"director": "Aki Kaurismäki"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/132025-efcd5545f8e9a7393842b18c33e7b8ea/ShochikuHorror_Filmw_LivingSkeleton_original.jpg",
+  	"title": "The Living Skeleton",
+  	"director": "Hiroshi Matsuno"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1eb4465ae1bd5830bc2413556fb51b8d.jpeg",
+   "title": "Local Hero",
+   "title_url": "https://www.criterion.com/films/28709-local-hero",
+   "director": "Bill Forsyth",
+   "country": "United Kingdom,",
+   "year": "1983",
+   "spine": "994"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1697852a68a2dba90ea68aac8fc2c5bc.jpeg",
+   "title": "The Lure",
+   "title_url": "https://www.criterion.com/films/29061-the-lure",
+   "director": "Agnieszka Smoczyńska",
+   "country": "Poland,",
+   "year": "2015",
+   "spine": "896"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/131973-14e53bb61a8b5d5f5109261f765a62d1/Mailer_Filmw_Maidstone_original.jpg",
+  	"title": "Maidstone",
+  	"director": "Norman Mailer"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/10231-3e2b81eb65f995c950c1741fac85773a/ManBitesDog_original.jpg",
+   "title": "Man Bites Dog",
+   "title_url": "https://www.criterion.com/films/718-man-bites-dog",
+   "director": "Rémy Belvaux, André Bonzel and Benoit Poelvoorde",
+   "country": "France,",
+   "year": "1992",
+   "spine": "165"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/6181-e890dc2aac37196997adf63ad2eb7abf/Film_304w_ManWhoFellEarth_original.jpg",
+  	"title": "The Man Who Fell to Earth",
+  	"director": "Nicolas Roeg"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/915dfa995a662b8d5f113cb512494ba3.jpeg",
+   "title": "Midnight Cowboy",
+   "title_url": "https://www.criterion.com/films/29369-midnight-cowboy",
+   "director": "John Schlesinger",
+   "country": "United States,",
+   "year": "1969",
+   "spine": "925"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/8045-26ead3647ad0ae186d5ee5c0267b23b4/ModelCouple_1_original.jpg",
+  	"title": "The Model Couple",
+  	"director": "William Klein"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/130585-80d4f68f2ba5b79e9959cb7a62fe1b4c/Film_61w_LifeBrian_original.jpg",
+  	"title": "Monty Python's Life of Brian",
+  	"director": "Terry Jones"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/8037-281b805b62765d941832a303cbc55011/MrFreedom_2_original.jpg",
+  	"title": "Mr. Freedom",
+  	"director": "William Klein"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b40d578bfcc9f6f23d077c4d4549d3c3.jpeg",
+   "title": "Multiple Maniacs",
+   "title_url": "https://www.criterion.com/films/28954-multiple-maniacs",
+   "director": "John Waters",
+   "country": "United States,",
+   "year": "1970",
+   "spine": "863"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/130537-ba37ef36bcceb2da7cd1d1b1a05da976/Film_18w_NakedKissB_original.jpg",
+  	"title": "The Naked Kiss",
+  	"director": "Samuel Fuller"
+  },
+  {
+   "image": "https://web.archive.org/web/20151007183031im_/https://s3.amazonaws.com/criterion-production/stills/9775-b04019c6782f688d5a62518050d11432/NakedLunchw_original.jpg",
+   "title": "Naked Lunch",
+   "title_url": "https://www.criterion.com/films/634-naked-lunch",
+   "director": "David Cronenberg",
+   "country": "Canada,",
+   "year": "1991",
+   "spine": "220"
+  },
+  {
+   "image": "http://s3.amazonaws.com/criterion-production/stills/6411-fdb96601ba443aae521eaac6fb2719b3/Film_415w_NakedPrey_original.jpg",
+   "title": "The Naked Prey",
+   "title_url": "https://www.criterion.com/films/848-the-naked-prey",
+   "director": "Cornel Wilde",
+   "country": "United States,",
+   "year": "1965",
+   "spine": "415"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c2198b0a6b67fab2297bdab96598b893.jpeg",
+   "title": "Night of the Living Dead",
+   "title_url": "https://www.criterion.com/films/29331-night-of-the-living-dead",
+   "director": "George A. Romero",
+   "country": "United States,",
+   "year": "1968",
+   "spine": "909"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/131929-ef745fcfea88598051b920790d5da2f2/Downey_Filmw_NoMoreExcuses_original.jpg",
+  	"title": "No More Excuses",
+  	"director": "Robert Downey Sr. and Robert Soukis"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/131928-3e1cc73877ccaf1c6c19529c5013837e/Downey_Filmw_PutneySwope_original.jpg",
+  	"title": "Putney Swope",
+  	"director": "Robert Downey Sr."
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132088-53ae7917f2f0e17eb93deff00aa459c1/Film_654w_RepoMan_original.jpg",
+   "title": "Repo Man",
+   "title_url": "https://www.criterion.com/films/28051-repo-man",
+   "director": "Alex Cox",
+   "country": "United States,",
+   "year": "1984",
+   "spine": "654"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/7493-93c9127ab036460b7515aee64f31585b/Film_404w_RobinsonCrusoe_original.jpg",
+   "title": "Robinson Crusoe on Mars",
+   "title_url": "https://www.criterion.com/films/821-robinson-crusoe-on-mars",
+   "director": "Byron Haskin",
+   "country": "United States,",
+   "year": "1964",
+   "spine": "404"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/10311-a6ded05872e468b8eb087af32e1ae98b/RULING-CLASS-007_original.jpg",
+  	"title": "The Ruling Class",
+  	"director": "Peter Medak"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130529-4b66cea75fcc8aa07904861fca9629e0/Film_17w_SaloC_original.jpg",
+   "title": "Salò, or The 120 Days of Sodom",
+   "title_url": "https://www.criterion.com/films/532-sal-or-the-120-days-of-sodom",
+   "director": "Pier Paolo Pasolini",
+   "country": "Italy,",
+   "year": "1976",
+   "spine": "17"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132236-1e92134a4eee831b995477cf8155a566/Film_712_Scanners_original.jpg",
+   "title": "Scanners",
+   "title_url": "https://www.criterion.com/films/28043-scanners",
+   "director": "David Cronenberg",
+   "country": "Canada,",
+   "year": "1981",
+   "spine": "712"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132078-896e009a11860f5d17f7ba86f635fce7/Film_199w_Schizopolis_original.jpeg",
+   "title": "Schizopolis",
+   "title_url": "https://www.criterion.com/films/740-schizopolis",
+   "director": "Steven Soderbergh",
+   "country": "United States,",
+   "year": "1996",
+   "spine": "199"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/40e5093be2186e2ffbb46df79e0f0754.jpeg",
+   "title": "sex, lies, and videotape",
+   "title_url": "https://www.criterion.com/films/28832-sex-lies-and-videotape",
+   "director": "Steven Soderbergh",
+   "country": "United States,",
+   "year": "1989",
+   "spine": "938"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/b8fcfc8668b5abac9be78977cd0d2662.jpeg",
+   "title": "Sid & Nancy",
+   "title_url": "https://www.criterion.com/films/535-sid-nancy",
+   "director": "Alex Cox",
+   "country": "United Kingdom,",
+   "year": "1986",
+   "spine": "20"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130609-d5da345c8c245b168025cf623591ded5/Film_89w_SistersD_original.jpg",
+   "title": "Sisters",
+   "title_url": "https://www.criterion.com/films/377-sisters",
+   "director": "Brian De Palma",
+   "country": "United States,",
+   "year": "1973",
+   "spine": "89"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/4417-5991a3007927be7008a05f5dbdec8022/P_original.jpg",
+   "title": "Slacker",
+   "title_url": "https://www.criterion.com/films/408-slacker",
+   "director": "Richard Linklater",
+   "country": "United States,",
+   "year": "1991",
+   "spine": "247"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/abc042b0667e59fd0d7bcba210f7846e.jpeg",
+   "title": "Solaris",
+   "title_url": "https://www.criterion.com/films/553-solaris",
+   "director": "Andrei Tarkovsky",
+   "country": "Soviet Union,",
+   "year": "1972",
+   "spine": "164"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/60384fcfb94f1d19491dd9fd16d9d4d3.jpeg",
+   "title": "Stranger Than Paradise",
+   "title_url": "https://www.criterion.com/films/252-stranger-than-paradise",
+   "director": "Jim Jarmusch",
+   "country": "United States,",
+   "year": "1984",
+   "spine": "400"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/400d0fa1a175a8e8a2acbe1597f85535.jpeg",
+   "title": "Straw Dogs",
+   "title_url": "https://www.criterion.com/films/730-straw-dogs",
+   "director": "Sam Peckinpah",
+   "country": "United States,",
+   "year": "1971",
+   "spine": "182"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5055-4a8f6a1df69fddd626732924523529dc/SweetMovie_original.jpg",
+   "title": "Sweet Movie",
+   "title_url": "https://www.criterion.com/films/552-sweet-movie",
+   "director": "Dušan Makavejev",
+   "country": "France,",
+   "year": "1974",
+   "spine": "390"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5871-715b9051ea7b53ccfe5a170c2e1d2633/Film_360w_Symbiopsychotaxiplasm_original.jpg",
+   "title": "Symbiopsychotaxiplasm",
+   "title_url": "https://www.criterion.com/films/751-symbiopsychotaxiplasm",
+   "director": "William Greaves",
+   "country": "United States,",
+   "year": "1968",
+   "spine": "360"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131983-a5d8b57d9597230f83e68587193eb56e/Film_37w_TimeBandits_original.jpg",
+   "title": "Time Bandits",
+   "title_url": "https://www.criterion.com/films/232-time-bandits",
+   "director": "Terry Gilliam",
+   "country": "United Kingdom,",
+   "year": "1981",
+   "spine": "37"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/81084625d38b11e5f7738e83ace23c3e.jpeg",
+   "title": "True Stories",
+   "title_url": "https://www.criterion.com/films/29038-true-stories",
+   "director": "David Byrne",
+   "country": "United States,",
+   "year": "1986",
+   "spine": "951"
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ebd2aae31702809088dc357ed2318ce2.jpeg",
+   "title": "Twin Peaks: Fire Walk with Me",
+   "title_url": "https://www.criterion.com/films/29237-twin-peaks-fire-walk-with-me",
+   "director": "David Lynch",
+   "country": "United States,",
+   "year": "1992",
+   "spine": "898"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/10497-abd8f9dbeb215f33364e351918908cae/Twolane_w_original.jpg",
+   "title": "Two-Lane Blacktop",
+   "title_url": "https://www.criterion.com/films/847-two-lane-blacktop",
+   "director": "Monte Hellman",
+   "country": "United States,",
+   "year": "1971",
+   "spine": "414"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/131930-e2fa85501a616533ebb43faabeefa624/Downey_Filmw_Turquoise_original.jpg",
+  	"title": "Two Tons of Turquoise to Taos Tonight",
+  	"director": "Robert Downey Sr."
+  },
+  {
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c341b2688bc388d6e7e1fbe56c0a5438.jpeg",
+   "title": "Until the End of the World",
+   "title_url": "https://www.criterion.com/films/28767-until-the-end-of-the-world",
+   "director": "Wim Wenders",
+   "country": "Germany,",
+   "year": "1991",
+   "spine": "1007"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132291-5dbb547af90df1dc979557332f337b74/Film_761_ValerieWeekWonders_original.jpg",
+   "title": "Valerie and Her Week of Wonders",
+   "title_url": "https://www.criterion.com/films/27860-valerie-and-her-week-of-wonders",
+   "director": "Jaromil Jireš",
+   "country": "Czechoslovakia,",
+   "year": "1970",
+   "spine": "761"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132375-8ca1954fa7fb90aedebeaeef7a3bdbf4/Film_835_ValleyOfDolls_original.jpg",
+   "title": "Valley of the Dolls",
+   "title_url": "https://www.criterion.com/films/28577-valley-of-the-dolls",
+   "director": "Mark Robson",
+   "country": "United States,",
+   "year": "1967",
+   "spine": "835"
+  },
+  {
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131313-85c510ee11d4bab79ba9b05cae07c41a/Film_248w_Videodrome_original.jpg",
+   "title": "Videodrome",
+   "title_url": "https://www.criterion.com/films/240-videodrome",
+   "director": "David Cronenberg",
+   "country": "Canada,",
+   "year": "1983",
+   "spine": "248"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/5711-a68daf55ce4e2eb8e27ce884824dcc7f/Film_423w_Walker_original.jpg",
+  	"title": "Walker",
+  	"director": "Alex Cox"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/9913-790f71c1048a9e18ca7b5034f3c74a79/WhiteDogw_original.jpg",
+  	"title": "White Dog",
+  	"director": "Samuel Fuller"
+  },
+  {
+    "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e992f9d92c1286f5e795c19c0e476848.jpeg",
+    "title": "Wild 90",
+    "director": "Norman Mailer",
+    "spine": "e35"
+  },
+  {
+  	"image": "https://s3.amazonaws.com/criterion-production/stills/8029-bb8e9f84ee1574568e1782345441c691/PollyMagoo_2_original.jpg",
+  	"title": "Who Are You, Polly Maggoo?",
+  	"director": "William Klein"
+  },
+  {
+  	"image": "http://s3.amazonaws.com/criterion-production/stills/132027-3f4afca59f3766d4cef389c08d6e76ef/ShochikuHorror_Filmw_XOuterSpace_original.jpg",
+  	"title": "The X from Outer Space",
+  	"director": "Kazui Nihonmatsu"
+  }
+ ]
+}
