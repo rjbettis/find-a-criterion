@@ -1,0 +1,76 @@
+{
+ "british_realism": [
+  {
+   "title": "Fish Tank",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/5519a2c7b16fede2f22048baabc7273f.jpeg",
+   "director": "Andrea Arnold",
+   "spine": "553"
+  },
+  {
+   "title": "I, Daniel Blake",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6e64c351c1cf563f5ab5562f8c78481a.jpeg",
+   "director": "Ken Loach",
+   "spine": "906"
+  },
+  {
+   "title": "Kes",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/08b8859a5acb62d678bef6717d2cd8ea.jpeg",
+   "director": "Ken Loach",
+   "spine": "561"
+  },
+  {
+   "title": "Life Is Sweet",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e71d4dce79a7a17378c07c733b634c31.jpeg",
+   "director": "Mike Leigh",
+   "spine": "659"
+  },
+  {
+   "title": "Meantime",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/59005a4ecead92d87a9c10221a927878.jpeg",
+   "director": "Mike Leigh",
+   "spine": "890"
+  },
+  {
+   "title": "Naked",
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/a97e99867460a8ad19cb3fe2296e9a0a.jpeg",
+   "director": "Mike Leigh",
+   "spine": "307"
+  },
+  {
+   "title": "Ratcatcher",
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/efc69b096e97102221414adf67cb2f10.jpeg",
+   "director": "Lynne Ramsay",
+   "spine": "162"
+  },
+  {
+   "title": "Sunday Bloody Sunday",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4b375fc9e11fa42ef6c2c09a53330d76.jpeg",
+   "director": "John Schlesinger",
+   "spine": "629"
+  },
+  {
+   "title": "A Taste of Honey",
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/5df6e86a96635c9e56d9c4ec1dc4f848.jpeg",
+   "director": "Tony Richardson",
+   "spine": "829"
+  }, 
+  {
+   "title": "This Sporting Life",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1edef5166a771308afb3dff7358caf8.jpeg",
+   "director": "Lindsay Anderson",
+   "spine": "417"
+  },
+  {
+    "title": "Victim",
+    "image": "https://criterion-production.s3.amazonaws.com/carousel-files/dfd37e34d7fd338de14b1cf67138f60c.jpeg",
+    "director": "Basil Dearden",
+    "spine": ""
+   },
+  {
+   "title": "Weekend",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/09d7561b0ff98cf67585e97dd17fe8b4.jpeg",
+   "director": "Andrew Haigh",
+   "spine": "622"
+  }
+ ]
+}

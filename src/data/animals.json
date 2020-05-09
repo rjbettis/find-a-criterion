@@ -1,0 +1,106 @@
+{
+  "animals": [
+    {
+      "title": "Androcles and the Lion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/51975-930de8a6d4fa87d85f0587e6b92a0988/Shaw_box_film_Andronocles_w320.jpg",
+      "director": "Chester Erskine",
+      "spine": ""
+    },
+    {
+      "title": "Au hasard Balthazar",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132109-e5f697b6ea822a3b41660e2cdb6b0308/Au_hasard_Balthazar_Film_w320.jpg",
+      "director": "Robert Bresson",
+      "spine": "297"
+    },
+    {
+      "title": "The Black Stallion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132295-c1b848626e1ae5a1b2aed20d5cddcbd7/Film_765_BlackStallion_w320.jpg",
+      "director": "Carroll Ballard",
+      "spine": "765"
+    },
+    {
+      "title": "Cat People",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132373-d8ea520d0f738526cd5d5ed50ac32f0c/Film_833_CatPeople_w320.jpg",
+      "director": "Jacques Tourneur",
+      "spine": "833"
+    },
+    {
+      "title": "Elephant Boy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131353-62aead523027a634e8fa656e170aeab4/Sabu_Filmw_ElephantBoy_w320.jpg",
+      "director": "Robert Flaherty and Zoltán Korda",
+      "spine": ""
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132216-41dc81dab5923314b908d1c3a7e037aa/Film_700w_FantasticFox_w320.jpg",
+      "director": "Wes Anderson",
+      "spine": "700"
+    },
+    {
+      "title": "Heart of a Dog",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d0300ccd38470d97c444c098150428d3.jpeg",
+      "director": "Laurie Anderson",
+      "spine": "846"
+    },
+    {
+      "title": "House",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130177-5b40dbf6b529a3b5ae3f8862c27945d1/Film_539w_House_w320.jpg",
+      "director": "Nobuhiko Obayashi",
+      "spine": "539"
+    },
+    {
+      "title": "Junlge Book",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131369-cad64bff99ff80038d5c2d9593434ef4/Sabu_Filmw_JungleBook_w320.jpg",
+      "director": "Zoltán Korda",
+      "spine": "e30"
+    },
+    {
+      "title": "Kes",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130785-e47df9bafe2ac5ad4edd1a70328028af/Film_561w_Kes_w320.jpg",
+      "director": "Ken Loach",
+      "spine": "561"
+    },
+    {
+      "title": "Koko: A Talking Gorilla",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5961-e5fe0ed77a48d6ffe16ecac83d997807/Film_340w_KoKo_w320.jpg",
+      "director": "Barbet Schroeder",
+      "spine": "340"
+    },
+    {
+      "title": "Pigs and Battleships",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6dc46977af83d6498662ee41041961e0.jpeg",
+      "director": "Shohei Imamura",
+      "spine": "472"
+    },
+    {
+      "title": "Robinson Crusoe on Mars",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7493-93c9127ab036460b7515aee64f31585b/Film_404w_RobinsonCrusoe_w320.jpg",
+      "director": "Byron Haskin",
+      "spine": "404"
+    },
+    {
+      "title": "Science Is Fiction: 23 Films by Jean Painlevé",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/19167-5d9fd5dfce45ba72e7c2080dbf885370/painleve_octopus_still_w320.jpg",
+      "director": "Jean Painlevé",
+      "spine": "468"
+    },
+    {
+      "title": "Watership Down",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132275-8237ae69709293121319d521854cc70f/Film_748w_WatershipDown_w320.jpg",
+      "director": "Martin Rosen",
+      "spine": "748"
+    },
+    {
+      "title": "White Dog",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9913-790f71c1048a9e18ca7b5034f3c74a79/WhiteDogw_w320.jpg",
+      "director": "Samuel Fuller",
+      "spine": "455"
+    },
+    {
+      "title": "White Mane",
+      "image": "https://web.archive.org/save/_embed/https://criterion-production.s3.amazonaws.com/carousel-files/3d78b319774009a673eddafd599fa438.jpeg",
+      "director": "Albert Lamorisse",
+      "spine": ""
+    }
+  ]
+}

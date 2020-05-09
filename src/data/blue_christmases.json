@@ -1,0 +1,100 @@
+{
+ "blue_christmases": [
+  {
+   "title": "All That Heaven Allows",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132234-9a22ebe06e2e9fa6755cfea691234fe2/Film_95w_AllHeavenAllows_original.jpg",
+   "director": "Douglas Sirk",
+   "spine": "95"
+  },
+  {
+   "title": "Black Narcissus",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130649-e19d5bf2a7de578348700be2beccbdb5/Film_93w_BlackNarcissusC_original.jpg",
+   "director": "Michael Powell and Emeric Pressburger",
+   "spine": "93"
+  },
+  {
+   "title": "Blast of Silence",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130137-6ad61473a9e2db02798baba8c3d14119/Film_42bw_BlastOfSilence_bw_original.jpg",
+   "director": "Allen Baron",
+   "spine": "428"
+  },
+  {
+   "title": "Brazil",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130569-e2efeddb361ebd1b5d2502d0efba4309/Film_51w_Brazil_original.jpg",
+   "director": "Terry Gilliam",
+   "spine": "51"
+  },
+  {
+   "title": "A Christmas Tale",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/55335-489f8c27daf16f32472f9bc5dfd73b9e/A_CHRISTMAS_TALE_still_original.jpg",
+   "director": "Arnaud Desplechin",
+   "spine": "492"
+  },
+  {
+   "title": "Fanny and Alexander: Television Version",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/57991-a60baf0ef0310b42e733b18451219754/FANNY_ALEXANDER_xmas_filmstill_2_original.jpg",
+   "director": "Ingmar Bergman",
+   "spine": "262"
+  },
+  {
+   "title": "Fanny and Alexander: Theatrical Version",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6233-4189d4d85ce3dff1fb1c94d165372d7b/Film_262w_FannyAlexTelevision_original.jpg",
+   "director": "Ingmar Bergman",
+   "spine": "263"
+  },
+  {
+   "title": "The Long Day Closes",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132213-ded979b004565ed61507779c9a5e229b/Film_694w_LongDayCloses_original.jpg",
+   "director": "Terence Davies",
+   "spine": "694"
+  },
+  {
+   "title": "Make Way for Tomorrow",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/76047-78b0d15ae71c0bcae8bb1f2c169fb6b0/MAKEWAYFORTOMORROW_filmstill_new_original.jpg",
+   "director": "Leo McCarey",
+   "spine": "505"
+  },
+  {
+   "title": "Merry Christmas Mr. Lawrence",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129617-6e3d1f9deaa69bbbfd567568bbb9f829/Film_535w_MerryXmasLawrence_original.jpg",
+   "director": "Nagisa Oshima",
+   "spine": "535"
+  },
+  {
+   "title": "Metropolitan",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6031-b844a95b57a9d14b588ec5256b0c2371/Film_326w_Metropolis_original.jpg",
+   "director": "Whit Stillman",
+   "spine": "326"
+  },
+  {
+   "title": "Mon oncle Antoine",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5613-cb1eadad1706fa35460b3a3d5d39c851/Film_438w_MonOncleAntoine_original.jpg",
+   "director": "Claude Jutra",
+   "spine": "438"
+  },
+  {
+    "title": "Morning for the Osone Family",
+    "image": "http://s3.amazonaws.com/criterion-production/stills/132264-19f69084830fafec41a5980679080721/Film_Eclipse_MorningOsone_original.jpg",
+    "director": "Keisuke Kinoshita",
+    "spine": ""
+   },
+  {
+   "title": "My Night at Maud’s",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5927-c96bc9d1b542453686c4b3b1fc88f820/Film_345w_MyNightMauds_original.jpg",
+   "director": "Eric Rohmer",
+   "spine": "345"
+  },
+  {
+   "title": "The Night of the Hunter",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130297-d9dcb2133ffb4707f1c26bf771d69d93/NIGHT-OF-THE-HUNTER_new-film-still_original.jpg",
+   "director": "Charles Laughton",
+   "spine": "541"
+  },
+  {
+   "title": "Pandora’s Box",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/7707-7e684fba5d4efb10058f1a44a0862e32/Film_358w_PandorasBox_original.jpg",
+   "director": "G. W. Pabst",
+   "spine": "358"
+  }
+ ]
+}

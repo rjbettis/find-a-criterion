@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Media from 'react-bootstrap/Media';
 import combinedJson from './Combined';
 
-export class IndividualTheme extends Component {
+export class GetTheme extends Component {
   state = {
     films: [],
   };
@@ -15,6 +15,20 @@ export class IndividualTheme extends Component {
       this.setState({ films: combinedJson.america_america });
     } else if (this.props.currentJsonObject === 'french_new_wave') {
       this.setState({ films: combinedJson.french_new_wave });
+    } else if (this.props.currentJsonObject === 'amour_fou') {
+      this.setState({ films: combinedJson.amour_fou });
+    } else if (this.props.currentJsonObject === 'animals') {
+      this.setState({ films: combinedJson.animals });
+    } else if (this.props.currentJsonObject === 'avant_garde') {
+      this.setState({ films: combinedJson.avant_garde });
+    } else if (this.props.currentJsonObject === 'blue_christmases') {
+      this.setState({ films: combinedJson.blue_christmases });
+    } else if (this.props.currentJsonObject === 'british_realism') {
+      this.setState({ films: combinedJson.british_realism });
+    } else if (this.props.currentJsonObject === 'cannes_big_winners') {
+      this.setState({ films: combinedJson.cannes_big_winners });
+    } else if (this.props.currentJsonObject === 'classic_hollywood') {
+      this.setState({ films: combinedJson.classic_hollywood });
     }
 
     this.setState({
@@ -78,4 +92,4 @@ export class IndividualTheme extends Component {
   }
 }
 
-export default IndividualTheme;
+export default GetTheme;
