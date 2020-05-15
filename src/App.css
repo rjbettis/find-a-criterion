@@ -1,33 +1,15 @@
-.card-style {
-  background: #cecdcd;
-  cursor: pointer;
-  border-radius: 0;
-  border: none;
+.resize {
+  width: 90%;
 }
-.theme-card-style {
-  background: #cecdcd;
+
+.explore-imgtitle-style {
+  background: #ebebeb;
   border-radius: 0;
   border: none;
 }
 
-.explore-card-style {
-  background: #ebebeb;
-  cursor: pointer;
-  border-radius: 0;
-  border: none;
-}
-
-.explore-title-card-style {
-  background: #ebebeb;
-  cursor: pointer;
-  border-radius: 0;
-  border: none;
+.explore-image-resize {
   width: 80%;
-}
-
-.card-title {
-  font-size: 15px;
-  font-weight: bold;
 }
 
 .explore-card-title {
@@ -35,8 +17,39 @@
   font-weight: bold;
 }
 
+/*Theme Page*/
+.theme-card-title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
 .card-text {
   font-size: 13px;
+}
+
+.theme-card-style {
+  background: #cecdcd;
+  border-radius: 0;
+  border: none;
+}
+
+.movie-title {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.movie-card-text {
+  font-size: 13px;
+}
+
+.movie-director {
+  font-size: 13px;
+}
+
+.card-style {
+  background: #cecdcd;
+  border-radius: 0;
+  border: none;
 }
 
 .heading-style {
@@ -51,4 +64,12 @@ body {
 .breadcrumb {
   background-color: #ebebeb;
   border-radius: 0;
+}
+
+a {
+  color: #2f7da6 !important;
+}
+
+a:hover {
+  color: #335870 !important;
 }

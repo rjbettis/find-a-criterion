@@ -59,44 +59,51 @@
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/424-c3b8770787d0c42f31f6e02dfe580da9/explorecomedy_original.jpg",
       "title": "Comedies",
-      "link": "CultMovies",
-      "json": ""
+      "link": "Comedies",
+      "json": "comedies",
+      "summary": "From the sparkling witticisms of the golden age of Hollywood comedy to some of the best in contemporary wisecracks, Criterion has a satisfying selection of cinema’s biggest laughs. Longing for the Lubitsch touch? We’ve got you covered. Wondering “O Sturges, where art thou?” Look no further. Want to purchase a one-way ticket to Tativille? Step right this way. Want to split your sides with some Ozu? Uh . . . okay. Whether satire or slapstick, eliciting giggles or guffaws, a vast array of farcical flicker shows await you. It’s enough to make even the sourest cinephile smile."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/460-96fadaa8da02f8f673e15fd2531b28e2/explore586_137_original.jpg",
       "title": "Compare and Contrast",
-      "link": "CultMovies",
-      "json": ""
+      "link": "CompareAndContrast",
+      "json": "compare_and_contrast",
+      "summary": "For some of our releases, one take is not enough. A number of Criterion titles feature as supplements some kind of alternate version of the main event, whether it’s a different cut (Terry Gilliam’s Brazil includes the infamous, unreleased, studio-edited “Love Conquers All” version of the film); an iteration in a different language for foreign audiences (as with our editions of Visconti’s Senso and The Leopard, in which you can see and hear their American stars delivering their lines in English); an original short that was the basis for the feature (Bottle Rocket); earlier or later versions of the same story by entirely different filmmakers (the mammoth 1980 Berlin Alexanderplatz comes with the ninety-minute 1931 adaptation of the source novel); the original book or novella in its entirety (The Earrings of Madame de . . .’s source novel, Madame de, by Louise de Vilmorin, in the release booklet); or a radio adaptation (My Man Godfrey, The 39 Steps)."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/1-071cd2004e5e0e1bc13fdd5b22620d56/explore_horror_original.jpg",
       "title": "Cult Movies",
       "link": "CultMovies",
-      "json": ""
+      "json": "cult_movies",
+      "summary": "Though many drive-ins have been shut down, and the practice of screening midnight movies in theaters has waned considerably from its heyday in the early 1970s, the thrill of sharing boundary-testing films in the dark can now be enjoyed just as well while curled up on the couch—no accompanying cult required. From the whiff of exploitation emanating from Roger Vadim’s sensational And God Created Woman to the touch of snuff in Michael Powell’s voyeuristic Peeping Tom, these films delicately ride the line between pulp and art, always landing firmly in the latter camp. Who better to challenge cinematic standards than Samuel Fuller, with his unforgettable B melodramas Shock Corridor and The Naked Kiss, or Brian De Palma, whose wonderfully nasty Sisters ushered in a new era of thrilling post-Hitchcock stylish excess? These films stubbornly refuse to be marginalized, lower budgets and lack of Hollywood gloss be damned."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/628-f0724ff9c1ba36d2d21fd7fccb5923e6/thinred_original.jpg",
       "title": "Cut!",
-      "link": "CultMovies",
-      "json": ""
+      "link": "Cut",
+      "json": "cut",
+      "summary": "The Criterion Collection aims not only to curate a selection of important films from around the world but also, through the supplemental materials included in our releases, to enhance the viewer’s understanding of movies by shedding light on the filmmaking process itself. One of the most revealing and entertaining ways to interpret what we see on-screen is to get a glimpse of what didn’t make it there. Below, explore our many releases that include deleted scenes and outtakes, some of them—such as those included on our editions of Charles Laughton’s The Night of the Hunter and Terrence Malick’s The Thin Red Line—quite rare."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/73-6a0038a34d9b0aed3a644fff0607b019/Docs_w_original.jpg",
       "title": "Documentaries",
-      "link": "CultMovies",
-      "json": ""
+      "link": "Documentaries",
+      "json": "documentaries",
+      "summary": "“Life caught unawares”—that’s how Soviet filmmaker Dziga Vertov expressed the principle and art of documentary in the 1930s. But the documentary has taken so many forms over the past century that it would be oversimplifying to call it merely the recording of reality. From its anthropological origins in the works of Robert Flaherty, the documentary has come to encompass Soviet and fascist propaganda of the thirties; the Direct Cinema and cinema verité of the sixties; the populist social-reform tradition of today; and so much more. What all great documentaries have in common is the ability to capture a place and time so vividly as to equal the imagery and storytelling of the best fiction."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/331-ec7c2cb4fe4fe2647a264dfc5ba69c3f/suburbia_original.jpg",
       "title": "Dysfunctional Families",
-      "link": "CultMovies",
-      "json": ""
+      "link": "DysfunctionalFamilies",
+      "json": "dysfunctional_families",
+      "summary": "To paraphrase Tolstoy, happy families are all alike: they’re really boring to watch on-screen. Thus, cinema is besotted with deliciously unhappy families. Below, scan Criterion’s collection of miserable moms, depressed dads, and their sullen offspring, nestled as uncomfortably in the houses and yards of the suburbs of Connecticut as in the apartments of the side streets of Paris."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/334-2c50998e355c85b1643b7e80c803d324/Faith_original.jpg",
       "title": "Faith on Film",
-      "link": "CultMovies",
-      "json": ""
+      "link": "FaithOnFilm",
+      "json": "faith_on_film",
+      "summary": "Joyful professions of belief, self-flagellating admissions of guilt, and heretical abnegations of religion seem to sit alongside one another a bit more easily on the shelves of cinephiles than they do in the world at large. This list includes some films that engage matters of faith as their raison d’etre and others that deal with them more glancingly or derisively, but taken as a whole, it underlines both the compulsion of humankind to ask itself the eternal questions and the paradoxical power of a visual medium to capture the intangible."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/361-7e4801f35bc19b47ae4e9c770462ec76/SS_original.jpg",

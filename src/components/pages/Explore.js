@@ -4,6 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Row from 'react-bootstrap/Row';
 import Card from 'react-bootstrap/Card';
+import { Link } from 'react-router-dom';
 
 export class Explore extends Component {
   state = { explore: [] };
@@ -20,36 +21,27 @@ export class Explore extends Component {
         </Breadcrumb>
         <Row>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card
-              className={'explore-card-style'}
-              onClick={() => window.open('/Top10', '_self')}
-            >
+            <Card className={'explore-imgtitle-style'}>
               <Card.Img
-                className={'explore-title-card-style'}
+                className={'explore-image-resize'}
                 variant="top"
                 src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_top10s-7488ae81b11d7a6be9cb710b12ac1c61.gif"
               />
             </Card>
           </Col>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card
-              className={'explore-card-style'}
-              onClick={() => window.open('/People', '_self')}
-            >
+            <Card className={'explore-imgtitle-style'}>
               <Card.Img
-                className={'explore-title-card-style'}
+                className={'explore-image-resize'}
                 variant="top"
                 src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif"
               />
             </Card>
           </Col>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card
-              className={'explore-card-style'}
-              onClick={() => window.open('/Themes', '_self')}
-            >
+            <Card className={'explore-imgtitle-style'}>
               <Card.Img
-                className={'explore-title-card-style'}
+                className={'explore-image-resize'}
                 variant="top"
                 src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif"
               />
@@ -58,10 +50,7 @@ export class Explore extends Component {
         </Row>
         <Row>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card
-              className={'card-style my-3'}
-              onClick={() => window.open('/Top10', '_self')}
-            >
+            <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
@@ -69,7 +58,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  {'Explore Top 10 lists'}
+                  <Link to="/Explore/Top10">{'Explore Top 10 lists'}</Link>
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Every month, we ask a friend—a filmmaker, a programmer, a
@@ -83,10 +72,7 @@ export class Explore extends Component {
             </Card>
           </Col>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card
-              className={'card-style my-3'}
-              onClick={() => window.open('/People', '_self')}
-            >
+            <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
@@ -94,7 +80,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  {'Explore People'}
+                  <Link to="/Explore/People">{'Explore People'}</Link>
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Robert Bresson, Federico Fellini, Jean-Luc Godard, Akira
@@ -107,10 +93,7 @@ export class Explore extends Component {
             </Card>
           </Col>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card
-              className={'card-style my-3'}
-              onClick={() => window.open('/Themes', '_self')}
-            >
+            <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
@@ -118,7 +101,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  {'Explore Themes'}
+                  <Link to="Explore/Themes">{'Explore Themes'}</Link>
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Ever wonder just what is meant by "poetic realism," "New

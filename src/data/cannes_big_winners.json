@@ -1,142 +1,142 @@
 {
- "cannes_big_winners": [
-  {
-   "title": "All About My Mother",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c0f22575fc51319b15abf9b126966fe7.jpeg",
-   "director": "Pedro Almodóvar",
-   "spine": "1012"
-  },
-  {
-   "title": "All That Jazz",
-   "image": "https://web.archive.org/web/20170508115020im_/https://s3.amazonaws.com/criterion-production/stills/132243-69de9e679d2a31f73410b441dae88e98/Film_724w_AllThatJazz_original.jpg",
-   "director": "Bob Fosse",
-   "spine": "724"
-  },
-  {
-   "title": "Black Orpheus",
-   "image": "https://web.archive.org/web/20170429175401im_/https://s3.amazonaws.com/criterion-production/stills/129593-0e9fb5b7bd609e4ba8f8cd2fa8d67c42/Film_48w_BlackOrhpeus_original.jpg",
-   "director": "Marcel Camus",
-   "spine": "48"
-  },
-  {
-   "title": "Blue Is the Warmest Color",
-   "image": "https://web.archive.org/web/20170508125717im_/https://s3.amazonaws.com/criterion-production/stills/132215-ce0ff40b7536c12bc8769f024a6efe52/Film_695_BlueIsWarmestColor_original.jpg",
-   "director": "Abdellatif Kechiche",
-   "spine": "695"
-  },
-  {
-   "title": "The Cranes Are Flying",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132141-7a618069dfdc0e7e568fb642f748db71/Film_146w_CranesAreFlying_original.jpg",
-   "director": "Mikhail Kalatozov",
-   "spine": "146"
-  },
-  {
-   "title": "Death in Venice",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a6efeaa58c7ad5a1cdba9fada2dae950.jpeg",
-   "director": "Luchino Visconti",
-   "spine": "962"
-  },
-  {
-   "title": "Dheepan",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132415-7fa4057ac68bba9ea3e627a3fc002aac/Film__871_Dheephan_original.jpg",
-   "director": "Jacques Audiard",
-   "spine": "871"
-  },
-  {
-   "title": "La dolce vita",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132254-eede065a2b9f5cdebf18fd0fc48094e9/Film_733w_LaDolceVita_original.jpg",
-   "director": "Federico Fellini",
-   "spine": "733"
-  },
-  {
-   "title": "Gate of Hell",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132134-543377897a79f8bb08dc1166af4f29e7/Gate_of_Hell_Film_Page_original.jpg",
-   "director": "Teinosuke Kinugasa",
-   "spine": "653"
-  },
-  {
-   "title": "I, Daniel Blake",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4c01c8b08c9514445c54d6ec92d63d4e.jpeg",
-   "director": "Ken Loach",
-   "spine": "906"
-  },
-  {
-   "title": "If....",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/7557-f9240c6837bc576d73366c0642d935c4/Film_391w_If_original.jpg",
-   "director": "Lindsay Anderson",
-   "spine": "391"
-  },
-  {
-   "title": "Kagemusha",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6637-afa31d8b86e9268c7eb5fb7f47bb2456/Film_267w_Kagemusha_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "267"
-  },
-  {
-   "title": "The Leopard",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129681-583e0a0d9bd09d9129b680d2dd8ac428/THE-LEOPARD-new-film-still_original.jpg",
-   "director": "Luchino Visconti",
-   "spine": "235"
-  },
-  {
-   "title": "Miss Julie",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6403-c38edcb3aceb201904446f09d9b5ad35/Film_416w_MissJulieA_original.jpg",
-   "director": "Alf Sjöberg",
-   "spine": "416"
-  },
-  {
-   "title": "Missing",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/5783-79f33386fd251d2f7424b4f180abfdbe/Film_449w_Missing_original.jpg",
-   "director": "Costa-Gavras",
-   "spine": "449"
-  },
-  {
-   "title": "Paris, Texas",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/47943-3babd9e999462a6ef176192b5db4e73e/Film_501w_ParisTexas_original.jpg",
-   "director": "Wim Wenders",
-   "spine": "501"
-  },
-  {
-   "title": "Rosetta",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132040-ffa17e2fe86926609edca34ed5639af4/Rosetta_Film_Current_original.jpg",
-   "director": "Luc Dardenne…",
-   "spine": "621"
-  },
-  {
-   "title": "Taste of Cherry",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130561-5b5ae2ee0eb61c135a218c6f8a9a1c5b/Film_45w_TasteOfCherry_original.jpg",
-   "director": "Abbas Kiarostami",
-   "spine": "45"
-  },
-  {
-   "title": "The Tin Drum",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_original.jpg",
-   "director": "Volker Schlöndorff",
-   "spine": "234"
-  },
-  {
-    "title": "The Third Man",
-    "image": "https://s3.amazonaws.com/criterion-production/stills/130593-03a529d03160621c47e156a95bce26f0/Flim_64w_ThirdMan_original.jpg",
-    "director": "Carol Reed",
-    "spine": "64"
-   },
-  {
-   "title": "The Umbrellas of Cherbourg",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132239-18ca14a1b5b085e2f5a16f383efe0a54/Film_716_Umbrellas_original.jpg",
-   "director": "Jacques Demy",
-   "spine": "716"
-  },
-  {
-   "title": "Viridiana",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129857-953051f7ba7e721a2146632e300167b4/P-VIRIDIANA_original.jpg",
-   "director": "Luis Buñuel",
-   "spine": "332"
-  },
-  {
-   "title": "The Wages of Fear",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129825-79c64f221071cf65feb46fed0d01a176/Film_36w_WagesFear_original.jpg",
-   "director": "Henri-Georges Clouzot",
-   "spine": "36"
-  }
- ]
+  "cannes_big_winners": [
+    {
+      "title": "All About My Mother",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c0f22575fc51319b15abf9b126966fe7.jpeg",
+      "director": "Pedro Almodóvar",
+      "spine": "1012"
+    },
+    {
+      "title": "All That Jazz",
+      "image": "https://web.archive.org/web/20170508115020im_/https://s3.amazonaws.com/criterion-production/stills/132243-69de9e679d2a31f73410b441dae88e98/Film_724w_AllThatJazz_original.jpg",
+      "director": "Bob Fosse",
+      "spine": "724"
+    },
+    {
+      "title": "Black Orpheus",
+      "image": "https://web.archive.org/web/20170429175401im_/https://s3.amazonaws.com/criterion-production/stills/129593-0e9fb5b7bd609e4ba8f8cd2fa8d67c42/Film_48w_BlackOrhpeus_original.jpg",
+      "director": "Marcel Camus",
+      "spine": "48"
+    },
+    {
+      "title": "Blue Is the Warmest Color",
+      "image": "https://web.archive.org/web/20170508125717im_/https://s3.amazonaws.com/criterion-production/stills/132215-ce0ff40b7536c12bc8769f024a6efe52/Film_695_BlueIsWarmestColor_original.jpg",
+      "director": "Abdellatif Kechiche",
+      "spine": "695"
+    },
+    {
+      "title": "The Cranes Are Flying",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132141-7a618069dfdc0e7e568fb642f748db71/Film_146w_CranesAreFlying_original.jpg",
+      "director": "Mikhail Kalatozov",
+      "spine": "146"
+    },
+    {
+      "title": "Death in Venice",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a6efeaa58c7ad5a1cdba9fada2dae950.jpeg",
+      "director": "Luchino Visconti",
+      "spine": "962"
+    },
+    {
+      "title": "Dheepan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132415-7fa4057ac68bba9ea3e627a3fc002aac/Film__871_Dheephan_original.jpg",
+      "director": "Jacques Audiard",
+      "spine": "871"
+    },
+    {
+      "title": "La dolce vita",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132254-eede065a2b9f5cdebf18fd0fc48094e9/Film_733w_LaDolceVita_original.jpg",
+      "director": "Federico Fellini",
+      "spine": "733"
+    },
+    {
+      "title": "Gate of Hell",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132134-543377897a79f8bb08dc1166af4f29e7/Gate_of_Hell_Film_Page_original.jpg",
+      "director": "Teinosuke Kinugasa",
+      "spine": "653"
+    },
+    {
+      "title": "I, Daniel Blake",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4c01c8b08c9514445c54d6ec92d63d4e.jpeg",
+      "director": "Ken Loach",
+      "spine": "906"
+    },
+    {
+      "title": "If....",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7557-f9240c6837bc576d73366c0642d935c4/Film_391w_If_original.jpg",
+      "director": "Lindsay Anderson",
+      "spine": "391"
+    },
+    {
+      "title": "Kagemusha",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6637-afa31d8b86e9268c7eb5fb7f47bb2456/Film_267w_Kagemusha_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "267"
+    },
+    {
+      "title": "The Leopard",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129681-583e0a0d9bd09d9129b680d2dd8ac428/THE-LEOPARD-new-film-still_original.jpg",
+      "director": "Luchino Visconti",
+      "spine": "235"
+    },
+    {
+      "title": "Miss Julie",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6403-c38edcb3aceb201904446f09d9b5ad35/Film_416w_MissJulieA_original.jpg",
+      "director": "Alf Sjöberg",
+      "spine": "416"
+    },
+    {
+      "title": "Missing",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5783-79f33386fd251d2f7424b4f180abfdbe/Film_449w_Missing_original.jpg",
+      "director": "Costa-Gavras",
+      "spine": "449"
+    },
+    {
+      "title": "Paris, Texas",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47943-3babd9e999462a6ef176192b5db4e73e/Film_501w_ParisTexas_original.jpg",
+      "director": "Wim Wenders",
+      "spine": "501"
+    },
+    {
+      "title": "Rosetta",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132040-ffa17e2fe86926609edca34ed5639af4/Rosetta_Film_Current_original.jpg",
+      "director": "Luc Dardenne…",
+      "spine": "621"
+    },
+    {
+      "title": "Taste of Cherry",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130561-5b5ae2ee0eb61c135a218c6f8a9a1c5b/Film_45w_TasteOfCherry_original.jpg",
+      "director": "Abbas Kiarostami",
+      "spine": "45"
+    },
+    {
+      "title": "The Tin Drum",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_original.jpg",
+      "director": "Volker Schlöndorff",
+      "spine": "234"
+    },
+    {
+      "title": "The Third Man",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130593-03a529d03160621c47e156a95bce26f0/Flim_64w_ThirdMan_original.jpg",
+      "director": "Carol Reed",
+      "spine": "64"
+    },
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132239-18ca14a1b5b085e2f5a16f383efe0a54/Film_716_Umbrellas_original.jpg",
+      "director": "Jacques Demy",
+      "spine": "716"
+    },
+    {
+      "title": "Viridiana",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129857-953051f7ba7e721a2146632e300167b4/P-VIRIDIANA_original.jpg",
+      "director": "Luis Buñuel",
+      "spine": "332"
+    },
+    {
+      "title": "The Wages of Fear",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129825-79c64f221071cf65feb46fed0d01a176/Film_36w_WagesFear_original.jpg",
+      "director": "Henri-Georges Clouzot",
+      "spine": "36"
+    }
+  ]
 }

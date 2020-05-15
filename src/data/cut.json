@@ -1,0 +1,406 @@
+{
+  "cut": [
+    {
+      "title": "À nous la liberté",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7957-3f18eccf5b0919adc49d6dcfae08e6a9/Film_160w_ANosLiberte_w320.jpg",
+      "director": "René Clair"
+    },
+    {
+      "title": "Amarcord",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130433-2d19232214a50449422f47c33cda9b79/Film_4w_Amarcord_A_w320.jpg",
+      "director": "Federico Fellini"
+    },
+    {
+      "title": "An Angel at My Table",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6207-e2ef78849b91f7e355298cd36132c886/Film_301w_AngelAtTable_w320.jpg",
+      "director": "Jane Campion"
+    },
+    {
+      "title": "Arabian Nights",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132013-94372a23e86d3aa74b0e3e202a75d2d1/Film_633w_ArabianNights_w320.jpg",
+      "director": "Pier Paolo Pasolini"
+    },
+    {
+      "title": "Armageddon",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8949-cca705273b2b432d4711ac0f968e371e/Armeggedonw_w320.jpg",
+      "director": "Michael Bay"
+    },
+    {
+      "title": "Bad Timing",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6189-f3b343f6d11f86c83ce71765df0c57fa/Film_303w_BadTiming_w320.jpg",
+      "director": "Nicolas Roeg"
+    },
+    {
+      "title": "Barcelona",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132347-6bc4b9ca40909e99c44c404eb206b35b/Film_807_Barcelona_w320.jpg",
+      "director": "Whit Stillman"
+    },
+    {
+      "title": "The Big Chill",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132235-7807931aa93a724b2dabbb2cbe471625/Film_720_BigChill_w320.jpg",
+      "director": "Lawrence Kasdan"
+    },
+    {
+      "title": "Border Radio",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7699-6220a56911cd4faad4756435b4f69ea3/Film_362w_BorderRadio_w320.jpg",
+      "director": "Allison Anders, Dean Lent and Kurt Voss"
+    },
+    {
+      "title": "Bottle Rocket",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5581-900b5fcf683a66fd68c09f9e2c5a7e54/Film_450w_BottleRocket_w320.jpg",
+      "director": "Wes Anderson"
+    },
+    {
+      "title": "Brand upon the Brain!",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10383-3ad667756902800ec441c7e8a66aebd6/Brand_w_w320.jpg",
+      "director": "Guy Maddin"
+    },
+    {
+      "title": "The Breakfast Club",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1caf8f2a91684b220eacfd93d8fbe6d0.jpeg",
+      "director": "John Hughes",
+      "spine": "905"
+    },
+    {
+      "title": "Broadcast News",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130361-9849f4fe11c497277bf4624fd0520744/Film_552w_BroadcastNews_D_w320.jpg",
+      "director": "James L. Brooks"
+    },
+    {
+      "title": "Burden of Dreams",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5119-3a6281229a6ccb7e5ddf22bdf1bbc5d2/burdenofdreams_w320.jpg",
+      "director": "Les Blank"
+    },
+    {
+      "title": "Carnival of Souls",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10481-a37e09518818439fd651bdc964de54cf/Film_63_CarnivalOfSouls_w320.jpg",
+      "director": "Herk Harvey"
+    },
+    {
+      "title": "Chasing Amy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132036-860cb06e7d1a2050217ec5f8751e75bc/Amy_w320.jpg",
+      "director": "Kevin Smith"
+    },
+    {
+      "title": "Che",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47951-19c31990da077717883f5abcf8f67344/Film_496w_Che_w320.jpg",
+      "director": "Steven Soderbergh"
+    },
+    {
+      "title": "The Complete Mr. Arkadin",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10745-0a1e4f6cd755a413ab2548e842aebea8/Mr_arkadin_w_w320.jpg",
+      "director": "Orson Welles"
+    },
+    {
+      "title": "Corridors of Blood",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7667-3d7be484e3f46421a6f2af56dada6785/Film_368w_CorridorBlood_w320.jpg",
+      "director": "Robert Day"
+    },
+    {
+      "title": "The Darjeeling Limited",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130025-29d0a05e9ee1e2dedbcd904521cbe8ad/Film_540w_DarjeelingLimited_w320.jpg",
+      "director": "Wes Anderson"
+    },
+    {
+      "title": "A Day in the Country",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132272-60ddb8b9d6e736533c10510674c3ce50/Film_746w_DayInCountry_w320.jpg",
+      "director": "Jean Renoir"
+    },
+    {
+      "title": "Dazed and Confused",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3596-50d14ecc0419369b997df9d92f006fbd/P2_w320.jpg",
+      "director": "Richard Linklater"
+    },
+    {
+      "title": "The Devil’s Backbone",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132137-709e07822939fd3a4505a366310cf90e/Film_666w_DevilsBackbone_w320.jpg",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "title": "Down by Law",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132103-a7a62f1def18be3871931aae9b2ad68b/Film_166w_DownByLaw_w320.jpg",
+      "director": "Jim Jarmusch"
+    },
+    {
+      "title": "Eating Raoul",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131997-79b6a6dc5cc652544a69cf028fe93fda/Film_625w_EatingRaoul_w320.jpg",
+      "director": "Paul Bartel"
+    },
+    {
+      "title": "Equinox",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5981-2971113189154ac015dd59f85bd9f86c/Film_338w_Equinox_w320.jpg",
+      "director": "Jack Woods"
+    },
+    {
+      "title": "Fear and Loathing in Las Vegas",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7909-fde72a57c6d1c0e5fbdfff6b6a38121a/Film_175w_FearLoathing_w320.jpg",
+      "director": "Terry Gilliam"
+    },
+    {
+      "title": "The Fisher King",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132292-01bf7615ce961fba6018447e9052e94d/Film_764_FisherKing_w320.jpg",
+      "director": "Terry Gilliam"
+    },
+    {
+      "title": "George Washington",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9709-ec49ee86aecd5db3503a16091be70a97/GeorgeWashigntonw_w320.jpg",
+      "director": "David Gordon Green"
+    },
+    {
+      "title": "Gimme Shelter",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/55887-61b763c9cafdceaf2cf184d0d20b4ae2/GIMME_SHELTER_mick_film_still_w320.jpg",
+      "director": "David Maysles, Albert Maysles and Charlotte Zwerin"
+    },
+    {
+      "title": "Gomorrah",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/39191-a74a92f66ca3e0b9ff848c2a2db6f918/film_gomorrah_w320.jpg",
+      "director": "Matteo Garrone"
+    },
+    {
+      "title": "The Great Dictator",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130857-009aef030e0bf831e29e7c56cb5a8a6e/Film_565w_GreatDictator_w320.jpg",
+      "director": "Charles Chaplin"
+    },
+    {
+      "title": "La haine",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131923-5b0fc0780eb16548905fe60c0fb44ec6/Film_381w_LaHaine_w320.jpg",
+      "director": "Mathieu Kassovitz"
+    },
+    {
+      "title": "Harlan County USA",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6007-9a5b9ebdcb64d08efa3bbc7557a46c92/Film_334w_HarlanCounty_w320.jpg",
+      "director": "Barbara Kopple"
+    },
+    {
+      "title": "The Haunted Strangler",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7675-b5e0a6e67afec373844c9dfaba7115a1/Film_367w_HauntedStrangler_w320.jpg",
+      "director": "Robert Day"
+    },
+    {
+      "title": "Häxan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8469-bdf01bacb7a00d6a750dfa17f2d9cc10/Film_134w_Haxan_w320.jpg",
+      "director": "Benjamin Christensen"
+    },
+    {
+      "title": "I Am Curious—Blue",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7861-08539d15649851f2888a7d8d7037d858/Film_181w_CuriousBlue_w320.jpg",
+      "director": "Vilgot Sjöman"
+    },
+    {
+      "title": "The Ice Storm",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5735-1060eba32a6a7df48ee7166cd26f0ef7/Film_426w_IceStorm_w320.jpg",
+      "director": "Ang Lee"
+    },
+    {
+      "title": "In the Mood for Love",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10151-693edff36b0482c71267e0f91dfc503e/Film_147w_InMoodLove_w320.jpg",
+      "director": "Wong Kar-wai"
+    },
+    {
+      "title": "In the Realm of the Senses",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/11923-df079655ae60641a450eadfb69989bf1/Film_469w_InTheRealmSenses_w320.jpg",
+      "director": "Nagisa Oshima"
+    },
+    {
+      "title": "Ivan the Terrible, Part I",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130065-1e511f81359acf4cff8dc0fad33f71fa/Ivan_i_w_bw_w320.jpg",
+      "director": "Sergei Eisenstein"
+    },
+    {
+      "title": "Kicking and Screaming",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5895-3e3ecb893ec851844a8456c491d1ac86/Film_349w_KickingScreaming_w320.jpg",
+      "director": "Noah Baumbach"
+    },
+    {
+      "title": "The Killer",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132031-f6a96204364a3d193f59145f6e7b1ae7/Film_8w_Killer_w320.jpg",
+      "director": "John Woo"
+    },
+    {
+      "title": "The Last Days of Disco",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/25612-fc9c1dafc8a278c97dc3d580844072bb/485_Film_LastDaysDisco_w320.jpg",
+      "director": "Whit Stillman"
+    },
+    {
+      "title": "The Last Metro",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_w320.jpg",
+      "director": "François Truffaut"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9841-318a7427dedfda3337cfe156c29174d5/LifeAquaticw_w320.jpg",
+      "director": "Wes Anderson"
+    },
+    {
+      "title": "Lord of the Flies",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132140-f05cc963bedad5bd7d483d97a847199d/Film_43w_LordOfFlies_w320.jpg",
+      "director": "Peter Brook"
+    },
+    {
+      "title": "Loves of a Blonde",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3157-2247a3b0003681b43c405cb0607cc3f1/P_w320.jpg",
+      "director": "Miloš Forman"
+    },
+    {
+      "title": "Maurice",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14731-33510d4cb6a3fa0e32a185b7202d479d/Maurice_FilmStill_w320.jpg",
+      "director": "James Ivory"
+    },
+    {
+      "title": "Metropolitan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6031-b844a95b57a9d14b588ec5256b0c2371/Film_326w_Metropolis_w320.jpg",
+      "director": "Whit Stillman"
+    },
+    {
+      "title": "The Mikado",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130753-2b5c20e12bf1cdc8f285c6cd20af32e7/Film_559w_Mikado_w320.jpg",
+      "director": "Victor Schertzinger"
+    },
+    {
+      "title": "Monterey Pop",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7933-68a8a434189d26a3b530728b2252af5c/Film_167_MontereyPop_w320.jpg",
+      "director": "D. A. Pennebaker"
+    },
+    {
+      "title": "Monty Python’s Life of Brian",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130585-80d4f68f2ba5b79e9959cb7a62fe1b4c/Film_61w_LifeBrian_w320.jpg",
+      "director": "Terry Jones"
+    },
+    {
+      "title": "My Man Godfrey",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130113-5cbbf54c7aa7db447a260164376164a8/Godfreyw_bw_w320.jpg",
+      "director": "Gregory La Cava"
+    },
+    {
+      "title": "My Own Private Idaho",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3170-3c76a858a80e2a98614d19ca92ed5faa/P_w320.jpg",
+      "director": "Gus Van Sant"
+    },
+    {
+      "title": "The Night of the Hunter",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130297-d9dcb2133ffb4707f1c26bf771d69d93/NIGHT-OF-THE-HUNTER_new-film-still_w320.jpg",
+      "director": "Charles Laughton"
+    },
+    {
+      "title": "Paris, Texas",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47943-3babd9e999462a6ef176192b5db4e73e/Film_501w_ParisTexas_w320.jpg",
+      "director": "Wim Wenders"
+    },
+    {
+      "title": "Pina",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132064-97775286c5a039d4a17849a2de484724/Film_644_Pina_b_w320.jpg",
+      "director": "Wim Wenders"
+    },
+    {
+      "title": "The Player",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132352-9406dab5ac8ecf2c971063b654cb543f/Film_812_Player_w320.jpg",
+      "director": "Robert Altman"
+    },
+    {
+      "title": "Il posto",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130209-f27bab4e347cfab0c66bb207b2c7b4e8/Il_posto_film_still_w320.jpg",
+      "director": "Ermanno Olmi"
+    },
+    {
+      "title": "Repo Man",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132088-53ae7917f2f0e17eb93deff00aa459c1/Film_654w_RepoMan_w320.jpg",
+      "director": "Alex Cox"
+    },
+    {
+      "title": "The Rock",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9299-a881383b22743ded5a2facb3a297025a/Rockw_w320.jpg",
+      "director": "Michael Bay"
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2872-9995e0355c1874e5b574195f6177c06d/P_w320.jpg",
+      "director": "Wes Anderson"
+    },
+    {
+      "title": "A Safe Place",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130305-9673b40aaca00544ea54e009c9e1cac8/Film_548w_SafePlace_w320.jpg",
+      "director": "Henry Jaglom"
+    },
+    {
+      "title": "Short Cuts",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10319-3c511725319b2df309045bbfdd0979ac/shortcuts_w320.jpg",
+      "director": "Robert Altman"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9619-94f8232b61fc817507303d05e52b1dfa/Silencew_w320.jpg",
+      "director": "Jonathan Demme"
+    },
+    {
+      "title": "Slacker",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4417-5991a3007927be7008a05f5dbdec8022/P_w320.jpg",
+      "director": "Richard Linklater"
+    },
+    {
+      "title": "Solaris",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130833-5b8a102317e750da37ab147b5d178c3b/Film_164w_Solaris_w320.jpg",
+      "director": "Andrei Tarkovsky"
+    },
+    {
+      "title": "Spartacus",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4711-db81fcc2d11e4497503d53bd0db4ae78/P_w320.jpg",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "title": "The Thin Red Line",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131745-1984ff51f97de09d2859ee6e3f29ee5c/Film_536w_ThinRedLine_B_w320.jpg",
+      "director": "Terrence Malick"
+    },
+    {
+      "title": "This Is Spinal Tap",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3572-3dd89121b3232f731ed6f574520532a9/P_w320.jpg",
+      "director": "Rob Reiner"
+    },
+    {
+      "title": "The Tin DrumV",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_w320.jpg",
+      "director": "Volker Schlöndorff"
+    },
+    {
+      "title": "Tootsie",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132260-19aa2ae1adc5afe4c77a08e56c9c9a70/Film_738_Tootse_w320.jpg",
+      "director": "Sydney Pollack"
+    },
+    {
+      "title": "Topsy-Turvy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130745-2b559a4ae2490e5390be86db90b6c854/Film_558w_TopsyTurvy_w320.jpg",
+      "director": "Mike Leigh"
+    },
+    {
+      "title": "Traffic",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10343-442792ea561881e551a07805759c93aa/traffic2_w320.jpg",
+      "director": "Steven Soderbergh"
+    },
+    {
+      "title": "Twin Peaks: Fire Walk with Me",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ebd2aae31702809088dc357ed2318ce2.jpeg",
+      "director": "David Lynch",
+      "spine": "898"
+    },
+    {
+      "title": "The War Room",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131641-009dc28695dd3f4896d3c4d45f33b5e6/Film_602w_WarRoom_w320.jpg",
+      "director": "Chris Hegedus and D. A. Pennebaker"
+    },
+    {
+      "title": "White Material",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130777-a6dca7fd1b2e52378f712bdf5437ef96/Film_560w_WhiteMaterial_w320.jpg",
+      "director": "Claire Denis"
+    },
+    {
+      "title": "Wings of Desire",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34676-9821ceac4831c39d0adf723c46bf2ebb/Film_490w_WingsDesire_w320.jpg",
+      "director": "Wim Wenders"
+    },
+    {
+      "title": "Y tu mamá también",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132244-1316f2e30aae8623a6954544c7d40e46/Film_723w_YTuMamaTambien_w320.jpg",
+      "director": "Alfonso Cuarón"
+    }
+  ]
+}

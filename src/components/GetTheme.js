@@ -4,6 +4,9 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Media from 'react-bootstrap/Media';
 import combinedJson from './Combined';
+import Container from 'react-bootstrap/Container';
+import Breadcrumb from 'react-bootstrap/Breadcrumb';
+import Image from 'react-bootstrap/Image';
 
 export class GetTheme extends Component {
   state = {
@@ -11,30 +14,62 @@ export class GetTheme extends Component {
   };
 
   componentDidMount() {
-    if (this.props.currentJsonObject === 'america_america') {
+    if (this.props.location.state.currentJsonObject === 'america_america') {
       this.setState({ films: combinedJson.america_america });
-    } else if (this.props.currentJsonObject === 'french_new_wave') {
+    } else if (
+      this.props.location.state.currentJsonObject === 'french_new_wave'
+    ) {
       this.setState({ films: combinedJson.french_new_wave });
-    } else if (this.props.currentJsonObject === 'amour_fou') {
+    } else if (this.props.location.state.currentJsonObject === 'amour_fou') {
       this.setState({ films: combinedJson.amour_fou });
-    } else if (this.props.currentJsonObject === 'animals') {
+    } else if (this.props.location.state.currentJsonObject === 'animals') {
       this.setState({ films: combinedJson.animals });
-    } else if (this.props.currentJsonObject === 'avant_garde') {
+    } else if (this.props.location.state.currentJsonObject === 'avant_garde') {
       this.setState({ films: combinedJson.avant_garde });
-    } else if (this.props.currentJsonObject === 'blue_christmases') {
+    } else if (
+      this.props.location.state.currentJsonObject === 'blue_christmases'
+    ) {
       this.setState({ films: combinedJson.blue_christmases });
-    } else if (this.props.currentJsonObject === 'british_realism') {
+    } else if (
+      this.props.location.state.currentJsonObject === 'british_realism'
+    ) {
       this.setState({ films: combinedJson.british_realism });
-    } else if (this.props.currentJsonObject === 'cannes_big_winners') {
+    } else if (
+      this.props.location.state.currentJsonObject === 'cannes_big_winners'
+    ) {
       this.setState({ films: combinedJson.cannes_big_winners });
-    } else if (this.props.currentJsonObject === 'classic_hollywood') {
+    } else if (
+      this.props.location.state.currentJsonObject === 'classic_hollywood'
+    ) {
       this.setState({ films: combinedJson.classic_hollywood });
+    } else if (this.props.location.state.currentJsonObject === 'comedies') {
+      this.setState({ films: combinedJson.comedies });
+    } else if (
+      this.props.location.state.currentJsonObject === 'compare_and_contrast'
+    ) {
+      this.setState({ films: combinedJson.compare_and_contrast });
+    } else if (this.props.location.state.currentJsonObject === 'cult_movies') {
+      this.setState({ films: combinedJson.cult_movies });
+    } else if (this.props.location.state.currentJsonObject === 'cut') {
+      this.setState({ films: combinedJson.cut });
+    } else if (
+      this.props.location.state.currentJsonObject === 'documentaries'
+    ) {
+      this.setState({ films: combinedJson.documentaries });
+    } else if (
+      this.props.location.state.currentJsonObject === 'dysfunctional_families'
+    ) {
+      this.setState({ films: combinedJson.dysfunctional_families });
+    } else if (
+      this.props.location.state.currentJsonObject === 'faith_on_film'
+    ) {
+      this.setState({ films: combinedJson.faith_on_film });
     }
 
     this.setState({
-      currentTheme: this.props.currentTheme,
-      currentSummary: this.props.currentSummary,
-      currentImage: this.props.currentImage,
+      currentTheme: this.props.location.state.currentTheme,
+      currentSummary: this.props.location.state.currentSummary,
+      currentImage: this.props.location.state.currentImage,
     });
 
     window.scrollTo(0, 0);
@@ -46,7 +81,17 @@ export class GetTheme extends Component {
     const currentImage = this.state.currentImage;
 
     return (
-      <React.Fragment>
+      <Container>
+        <Breadcrumb>
+          <Breadcrumb.Item href="/Explore">Explore</Breadcrumb.Item>
+          <Breadcrumb.Item href="/Explore/Themes">Themes</Breadcrumb.Item>
+          <Breadcrumb.Item active>{currentTheme}</Breadcrumb.Item>
+        </Breadcrumb>
+
+        <Col className={'heading-style'}>
+          <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif" />
+        </Col>
+
         <Col className={'theme-card-style my-3'}>
           <Card className={'theme-card-style'}>
             <Media>
@@ -56,7 +101,7 @@ export class GetTheme extends Component {
                 className={'theme-card-style my-4 mx-1'}
                 src={currentImage}
               />
-              <Card.Body className={'card-text mx-4 my-4'}>
+              <Card.Body className={'movie-card-text mx-4 my-4'}>
                 <h4>
                   <strong>{currentTheme}</strong>
                 </h4>
@@ -71,23 +116,21 @@ export class GetTheme extends Component {
             return (
               <Col xs={6} sm={5} md={4} lg={4} xl={4} key={film.title + 'Col'}>
                 <Card className={'card-style my-3'} key={film.title}>
-                  <Card.Img
-                    className={'card-style'}
-                    variant="top"
-                    src={film.image}
-                  />
+                  <Card.Img variant="top" src={film.image} />
                   <Card.Body>
-                    <Card.Title className={'card-text'}>
+                    <Card.Title className={'movie-title'}>
                       {film.title}
                     </Card.Title>
-                    <Card.Text>{film.director}</Card.Text>
+                    <Card.Text className={'movie-director'}>
+                      {film.director}
+                    </Card.Text>
                   </Card.Body>
                 </Card>
               </Col>
             );
           })}
         </Row>
-      </React.Fragment>
+      </Container>
     );
   }
 }

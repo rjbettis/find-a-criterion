@@ -1,0 +1,802 @@
+{
+  "comedies": [
+    {
+      "title": "Androcles and the Lion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/51975-930de8a6d4fa87d85f0587e6b92a0988/Shaw_box_film_Andronocles_original.jpg",
+      "director": "Chester Erskine",
+      "spine": ""
+    },
+    {
+      "title": "As Long as You've Got Your Health",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132096-2f4092443235e03fe4ee93e430addeb6/Film_655w_AsLongGotHealth_original.jpg",
+      "director": "Pierre Etaix",
+      "spine": ""
+    },
+    {
+      "title": "The Awful Truth",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132464-8cbd39aac95dbf63309bd8815d1f5008/Film_917_AwfulTruth_original.jpg",
+      "director": "Leo McCarey",
+      "spine": ""
+    },
+    {
+      "title": "The Bank Dick",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5515-cf14f2b39b1fb3cfd8f011ed314bae45/Film_78w_BankDick_original.jpg",
+      "director": "Edward Cline",
+      "spine": "78"
+    },
+    {
+      "title": "Barcelona",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132347-6bc4b9ca40909e99c44c404eb206b35b/Film_807_Barcelona_original.jpg",
+      "director": "Whit Stillman",
+      "spine": "807"
+    },
+    {
+      "title": "Being John Malkovich",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131935-31f9d97194591c6b6dd925ad7039e502/Film_611w_BeingJohnMalkovich_original.jpeg",
+      "director": "Spike Jonze",
+      "spine": "611"
+    },
+    {
+      "title": "Big Deal on Madonna Street",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130169-dd5e1c4af56306e3d40643a42f7caab9/Film_113w_BigDealMadonna_bw_original.jpg",
+      "director": "Mario Monicelli",
+      "spine": "113"
+    },
+    {
+      "title": "Billy Liar",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8453-f52d819e84acf03b5172bb37113e96c8/Film_121w_BillyLiar_original.jpg",
+      "director": "John Schlesinger",
+      "spine": "121"
+    },
+    {
+      "title": "Blithe Spirit",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131665-603eb8a5692f88b7f2e29a21ed162787/Film_606w_BlitheSpirit_original.jpg",
+      "director": "David Lean",
+      "spine": "606"
+    },
+    {
+      "title": "Bottle Rocket",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5581-900b5fcf683a66fd68c09f9e2c5a7e54/Film_450w_BottleRocket_original.jpg",
+      "director": "Wes Anderson",
+      "spine": "450"
+    },
+    {
+      "title": "Boudu Saved from Drowning",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6171-ad27a2ffe6645d7618b8f40a7bea97a3/Film_306w_BouduSaved_original.jpg",
+      "director": "Jean Renoir",
+      "spine": "305"
+    },
+    {
+      "title": "The Breakfast Club",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132447-413ce03e46f387477810b7b60a0f7811/Film_905_BreakfastClub_original.jpg",
+      "director": "John Hughes",
+      "spine": "905"
+    },
+    {
+      "title": "Broadcast News",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130361-9849f4fe11c497277bf4624fd0520744/Film_552w_BroadcastNews_D_original.jpg",
+      "director": "James L. Brooks",
+      "spine": "552"
+    },
+    {
+      "title": "La Cage aux Folles",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132162-cad76523597ec8ec4a6279a2066f3ac7/Film_671w_CageAuxFolles_original.jpg",
+      "director": "Edouard Molinaro",
+      "spine": "671"
+    },
+    {
+      "title": "Chafed Elbows",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131932-37f1a58d5f2aa8d3d93dc30de40a3ac2/Downey_Filmw_ChafedElbows_original.jpg",
+      "director": "Robert Downey Sr.",
+      "spine": ""
+    },
+    {
+      "title": "Charade",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129673-0ea2aac9a611213dd57031baf3eecd6d/Film_57w_Charade_original.jpg",
+      "director": "Stanley Donen",
+      "spine": "57"
+    },
+    {
+      "title": "Chasing Amy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132036-860cb06e7d1a2050217ec5f8751e75bc/Amy_original.jpg",
+      "director": "Kevin Smith",
+      "spine": "75"
+    },
+    {
+      "title": "The Circus",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e461dd0bfba4c4a4af25c8d4b0127876.jpeg",
+      "director": "Charles Chaplin",
+      "spine": "996"
+    },
+    {
+      "title": "City Lights",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132198-bcd27eb4d2f6015adf5dda776658a3c2/Film_680_CityLights_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "680"
+    },
+    {
+      "title": "Cluny Brown",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/da07011e8bec9b3ff25396c2d88b7202.jpeg",
+      "director": "Ernst Lubitsch",
+      "spine": "997"
+    },
+    {
+      "title": "The Darjeeling Limited",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130025-29d0a05e9ee1e2dedbcd904521cbe8ad/Film_540w_DarjeelingLimited_original.jpg",
+      "director": "Wes Anderson",
+      "spine": "540"
+    },
+    {
+      "title": "The Daytrippers",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1a9ac30684db8601c3c49ba8e4b8134f.jpeg",
+      "director": "Greg Mottola",
+      "spine": "1001"
+    },
+    {
+      "title": "Dazed and Confused",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3596-50d14ecc0419369b997df9d92f006fbd/P2_original.jpg",
+      "director": "Richard Linklater",
+      "spine": "336"
+    },
+    {
+      "title": "Design for Living",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131393-02b99b370fb3aadba701872d79905b40/1286_006_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": "592"
+    },
+    {
+      "title": "Désiré",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/109121-3275a94f685023c822062dffe0eb7867/Guitry_Film_Desire_original.jpg",
+      "director": "Sacha Guitry",
+      "spine": "592"
+    },
+    {
+      "title": "Destry Rides Again",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1a402370367c78a5a79b297cbaf6a0b.jpeg",
+      "director": "George Marshall",
+      "spine": "1024"
+    },
+    {
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8389-6fb342c208cf6063c3709fd6a6186d20/Film_102w_DiscreetCharm_original.jpg",
+      "director": "Luis Buñuel",
+      "spine": "102"
+    },
+    {
+      "title": "Divorce Italian Style",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6737-6f3eb21709a5cf235e7b0bc785bc5e02/Film_286w_DivorceItalianStyle_original.jpg",
+      "director": "Pietro Germi",
+      "spine": "286"
+    },
+    {
+      "title": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132360-2f871a84854f3ca4737349e351f625a7/Film_821_DrStrangelove_original.jpg",
+      "director": "Stanley Kubrick",
+      "spine": "821"
+    },
+    {
+      "title": "Eating Raoul",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131997-79b6a6dc5cc652544a69cf028fe93fda/Film_625w_EatingRaoul_original.jpg",
+      "director": "Paul Bartel",
+      "spine": "625"
+    },
+    {
+      "title": "Election",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132446-aff08b7172f712107b73d98b1c6cc895/Film_904_Election_original.jpg",
+      "director": "Alexander Payne",
+      "spine": "904"
+    },
+    {
+      "title": "Elena and Her Men",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/27260-5b9eb5fd4fd8d9dd9c8916e68c50de66/elena-and-her-men-1956_original.jpg",
+      "director": "Jean Renoir",
+      "spine": "244"
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132216-41dc81dab5923314b908d1c3a7e037aa/Film_700w_FantasticFox_original.jpg",
+      "director": "Wes Anderson",
+      "spine": "700"
+    },
+    {
+      "title": "Female Trouble",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/43790a724475ec9256edeebbf4a636e6.jpeg",
+      "director": "John Waters",
+      "spine": "929"
+    },
+    {
+      "title": "Fishing with John",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5375-9cc70ff9b9180e619228a839133974c0/Film_42w_FishingJohn_original.jpg",
+      "director": "John Lurie",
+      "spine": "42"
+    },
+    {
+      "title": "Frances Ha",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132197-a6978b10ff709087dbe7a77468fc5130/Film_681_FrancesHa_original.jpg",
+      "director": "Noah Baumbach",
+      "spine": "681"
+    },
+    {
+      "title": "The Freshman",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132223-b1908d5a632b10403e4c6ccd78344ca4/Film_703w_Freshman_original.jpg",
+      "director": "Sam Taylor…",
+      "spine": "703"
+    },
+    {
+      "title": "The Gold Rush",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131948-13a817f12db2ad0138806381dbc713ef/Film_615w_GoldRush_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "615"
+    },
+    {
+      "title": "The Golden Coach",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6531-d694ca683771b659e8caa588b09ca8c7/Film_242w_GoldenCoach_original.jpg",
+      "director": "Jean Renoir",
+      "spine": "242"
+    },
+    {
+      "title": "Good Morning",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131990-db5abcd8ff5904a76c2316e9e4a27920/Film_84_GoodMorning_original.jpg",
+      "director": "Yasujiro Ozu",
+      "spine": "84"
+    },
+    {
+      "title": "The Graduate",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132337-65dbd2892844129704d8ce84b7c780c3/Film_800_TheGraduate_original.jpg",
+      "director": "Mike Nichols",
+      "spine": "800"
+    },
+    {
+      "title": "Le grand amour",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132097-b4364a8504b80f9b7923078f8f2893d1/Film_655w_GrandAmour_original.jpg",
+      "director": "Pierre Etaix",
+      "spine": ""
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9460a27e0dbf4e312588f920eff89db5.jpeg",
+      "director": "Wes Anderson",
+      "spine": "1025"
+    },
+    {
+      "title": "The Great Dictator",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130857-009aef030e0bf831e29e7c56cb5a8a6e/Film_565w_GreatDictator_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "565"
+    },
+    {
+      "title": "A Hard Day’s Night",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132232-153f967980de94944d71e4e70399728b/Film_711w_HardDaysNight_original.jpg",
+      "director": "Richard Lester",
+      "spine": "711"
+    },
+    {
+      "title": "Harold and Maude",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131849-8196733720405f4d1f36f66768ac69db/Film_608w_HaroldAndMaude_original.jpg",
+      "director": "Hal Ashby",
+      "spine": "608"
+    },
+    {
+      "title": "Head",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130265-6df2502dd6a480a6ffc848a8a88e4cd2/Film_544w_Head_original.jpg",
+      "director": "Bob Rafelson",
+      "spine": "544"
+    },
+    {
+      "title": "Here Comes Mr. Jordan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132358-fd1ffdbf115ca9582bcfad9fc6bf57aa/Film_819_HereComesMrJordan_original.jpg",
+      "director": "Alexander Hall+",
+      "spine": "544"
+    },
+    {
+      "title": "Heaven Can Wait",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6769-a404b77b132f46cf1045d3fda0c178e5/Film_291w_HeavenCanWait_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": "291"
+    },
+    {
+      "title": "Here Comes Mr. Jordan",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/276f5093ee893998e7fc380000714a72.jpeg",
+      "director": "Alexander Hall",
+      "spine": "819"
+    },
+    {
+      "title": "Hobson’s Choice",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10617-bb56354b1381b7ecbc463cea95480478/Hobson_w_original.jpg",
+      "director": "David Lean",
+      "spine": "461"
+    },
+    {
+      "title": "The Horse’s Mouth",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129897-a031d7af350fe9d365a81b55916d7886/Film_154w_HorsesMouth_new_original.jpg",
+      "director": "Ronald Neame",
+      "spine": "154"
+    },
+    {
+      "title": "How to Get Ahead in Advertising",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9353-b467f9823ba3f3ff5da63f3bd2ead5ce/HowGetAheadw_original.jpg",
+      "director": "Bruce Robinson",
+      "spine": "120"
+    },
+    {
+      "title": "I Married a Witch",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132167-fc8beed18afec29b7b643ba89a4536c2/Film_676_MarriedAWitch_original.jpg",
+      "director": "René Clair",
+      "spine": "676"
+    },
+    {
+      "title": "I Wanna Hold Your Hand",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4a643bde027085aec0df222c8d2dec5.jpeg",
+      "director": "Robert Zemeckis",
+      "spine": "967"
+    },
+    {
+      "title": "I was Born, But...",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8101-4b6ca4242d2f3605b11dc754c078467a/Iwas-born-but_original.jpg",
+      "director": "Yasujiro Ozu",
+      "spine": ""
+    },
+    {
+      "title": "The In-Laws",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132362-56b802a6dc21f58f2e6e220ec6bb9893/Film_823_InLaws_original.jpg",
+      "director": "Arthur Hiller",
+      "spine": "823"
+    },
+    {
+      "title": "It Happened One Night",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132256-db891045304b082be26b573fc30d6ee1/Film_736w_ItHappenedOneNight_original.jpg",
+      "director": "Frank Capra",
+      "spine": "736"
+    },
+    {
+      "title": "It’s a Mad, Mad, Mad, Mad World",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132212-187227916f1185dfc5b30012bc6273cc/Film_692w_ItsMadMadWorld_original.jpg",
+      "director": "Stanley Kramer",
+      "spine": "692"
+    },
+    {
+      "title": "Jabberwocky",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132444-8586e531d49d9639e300e38d167aef48/Film_903_Jabberwocky_original.jpg",
+      "director": "Terry Gilliam",
+      "spine": "903"
+    },
+    {
+      "title": "Jour de fête",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132252-10a476b43992537f4edaad75db0a1567/Film_730w_JourDeFete_original.jpg",
+      "director": "Jacques Tati",
+      "spine": "730"
+    },
+    {
+      "title": "Kicking and Screaming",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5895-3e3ecb893ec851844a8456c491d1ac86/Film_349w_KickingScreaming_original.jpg",
+      "director": "Noah Baumbach",
+      "spine": "349"
+    },
+    {
+      "title": "The Kid",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132334-64f4bfa87bfa5c21b593f439029ff71b/Film_799_TheKid_original.jpg",
+      "director": "Charlie Chaplin",
+      "spine": "799"
+    },
+    {
+      "title": "The Kid Brother",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/64ca34ab4af7acc2922c3dbd2e42b7c5.jpeg",
+      "director": "Ted Wilde",
+      "spine": "964"
+    },
+    {
+      "title": "Kind Hearts and Coronets",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9857-d9605aa3a842b54472a79dc26ddf8687/KindHearts_original.jpg",
+      "director": "Robert Hamer",
+      "spine": "325"
+    },
+    {
+      "title": "The Lady Eve",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8397-d435f5dec663570d31cf12196fc165cb/Film_103w_LadyEve_original.jpg",
+      "director": "Preston Sturges",
+      "spine": "103"
+    },
+    {
+      "title": "The Last Days of Disco",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/25612-fc9c1dafc8a278c97dc3d580844072bb/485_Film_LastDaysDisco_original.jpg",
+      "director": "Whit Stillman",
+      "spine": "485"
+    },
+    {
+      "title": "Leningrad Cowboys Go America",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131489-fd7c6023fd4a138d8e204573d002e83f/Leningrad_Cowboys_Still_original.jpg",
+      "director": "Aki Kaurismäki",
+      "spine": ""
+    },
+    {
+      "title": "Leningrad Cowboys Meet Moses",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131249-9e7ae17d4588f9071065f7b03e0d02d3/Kaurismaki_Filmw_LeningradMoses_original.jpg",
+      "director": "Aki Kaurismäki",
+      "spine": ""
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9841-318a7427dedfda3337cfe156c29174d5/LifeAquaticw_original.jpg",
+      "director": "Wes Anderson",
+      "spine": "300"
+    },
+    {
+      "title": "Local Hero",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1eb4465ae1bd5830bc2413556fb51b8d.jpeg",
+      "director": "Bill Forsyth",
+      "spine": "994"
+    },
+    {
+      "title": "Lost in America",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132430-1907116266cf3f1c468071efab907b27/Film_887_LostinAmerica_original.jpg",
+      "director": "Albert Brooks",
+      "spine": "887"
+    },
+    {
+      "title": "The Love Parade",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7997-8248c553649e520f260d22276e599a73/LoveParade_1_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": ""
+    },
+    {
+      "title": "Mafioso",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5703-ad074533c49ed3385bddd0ef43f8e76a/Film_424w_Mafioso_original.jpg",
+      "director": "Alberto Lattuada",
+      "spine": "424"
+    },
+    {
+      "title": "Me and You and Everyone We Know",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/dc45c0dfc9c910132bba4dddc31f7b90.jpeg",
+      "director": "Miranda July",
+      "spine": "1026"
+    },
+    {
+      "title": "Metropolitan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6031-b844a95b57a9d14b588ec5256b0c2371/Film_326w_Metropolis_original.jpg",
+      "director": "Whit Stillman",
+      "spine": "326"
+    },
+    {
+      "title": "The Milky Way",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7501-99a94f4b52b1023ac3623635f8527a4e/Film_402w_MilkyWay_original.jpg",
+      "director": "Luis Buñuel",
+      "spine": "402"
+    },
+    {
+      "title": "Le million",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5481-3dbafd0f85ab6b5a5e3a0eff135f390f/Film_72w_Million_original.jpg",
+      "director": "René Clair",
+      "spine": "72"
+    },
+    {
+      "title": "Modern Times",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130257-dfcf4573a3dcfe2d68527acb35bef7aa/Film_543w_ModernTimes_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "543"
+    },
+    {
+      "title": "Mon oncle",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d975e8790d6409d334363758ad87825b.jpeg",
+      "director": "Jacques Tati",
+      "spine": "111"
+    },
+    {
+      "title": "Monsieur Hulot’s Holiday",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130761-5f5252a6eb8972a6f3bc1a5d5e2b4342/Film_110w_MHulotHoliday_original.jpg",
+      "director": "Jacques Tati",
+      "spine": "110"
+    },
+    {
+      "title": "Monsieur Verdoux",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/50a6fd1d797ebca7650cadda1c6c7cec.jpeg",
+      "director": "Charles Chaplin",
+      "spine": "652"
+    },
+    {
+      "title": "Monty Python’s Life of Brian",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130585-80d4f68f2ba5b79e9959cb7a62fe1b4c/Film_61w_LifeBrian_original.jpg",
+      "director": "Terry Jones",
+      "spine": "61"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132297-2d0d4a18322a5f0383c46c980cf65099/Film_768_MoonriseKingdom_original.jpg",
+      "director": "Wes Anderson",
+      "spine": "776"
+    },
+    {
+      "title": "Mr. Freedom",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8037-281b805b62765d941832a303cbc55011/MrFreedom_2_original.jpg",
+      "director": "William Klein",
+      "spine": ""
+    },
+    {
+      "title": "My Man Godfrey",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130113-5cbbf54c7aa7db447a260164376164a8/Godfreyw_bw_original.jpg",
+      "director": "Gregory La Cava",
+      "spine": "114"
+    },
+    {
+      "title": "À nous la liberté",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7957-3f18eccf5b0919adc49d6dcfae08e6a9/Film_160w_ANosLiberte_original.jpg",
+      "director": "René Clair",
+      "spine": "160"
+    },
+    {
+      "title": "One Hour with You",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8021-28d100471568bbbc325ee0fe85ac2783/OneHourWithYou_1_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": "160"
+    },
+    {
+      "title": "The Other Side of Hope",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/cd58823404460c9edb8b049820767741.jpeg",
+      "director": "Aki Kaurismäki",
+      "spine": "922"
+    },
+    {
+      "title": "The Palm Beach Story",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132269-b92f4e3704ce724550ae0c1331b166dd/Film_742_PalmBeachStory_original.jpg",
+      "director": "Preston Sturges",
+      "spine": "742"
+    },
+    {
+      "title": "Passing Fancy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8125-fb4d2e3c996a64bae3ee05d92204d86a/passinng-fancy5_original.jpg",
+      "director": "Yasujiro Ozu",
+      "spine": ""
+    },
+    {
+      "title": "The Pearls of the Crown",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/109113-34ce3deaca8f55ec3f8066374c38a8e1/Guitry_Film_Pearls_original.jpg",
+      "director": "Sacha Guitry",
+      "spine": ""
+    },
+    {
+      "title": "The Phantom of Liberty",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6761-810b674681963ab5973a2f56f9096f08/Film_290w_PhantomLiberty_original.jpg",
+      "director": "Luis Buñuel",
+      "spine": "290"
+    },
+    {
+      "title": "The Philadelphia Story",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132445-f9c782e2b6ad0340e189ea4cec6a6ccd/Film_901_PhiladelphiaStory_original.jpg",
+      "director": "George Cukor",
+      "spine": "901"
+    },
+    {
+      "title": "The Player",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132352-9406dab5ac8ecf2c971063b654cb543f/Film_812_Player_original.jpg",
+      "director": "Robert Altman",
+      "spine": "812"
+    },
+    {
+      "title": "PlayTime",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/108433-48e1836010cb38ee55d62266d4c032e3/Film_112w_PlayTime_original.jpg",
+      "director": "Jacques Tati",
+      "spine": "112"
+    },
+    {
+      "title": "Putney Swope",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131928-3e1cc73877ccaf1c6c19529c5013837e/Downey_Filmw_PutneySwope_original.jpg",
+      "director": "Robert Downey Sr.",
+      "spine": ""
+    },
+    {
+      "title": "La poison",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132433-f414a504a76e9c65830f38474511f216/Film_891_LaPoison_original.jpg",
+      "director": "Sacha Guitry",
+      "spine": "891"
+    },
+    {
+      "title": "Polyester",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/0c2558419e5f25841a93045add635476.jpeg",
+      "director": "John Waters",
+      "spine": "995"
+    },
+    {
+      "title": "Pygmalion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3958-6098aa50c9b2a12264b7bc5a8714d5d4/P_original.jpg",
+      "director": "Anthony Asquith…",
+      "spine": "85"
+    },
+    {
+      "title": "Quadrille",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/109137-7b5814cf6f1dd5ba0029351f2265d2fb/Guitry_Film_Quadrille_original.jpg",
+      "director": "Sacha Guitry",
+      "spine": ""
+    },
+    {
+      "title": "Repo Man",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132088-53ae7917f2f0e17eb93deff00aa459c1/Film_654w_RepoMan_original.jpg",
+      "director": "Alex Cox",
+      "spine": "654"
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2872-9995e0355c1874e5b574195f6177c06d/P_original.jpg",
+      "director": "Wes Anderson",
+      "spine": "157"
+    },
+    {
+      "title": "The Ruling Class",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10311-a6ded05872e468b8eb087af32e1ae98b/RULING-CLASS-007_original.jpg",
+      "director": "Peter Medak",
+      "spine": "132"
+    },
+    {
+      "title": "Rushmore",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3604-b4e2e1a0cf72d417ed56651e2c381025/P_original.jpg",
+      "director": "Wes Anderson",
+      "spine": "65"
+    },
+    {
+      "title": "Safety Last!",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132112-be9748d79b404e16d6b281c7621cd782/Film_662w_SafetyLast_original.jpg",
+      "director": "Fred Newmeyer and Sam Taylor",
+      "spine": "662"
+    },
+    {
+      "title": "Schizopolis",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132078-896e009a11860f5d17f7ba86f635fce7/Film_199w_Schizopolis_original.jpeg",
+      "director": "Steven Soderbergh",
+      "spine": "199"
+    },
+    {
+      "title": "Smiles of a Summer Night",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130809-e3f14714dc072ac66fdd3de41ee6145b/Film_237W_SmilesSummerNight_original.jpg",
+      "director": "Ingmar Bergman",
+      "spine": "237"
+    },
+    {
+      "title": "Smiling Lieutenant",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8013-b85af9d2c83fb57ffa1ee03099ecbb82/SmilingLT_2_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": "237"
+    },
+    {
+      "title": "Sólo con tu pareja",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7723-00934e20b23240dc8cbed50cb3e0783d/Film_353w_SoloConTuPareja_original.jpg",
+      "director": "Alfonso Cuarón",
+      "spine": "353"
+    },
+    {
+      "title": "Some Like It Hot",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/25252b803f75ecf2440523323b25e12e.jpeg",
+      "director": "Billy Wilder",
+      "spine": "950"
+    },
+    {
+      "title": "Something Wild",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130841-b8c34623aeae121c45c08082ca1d3d66/Film_563w_SomethingWild_original.jpg",
+      "director": "Jonathan Demme",
+      "spine": "563"
+    },
+    {
+      "title": "Il sorpasso",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132228-f5a0be5dcc28c97daec0cab35a1dab33/Film_707w_Sorpasso_original.jpg",
+      "director": "Dino Risi",
+      "spine": "707"
+    },
+    {
+      "title": "Speedy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132325-5532127273d48f8e20590b0ef1efe582/Film_788_Speedy_original.jpg",
+      "director": "Ted Wilde",
+      "spine": "788"
+    },
+    {
+      "title": "The Story of a Cheat",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130201-360e7d09e46c510cdc0ec173020c6a1e/Guitry_Film_Cheat_original.jpg",
+      "director": "Sacha Guitry",
+      "spine": "788"
+    },
+    {
+      "title": "The Suitor",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132094-64bfaebcab076f3cfcf1190082380e9b/Film_655w_Suitor_original.jpg",
+      "director": "Pierre Etaix",
+      "spine": "788"
+    },
+    {
+      "title": "Sullivan’s Travels",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9345-7df190402f3717915587e8ea50d0e0f7/Sullivanw_original.jpg",
+      "director": "Preston Sturges",
+      "spine": "118"
+    },
+    {
+      "title": "This Is Spinal Tap",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3572-3dd89121b3232f731ed6f574520532a9/P_original.jpg",
+      "director": "Rob Reiner",
+      "spine": "12"
+    },
+    {
+      "title": "Tie Me Up! Tie Me Down!",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132245-8c9d4f03912ff463df55a74b2c238e28/Film_722w_TieMeUpTieMeDown_b_original.jpg",
+      "director": "Pedro Almodóvar",
+      "spine": "722"
+    },
+    {
+      "title": "Time Bandits",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131983-a5d8b57d9597230f83e68587193eb56e/Film_37w_TimeBandits_original.jpg",
+      "director": "Terry Gilliam",
+      "spine": "37"
+    },
+    {
+      "title": "Tiny Furniture",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131569-9942be4ff50495929c675992dcf4b4cb/Film_597w_Tiny_Furniture_original.jpg",
+      "director": "Lena Dunham",
+      "spine": "597"
+    },
+    {
+      "title": "To Be or Not to Be",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132143-a9a49eb6ee0c2ac582a561c8d9266af5/Film_670w_ToBeNotToBe_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": "670"
+    },
+    {
+      "title": "Tokyo Chorus",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8117-60e47bfba9be581f4becd596d3a10ea3/Tokyo-Chorusl4_original.jpg",
+      "director": "Yasujiro Ozu",
+      "spine": ""
+    },
+    {
+      "title": "Tootsie",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132260-19aa2ae1adc5afe4c77a08e56c9c9a70/Film_738_Tootse_original.jpg",
+      "director": "Sydney Pollack",
+      "spine": "738"
+    },
+    {
+      "title": "Trafic",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6379-7debb80ee66399925d4bdd69c72dd8da/Film_439w_Trafic_original.jpg",
+      "director": "Jacques Tati",
+      "spine": "439"
+    },
+    {
+      "title": "Trouble in Paradise",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130329-9ea9bfe9bd422c409621d1b9ab3659b8/Troublew_bw_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": "170"
+    },
+    {
+      "title": "Unfaithfully Yours",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6777-72367a35d448fdb4c19ebbf86fa87aa9/Film_292w_UnfaithfullyYours_original.jpg",
+      "director": "Preston Sturges",
+      "spine": "292"
+    },
+    {
+      "title": "W. C. Fields—Six Short Films",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9183-61a70ff2c995b56694a37aa25b933aa4/WCFieldsw_original.jpg",
+      "director": "Monte Brice…",
+      "spine": "79"
+    },
+    {
+      "title": "The White Sheik",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7803-f1da07b636bd22b5bce9b1f605171dcf/Film_189w_WhiteSheik_original.jpg",
+      "director": "Federico Fellini",
+      "spine": "189"
+    },
+    {
+      "title": "Withnail and I",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131233-016f53bb2957ab5534687e3bf3f536d3/Film_119w_WithnailAndI_original.jpg",
+      "director": "Bruce Robinson",
+      "spine": "119"
+    },
+    {
+      "title": "Woman of the Year",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132413-ced026cd30f75ef3e4c849e40b2f3610/Film_867_WomanofYear_original.jpg",
+      "director": "George Stevens",
+      "spine": "867"
+    },
+    {
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bb11481e7cb30c36292ec51d9c3f33fd.jpeg",
+      "director": "Pedro Almodóvar",
+      "spine": "855"
+    },
+    {
+      "title": "Yoyo",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132095-9227c516ead4e736b1e0b60f3681c73a/Film_655w_Yoyo_original.jpg",
+      "director": "Pierre Etaix",
+      "spine": "855"
+    }
+  ]
+}
