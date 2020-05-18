@@ -1,0 +1,429 @@
+{
+  "independent_american_cinema": [
+    {
+      "title": "¡Alambrista!",
+      "image": "https://s3.amazonaws.com/criterion-production/films/0491f97086109447ae043dd560ab1deb/yN0HxZOaIlmehJUNzXjOrTZoTSNtdp_thumbnail.jpg",
+      "director": "Robert M. Young",
+      "spine": "609"
+    },
+    {
+      "title": "Badlands",
+      "image": "https://s3.amazonaws.com/criterion-production/films/a54f64b1b0ef213b885f58bb6bd0a52c/mIKKJYC8m5eLi8ybTuoSZOyyCtoukK_thumbnail.jpg",
+      "director": "Terrence Malick",
+      "spine": "651"
+    },
+    {
+      "title": "The Ballad of Gregorio Cortez",
+      "image": "https://s3.amazonaws.com/criterion-production/films/82911fdc4bc68ac69e30cdbcd12a73c1/SBRt5x7q3obOhRoNTuxHxMjIHEG0JN_thumbnail.jpg",
+      "director": "Robert M. Young",
+      "spine": "940"
+    },
+    {
+      "title": "Barcelona",
+      "image": "https://s3.amazonaws.com/criterion-production/films/5edbdd9a71ff33ff8fe1c30044aff9ff/tqYv26202uYJDHcI0i3JxQRbXfJUvq_thumbnail.jpg",
+      "director": "Whit Stillman",
+      "spine": "807"
+    },
+    {
+      "title": "Les Blank: Always for Pleasure",
+      "image": "https://s3.amazonaws.com/criterion-production/films/2f688652803c16264043f90f17e765ca/PheFiY9qVZJASFnN5IAxieKfzbo300_thumbnail.jpg",
+      "director": "Les Blank",
+      "spine": "737"
+    },
+    {
+      "title": "Blast of Silence",
+      "image": "https://s3.amazonaws.com/criterion-production/films/2817715fcf9440573782a4174f23ab80/bKDtbQOKDfNuRMNeMHo5iM9rOKZXZ1_thumbnail.jpg",
+      "director": "Allen Baron",
+      "spine": "428"
+    },
+    {
+      "title": "Blood Simple",
+      "image": "https://s3.amazonaws.com/criterion-production/films/587c8a3258addd59d3aa60ab4ab9e56b/zsEuDiXVAiOpAnXK08QtV7PfqZGbfX_thumbnail.jpg",
+      "director": "Joel Coen",
+      "spine": "834"
+    },
+    {
+      "title": "Body and Soul",
+      "image": "https://s3.amazonaws.com/criterion-production/films/e8c19690806d171f7e3ef5c667737ca9/v6zAyHvnNeorIDi62bcCZ2NTMmOwHJ_thumbnail.jpg",
+      "director": "Oscar Micheaux",
+      "spine": "371"
+    },
+    {
+      "title": "Border Radio",
+      "image": "https://s3.amazonaws.com/criterion-production/films/2131124bf11dd19cde56a791c8fc54f9/o5Y9AGkM9iZWMr9AQm46QYzEAvubcV_thumbnail.jpg",
+      "director": "Allison Anders, Dean Lent, and Kurt Voss",
+      "spine": "362"
+    },
+    {
+      "title": "Bottle Rocket",
+      "image": "https://s3.amazonaws.com/criterion-production/films/35f9d445a3a2f956d2b62743d96b70a8/aCk80wNJpXkp5LtyMGF6tRFGmw12nI_thumbnail.jpg",
+      "director": "Wes Anderson",
+      "spine": "450"
+    },
+    {
+      "title": "Burden of Dreams",
+      "image": "https://s3.amazonaws.com/criterion-production/films/ebb3bf89d705f125537a7e7e1aee3b29/GqsByzCtbyIcjEY4V5D6BZZua21jyh_thumbnail.jpg",
+      "director": "Les Blank",
+      "spine": "287"
+    },
+    {
+      "title": "Burroughs: The Movie",
+      "image": "https://s3.amazonaws.com/criterion-production/films/807c0bc4f902b4aa94045f5275b30121/FuCLJsBQpvLkhEkGDBDuCZdmbZIk7f_thumbnail.jpg",
+      "director": "Howard Brookner",
+      "spine": "789"
+    },
+    {
+      "title": "By Brakhage: An Anthology, Volume One",
+      "image": "https://s3.amazonaws.com/criterion-production/films/e4edb0b54b1d565c27870d2a3826d6b3/fMqyWu4ooJl1NUtQKC1qopRWtM0YQk_thumbnail.jpg",
+      "director": "Stan Brakhage",
+      "spine": "184"
+    },
+    {
+      "title": "By Brakhage: An Anthology, Volume Two",
+      "image": "https://s3.amazonaws.com/criterion-production/films/3eb6763798a2beb8c2e66f2cba9bf438/oOjVjvYPIHS1KXuKIHOna0hvBJrCmM_thumbnail.jpg",
+      "director": "Stan Brakhage",
+      "spine": "517"
+    },
+    {
+      "title": "Carnival of Souls",
+      "image": "https://s3.amazonaws.com/criterion-production/films/51353d1bb3a1bb83a7f9f1b9f1844272/IGXFgI5PulNUIH2YZNE3IMg44hLAlZ_thumbnail.jpg",
+      "director": "Herk Harvey",
+      "spine": "63"
+    },
+    {
+      "title": "Certain Women",
+      "image": "https://s3.amazonaws.com/criterion-production/films/4fc022e9991a04da17eca116f25da486/9jF0ujusjEgxrtr0jHApYD6lmdl6OC_thumbnail.jpg",
+      "director": "Kelly Reichardt",
+      "spine": "893"
+    },
+    {
+      "title": "Clean, Shaven",
+      "image": "https://s3.amazonaws.com/criterion-production/films/072341219cb469ae34678a376c4cd241/Zj2dWjjyBYisz6T1eembGfuvePjxGp_thumbnail.jpg",
+      "director": "Lodge Kerrigan",
+      "spine": "354"
+    },
+    {
+      "title": "Crumb",
+      "image": "https://s3.amazonaws.com/criterion-production/films/27dd566d238f504813be2dfe941e3485/KUBCmsMdzcwngqIjbICbsqUSkdzdok_thumbnail.jpg",
+      "director": "Terry Zwigoff",
+      "spine": "533"
+    },
+    {
+      "title": "The Daytrippers",
+      "image": "https://s3.amazonaws.com/criterion-production/films/970a3900ccacf0352f032e35c13549ed/un35TUcekpTvbbRD0VsNDeM3k57TjF_thumbnail.jpg",
+      "director": "Greg Mottola",
+      "spine": "1001"
+    },
+    {
+      "title": "Dead Man",
+      "image": "https://s3.amazonaws.com/criterion-production/films/677caf3a735a98d9b25dda5866e02425/AviAMLQTTTBrVvmfpiblXCNpkIDwdP_thumbnail.jpg",
+      "director": "Jim Jarmusch",
+      "spine": "919"
+    },
+    {
+      "title": "Desert Hearts",
+      "image": "https://s3.amazonaws.com/criterion-production/films/03324a6531ef2d5b59362c4c1f526f8d/W9BXrsLXnGb3dsEG98WrRJ9UuJHSWx_thumbnail.jpg",
+      "director": "Donna Deitch",
+      "spine": "902"
+    },
+    {
+      "title": "Down by Law",
+      "image": "https://s3.amazonaws.com/criterion-production/films/971acca4acd64f837918ecb57ceae1b9/SE268veW5ULrxyQYNfzZrmscGa4E6I_thumbnail.jpg",
+      "director": "Jim Jarmusch",
+      "spine": "166"
+    },
+    {
+      "title": "Eating Raoul",
+      "image": "https://s3.amazonaws.com/criterion-production/films/28d6495a960ffeca7c74c5a56d6e36e2/4FZJ4FZE0H7nPOEDoBjes4hUsAkzG1_thumbnail.jpg",
+      "director": "Paul Bartel",
+      "spine": "625"
+    },
+    {
+      "title": "The Emperor Jones",
+      "image": "https://s3.amazonaws.com/criterion-production/films/6ad67d0bf18658d64747ef2cad51dba4/DPrx897B0y0xSDBctcV7Dx9kcxV4C6_thumbnail.jpg",
+      "director": "Dudley Murphy",
+      "spine": "370"
+    },
+    {
+      "title": "Equinox",
+      "image": "https://s3.amazonaws.com/criterion-production/films/25a6ff7c494d57431ad8e9db70da7775/IntxxcLKB8OiRTk1jozZohUF58ndJr_thumbnail.jpg",
+      "director": "Jack Woods",
+      "spine": "338"
+    },
+    {
+      "title": "Eraserhead",
+      "image": "https://s3.amazonaws.com/criterion-production/films/c834dedcc911ec34cb90bdefd315542e/nqPw4QXPXZp3mgcIFcvR9BL0mW2obB_thumbnail.jpg",
+      "director": "David Lynch",
+      "spine": "725"
+    },
+    {
+      "title": "Faces",
+      "image": "https://s3.amazonaws.com/criterion-production/films/50c46391dcf93a0c61119b657cc105a4/NjRgeDmzeOxHkplWNoMOrld8T5ng9W_thumbnail.jpg",
+      "director": "John Cassavetes",
+      "spine": "252"
+    },
+    {
+      "title": "Female Trouble",
+      "image": "https://s3.amazonaws.com/criterion-production/films/158358e5a3c887eb8da3f2fd7c88ca32/M2SseBDqHqhbAX1r730ezWGJFjcTxE_thumbnail.jpg",
+      "director": "John Waters",
+      "spine": "929"
+    },
+    {
+      "title": "For All Mankind",
+      "image": "https://s3.amazonaws.com/criterion-production/films/b8d150ed20e90cb009b9cd92f6b838a2/iCvU31Qd88oy6pr3236U5ClpzkmIno_thumbnail.jpg",
+      "director": "Al Reinert",
+      "spine": "54"
+    },
+    {
+      "title": "Frances Ha",
+      "image": "https://s3.amazonaws.com/criterion-production/films/696c37eed59910dfea4434e026341851/inQvZ3WX3kf2maiBNowA2WVCzoqTOe_thumbnail.jpg",
+      "director": "Noah Baumbach",
+      "spine": "681"
+    },
+    {
+      "title": "George Washington",
+      "image": "https://s3.amazonaws.com/criterion-production/films/a73475b70493622e2b88524df1c8e040/ls8lqlIoz36jroS7stPy7lfhWmzKD5_thumbnail.jpg",
+      "director": "David Gordon Green",
+      "spine": "152"
+    },
+    {
+      "title": "Ghost World",
+      "image": "https://s3.amazonaws.com/criterion-production/films/54ba78d05a5da9a47a96bbcac128d1ba/kzelSbUjTPsbUO1Tkw6tYxPx5c94Lt_thumbnail.jpg",
+      "director": "Terry Zwigoff",
+      "spine": "872"
+    },
+    {
+      "title": "Grey Gardens",
+      "image": "https://s3.amazonaws.com/criterion-production/films/251568d04b57d0ba9fcf4f122aecb6b0/tOYh5gWdFXenaqTAGp5Nix2HBnl4o3_thumbnail.jpg",
+      "director": "David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer",
+      "spine": "123"
+    },
+    {
+      "title": "Harlan County USA",
+      "image": "https://s3.amazonaws.com/criterion-production/films/f5361612515871553628e26305ac00a5/yc3y38kQLI8Mz6XaqTG0KhvdViYpyZ_thumbnail.jpg",
+      "director": "Barbara Kopple",
+      "spine": "334"
+    },
+    {
+      "title": "Hedwig and the Angry Inch",
+      "image": "https://s3.amazonaws.com/criterion-production/films/52ffffbd90945e11901030ff291ac5cb/r6jMm8TJwfxzntIo63jl208R8pfXcA_thumbnail.jpg",
+      "director": "John Cameron Mitchell",
+      "spine": "982"
+    },
+    {
+      "title": "The Honeymoon Killers",
+      "image": "https://s3.amazonaws.com/criterion-production/films/e8efb0740a6a77aa3ab8e9bf497cf7be/ew3CeZS5A7XkL2RZQ3qRlu4tMPOp0G_thumbnail.jpg",
+      "director": "Leonard Kastle",
+      "spine": "200"
+    },
+    {
+      "title": "Hoop Dreams",
+      "image": "https://s3.amazonaws.com/criterion-production/films/6f224009b80750373cbbd77a0c2c8851/9KTyybheUCxnfP9mQnYkLpbZGpVoow_thumbnail.jpg",
+      "director": "Steve James",
+      "spine": "289"
+    },
+    {
+      "title": "Husbands",
+      "image": "https://s3.amazonaws.com/criterion-production/films/78923bc7cdf6f313c2f69c4869e41bcd/jjWhLAVSs3yMPTCWDB7eRonBYK68Rv_thumbnail.jpg",
+      "director": "John Cassavetes",
+      "spine": "1029"
+    },
+    {
+      "title": "John Cassavetes: Five Films",
+      "image": "https://s3.amazonaws.com/criterion-production/product_images/1872-a1193fec634c922ab53d68f8c156ee20/En2M1rQdo8KTHEDM6IF3wCzKIDV7GU_small.jpg",
+      "spine": "250"
+    },
+    {
+      "title": "Kicking and Screaming",
+      "image": "https://s3.amazonaws.com/criterion-production/films/72a04d992e6b3851090778c7eca1c196/xhuxNVYn3OOfBFuHkk88LeeZQBlymM_thumbnail.jpg",
+      "director": "Noah Baumbach",
+      "spine": "349"
+    },
+    {
+      "title": "The Killing of a Chinese Bookie",
+      "image": "https://s3.amazonaws.com/criterion-production/films/04d83f88552119dc45285e9671c38262/ciN1laNVIJuDLTvkmMCHSRsbrUeKwe_thumbnail.jpg",
+      "director": "John Cassavetes",
+      "spine": "254"
+    },
+    {
+      "title": "Louie Bluie",
+      "image": "https://s3.amazonaws.com/criterion-production/films/e5c8022fe530c9c956c5f4e6da7eb0bc/Ls5iNAEQucmF6Eas1lVNWgJadweWmh_thumbnail.jpg",
+      "director": "Terry Zwigoff",
+      "spine": "532"
+    },
+    {
+      "title": "Mala Noche",
+      "image": "https://s3.amazonaws.com/criterion-production/films/f02f7508220639e063310b7ce6cdeb17/SJB8Gpe59wXrp6mPEg2abzw31HI6jk_thumbnail.jpg",
+      "director": "Gus Van Sant",
+      "spine": "407"
+    },
+    {
+      "title": "Matewan",
+      "image": "https://s3.amazonaws.com/criterion-production/films/cbcfd13607da02c008bac763443a428e/A5FgzMYh7cEOvsCZ4XHBqvwnOlaUWL_thumbnail.jpg",
+      "director": "John Sayles",
+      "spine": "999"
+    },
+    {
+      "title": "Me and You and Everyone We Know",
+      "image": "https://s3.amazonaws.com/criterion-production/films/433136d75ef46cccd37a4bef02982ff0/RosnfpzufFCkgi4EcWSnvr8QRNyoPn_thumbnail.jpg",
+      "director": "Miranda July",
+      "spine": "1026"
+    },
+    {
+      "title": "Metropolitan",
+      "image": "https://s3.amazonaws.com/criterion-production/films/a4030fd0d405faa565150a8bd8614425/MMVDGYzCcqxhnhCe4gPzo36yLJp9aq_thumbnail.jpg",
+      "director": "Whit Stillman",
+      "spine": "326"
+    },
+    {
+      "title": "Multiple Maniacs",
+      "image": "https://s3.amazonaws.com/criterion-production/films/c1a4df39031b06aa1eaabf7893621326/L0W81XlVrmmRSWtVwD591ji2Qy09pP_thumbnail.jpg",
+      "director": "John Waters",
+      "spine": "863"
+    },
+    {
+      "title": "Mystery Train",
+      "image": "https://s3.amazonaws.com/criterion-production/films/cb051eccc859df79f34384dbb07d348e/lnBFWjRhYljtqu7KY6hyN5JSJ16F7L_thumbnail.jpg",
+      "director": "Jim Jarmusch",
+      "spine": "521"
+    },
+    {
+      "title": "The Naked Kiss",
+      "image": "https://s3.amazonaws.com/criterion-production/films/9c21caac60a7558d8030db85a92b3823/bus4DWYh5ZqgeBYZ3FCBe5pNmM9syt_thumbnail.jpg",
+      "director": "Samuel Fuller",
+      "spine": "18"
+    },
+    {
+      "title": "Night of the Living Dead",
+      "image": "https://s3.amazonaws.com/criterion-production/films/5d825de608ea6993b42be3c972bab02f/O4mn7lXmAaCzdLtUmSqBHAKHJBQW3P_thumbnail.jpg",
+      "director": "George A. Romero",
+      "spine": "909"
+    },
+    {
+      "title": "El Norte",
+      "image": "https://s3.amazonaws.com/criterion-production/films/c1fb2b82ed4efdfeed42218073a0b176/FHQSYwiYqbpb8iR4OtQGQPbroXU1Dm_thumbnail.jpg",
+      "director": "Gregory Nava",
+      "spine": "458"
+    },
+    {
+      "title": "Old Joy",
+      "image": "https://s3.amazonaws.com/criterion-production/films/eefb96ac948c689de4a56803a285cefe/9ifQI92S6E9FgNzpLOJg1vrvHikjqx_thumbnail.jpg",
+      "director": "Kelly Reichardt",
+      "spine": "1008"
+    },
+    {
+      "title": "Paris Is Burning",
+      "image": "https://s3.amazonaws.com/criterion-production/films/db018ea632f4576c8eb5e168bbf244a0/LSoJP2f4HIWyY4pBAuk8lnOO82jBCv_thumbnail.jpg",
+      "director": "Jennie Livingston",
+      "spine": "1018"
+    },
+    {
+      "title": "A Poem Is a Naked Person",
+      "image": "https://s3.amazonaws.com/criterion-production/films/a550fa4c48b676f77850ceb4d292a712/7spuIUaKC3gSaUUpTQ374BtkEc5fWM_thumbnail.jpg",
+      "director": "Les Blank",
+      "spine": "805"
+    },
+    {
+      "title": "Polyester",
+      "image": "https://s3.amazonaws.com/criterion-production/films/0dfde41faa9f8ee13fb4c08ebb7dd58d/D3OtX39pUdpNPulANEYss4AVI6uzHm_thumbnail.jpg",
+      "director": "John Waters",
+      "spine": "995"
+    },
+    {
+      "title": "Safe",
+      "image": "https://s3.amazonaws.com/criterion-production/films/18b9ad4931d21243138ca77870331ab9/6fW6jqEqhIvAAudJ0lMPWDP7X97USz_thumbnail.jpg",
+      "director": "Todd Haynes",
+      "spine": "739"
+    },
+    {
+      "title": "Salesman",
+      "image": "https://s3.amazonaws.com/criterion-production/films/de3ced1c9ab41dc9a3e5d6ad17fb9ba1/nabE9bhsoCoicrC939dTgyUCFmDu2n_thumbnail.jpg",
+      "director": "David Maysles…",
+      "spine": "122"
+    },
+    {
+      "title": "Schizopolis",
+      "image": "https://s3.amazonaws.com/criterion-production/films/5bb350dec46c39ef4eabb5c7bb3991cf/3r21kirmhYtgJior67epJ9b2vRVgbR_thumbnail.jpg",
+      "director": "Steven Soderbergh",
+      "spine": "199"
+    },
+    {
+      "title": "Scorsese Shorts",
+      "image": "https://s3.amazonaws.com/criterion-production/films/f88e619547e1036d2b7595feb1688281/38xYUK39YImmWPoyi8XjcukL09hDwU_thumbnail.jpg",
+      "director": "Martin Scorsese",
+      "spine": "1030"
+    },
+    {
+      "title": "sex, lies, and videotape",
+      "image": "https://s3.amazonaws.com/criterion-production/films/8d79633589b76828b8eadd187028cf64/yTno3yh9uP29CmG2cCQCo4nt4fDpWb_thumbnail.jpg",
+      "director": "Steven Soderbergh",
+      "spine": "938"
+    },
+    {
+      "title": "Shadows",
+      "image": "https://s3.amazonaws.com/criterion-production/films/4609003afa2405294b3a648782889b49/NIhyi38Sf3TN6r7De8xBMw5Wk1zA7a_thumbnail.jpg",
+      "director": "John Cassavetes",
+      "spine": "251"
+    },
+    {
+      "title": "Shock Corridor",
+      "image": "https://s3.amazonaws.com/criterion-production/films/655fa066ac6fb4c96d560667e9459fd0/8nYRqrpwiqf90Uwvh0SI7wzA0vnfcX_thumbnail.jpg",
+      "director": "Samuel Fuller",
+      "spine": "19"
+    },
+    {
+      "title": "Slacker",
+      "image": "https://s3.amazonaws.com/criterion-production/films/952711c7e159f884b072e6afdbb4d9ae/aHl7gHVts3vg6wGhjYlyRYGlJCDWOn_thumbnail.jpg",
+      "director": "Richard Linklater",
+      "spine": "247"
+    },
+    {
+      "title": "Smithereens",
+      "image": "https://s3.amazonaws.com/criterion-production/films/087c5e1e1acaf973c9ca5c5f306f0b1b/kcICmwHV4rQuKv6wFvElhNS6dlPr6e_thumbnail.jpg",
+      "director": "​Susan Seidelman",
+      "spine": "941"
+    },
+    {
+      "title": "Stranger Than Paradise",
+      "image": "https://s3.amazonaws.com/criterion-production/films/7da214a5a5d94a222785c8dd5c257e57/85da9M3NwHvtnIvj6oK2ovJjtYOTX8_thumbnail.jpg",
+      "director": "Jim Jarmusch",
+      "spine": "400"
+    },
+    {
+      "title": "Symbiopsychotaxiplasm",
+      "image": "https://s3.amazonaws.com/criterion-production/films/fa236bebabd7851c126a6dc2d07aed51/kqsplGGxAdO7Zn7FTmc2tUICnkAHv4_thumbnail.jpg",
+      "director": "William Greaves",
+      "spine": "360"
+    },
+    {
+      "title": "The Times of Harvey Milk",
+      "image": "https://s3.amazonaws.com/criterion-production/films/b218dc736aca04e70a9141fb76938977/iGVsfdDUhUrZ7Q8QTwV4HdWq9T9mQ3_thumbnail.jpg",
+      "director": "Robert Epstein",
+      "spine": "557"
+    },
+    {
+      "title": "Tiny Furniture",
+      "image": "https://s3.amazonaws.com/criterion-production/films/2881929c283b8fb2cb0fe1d8c05bc189/vosQefD5ERUUYpVjTbTIBXTl4TX8vQ_thumbnail.jpg",
+      "director": "Lena Dunham",
+      "spine": "597"
+    },
+    {
+      "title": "True Stories",
+      "image": "https://s3.amazonaws.com/criterion-production/films/7577ed3ce6bab96d5193c4b744e0098a/1xw1IyFisGyE1qcyYVvxGWy8nUZv89_thumbnail.jpg",
+      "director": "David Byrne",
+      "spine": "951"
+    },
+    {
+      "title": "Wildlife",
+      "image": "https://s3.amazonaws.com/criterion-production/films/597124f416f05a040868b747ef5dbb39/Yg8FHf5KpTrN5RJ01e73Y5kuxWAI3m_thumbnail.jpg",
+      "director": "Paul Dano",
+      "spine": "1031"
+    },
+    {
+      "title": "A Woman Under the Influence",
+      "image": "https://s3.amazonaws.com/criterion-production/films/0c82e8d0929b009cd65748aaae041b5a/0pC5sDXG6E0GQXo7qCiCXhvEqKq98b_thumbnail.jpg",
+      "director": "John Cassavetes",
+      "spine": "253"
+    }
+  ]
+}

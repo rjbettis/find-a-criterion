@@ -1,0 +1,236 @@
+{
+ "japanese_new_wave": [
+  {
+   "title": "Black Sun",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131137-4fa3aaaa341420c936b04de5758d5f73/Kurahara_Filmw_BlackSun_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27761-black-sun",
+   "director": "Koreyoshi Kurahara",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27761-black-sun"
+  },
+  {
+   "title": "Branded to Kill",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131529-032cd2b22e9d24e03541b89e8c07491f/Film_38w_BrandedToKill_original.jpg",
+   "director": "Seijun Suzuki",
+   "spine": "38"
+  },
+  {
+   "title": "A Colt Is My Passport",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/25564-30e0c648deba612d12fcd7c9ae263cb9/XXX_Film_coltismypassport_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/2959-a-colt-is-my-passport",
+   "director": "Takashi Nomura",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/2959-a-colt-is-my-passport"
+  },
+  {
+   "title": "Cruel Gun Story",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/25620-5e87d4e8d0356df5b69ebf86cf8db921/XXX_Film_cruelgunstory1_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/2958-cruel-gun-story",
+   "director": "Takumi Furukawa",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/2958-cruel-gun-story"
+  },
+  {
+   "title": "Death by Hanging",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132335-1471f6e5abecfb432ecf60721a5bf02e/Film_798_DeathByHanging_original.jpg",
+   "director": "Nagisa Oshima",
+   "spine": "798"
+  },
+  {
+   "title": "Double Suicide",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131713-6bf7ae53075f59de40d81bcb6caee22a/Film_104w_DoubleSuicide_bw_original.jpg",
+   "director": "Masahiro Shinoda",
+   "spine": "104"
+  },
+  {
+   "title": "The Face of Another",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131673-b2e186a2f9306c91d3ee853a2dc1647d/Film_395w_FaceAnother_bw_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/828-the-face-of-another",
+   "director": "Hiroshi Teshigahara",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/828-the-face-of-another"
+  },
+  {
+   "title": "Fighting Elegy",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/9807-7533ef74a88c500225d988793ebd7f90/FightinElegyw_original.jpg",
+   "director": "Seijun Suzuki",
+   "spine": "269"
+  },
+  {
+   "title": "Gate of Flesh",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6355-3c1b5339cd112b24706e11204d32c1b5/Film_298w_GateFlesh_original.jpg",
+   "director": "Seijun Suzuki",
+   "spine": "298"
+  },
+  {
+   "title": "I Hate But Love",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131161-955a5055aee8b260476b4d3ad11aff87/Kurahara_Filmw_IHateButLove_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27760-i-hate-but-love",
+   "director": "Koreyoshi Kurahara",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27760-i-hate-but-love"
+  },
+  {
+   "title": "The Insect Woman",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/27764-e04627a8afc96d198234b79beeb23587/473_Film_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/1430-the-insect-woman",
+   "director": "Shohei Imamura",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/1430-the-insect-woman"
+  },
+  {
+   "title": "Intentions of Murder",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/27780-5bbd2f1491cd16180a9735eb01f069c5/474_Film_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/1431-intentions-of-murder",
+   "director": "Shohei Imamura",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/1431-intentions-of-murder"
+  },
+  {
+   "title": "Intimidation",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131113-1392627a22579a8f3d13a388165a8e0d/Kurahara_Filmw_Intimidation_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27759-intimidation",
+   "director": "Koreyoshi Kurahara",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27759-intimidation"
+  },
+  {
+   "title": "Japanese Summer: Double Suicide",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/71421-c61328791ea591316d9d954731e7fc10/Oshima_Film_japanesesummerdoublesuicide_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/23955-japanese-summer-double-suicide",
+   "director": "Nagisa Oshima",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/23955-japanese-summer-double-suicide"
+  },
+  {
+   "title": "Kill!",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131705-5e4b2dd8942b2e24a17290758f171d0e/Film_313w_Kill_bw_original.jpg",
+   "director": "Kihachi Okamoto",
+   "spine": "313"
+  },
+  {
+   "title": "Kwaidan",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130625-aa6ba26d01d0c493b311e9ad06eaaa98/Film_90w_KwaidanC_original.jpg",
+   "director": "Masaki Kobayashi",
+   "spine": "90"
+  },
+  {
+   "title": "Onibaba",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6331-13eff66a6e1a85d83f03ae082d9517dd/Film_226w_Onibab_original.jpg",
+   "director": "Kaneto Shindo",
+   "spine": "226"
+  },
+  {
+   "title": "Pale Flower",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130849-25a48ea01bbf3db56da18fe1386d8001/Film_564w_PaleFlower_original.jpg",
+   "director": "Masahiro Shinoda",
+   "spine": "564"
+  },
+  {
+   "title": "Patriotism",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5645-162630372d10e6dc890284a881606aa5/Film_433w_Patriotism_original.jpg",
+   "director": "Yukio Mishima…",
+   "spine": "433"
+  },
+  {
+   "title": "Pigs, Pimps & Prostitutes: 3 Films by Shohei Imamura",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/27772-da551e4488a02979c1f5dbe24814aaf7/472_Film_original.jpg",
+   "spine": "471"
+  },
+  {
+   "title": "Pitfall",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131681-8bd5f5a1ec908e806fcd08a5d1eb8f06/Film_393w_Pitfall_bw_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/827-pitfall",
+   "director": "Hiroshi Teshigahara",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/827-pitfall"
+  },
+  {
+   "title": "Pleasures of the Flesh",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/71397-abf09ce3f3a779c53e10429e09ac63c6/Oshima_Film_pleasuresoftheflesh_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/23954-pleasures-of-the-flesh",
+   "director": "Nagisa Oshima",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/23954-pleasures-of-the-flesh"
+  },
+  {
+   "title": "The Pornographers",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130153-dc483d7ca30d848c60a832951e6d1bb8/Film_207w_Pornographers_bw_original.jpg",
+   "director": "Shohei Imamura",
+   "spine": "207"
+  },
+  {
+   "title": "Samurai Spy",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6121-b9eea7c3a2901a1dced63536bc84ebdd/Film_312w_SamuraiSpy_original.jpg",
+   "director": "Masahiro Shinoda",
+   "spine": "312"
+  },
+  {
+   "title": "Sing a Song of Sex",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/71413-8419c8b9233e9908e005f05ee8ce902f/Oshima_Film_singasongofsex_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/21949-sing-a-song-of-sex",
+   "director": "Nagisa Oshima",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/21949-sing-a-song-of-sex"
+  },
+  {
+   "title": "Story of a Prostitute",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6347-97f5c44b801bf5b762e171a381c3aa4a/Film_299w_StoryProstitute_original.jpg",
+   "director": "Seijun Suzuki",
+   "spine": "299"
+  },
+  {
+   "title": "The Sword of Doom",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6711-dc9e85baeeb9915b4306ca99e7cb5fd7/Film_280w_SwordDoom_original.jpg",
+   "director": "Kihachi Okamoto",
+   "spine": "280"
+  },
+  {
+   "title": "Sword of the Beast",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6129-5434d0877a026c411921f6dcd0e1d796/Film_311w_SwordBeast_original.jpg",
+   "director": "Hideo Gosha",
+   "spine": "311"
+  },
+  {
+   "title": "Thirst for Love",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131145-94fa4f00c462d9c04f3ea16e85204795/Kurahara_Filmw_ThirstForLove_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27762-thirst-for-love",
+   "director": "Koreyoshi Kurahara",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27762-thirst-for-love"
+  },
+  {
+   "title": "Three Resurrected Drunkards",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/71429-998318a671f80825521bb9620a7f1e79/Oshima_Film_threeresurrecteddrunkards_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/21952-three-resurrected-drunkards",
+   "director": "Nagisa Oshima",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/21952-three-resurrected-drunkards"
+  },
+  {
+   "title": "Tokyo Drifter",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131985-6f45a7dbab5e7778974155f52c84e7cf/Film_39w_TokyoDrifter_original.jpg",
+   "director": "Seijun Suzuki",
+   "spine": "39"
+  },
+  {
+   "title": "Tokyo Olympiad",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131697-8302334f9b3e5f80fe4939bab60fc045/Film_155w_TokyoOlympiad_bw_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/709-tokyo-olympiad",
+   "director": "Kon Ichikawa",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/709-tokyo-olympiad"
+  },
+  {
+   "title": "Violence at Noon",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/71405-f5dd9eb2189b7805b1405e6100bcb7fe/Oshima_Film_violenceatnoon_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/22296-violence-at-noon",
+   "director": "Nagisa Oshima",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/22296-violence-at-noon"
+  },
+  {
+   "title": "The Warped Ones",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131121-ecc9a2190c84c54b9a4b52dc1dce6c57/Kurahara_Filmw_WarpedOnes_original.jpg",
+   "image_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27687-the-warped-ones",
+   "director": "Koreyoshi Kurahara",
+   "director_url": "https://web.archive.org/web/20171201033819/https://www.criterion.com/films/27687-the-warped-ones"
+  },
+  {
+   "title": "Woman in the Dunes",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131689-faf2fbbd6d073174a3821127713ecfaf/Film_394w_WomanDunes_bw_original.jpg",
+   "director": "Hiroshi Teshigahara",
+   "spine": "394"
+  },
+  {
+   "title": "Youth of the Beast",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/7747-11660c64d6ba5da5672b5b842254528f/Film_268w_YouthBeast_original.jpg",
+   "director": "Seijun Suzuki",
+   "spine": "268"
+  }
+ ]
+}

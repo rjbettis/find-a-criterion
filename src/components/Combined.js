@@ -14,6 +14,14 @@ import Cut from '../data/cut.json';
 import Documentaries from '../data/documentaries.json';
 import DysfunctionalFamilies from '../data/dysfunctional_families.json';
 import FaithOnFilms from '../data/faith_on_film.json';
+import FirstFilms from '../data/first_films.json';
+import FoodOnFilm from '../data/food_on_film.json';
+import GreatSoundtracks from '../data/great_soundtracks.json';
+import GrowingPains from '../data/growing_pains.json';
+import HeistMovies from '../data/heist_movies.json';
+import IndependentAmericanCinema from '../data/independent_american_cinema.json';
+import ItalianNeorealism from '../data/italian_neorealism.json';
+import JapaneseNewWave from '../data/japanese_new_wave.json';
 
 export default {
   ...AmericaAmerica,
@@ -32,4 +40,12 @@ export default {
   ...Documentaries,
   ...DysfunctionalFamilies,
   ...FaithOnFilms,
+  ...FirstFilms,
+  ...FoodOnFilm,
+  ...GreatSoundtracks,
+  ...GrowingPains,
+  ...HeistMovies,
+  ...IndependentAmericanCinema,
+  ...ItalianNeorealism,
+  ...JapaneseNewWave,
 };

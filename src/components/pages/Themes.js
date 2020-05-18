@@ -4,7 +4,6 @@ import ThemeList from '../../data/theme_list.json';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-//import GetTheme from '../GetTheme';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
 import { Link } from 'react-router-dom';
@@ -15,22 +14,11 @@ export class Themes extends Component {
 
     this.state = {
       themes: [],
-      currentTheme: 'browse',
     };
   }
 
   componentDidMount() {
     this.setState({ themes: ThemeList.themes });
-  }
-
-  clickEvent(title, json, summary, image) {
-    this.setState({
-      currentTheme: title,
-      currentJsonObject: json,
-      films: ThemeList.themes,
-      currentSummary: summary,
-      currentImage: image,
-    });
   }
 
   render() {
@@ -59,14 +47,7 @@ export class Themes extends Component {
                     <Card.Title className={'theme-card-title'}>
                       <Link
                         to={{
-                          pathname: '/Explore/Themes/GetTheme',
-                          state: {
-                            currentTheme: theme.title,
-                            currentJsonObject: theme.json,
-                            films: ThemeList.themes,
-                            currentSummary: theme.summary,
-                            currentImage: theme.image,
-                          },
+                          pathname: `/Explore/Themes/${theme.link}`,
                         }}
                       >
                         {theme.title}

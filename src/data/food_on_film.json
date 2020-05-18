@@ -1,0 +1,112 @@
+{
+ "food_on_film": [
+  {
+   "title": "Babette’s Feast",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132136-7cf9cbe634a809ebc8427f9f05aa3a39/Film_665w_BabettesFeast_original.jpg",
+   "director": "Gabriel Axel",
+   "spine": "665"
+  },
+  {
+   "title": "Les Blank: Always for Pleasure",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132259-9bd9c24472d6b20d402b8b3cedac576d/Film_737w_LesBlankBox_original.jpg",
+   "director": "Les Blank",
+   "spine": "737"
+  },
+  {
+   "title": "The Bakery Girl of Monceau",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130097-afa2363873a95913ae9ec273d82602b7/Film_343w_BakeryGirlofMonceau_bw_original.jpg",
+   "image_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/786-the-bakery-girl-of-monceau",
+   "director": "Eric Rohmer",
+   "director_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/786-the-bakery-girl-of-monceau"
+  },
+  {
+   "title": "Daisies",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131959-7322853fa6db0843d94f1c0a92b96203/Film_Eclipse_Daisies_original.jpg",
+   "image_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/27854-daisies",
+   "director": "Věra Chytilová",
+   "director_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/27854-daisies"
+  },
+  {
+   "title": "The Discreet Charm of the Bourgeoisie",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/8389-6fb342c208cf6063c3709fd6a6186d20/Film_102w_DiscreetCharm_original.jpg",
+   "image_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie",
+   "director": "Luis Buñuel",
+   "director_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
+  },
+  {
+   "title": "Fanny and Alexander: Theatrical Version",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/57991-a60baf0ef0310b42e733b18451219754/FANNY_ALEXANDER_xmas_filmstill_2_original.jpg",
+   "image_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/201-fanny-and-alexander-the-theatrical-version",
+   "director": "Ingmar Bergman",
+   "director_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/201-fanny-and-alexander-the-theatrical-version"
+  },
+  {
+   "title": "The Gleaners and I",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/3fc37f8caaf35762fe27ad7010b7e774.jpeg",
+   "director": "Agnès Varda",
+   "spine": ""
+  },
+  {
+   "title": "The Gleaners and I: Two Years Later",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/75ab2cb3e6d31015328ec421e4686785.jpeg",
+   "director": "Agnès Varda",
+   "spine": ""
+  },
+  {
+   "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/41479-fb5f59ceeb1ff5e7a81f3d8f6e5ff1b4/JEANNE_DIELMAN_video_still_original.jpg",
+   "director": "Chantal Akerman",
+   "spine": "484"
+  },
+  {
+   "title": "Love Affair, or the Case of the Missing Switchboard Operator",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/34644-f4db64c8ab4b4bca48a2e812c069d30f/Film_Switch_w_original.jpg",
+   "image_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/3985-love-affair-or-the-case-of-the-missing-switchboard-operator",
+   "director": "Dušan Makavejev",
+   "director_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/3985-love-affair-or-the-case-of-the-missing-switchboard-operator"
+  },
+  {
+   "title": "My Dinner with André",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/14299-bd01c9fc958af08a6a0f535dc5d96fc6/Film_479_MyDinnerAndre_original.jpg",
+   "director": "Louis Malle",
+   "spine": "479"
+  },
+  {
+   "title": "The Private Life of Henry VIII",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/13515-37960aaa6b25a7b6e47eb4a18c79226f/Henry_Film_original.jpg",
+   "image_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/1433-the-private-life-of-henry-viii",
+   "director": "Alexander Korda",
+   "director_url": "https://web.archive.org/web/20170826223617/https://www.criterion.com/films/1433-the-private-life-of-henry-viii"
+  },
+  {
+   "title": "The Secret of the Grain",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/109073-17ed3a1de4c4c5cd7500840480162ad7/Film_526w_SecretGrain_original.jpg",
+   "director": "Abdellatif Kechiche",
+   "spine": "527"
+  },
+  {
+   "title": "Still Walking",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130441-71bec623da696b66b9a3fe97c8668d70/Film_554w_StillWalking_original.jpg",
+   "director": "Hirokazu Kore-eda",
+   "spine": "554"
+  },
+  {
+   "title": "Sweet Movie",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5055-4a8f6a1df69fddd626732924523529dc/SweetMovie_original.jpg",
+   "director": "Dušan Makavejev",
+   "spine": "390"
+  },
+  {
+   "title": "The Taking of Power by Louis XIV",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/9921-72e9ef349dc1f35cc48226f8f199e5fa/TakingPowerw_original.jpg",
+   "director": "Roberto Rossellini",
+   "spine": "456"
+  },
+  {
+   "title": "Tampopo",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132411-21185cef8e9290879d7696f85874f7be/Film_868_Tampopo_original.jpg",
+   "director": "Juzo Itami",
+   "spine": "868"
+  }
+ ]
+}

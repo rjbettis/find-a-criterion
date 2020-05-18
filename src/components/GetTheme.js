@@ -7,73 +7,12 @@ import combinedJson from './Combined';
 import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
+import ThemeList from '../data/theme_list.json';
 
 export class GetTheme extends Component {
   state = {
     films: [],
   };
-
-  componentDidMount() {
-    if (this.props.location.state.currentJsonObject === 'america_america') {
-      this.setState({ films: combinedJson.america_america });
-    } else if (
-      this.props.location.state.currentJsonObject === 'french_new_wave'
-    ) {
-      this.setState({ films: combinedJson.french_new_wave });
-    } else if (this.props.location.state.currentJsonObject === 'amour_fou') {
-      this.setState({ films: combinedJson.amour_fou });
-    } else if (this.props.location.state.currentJsonObject === 'animals') {
-      this.setState({ films: combinedJson.animals });
-    } else if (this.props.location.state.currentJsonObject === 'avant_garde') {
-      this.setState({ films: combinedJson.avant_garde });
-    } else if (
-      this.props.location.state.currentJsonObject === 'blue_christmases'
-    ) {
-      this.setState({ films: combinedJson.blue_christmases });
-    } else if (
-      this.props.location.state.currentJsonObject === 'british_realism'
-    ) {
-      this.setState({ films: combinedJson.british_realism });
-    } else if (
-      this.props.location.state.currentJsonObject === 'cannes_big_winners'
-    ) {
-      this.setState({ films: combinedJson.cannes_big_winners });
-    } else if (
-      this.props.location.state.currentJsonObject === 'classic_hollywood'
-    ) {
-      this.setState({ films: combinedJson.classic_hollywood });
-    } else if (this.props.location.state.currentJsonObject === 'comedies') {
-      this.setState({ films: combinedJson.comedies });
-    } else if (
-      this.props.location.state.currentJsonObject === 'compare_and_contrast'
-    ) {
-      this.setState({ films: combinedJson.compare_and_contrast });
-    } else if (this.props.location.state.currentJsonObject === 'cult_movies') {
-      this.setState({ films: combinedJson.cult_movies });
-    } else if (this.props.location.state.currentJsonObject === 'cut') {
-      this.setState({ films: combinedJson.cut });
-    } else if (
-      this.props.location.state.currentJsonObject === 'documentaries'
-    ) {
-      this.setState({ films: combinedJson.documentaries });
-    } else if (
-      this.props.location.state.currentJsonObject === 'dysfunctional_families'
-    ) {
-      this.setState({ films: combinedJson.dysfunctional_families });
-    } else if (
-      this.props.location.state.currentJsonObject === 'faith_on_film'
-    ) {
-      this.setState({ films: combinedJson.faith_on_film });
-    }
-
-    this.setState({
-      currentTheme: this.props.location.state.currentTheme,
-      currentSummary: this.props.location.state.currentSummary,
-      currentImage: this.props.location.state.currentImage,
-    });
-
-    window.scrollTo(0, 0);
-  }
 
   render() {
     const currentTheme = this.state.currentTheme;
@@ -132,6 +71,173 @@ export class GetTheme extends Component {
         </Row>
       </Container>
     );
+  }
+
+  componentDidMount() {
+    if (this.props.match.params.theme === 'AmericaAmerica') {
+      this.setState({
+        films: combinedJson.america_america,
+        currentTheme: ThemeList.themes[0].title,
+        currentSummary: ThemeList.themes[0].summary,
+        currentImage: ThemeList.themes[0].image,
+      });
+    } else if (this.props.match.params.theme === 'AmourFou') {
+      this.setState({
+        films: combinedJson.amour_fou,
+        currentTheme: ThemeList.themes[1].title,
+        currentSummary: ThemeList.themes[1].summary,
+        currentImage: ThemeList.themes[1].image,
+      });
+    } else if (this.props.match.params.theme === 'Animals') {
+      this.setState({
+        films: combinedJson.animals,
+        currentTheme: ThemeList.themes[2].title,
+        currentSummary: ThemeList.themes[2].summary,
+        currentImage: ThemeList.themes[2].image,
+      });
+    } else if (this.props.match.params.theme === 'AvantGarde') {
+      this.setState({
+        films: combinedJson.avant_garde,
+        currentTheme: ThemeList.themes[3].title,
+        currentSummary: ThemeList.themes[3].summary,
+        currentImage: ThemeList.themes[3].image,
+      });
+    } else if (this.props.match.params.theme === 'BlueChristmases') {
+      this.setState({
+        films: combinedJson.blue_christmases,
+        currentTheme: ThemeList.themes[4].title,
+        currentSummary: ThemeList.themes[4].summary,
+        currentImage: ThemeList.themes[4].image,
+      });
+    } else if (this.props.match.params.theme === 'BritishRealism') {
+      this.setState({
+        films: combinedJson.british_realism,
+        currentTheme: ThemeList.themes[5].title,
+        currentSummary: ThemeList.themes[5].summary,
+        currentImage: ThemeList.themes[5].image,
+      });
+    } else if (this.props.match.params.theme === 'CannesBigWinners') {
+      this.setState({
+        films: combinedJson.cannes_big_winners,
+        currentTheme: ThemeList.themes[6].title,
+        currentSummary: ThemeList.themes[6].summary,
+        currentImage: ThemeList.themes[6].image,
+      });
+    } else if (this.props.match.params.theme === 'ClassicHollywood') {
+      this.setState({
+        films: combinedJson.classic_hollywood,
+        currentTheme: ThemeList.themes[7].title,
+        currentSummary: ThemeList.themes[7].summary,
+        currentImage: ThemeList.themes[7].image,
+      });
+    } else if (this.props.match.params.theme === 'Comedies') {
+      this.setState({
+        films: combinedJson.comedies,
+        currentTheme: ThemeList.themes[8].title,
+        currentSummary: ThemeList.themes[8].summary,
+        currentImage: ThemeList.themes[8].image,
+      });
+    } else if (this.props.match.params.theme === 'CompareAndContrast') {
+      this.setState({
+        films: combinedJson.compare_and_contrast,
+        currentTheme: ThemeList.themes[9].title,
+        currentSummary: ThemeList.themes[9].summary,
+        currentImage: ThemeList.themes[9].image,
+      });
+    } else if (this.props.match.params.theme === 'CultMovies') {
+      this.setState({
+        films: combinedJson.cult_movies,
+        currentTheme: ThemeList.themes[10].title,
+        currentSummary: ThemeList.themes[10].summary,
+        currentImage: ThemeList.themes[10].image,
+      });
+    } else if (this.props.match.params.theme === 'Cut') {
+      this.setState({
+        films: combinedJson.cut,
+        currentTheme: ThemeList.themes[11].title,
+        currentSummary: ThemeList.themes[11].summary,
+        currentImage: ThemeList.themes[11].image,
+      });
+    } else if (this.props.match.params.theme === 'Documentaries') {
+      this.setState({
+        films: combinedJson.documentaries,
+        currentTheme: ThemeList.themes[12].title,
+        currentSummary: ThemeList.themes[12].summary,
+        currentImage: ThemeList.themes[12].image,
+      });
+    } else if (this.props.match.params.theme === 'DysfunctionalFamilies') {
+      this.setState({
+        films: combinedJson.dysfunctional_families,
+        currentTheme: ThemeList.themes[13].title,
+        currentSummary: ThemeList.themes[13].summary,
+        currentImage: ThemeList.themes[13].image,
+      });
+    } else if (this.props.match.params.theme === 'FaithOnFilm') {
+      this.setState({
+        films: combinedJson.faith_on_film,
+        currentTheme: ThemeList.themes[14].title,
+        currentSummary: ThemeList.themes[14].summary,
+        currentImage: ThemeList.themes[14].image,
+      });
+    } else if (this.props.match.params.theme === 'FirstFilms') {
+      this.setState({
+        films: combinedJson.first_films,
+        currentTheme: ThemeList.themes[15].title,
+        currentSummary: ThemeList.themes[15].summary,
+        currentImage: ThemeList.themes[15].image,
+      });
+    } else if (this.props.match.params.theme === 'FoodOnFilm') {
+      this.setState({
+        films: combinedJson.food_on_film,
+        currentTheme: ThemeList.themes[16].title,
+        currentSummary: ThemeList.themes[16].summary,
+        currentImage: ThemeList.themes[16].image,
+      });
+    } else if (this.props.match.params.theme === 'FrenchNewWave') {
+      this.setState({
+        films: combinedJson.french_new_wave,
+        currentTheme: ThemeList.themes[17].title,
+        currentSummary: ThemeList.themes[17].summary,
+        currentImage: ThemeList.themes[17].image,
+      });
+    } else if (this.props.match.params.theme === 'GreatSoundtracks') {
+      this.setState({
+        films: combinedJson.great_soundtracks,
+        currentTheme: ThemeList.themes[18].title,
+        currentSummary: ThemeList.themes[18].summary,
+        currentImage: ThemeList.themes[18].image,
+      });
+    } else if (this.props.match.params.theme === 'GrowingPains') {
+      this.setState({
+        films: combinedJson.growing_pains,
+        currentTheme: ThemeList.themes[19].title,
+        currentSummary: ThemeList.themes[19].summary,
+        currentImage: ThemeList.themes[19].image,
+      });
+    } else if (this.props.match.params.theme === 'HeistMovies') {
+      this.setState({
+        films: combinedJson.heist_movies,
+        currentTheme: ThemeList.themes[20].title,
+        currentSummary: ThemeList.themes[20].summary,
+        currentImage: ThemeList.themes[20].image,
+      });
+    } else if (this.props.match.params.theme === 'IndependentAmericanCinema') {
+      this.setState({
+        films: combinedJson.independent_american_cinema,
+        currentTheme: ThemeList.themes[21].title,
+        currentSummary: ThemeList.themes[21].summary,
+        currentImage: ThemeList.themes[21].image,
+      });
+    } else if (this.props.match.params.theme === 'ItalianNeorealism') {
+      this.setState({
+        films: combinedJson.italian_neorealism,
+        currentTheme: ThemeList.themes[22].title,
+        currentSummary: ThemeList.themes[22].summary,
+        currentImage: ThemeList.themes[22].image,
+      });
+    }
+
+    window.scrollTo(0, 0);
   }
 }
 

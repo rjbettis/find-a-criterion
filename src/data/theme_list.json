@@ -108,14 +108,16 @@
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/361-7e4801f35bc19b47ae4e9c770462ec76/SS_original.jpg",
       "title": "First Films",
-      "link": "CultMovies",
-      "json": ""
+      "link": "FirstFilms",
+      "json": "first_films",
+      "summary": "It takes some master movie artists years to hone their craft, working through ideas and aesthetics until they achieve their consummate creative statement. But cinema history is also dotted with thunderous works of art that announced their makers’ brilliance right out of the gate. There’s no dearth of dazzling debuts in the Criterion Collection, from the New Wave launchers Breathless and The 400 Blows, by Jean-Luc Godard and François Truffaut, respectively, to the still career-defining early masterworks of Victor Erice (The Spirit of the Beehive), Marco Bellocchio (Fists in the Pocket), and Maurice Pialat (L’enfance nue). Here’s a great way to savor the beginnings of some of the pillars of cinema."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/355-490856ecfeb5341998fd4e731ca2525e/current_1130_006_original.jpg",
       "title": "Food on Film",
-      "link": "CultMovies",
-      "json": ""
+      "link": "FoodOnFilm",
+      "json": "food_on_film",
+      "summary": "Sometimes we recall a great movie the way we would a really fine meal—as a rich, flavorful experience. And food captured on-screen can have a particularly seductive appeal. There’s a long history of victuals visualized on film, and we have a particularly delectable selection on the menu here in the collection. Whether prepared at home (take notes on Isabella’s streusel recipe in Love Affair, or the Case of the Missing Switchboard Operator) or enjoyed at a restaurant (My Dinner with André), whether a gut-busting dinner (The Secret of the Grain) or just a little something (The Bakery Girl of Monceau), here’s food for thought."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/61-966c4c982e70b3c24fedfa18d086ea57/704_025_w_original.jpg",
@@ -127,38 +129,44 @@
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/385-11c8e32e466f4e3a0ff97a3c24885a7b/23_168_original.jpg",
       "title": "Great Soundtracks",
-      "link": "CultMovies",
-      "json": ""
+      "link": "GreatSoundtracks",
+      "json": "great_soundtracks",
+      "summary": "Try to think of Charade without that perfectly swoony Henry Mancini title song. Imagine Easy Rider roaring down the highway without Steppenwolf’s “Born to Be Wild” kicking it into high gear, or Dazed and Confused fading out to anything other than Foghat’s “Slow Ride”—or a zitherless The Third Man. Many movies are inextricable from their flawlessly selected soundtracks. Similarly, certain songs don’t seem to have reason to exist without the images they’ve been set to: Jeannette’s unfathomably giddy “Por que te vas” is forever tied to Ana Torrent’s bedroom dance in Cría cuervos . . . , and anyone who’s seen Chungking Express is unlikely to hear the Mamas and the Papas’ “California Dreamin’” without dreaming of Faye Wong bopping along. Below, explore a potpourri of Criterion pop and jazz, in films featuring music from David Bowie, Nat King Cole, Miles Davis, John Lurie, Nico, the Rolling Stones, Annie Ross, Tom Waits, and more."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/370-c29a6c5f55093a37b09f3eff439de479/explore_growing_pains_mouchette_1031_012_original.jpg",
       "title": "Growing Pains",
-      "link": "CultMovies",
-      "json": ""
+      "link": "GrowingPains",
+      "json": "growing_pains",
+      "summary": "Coming of age isn’t easy—especially in the Criterion catalog. Not all the kids in the films below had to resort to, say, primitive savagery on a desert island following an authority-figure-obliterating plane crash, but other extreme youthful horrors abound, whether related to sex, war, poverty, or high school. Where some of these characters would end up as adults we can only speculate. One thing’s for sure: the young actors who played them—from Bicycle Thieves’ Enzo Staiola to The 400 Blows’ Jean-Pierre Léaud to Mouchette’s Nadine Nortier—gave some of the most fearless, arresting performances ever captured on-screen."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/448-ecc3837a4c5d89ad41e729e90c3db0c8/spotlightleague_370_051_original.jpg",
       "title": "Heist Movies",
-      "link": "CultMovies",
-      "json": ""
+      "link": "HeistMovies",
+      "json": "heist_movies",
+      "summary": "At Criterion, it’s clear that heist movies have stolen our hearts. What is it that makes them so compelling? The clockwork precision, the array of characters needed, the potential consequences hanging in the air, our inevitable identification with the thieves (and our frustration when they don’t get away with it)—not to mention all that shiny loot. Here are some great movies to check out in a pinch, from French (Rififi) to American (The Friends of Eddie Coyle) to Japanese (Cruel Gun Story); they’re sure to inspire your inner criminal mastermind."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/364-14f6525ff6c47da0c2733803600b1f5e/explore_american_independents_BOTTLE_ROCKET_1159_022_original.jpg",
       "title": "Independent American Cinema",
-      "link": "CultMovies",
-      "json": ""
+      "link": "IndependentAmericanCinema",
+      "json": "independent_american_cinema",
+      "sunmmary": "In a national cinema dominated by behemoth Hollywood studios, independently produced films have always made for refreshing alternatives. There’s a great, diverse history of autonomous moviemaking in the United States, by artists whose intensely personal visions and ideas would have been unlikely to see a green light from, say, MGM or Universal. This selection of American films from the collection—narrative, documentary, experimental—got made without studio financing, whether by choice or necessity. The titles below come from raw, rough, and ready directors of nearly every period, including the silent era (Body and Soul, directed by African-American pioneer Oscar Micheaux), World War II (Paul Strand and Leo Hurwitz’s political semidocumentary Native Land), the radical sixties (the fiercely idiosyncratic films of John Cassavetes and William Greaves), and the indie waves of the eighties (Jim Jarmusch and Gus Van Sant’s daring early works) and nineties (the debuts of Whit Stillman and Wes Anderson). Whether exposés on disenfranchised subcultures, character studies heavy or hilarious, or microbudgeted horror flicks, these are some of the most uncompromised films ever made."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/349-efdebc4466abe9d199a2c1cb7c45a394/explore_neorealism_819_084_w_original.jpg",
       "title": "Italian Neorealism",
-      "link": "CultMovies",
-      "json": ""
+      "link": "ItalianNeorealism",
+      "json": "italian_neorealism",
+      "summary": "The neorealist movement began in Italy at the end of World War II as an urgent response to the political turmoil and desperate economic conditions afflicting the country. Directors such as Roberto Rossellini, Vittorio De Sica, and Luchino Visconti took up cameras to focus on lower-class characters and their concerns, using nonprofessional actors, outdoor shooting, (necessarily) very small budgets, and a realist aesthetic. The best-known examples remain De Sica’s Bicycle Thieves, a critical and popular phenomenon that opened the world’s eyes to this movement, and such key earlier works as Rossellini’s Open City, the first major neorealist production. Other classics of neorealism include De Sica’s Umberto D. and Visconti’s La terra trema, but the tendrils of the movement reach back to De Sica’s The Children Are Watching Us and forward to Rossellini’s The Flowers of St. Francis, as well as to some filmmakers who did their apprenticeships in this school, Michelangelo Antonioni and Federico Fellini—and far beyond."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/319-01be804aca905caffde0d3c2af470787/japanese_original.jpg",
       "title": "Japanese New Wave",
-      "link": "CultMovies",
-      "json": ""
+      "link": "JapaneseNewWave",
+      "json": "japanese_new_wave",
+      "summary": "A group of loosely connected daredevil filmmakers, commonly known as the Japanese New Wave, brought about the creative revitalization of Japanese cinema in the 1960s—even if the term itself was borrowed from the concurrent movement happening in France. Tired of the traditional forms of classical Japanese cinema, directors like Shohei Imamura (a lapsed Ozu acolyte), Nagisa Oshima (a former studio filmmaker whose films had finally proved too controversial), Seijun Suzuki (a bad-boy rebel increasingly uninterested in adhering to narrative logic), and Hiroshi Teshigahara (a flower artist, potter, and calligrapher as well as a filmmaker), created challenging works—both thematically, dealing with such hitherto taboo themes as sexual violence, racism, political radicalism, and the devastating aftermath of World War II, and, in some cases, formally, employing unorthodox editing strategies, shock effects, and confrontational imagery."
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/explore_images/325-a273688b4f4546a0881ab676b9e2139d/extra_original.jpg",
