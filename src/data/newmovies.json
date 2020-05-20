@@ -118,10 +118,22 @@
       "spine": "974"
     },
     {
+      "title": "Stalker",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/781d52992eb75372a93c3d774054a89a.jpeg",
+      "director": "Andrei Tarkovsky",
+      "spine": "888"
+    },
+    {
       "title": "Let the Sunshine In",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/28110bdb4b4a1ee7500bb258c60d5191.jpeg",
       "director": "Claire Denis",
       "spine": "976"
+    },
+    {
+      "title": "Tom Jones",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/16b9dd6f7b553174a33afa0212d81a9f.jpeg",
+      "director": "Tony Richardson",
+      "spine": "910"
     },
     {
       "title": "The Princess Bride",
@@ -1161,6 +1173,12 @@
       "spine": "999"
     },
     {
+      "title": "Certain Women",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e26cf1892ffcbd939af2903c78b8364d.jpeg",
+      "director": "Kelly Reichardt",
+      "spine": "893"
+    },
+    {
       "title": "Old Joy",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/cca96d5bcb3db04b7704b15819c280c9.jpeg",
       "director": "Kelly Reichardt",
@@ -1317,6 +1335,18 @@
       "spine": "922"
     },
     {
+      "title": "The Prince of Tides",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ee3c69cde170825a72d25ac834e2c32a.jpeg",
+      "director": "Barbra Streisand",
+      "spine": "1022"
+    },
+    {
+      "title": "My Brilliant Career",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8e39006f6f450223890be91e6cc9d241.jpeg",
+      "director": "Gillian Armstrong",
+      "spine": "973"
+    },
+    {
       "title": "The Piano Teacher",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/3417b8a748cf97eb65680be9241b4523.jpeg",
       "director": "Michael Haneke",
@@ -1393,6 +1423,12 @@
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6b1efe5d49504c3dc6e4800f24ce5cd3.jpeg",
       "director": "Terrence Malick",
       "spine": "651"
+    },
+    {
+      "title": "Certain Women",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e26cf1892ffcbd939af2903c78b8364d.jpeg",
+      "director": "Kelly Reichardt",
+      "spine": "893"
     },
     {
       "title": "The Ballad of Gregorio Cortez",
@@ -1706,10 +1742,34 @@
       "spine": "306"
     },
     {
+      "title": "Barry Lyndon",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8c33a3526a8f10667ee7ef0ea2c99b48.jpeg",
+      "director": "Stanley Kubrick",
+      "spine": "897"
+    },
+    {
       "title": "The Age of Innocence",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bbd6058918ce7db8df5d81343ddc0f41.jpeg",
       "director": "Martin Scorsese",
       "spine": "913"
+    },
+    {
+      "title": "Army of Shadows",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/955e8290e28858f0844a159def6c3ad2.jpeg",
+      "director": "Jean-Pierre Melville",
+      "spine": "385"
+    },
+    {
+      "title": "L’argent",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/52b569202841731b533b4622b437551b.jpeg",
+      "director": "Robert Bresson",
+      "spine": "886"
+    },
+    {
+      "title": "1984",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/09f96ccd20f811830d8ae0be0df691d2.jpeg",
+      "director": "Michael Radford",
+      "spine": "984"
     },
     {
       "title": "The Heiress",

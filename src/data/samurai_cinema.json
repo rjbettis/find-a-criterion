@@ -1,159 +1,159 @@
 {
- "samurai_cinema": [
-  {
-   "title": "Harakiri",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6197-d6ab06a995bdc2bb224588e09419ea05/Film_302w_Harakiri_original.jpg",
-   "director": "Masaki Kobayashi",
-   "spine": "302"
-  },
-  {
-   "title": "The Hidden Fortress",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129809-5c06b9f534572ab7918e57930ad04212/Film_116w_HiddenFortress_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "116"
-  },
-  {
-   "title": "Kagemusha",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6637-afa31d8b86e9268c7eb5fb7f47bb2456/Film_267w_Kagemusha_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "267"
-  },
-  {
-   "title": "Kill!",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131705-5e4b2dd8942b2e24a17290758f171d0e/Film_313w_Kill_bw_original.jpg",
-   "director": "Kihachi Okamoto",
-   "spine": "313"
-  },
-  {
-   "title": "Kuroneko",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131281-49099a4a9f8bdb24af13162178330f1d/Film_584w_Kuronenko_original.jpg",
-   "director": "Kaneto Shindo",
-   "spine": "584"
-  },
-  {
-   "title": "Kwaidan",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130625-aa6ba26d01d0c493b311e9ad06eaaa98/Film_90w_KwaidanC_original.jpg",
-   "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/629-kwaidan",
-   "director": "Masaki Kobayashi",
-   "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/629-kwaidan"
-  },
-  {
-   "title": "Lone Wolf and Cub",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/97fcf8ce0cf317391bc713f8dfafdd19.jpeg",
-   "spine": "841"
-  },
-  {
-   "title": "Onibaba",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6331-13eff66a6e1a85d83f03ae082d9517dd/Film_226w_Onibab_original.jpg",
-   "director": "Kaneto Shindo",
-   "spine": "226"
-  },
-  {
-   "title": "Ran",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6105-1ae3d999eface304251de87ba0e76a89/Film_316w_Ran_original.jpg",
-   "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/754-ran",
-   "director": "Akira Kurosawa",
-   "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/754-ran"
-  },
-  {
-   "title": "Rashomon",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131065-c6859ac160e7ad08ffcc282984eb4665/Film_138w_Rashomon_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "138"
-  },
-  {
-   "title": "Samurai I: Musashi Miyamoto",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131943-3f39054e2f2d517a8aa1abfe622c2826/Film_14w_SamuraiI_original.jpg",
-   "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/529-samurai-i-musashi-miyamoto",
-   "director": "Hiroshi Inagaki",
-   "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/529-samurai-i-musashi-miyamoto"
-  },
-  {
-   "title": "Samurai II: Duel at Ichijoji Temple",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/5233-e7932093dab7bbabd4de9dd6b7aa6637/Film_15w_SamuraiII_original.jpg",
-   "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple",
-   "director": "Hiroshi Inagaki",
-   "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple"
-  },
-  {
-   "title": "Samurai III: Duel at Ganryu Island",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130513-c2443a05c5f0d285d63ac8aea6b368ad/Film_16w_SamuraiIII_original.jpg",
-   "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island",
-   "director": "Hiroshi Inagaki",
-   "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island"
-  },
-  {
-   "title": "Samurai Rebellion",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6153-c51a1f6ba3edf594a62ca01f3cd5c0ff/Film_310w_SamuraiRebellion_original.jpg",
-   "director": "Masaki Kobayashi",
-   "spine": "310"
-  },
-  {
-   "title": "Samurai Spy",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6121-b9eea7c3a2901a1dced63536bc84ebdd/Film_312w_SamuraiSpy_original.jpg",
-   "director": "Masahiro Shinoda",
-   "spine": "312"
-  },
-  {
-   "title": "Sanjuro",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/9135-b33b1521317ad05661e9e830dd58c5d2/Sanjurow_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "53"
-  },
-  {
-   "title": "Sanshiro Sugata",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/43943-5c4b23bb5d217cf284f212aadfe04d7d/AK_Sanshiro1_Film_original.jpg",
-   "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12521-sanshiro-sugata",
-   "director": "Akira Kurosawa",
-   "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12521-sanshiro-sugata"
-  },
-  {
-   "title": "Sanshiro Sugata, Part Two",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/43951-8e0003f1b4f4b468507901271a206a46/AK_Sanshiro2_Film_original.jpg",
-   "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12522-sanshiro-sugata-part-two",
-   "director": "Akira Kurosawa",
-   "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12522-sanshiro-sugata-part-two"
-  },
-  {
-   "title": "Seven Samurai",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130497-7f6bf20a3dfa375eb303095cf71e3ea9/Film_2w_SevenSamurai_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "2"
-  },
-  {
-   "title": "The Sword of Doom",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6711-dc9e85baeeb9915b4306ca99e7cb5fd7/Film_280w_SwordDoom_original.jpg",
-   "director": "Kihachi Okamoto",
-   "spine": "280"
-  },
-  {
-   "title": "Sword of the Beast",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6129-5434d0877a026c411921f6dcd0e1d796/Film_311w_SwordBeast_original.jpg",
-   "director": "Hideo Gosha",
-   "spine": "311"
-  },
-  {
-   "title": "Three Outlaw Samurai",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131937-e5f3d40d1fb209ddcedc74cd35389d3c/Three_Outlaw_Samurai_Still_original.jpg",
-   "director": "Hideo Gosha",
-   "spine": "596"
-  },
-  {
-   "title": "Throne of Blood",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132006-0c21d946d1cdb1176a9139e036c5a414/Film_190w_ThroneOfBlood_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "190"
-  },
-  {
-   "title": "Yojimbo",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130185-02484313e9a43f2ac522e98cb844b85a/YOJIMBO_new_film_still_original.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "52"
-  },
-  {
-   "title": "Zatoichi: The Blind Swordsman",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/fec2ec518d181e9ec7c24c0813a3ca9b.jpeg",
-   "spine": "679"
-  }
- ]
+  "SamuraiCinema": [
+    {
+      "title": "Harakiri",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6197-d6ab06a995bdc2bb224588e09419ea05/Film_302w_Harakiri_original.jpg",
+      "director": "Masaki Kobayashi",
+      "spine": "302"
+    },
+    {
+      "title": "The Hidden Fortress",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129809-5c06b9f534572ab7918e57930ad04212/Film_116w_HiddenFortress_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "116"
+    },
+    {
+      "title": "Kagemusha",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6637-afa31d8b86e9268c7eb5fb7f47bb2456/Film_267w_Kagemusha_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "267"
+    },
+    {
+      "title": "Kill!",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131705-5e4b2dd8942b2e24a17290758f171d0e/Film_313w_Kill_bw_original.jpg",
+      "director": "Kihachi Okamoto",
+      "spine": "313"
+    },
+    {
+      "title": "Kuroneko",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131281-49099a4a9f8bdb24af13162178330f1d/Film_584w_Kuronenko_original.jpg",
+      "director": "Kaneto Shindo",
+      "spine": "584"
+    },
+    {
+      "title": "Kwaidan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130625-aa6ba26d01d0c493b311e9ad06eaaa98/Film_90w_KwaidanC_original.jpg",
+      "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/629-kwaidan",
+      "director": "Masaki Kobayashi",
+      "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/629-kwaidan"
+    },
+    {
+      "title": "Lone Wolf and Cub",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/97fcf8ce0cf317391bc713f8dfafdd19.jpeg",
+      "spine": "841"
+    },
+    {
+      "title": "Onibaba",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6331-13eff66a6e1a85d83f03ae082d9517dd/Film_226w_Onibab_original.jpg",
+      "director": "Kaneto Shindo",
+      "spine": "226"
+    },
+    {
+      "title": "Ran",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6105-1ae3d999eface304251de87ba0e76a89/Film_316w_Ran_original.jpg",
+      "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/754-ran",
+      "director": "Akira Kurosawa",
+      "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/754-ran"
+    },
+    {
+      "title": "Rashomon",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131065-c6859ac160e7ad08ffcc282984eb4665/Film_138w_Rashomon_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "138"
+    },
+    {
+      "title": "Samurai I: Musashi Miyamoto",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131943-3f39054e2f2d517a8aa1abfe622c2826/Film_14w_SamuraiI_original.jpg",
+      "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/529-samurai-i-musashi-miyamoto",
+      "director": "Hiroshi Inagaki",
+      "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/529-samurai-i-musashi-miyamoto"
+    },
+    {
+      "title": "Samurai II: Duel at Ichijoji Temple",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5233-e7932093dab7bbabd4de9dd6b7aa6637/Film_15w_SamuraiII_original.jpg",
+      "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple",
+      "director": "Hiroshi Inagaki",
+      "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple"
+    },
+    {
+      "title": "Samurai III: Duel at Ganryu Island",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130513-c2443a05c5f0d285d63ac8aea6b368ad/Film_16w_SamuraiIII_original.jpg",
+      "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island",
+      "director": "Hiroshi Inagaki",
+      "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island"
+    },
+    {
+      "title": "Samurai Rebellion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6153-c51a1f6ba3edf594a62ca01f3cd5c0ff/Film_310w_SamuraiRebellion_original.jpg",
+      "director": "Masaki Kobayashi",
+      "spine": "310"
+    },
+    {
+      "title": "Samurai Spy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6121-b9eea7c3a2901a1dced63536bc84ebdd/Film_312w_SamuraiSpy_original.jpg",
+      "director": "Masahiro Shinoda",
+      "spine": "312"
+    },
+    {
+      "title": "Sanjuro",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9135-b33b1521317ad05661e9e830dd58c5d2/Sanjurow_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "53"
+    },
+    {
+      "title": "Sanshiro Sugata",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/43943-5c4b23bb5d217cf284f212aadfe04d7d/AK_Sanshiro1_Film_original.jpg",
+      "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12521-sanshiro-sugata",
+      "director": "Akira Kurosawa",
+      "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12521-sanshiro-sugata"
+    },
+    {
+      "title": "Sanshiro Sugata, Part Two",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/43951-8e0003f1b4f4b468507901271a206a46/AK_Sanshiro2_Film_original.jpg",
+      "image_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12522-sanshiro-sugata-part-two",
+      "director": "Akira Kurosawa",
+      "director_url": "https://web.archive.org/web/20171024205443/https://www.criterion.com/films/12522-sanshiro-sugata-part-two"
+    },
+    {
+      "title": "Seven Samurai",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130497-7f6bf20a3dfa375eb303095cf71e3ea9/Film_2w_SevenSamurai_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "2"
+    },
+    {
+      "title": "The Sword of Doom",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6711-dc9e85baeeb9915b4306ca99e7cb5fd7/Film_280w_SwordDoom_original.jpg",
+      "director": "Kihachi Okamoto",
+      "spine": "280"
+    },
+    {
+      "title": "Sword of the Beast",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6129-5434d0877a026c411921f6dcd0e1d796/Film_311w_SwordBeast_original.jpg",
+      "director": "Hideo Gosha",
+      "spine": "311"
+    },
+    {
+      "title": "Three Outlaw Samurai",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131937-e5f3d40d1fb209ddcedc74cd35389d3c/Three_Outlaw_Samurai_Still_original.jpg",
+      "director": "Hideo Gosha",
+      "spine": "596"
+    },
+    {
+      "title": "Throne of Blood",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132006-0c21d946d1cdb1176a9139e036c5a414/Film_190w_ThroneOfBlood_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "190"
+    },
+    {
+      "title": "Yojimbo",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130185-02484313e9a43f2ac522e98cb844b85a/YOJIMBO_new_film_still_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "52"
+    },
+    {
+      "title": "Zatoichi: The Blind Swordsman",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/fec2ec518d181e9ec7c24c0813a3ca9b.jpeg",
+      "spine": "679"
+    }
+  ]
 }

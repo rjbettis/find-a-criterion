@@ -1,70 +1,70 @@
 {
- "poetic_realism": [
-  {
-   "title": "La bête humaine",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132032-5f993939434a6586189050229ee177e4/Film_324w_BeteHumaineB_original.jpg",
-   "director": "Jean Renoir",
-   "spine": "324"
-  },
-  {
-   "title": "Children of Paradise",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132001-cbad8b1fac7730bad0f9cd10639e399b/Film_141w_ChildrenOfParadise_original.jpg",
-   "director": "Marcel Carné",
-   "spine": "141"
-  },
-  {
-   "title": "Grand Illusion",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129921-e9da918149e8edae9cd256fd96857b04/P_GRAND_ILLUSION_bw_original.jpg",
-   "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/351-grand-illusion",
-   "director": "Jean Renoir",
-   "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/351-grand-illusion"
-  },
-  {
-   "title": "Le jour se lève",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/4014-2028eb12befa5a1fdec612feec410b75/P_original.jpg",
-   "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/356-le-jour-se-leve",
-   "director": "Marcel Carné",
-   "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/356-le-jour-se-leve"
-  },
-  {
-   "title": "The Lower Depths",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/9963-ed630259321216b3170c33ef905e1fdb/LowerDepthRw_original.jpg",
-   "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/870-the-lower-depths",
-   "director": "Jean Renoir",
-   "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/870-the-lower-depths"
-  },
-  {
-   "title": "Lumière d’été",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131954-c298c3ca581f03249c27fc88af0bab16/Gremillon_Filmw_Lumiere_original.jpg",
-   "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/28125-lumiere-d-ete",
-   "director": "Jean Grémillon",
-   "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/28125-lumiere-d-ete"
-  },
-  {
-   "title": "Pépé le moko",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129833-54fdb2575bb86f7b438667c34a7fa8d7/Film_172w_PepeLeMoko_original.jpg",
-   "director": "Julien Duvivier",
-   "spine": "172"
-  },
-  {
-   "title": "Port of Shadows",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6555-ffd2fa5e0c1475e12588b9df4ff83db9/Film_245w_PortShadows_original.jpg",
-   "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/947-port-of-shadows",
-   "director": "Marcel Carné",
-   "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/947-port-of-shadows"
-  },
-  {
-   "title": "Remorques",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131953-8081e36c13865cc1f0285587796da5ca/Gremillon_Filmw_Remorques_original.jpg",
-   "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/27677-remorques",
-   "director": "Jean Grémillon",
-   "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/27677-remorques"
-  },
-  {
-   "title": "The Rules of the Game",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129929-96f06b2aa9b38ec4fb81f8124e7b67c6/Film_216w_RulesGame_bw_original.jpg",
-   "director": "Jean Renoir",
-   "spine": "216"
-  }
- ]
+  "PoeticRealism": [
+    {
+      "title": "La bête humaine",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132032-5f993939434a6586189050229ee177e4/Film_324w_BeteHumaineB_original.jpg",
+      "director": "Jean Renoir",
+      "spine": "324"
+    },
+    {
+      "title": "Children of Paradise",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132001-cbad8b1fac7730bad0f9cd10639e399b/Film_141w_ChildrenOfParadise_original.jpg",
+      "director": "Marcel Carné",
+      "spine": "141"
+    },
+    {
+      "title": "Grand Illusion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129921-e9da918149e8edae9cd256fd96857b04/P_GRAND_ILLUSION_bw_original.jpg",
+      "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/351-grand-illusion",
+      "director": "Jean Renoir",
+      "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/351-grand-illusion"
+    },
+    {
+      "title": "Le jour se lève",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4014-2028eb12befa5a1fdec612feec410b75/P_original.jpg",
+      "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/356-le-jour-se-leve",
+      "director": "Marcel Carné",
+      "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/356-le-jour-se-leve"
+    },
+    {
+      "title": "The Lower Depths",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9963-ed630259321216b3170c33ef905e1fdb/LowerDepthRw_original.jpg",
+      "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/870-the-lower-depths",
+      "director": "Jean Renoir",
+      "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/870-the-lower-depths"
+    },
+    {
+      "title": "Lumière d’été",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131954-c298c3ca581f03249c27fc88af0bab16/Gremillon_Filmw_Lumiere_original.jpg",
+      "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/28125-lumiere-d-ete",
+      "director": "Jean Grémillon",
+      "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/28125-lumiere-d-ete"
+    },
+    {
+      "title": "Pépé le moko",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129833-54fdb2575bb86f7b438667c34a7fa8d7/Film_172w_PepeLeMoko_original.jpg",
+      "director": "Julien Duvivier",
+      "spine": "172"
+    },
+    {
+      "title": "Port of Shadows",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6555-ffd2fa5e0c1475e12588b9df4ff83db9/Film_245w_PortShadows_original.jpg",
+      "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/947-port-of-shadows",
+      "director": "Marcel Carné",
+      "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/947-port-of-shadows"
+    },
+    {
+      "title": "Remorques",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131953-8081e36c13865cc1f0285587796da5ca/Gremillon_Filmw_Remorques_original.jpg",
+      "image_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/27677-remorques",
+      "director": "Jean Grémillon",
+      "director_url": "https://web.archive.org/web/20180319151157/https://www.criterion.com/films/27677-remorques"
+    },
+    {
+      "title": "The Rules of the Game",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129929-96f06b2aa9b38ec4fb81f8124e7b67c6/Film_216w_RulesGame_bw_original.jpg",
+      "director": "Jean Renoir",
+      "spine": "216"
+    }
+  ]
 }

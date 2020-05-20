@@ -1,5 +1,4 @@
 import AmericaAmerica from '../data/america_america.json';
-import FrenchNewWave from '../data/french_new_wave.json';
 import AmourFou from '../data/amour_fou.json';
 import Animals from '../data/animals.json';
 import AvantGarde from '../data/avant_garde.json';
@@ -16,6 +15,7 @@ import DysfunctionalFamilies from '../data/dysfunctional_families.json';
 import FaithOnFilms from '../data/faith_on_film.json';
 import FirstFilms from '../data/first_films.json';
 import FoodOnFilm from '../data/food_on_film.json';
+import FrenchNewWave from '../data/french_new_wave.json';
 import GreatSoundtracks from '../data/great_soundtracks.json';
 import GrowingPains from '../data/growing_pains.json';
 import HeistMovies from '../data/heist_movies.json';
@@ -51,7 +51,6 @@ import Yakuza from '../data/yakuza.json';
 
 export default {
   ...AmericaAmerica,
-  ...FrenchNewWave,
   ...AmourFou,
   ...Animals,
   ...AvantGarde,
@@ -68,6 +67,7 @@ export default {
   ...FaithOnFilms,
   ...FirstFilms,
   ...FoodOnFilm,
+  ...FrenchNewWave,
   ...GreatSoundtracks,
   ...GrowingPains,
   ...HeistMovies,

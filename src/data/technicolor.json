@@ -1,248 +1,248 @@
 {
- "technicolor": [
-  {
-   "title": "All That Heaven Allows",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132234-9a22ebe06e2e9fa6755cfea691234fe2/Film_95w_AllHeavenAllows_original.jpg",
-   "director": "Douglas Sirk",
-   "spine": "95"
-  },
-  {
-   "title": "Bigger Than Life",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/56679-4957d147cbd9453315da2e31d8ebaaf9/507_Filmw_BiggerThanLife_original.jpg",
-   "director": "Nicholas Ray",
-   "spine": "507"
-  },
-  {
-   "title": "Black Narcissus",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130649-e19d5bf2a7de578348700be2beccbdb5/Film_93w_BlackNarcissusC_original.jpg",
-   "director": "Michael Powell and Emeric Pressburger",
-   "spine": "93"
-  },
-  {
-   "title": "Blithe Spirit",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131665-603eb8a5692f88b7f2e29a21ed162787/Film_606w_BlitheSpirit_original.jpg",
-   "director": "David Lean",
-   "spine": "606"
-  },
-  {
-   "title": "Caesar and Cleopatra",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/51983-8663e40f93fccf5ebe25171be62d573b/Shaw_box_film_Caesar_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/11334-caesar-and-cleopatra",
-   "director": "Gabriel Pascal",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/11334-caesar-and-cleopatra"
-  },
-  {
-   "title": "Charade",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129673-0ea2aac9a611213dd57031baf3eecd6d/Film_57w_Charade_original.jpg",
-   "director": "Stanley Donen",
-   "spine": "57"
-  },
-  {
-   "title": "Contempt",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/10135-cb81af2b1a58d1d34ae7f0a9f9256080/contempt_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/239-contempt",
-   "director": "Jean-Luc Godard",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/239-contempt"
-  },
-  {
-   "title": "The Drum",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131361-57edf3dbf6ecb6615088cb3c416aa4a8/Sabu_Filmw_Drum_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27599-the-drum",
-   "director": "Zoltán Korda",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27599-the-drum"
-  },
-  {
-   "title": "Elena and Her Men",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/27260-5b9eb5fd4fd8d9dd9c8916e68c50de66/elena-and-her-men-1956_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/937-elena-and-her-men",
-   "director": "Jean Renoir",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/937-elena-and-her-men"
-  },
-  {
-   "title": "The Four Feathers",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131289-f94a9c22d206836efbdfe18375e8f196/Film_583w_FourFeather_original.jpg",
-   "director": "Zoltán Korda",
-   "spine": "583"
-  },
-  {
-   "title": "French Cancan",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6539-114de1b9b3d1c6aeeea901631d6f59d8/Film_243w_CanCan_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/891-french-cancan",
-   "director": "Jean Renoir",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/891-french-cancan"
-  },
-  {
-   "title": "The Golden Coach",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6531-d694ca683771b659e8caa588b09ca8c7/Film_242w_GoldenCoach_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/889-the-golden-coach",
-   "director": "Jean Renoir",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/889-the-golden-coach"
-  },
-  {
-   "title": "Good Morning",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131990-db5abcd8ff5904a76c2316e9e4a27920/Film_84_GoodMorning_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/624-good-morning",
-   "director": "Yasujiro Ozu",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/624-good-morning"
-  },
-  {
-   "title": "Heaven Can Wait",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6769-a404b77b132f46cf1045d3fda0c178e5/Film_291w_HeavenCanWait_original.jpg",
-   "director": "Ernst Lubitsch",
-   "spine": "291"
-  },
-  {
-   "title": "Henry V",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131984-505ab0b45faf11ca0c7db3910c4321d4/Film_41w_HenryV_original.jpg",
-   "director": "Laurence Olivier",
-   "spine": "41"
-  },
-  {
-   "title": "The Horse’s Mouth",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129897-a031d7af350fe9d365a81b55916d7886/Film_154w_HorsesMouth_new_original.jpg",
-   "director": "Ronald Neame",
-   "spine": "154"
-  },
-  {
-   "title": "The Importance of Being Earnest",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/10207-6c555d2fbc5f2068480e68bd44143c6e/importanceearnest_original.jpg",
-   "director": "Anthony Asquith",
-   "spine": "158"
-  },
-  {
-   "title": "Jubal",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132104-cbd59abc0c6ab500e2b7ea9e1dc3945c/Film_656w_Jubal_original.jpg",
-   "director": "Delmer Daves",
-   "spine": "656"
-  },
-  {
-   "title": "Juliet of the Spirits",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/108449-76de10238bf9233bc7fc750ab3dd5bdf/Film_149w_JulietSpirits_original.jpg",
-   "director": "Federico Fellini",
-   "spine": "149"
-  },
-  {
-   "title": "Jungle Book",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131369-cad64bff99ff80038d5c2d9593434ef4/Sabu_Filmw_JungleBook_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27649-jungle-book",
-   "director": "Zoltán Korda",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27649-jungle-book"
-  },
-  {
-   "title": "King of Jazz",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/51af2f5d6d09aceebb11b3df196d5c3e.jpeg",
-   "director": "John Murray Anderson",
-   "spine": "915"
-  },
-  {
-   "title": "The Leopard",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129681-583e0a0d9bd09d9129b680d2dd8ac428/THE-LEOPARD-new-film-still_original.jpg",
-   "director": "Luchino Visconti",
-   "spine": "235"
-  },
-  {
-   "title": "The Life and Death of Colonel Blimp",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132052-423922ccf717403c9f83d093af0ac21c/Blimp_Film_Page_original.jpg",
-   "director": "Michael Powell…",
-   "spine": "173"
-  },
-  {
-   "title": "Magnificent Obsession",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132170-2361d4d9bda39f0a2abe6ff9d954c552/Film_457w_MagnificentObsession_original.jpg",
-   "director": "Douglas Sirk",
-   "spine": "457"
-  },
-  {
-   "title": "A Matter of Life and Death",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/05836b4f9cb4db7a6e0097ed8388c4df.jpeg",
-   "director": "Michael Powell and Emeric Pressburger",
-   "spine": "939"
-  },
-  {
-   "title": "The Mikado",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130753-2b5c20e12bf1cdc8f285c6cd20af32e7/Film_559w_Mikado_original.jpg",
-   "director": "Victor Schertzinger",
-   "spine": "559"
-  },
-  {
-   "title": "The Red Balloon",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/9241-30ffaa62c2024bbcc5a9df62a7b1e046/Red_Balloonw_copy_original.jpg",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/886-the-red-balloon",
-   "director": "Albert Lamorisse",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/886-the-red-balloon"
-  },
-  {
-   "title": "The Red Shoes",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130553-f029170c5b4ddf3e7025dd486b731875/THE_RED_SHOES_moira_original.jpg",
-   "director": "Michael Powell…",
-   "spine": "44"
-  },
-  {
-   "title": "Richard III",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132089-e0b7a5ac11e114dc831e866a4552644d/Film_213w_RichardIII_original.jpg",
-   "director": "Laurence Olivier",
-   "spine": "213"
-  },
-  {
-   "title": "The River",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/10505-018c2090501507160aac2e8a18f1e90f/Film_276w_River_original.jpg",
-   "director": "Jean Renoir",
-   "spine": "276"
-  },
-  {
-   "title": "Robinson Crusoe on Mars",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/7493-93c9127ab036460b7515aee64f31585b/Film_404w_RobinsonCrusoe_original.jpg",
-   "director": "Byron Haskin",
-   "spine": "404"
-  },
-  {
-   "title": "Senso",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130465-41b746dc5bfac0d1f2c34bd203ada1ad/Film_556w_Senso_original.jpg",
-   "director": "Luchino Visconti",
-   "spine": "556"
-  },
-  {
-   "title": "Spartacus",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/4711-db81fcc2d11e4497503d53bd0db4ae78/P_original.jpg",
-   "director": "Stanley Kubrick",
-   "spine": "105"
-  },
-  {
-   "title": "Summertime",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/9119-76aec8a87fe20a63cd884c45f9c81584/Summertimew_original.jpg",
-   "director": "David Lean",
-   "spine": "22"
-  },
-  {
-   "title": "The Tales of Hoffmann",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/29116-83b35705bee0d3097d61e484c14cf922/460_original.png",
-   "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/748-the-tales-of-hoffmann",
-   "director": "Michael Powell and Emeric Pressburger",
-   "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/748-the-tales-of-hoffmann"
-  },
-  {
-   "title": "The Thief of Bagdad",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/5727-e551da7e43ad0a08902f2e208ae5aa80/Film_431w_ThiefOfBagdad_original.jpg",
-   "director": "Tim Whelan…",
-   "spine": "431"
-  },
-  {
-   "title": "This Happy Breed",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131657-18a82ef5fa19a1cbb03bb4d7a2d3d250/Film_605w_ThisHappyBreed_original.jpg",
-   "director": "David Lean",
-   "spine": "605"
-  },
-  {
-   "title": "Tunes of Glory",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6339-cca016bef80e28a072b94e6c74bdaf28/Film_225w_TuneGlory_original_original.jpg",
-   "director": "Ronald Neame",
-   "spine": "225"
-  },
-  {
-   "title": "Written on the Wind",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130665-72be94ac19458cf4cf3075d5ee3c4138/Film_96w_WrittenWind_original.jpg",
-   "director": "Douglas Sirk",
-   "spine": "96"
-  }
- ]
+  "Technicolor": [
+    {
+      "title": "All That Heaven Allows",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132234-9a22ebe06e2e9fa6755cfea691234fe2/Film_95w_AllHeavenAllows_original.jpg",
+      "director": "Douglas Sirk",
+      "spine": "95"
+    },
+    {
+      "title": "Bigger Than Life",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/56679-4957d147cbd9453315da2e31d8ebaaf9/507_Filmw_BiggerThanLife_original.jpg",
+      "director": "Nicholas Ray",
+      "spine": "507"
+    },
+    {
+      "title": "Black Narcissus",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130649-e19d5bf2a7de578348700be2beccbdb5/Film_93w_BlackNarcissusC_original.jpg",
+      "director": "Michael Powell and Emeric Pressburger",
+      "spine": "93"
+    },
+    {
+      "title": "Blithe Spirit",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131665-603eb8a5692f88b7f2e29a21ed162787/Film_606w_BlitheSpirit_original.jpg",
+      "director": "David Lean",
+      "spine": "606"
+    },
+    {
+      "title": "Caesar and Cleopatra",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/51983-8663e40f93fccf5ebe25171be62d573b/Shaw_box_film_Caesar_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/11334-caesar-and-cleopatra",
+      "director": "Gabriel Pascal",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/11334-caesar-and-cleopatra"
+    },
+    {
+      "title": "Charade",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129673-0ea2aac9a611213dd57031baf3eecd6d/Film_57w_Charade_original.jpg",
+      "director": "Stanley Donen",
+      "spine": "57"
+    },
+    {
+      "title": "Contempt",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10135-cb81af2b1a58d1d34ae7f0a9f9256080/contempt_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/239-contempt",
+      "director": "Jean-Luc Godard",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/239-contempt"
+    },
+    {
+      "title": "The Drum",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131361-57edf3dbf6ecb6615088cb3c416aa4a8/Sabu_Filmw_Drum_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27599-the-drum",
+      "director": "Zoltán Korda",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27599-the-drum"
+    },
+    {
+      "title": "Elena and Her Men",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/27260-5b9eb5fd4fd8d9dd9c8916e68c50de66/elena-and-her-men-1956_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/937-elena-and-her-men",
+      "director": "Jean Renoir",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/937-elena-and-her-men"
+    },
+    {
+      "title": "The Four Feathers",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131289-f94a9c22d206836efbdfe18375e8f196/Film_583w_FourFeather_original.jpg",
+      "director": "Zoltán Korda",
+      "spine": "583"
+    },
+    {
+      "title": "French Cancan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6539-114de1b9b3d1c6aeeea901631d6f59d8/Film_243w_CanCan_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/891-french-cancan",
+      "director": "Jean Renoir",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/891-french-cancan"
+    },
+    {
+      "title": "The Golden Coach",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6531-d694ca683771b659e8caa588b09ca8c7/Film_242w_GoldenCoach_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/889-the-golden-coach",
+      "director": "Jean Renoir",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/889-the-golden-coach"
+    },
+    {
+      "title": "Good Morning",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131990-db5abcd8ff5904a76c2316e9e4a27920/Film_84_GoodMorning_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/624-good-morning",
+      "director": "Yasujiro Ozu",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/624-good-morning"
+    },
+    {
+      "title": "Heaven Can Wait",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6769-a404b77b132f46cf1045d3fda0c178e5/Film_291w_HeavenCanWait_original.jpg",
+      "director": "Ernst Lubitsch",
+      "spine": "291"
+    },
+    {
+      "title": "Henry V",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131984-505ab0b45faf11ca0c7db3910c4321d4/Film_41w_HenryV_original.jpg",
+      "director": "Laurence Olivier",
+      "spine": "41"
+    },
+    {
+      "title": "The Horse’s Mouth",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129897-a031d7af350fe9d365a81b55916d7886/Film_154w_HorsesMouth_new_original.jpg",
+      "director": "Ronald Neame",
+      "spine": "154"
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10207-6c555d2fbc5f2068480e68bd44143c6e/importanceearnest_original.jpg",
+      "director": "Anthony Asquith",
+      "spine": "158"
+    },
+    {
+      "title": "Jubal",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132104-cbd59abc0c6ab500e2b7ea9e1dc3945c/Film_656w_Jubal_original.jpg",
+      "director": "Delmer Daves",
+      "spine": "656"
+    },
+    {
+      "title": "Juliet of the Spirits",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/108449-76de10238bf9233bc7fc750ab3dd5bdf/Film_149w_JulietSpirits_original.jpg",
+      "director": "Federico Fellini",
+      "spine": "149"
+    },
+    {
+      "title": "Jungle Book",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131369-cad64bff99ff80038d5c2d9593434ef4/Sabu_Filmw_JungleBook_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27649-jungle-book",
+      "director": "Zoltán Korda",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/27649-jungle-book"
+    },
+    {
+      "title": "King of Jazz",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/51af2f5d6d09aceebb11b3df196d5c3e.jpeg",
+      "director": "John Murray Anderson",
+      "spine": "915"
+    },
+    {
+      "title": "The Leopard",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129681-583e0a0d9bd09d9129b680d2dd8ac428/THE-LEOPARD-new-film-still_original.jpg",
+      "director": "Luchino Visconti",
+      "spine": "235"
+    },
+    {
+      "title": "The Life and Death of Colonel Blimp",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132052-423922ccf717403c9f83d093af0ac21c/Blimp_Film_Page_original.jpg",
+      "director": "Michael Powell…",
+      "spine": "173"
+    },
+    {
+      "title": "Magnificent Obsession",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132170-2361d4d9bda39f0a2abe6ff9d954c552/Film_457w_MagnificentObsession_original.jpg",
+      "director": "Douglas Sirk",
+      "spine": "457"
+    },
+    {
+      "title": "A Matter of Life and Death",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/05836b4f9cb4db7a6e0097ed8388c4df.jpeg",
+      "director": "Michael Powell and Emeric Pressburger",
+      "spine": "939"
+    },
+    {
+      "title": "The Mikado",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130753-2b5c20e12bf1cdc8f285c6cd20af32e7/Film_559w_Mikado_original.jpg",
+      "director": "Victor Schertzinger",
+      "spine": "559"
+    },
+    {
+      "title": "The Red Balloon",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9241-30ffaa62c2024bbcc5a9df62a7b1e046/Red_Balloonw_copy_original.jpg",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/886-the-red-balloon",
+      "director": "Albert Lamorisse",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/886-the-red-balloon"
+    },
+    {
+      "title": "The Red Shoes",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130553-f029170c5b4ddf3e7025dd486b731875/THE_RED_SHOES_moira_original.jpg",
+      "director": "Michael Powell…",
+      "spine": "44"
+    },
+    {
+      "title": "Richard III",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132089-e0b7a5ac11e114dc831e866a4552644d/Film_213w_RichardIII_original.jpg",
+      "director": "Laurence Olivier",
+      "spine": "213"
+    },
+    {
+      "title": "The River",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10505-018c2090501507160aac2e8a18f1e90f/Film_276w_River_original.jpg",
+      "director": "Jean Renoir",
+      "spine": "276"
+    },
+    {
+      "title": "Robinson Crusoe on Mars",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7493-93c9127ab036460b7515aee64f31585b/Film_404w_RobinsonCrusoe_original.jpg",
+      "director": "Byron Haskin",
+      "spine": "404"
+    },
+    {
+      "title": "Senso",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130465-41b746dc5bfac0d1f2c34bd203ada1ad/Film_556w_Senso_original.jpg",
+      "director": "Luchino Visconti",
+      "spine": "556"
+    },
+    {
+      "title": "Spartacus",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4711-db81fcc2d11e4497503d53bd0db4ae78/P_original.jpg",
+      "director": "Stanley Kubrick",
+      "spine": "105"
+    },
+    {
+      "title": "Summertime",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9119-76aec8a87fe20a63cd884c45f9c81584/Summertimew_original.jpg",
+      "director": "David Lean",
+      "spine": "22"
+    },
+    {
+      "title": "The Tales of Hoffmann",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/29116-83b35705bee0d3097d61e484c14cf922/460_original.png",
+      "image_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/748-the-tales-of-hoffmann",
+      "director": "Michael Powell and Emeric Pressburger",
+      "director_url": "https://web.archive.org/web/20170711135945/https://www.criterion.com/films/748-the-tales-of-hoffmann"
+    },
+    {
+      "title": "The Thief of Bagdad",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5727-e551da7e43ad0a08902f2e208ae5aa80/Film_431w_ThiefOfBagdad_original.jpg",
+      "director": "Tim Whelan…",
+      "spine": "431"
+    },
+    {
+      "title": "This Happy Breed",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131657-18a82ef5fa19a1cbb03bb4d7a2d3d250/Film_605w_ThisHappyBreed_original.jpg",
+      "director": "David Lean",
+      "spine": "605"
+    },
+    {
+      "title": "Tunes of Glory",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6339-cca016bef80e28a072b94e6c74bdaf28/Film_225w_TuneGlory_original_original.jpg",
+      "director": "Ronald Neame",
+      "spine": "225"
+    },
+    {
+      "title": "Written on the Wind",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130665-72be94ac19458cf4cf3075d5ee3c4138/Film_96w_WrittenWind_original.jpg",
+      "director": "Douglas Sirk",
+      "spine": "96"
+    }
+  ]
 }

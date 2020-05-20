@@ -7,8 +7,8 @@ function Navigation() {
     <Navbar bg="dark" variant="dark">
       <Navbar.Brand href="/">Find a Criterion</Navbar.Brand>
       <Nav className="mr-auto">
-        <Nav.Link href="/Explore">Explore</Nav.Link>
-        <Nav.Link href="/Browse">Browse</Nav.Link>
+        <Nav.Link href="/explore">Explore</Nav.Link>
+        <Nav.Link href="/browse">Browse</Nav.Link>
       </Nav>
     </Navbar>
   );

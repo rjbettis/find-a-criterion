@@ -47,7 +47,12 @@ export class Themes extends Component {
                     <Card.Title className={'theme-card-title'}>
                       <Link
                         to={{
-                          pathname: `/Explore/Themes/${theme.link}`,
+                          pathname: `/explore/themes/${theme.link}`,
+                          state: {
+                            themeTitle: theme.title,
+                            themeImage: theme.image,
+                            themeLink: theme.link,
+                          },
                         }}
                       >
                         {theme.title}

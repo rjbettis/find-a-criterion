@@ -1,58 +1,58 @@
 {
- "silent_comedies": [
-  {
-   "title": "The Circus",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e461dd0bfba4c4a4af25c8d4b0127876.jpeg",
-   "director": "Charles Chaplin",
-   "spine": "996"
-  },
-  {
-   "title": "City Lights",
-   "image": "https://s3.amazonaws.com/criterion-production/films/9eb1d91e3a6e2bea22bdd915501aa980/WZ6I1ffhyQomwmWUH54lJ1JgY7StqV_thumbnail.jpg",
-   "director": "Charles Chaplin",
-   "spine": "680"
-  },
-  {
-   "title": "The Freshman",
-   "image": "https://s3.amazonaws.com/criterion-production/films/cbda2b73d58c94da90d718beb2a6212f/grzsX7mRu1vFpl7oMh12x96ahSdYbj_thumbnail.jpg",
-   "director": "Sam Taylor…",
-   "spine": "703"
-  },
-  {
-   "title": "The Gold Rush",
-   "image": "https://s3.amazonaws.com/criterion-production/films/fdadf1be688a6bdb002a4f755a2f1e8a/c9HthNBy69Dc9QXCAIQZPsgQx7jKRt_thumbnail.jpg",
-   "director": "Charles Chaplin",
-   "spine": "615"
-  },
-  {
-   "title": "The Kid",
-   "image": "https://s3.amazonaws.com/criterion-production/films/d79522ba6149f7c670b6f69a58f78d36/FWOWQZvfsMCAgUYwCQ6K5lBQrLR3XH_thumbnail.jpg",
-   "director": "Charlie Chaplin",
-   "spine": "799"
-  },
-  {
-   "title": "The Kid Brother",
-   "image": "https://s3.amazonaws.com/criterion-production/films/4b81c33aa97a34e6468805d64920da24/M921R58LZngKVnsquGrfhJqCBnRw40_thumbnail.jpg",
-   "director": "Ted Wilde",
-   "spine": "964"
-  },
-  {
-   "title": "Modern Times",
-   "image": "https://s3.amazonaws.com/criterion-production/films/ea84da2f72396fc583c54892b92a5f10/4pVQR8QuPFQdZsErceEzrLlaCI48EL_thumbnail.jpg",
-   "director": "Charles Chaplin",
-   "spine": "543"
-  },
-  {
-   "title": "Safety Last!",
-   "image": "https://s3.amazonaws.com/criterion-production/films/96a2f214d42c91852a870d66be2caeb1/HKCtBxvj7OupJI4BrQJD7APR0bIpN4_thumbnail.jpg",
-   "director": "Fred Newmeyer…",
-   "spine": "662"
-  },
-  {
-   "title": "Speedy",
-   "image": "https://s3.amazonaws.com/criterion-production/films/d4ef2e7dbb5595833ea955a9afa3d116/VYObudgVtJqNJ8BCld9NP8ayYfEPqj_thumbnail.jpg",
-   "director": "Ted Wilde",
-   "spine": "788"
-  }
- ]
+  "SilentComedies": [
+    {
+      "title": "The Circus",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e461dd0bfba4c4a4af25c8d4b0127876.jpeg",
+      "director": "Charles Chaplin",
+      "spine": "996"
+    },
+    {
+      "title": "City Lights",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132198-bcd27eb4d2f6015adf5dda776658a3c2/Film_680_CityLights_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "680"
+    },
+    {
+      "title": "The Freshman",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132223-b1908d5a632b10403e4c6ccd78344ca4/Film_703w_Freshman_original.jpg",
+      "director": "Sam Taylor…",
+      "spine": "703"
+    },
+    {
+      "title": "The Gold Rush",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131948-13a817f12db2ad0138806381dbc713ef/Film_615w_GoldRush_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "615"
+    },
+    {
+      "title": "The Kid",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132334-64f4bfa87bfa5c21b593f439029ff71b/Film_799_TheKid_original.jpg",
+      "director": "Charlie Chaplin",
+      "spine": "799"
+    },
+    {
+      "title": "The Kid Brother",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/64ca34ab4af7acc2922c3dbd2e42b7c5.jpeg",
+      "director": "Ted Wilde",
+      "spine": "964"
+    },
+    {
+      "title": "Modern Times",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130257-dfcf4573a3dcfe2d68527acb35bef7aa/Film_543w_ModernTimes_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "543"
+    },
+    {
+      "title": "Safety Last!",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/86421a1943f0e6cf2f9729bccc5cc2c5.jpeg",
+      "director": "Fred Newmeyer…",
+      "spine": "662"
+    },
+    {
+      "title": "Speedy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132325-5532127273d48f8e20590b0ef1efe582/Film_788_Speedy_original.jpg",
+      "director": "Ted Wilde",
+      "spine": "788"
+    }
+  ]
 }

@@ -58,7 +58,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  <Link to="/Explore/Top10">{'Explore Top 10 lists'}</Link>
+                  <Link to="/explore/top10">{'Explore Top 10 lists'}</Link>
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Every month, we ask a friend—a filmmaker, a programmer, a
@@ -80,7 +80,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  <Link to="/Explore/People">{'Explore People'}</Link>
+                  <Link to="/explore/people">{'Explore People'}</Link>
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Robert Bresson, Federico Fellini, Jean-Luc Godard, Akira
@@ -101,7 +101,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  <Link to="Explore/Themes">{'Explore Themes'}</Link>
+                  <Link to="explore/themes">{'Explore Themes'}</Link>
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Ever wonder just what is meant by "poetic realism," "New

@@ -1,164 +1,164 @@
 {
- "virtually_reality": [
-  {
-   "title": "And Life Goes On",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/651a34be4c7c69155ac45456f7671387.jpeg",
-   "director": "Abbas Kiarostami",
-   "spine": "991"
-  },
-  {
-   "title": "Antonio Gaudí",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/5695-285e6091218dfc4c50a2811014401b64/Film_426w_AntonioGaudi_original.jpg",
-   "director": "Hiroshi Teshigahara",
-   "spine": "425"
-  },
-  {
-   "title": "Cameraperson",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/35cfcfb72bafec0a7a96a2a8cebf3af3.jpeg",
-   "director": "Kirsten Johnson",
-   "spine": "853"
-  },
-  {
-   "title": "Close-up",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131777-f0e9709806c050db39d7d8ba53945fdc/Film_519w_CloseUp_original.jpg",
-   "director": "Abbas Kiarostami",
-   "spine": "519"
-  },
-  {
-   "title": "Documenteur",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132300-66e1c211f66572529d3ebc2c38627dc9/Film_Eclipse43_Documenteur_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28630-documenteur",
-   "director": "Agnès Varda",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28630-documenteur"
-  },
-  {
-   "title": "F for Fake",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/6745-f6f787f327afb3dc63c55c1875bc08ce/Film_288w_FForFake_original.jpg",
-   "director": "Orson Welles",
-   "spine": "288"
-  },
-  {
-   "title": "Hiroshima mon amour",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/129873-e652f0dfe89ba299eaab45e6b4336cf2/hiroshima_bw_new_original.jpg",
-   "director": "Alain Resnais",
-   "spine": "196"
-  },
-  {
-   "title": "In Vanda’s Room",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/56735-1d7249e1ce0539ee0329e2c1cc2034b2/IVR_Filmw_InVandasRoom_original.jpg",
-   "director": "Pedro Costa",
-   "spine": "510"
-  },
-  {
-   "title": "Innocence Unprotected",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/34652-06323b4a524aba1efb33dcc1e23e04e6/Film_Innocence_w_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/1073-innocence-unprotected",
-   "director": "Dušan Makavejev",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/1073-innocence-unprotected"
-  },
-  {
-   "title": "Lions Love (...and Lies)",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132303-0205fd7113e1685db437434e9c6a0622/Film_Eclipse43_LionsLove_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28628-lions-love-and-lies",
-   "director": "Agnès Varda",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28628-lions-love-and-lies"
-  },
-  {
-   "title": "Maidstone",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131973-14e53bb61a8b5d5f5109261f765a62d1/Mailer_Filmw_Maidstone_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28069-maidstone",
-   "director": "Norman Mailer",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28069-maidstone"
-  },
-  {
-   "title": "Medium Cool",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132106-e322ccd0e05800e57f6cea096a2701ae/Film_658w_MediumCool_original.jpg",
-   "director": "Haskell Wexler",
-   "spine": "658"
-  },
-  {
-   "title": "The Most Beautiful",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/130041-a92d4c3d8622449215a371cecd8dee51/AK_MostBeautiful_Film_bw_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/18790-the-most-beautiful",
-   "director": "Akira Kurosawa",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/18790-the-most-beautiful"
-  },
-  {
-   "title": "My Crasy Life",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131465-96efe9742a0e38d2ecd033dccde666ba/Gorin_Filmw_MyCrasyLife_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/27946-my-crasy-life",
-   "director": "Jean-Pierre Gorin",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/27946-my-crasy-life"
-  },
-  {
-   "title": "My Winnipeg",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132268-c758bc756ebb751b6b6ebb7f4c0669be/Film_741_MyWinnipeg_original.jpg",
-   "director": "Guy Maddin",
-   "spine": "741"
-  },
-  {
-   "title": "The Naked Island",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132351-164b8f588197b29d717a717d78aa376b/Film_811_NakedIsland_original.jpg",
-   "director": "Kaneto Shindo",
-   "spine": "811"
-  },
-  {
-   "title": "Nanook of the North",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/9127-ffc44cd8b65e5668653491f58314920c/Nanookw_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/574-nanook-of-the-north",
-   "director": "Robert Flaherty",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/574-nanook-of-the-north"
-  },
-  {
-   "title": "Native Land",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/7623-d4bf1f04e40c632bec804ccc7972d160/Film_373w_NativeLand_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/814-native-land",
-   "director": "Leo Hurwitz and Paul Strand",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/814-native-land"
-  },
-  {
-   "title": "News from Home",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/47975-f8f46f52650358927ef97b17ee7e477a/Film_Akerman_News_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/20978-news-from-home",
-   "director": "Chantal Akerman",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/20978-news-from-home"
-  },
-  {
-   "title": "People on Sunday",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/131185-c2c84f43b91ead4c5fe8dbe15ac54361/People_on_Sunday_Still_original.jpg",
-   "director": "Robert Siodmak…",
-   "spine": "569"
-  },
-  {
-   "title": "Redes",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/132200-133f82cf9ce8a001dd02519b8708d962/WCP_Film_Redes_original.jpg",
-   "director": "Emilio Gómez Muriel…",
-   "spine": "686"
-  },
-  {
-   "title": "Sans Soleil",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/5199-66b0e9f90c8bc4f40785bbf0f37731c7/SansSoleil_original.jpg",
-   "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/304-sans-soleil",
-   "director": "Chris Marker",
-   "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/304-sans-soleil"
-  },
-  {
-   "title": "Symbiopsychotaxiplasm",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/5871-715b9051ea7b53ccfe5a170c2e1d2633/Film_360w_Symbiopsychotaxiplasm_original.jpg",
-   "director": "William Greaves",
-   "spine": "360"
-  },
-  {
-   "title": "Through the Olive Trees",
-   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/efe10ef7822ffee3efe4c7a7f76dfe10.jpeg",
-   "director": "Abbas Kiarostami",
-   "spine": "992"
-  },
-  {
-   "title": "WR: Mysteries of the Organism",
-   "image": "https://s3.amazonaws.com/criterion-production/stills/7565-7bf1b4c8315b068da539385fffb45508/Film_389w_WR_original.jpg",
-   "director": "Dušan Makavejev",
-   "spine": "389"
-  }
- ]
+  "VirtuallyReality": [
+    {
+      "title": "And Life Goes On",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/651a34be4c7c69155ac45456f7671387.jpeg",
+      "director": "Abbas Kiarostami",
+      "spine": "991"
+    },
+    {
+      "title": "Antonio Gaudí",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5695-285e6091218dfc4c50a2811014401b64/Film_426w_AntonioGaudi_original.jpg",
+      "director": "Hiroshi Teshigahara",
+      "spine": "425"
+    },
+    {
+      "title": "Cameraperson",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/35cfcfb72bafec0a7a96a2a8cebf3af3.jpeg",
+      "director": "Kirsten Johnson",
+      "spine": "853"
+    },
+    {
+      "title": "Close-up",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131777-f0e9709806c050db39d7d8ba53945fdc/Film_519w_CloseUp_original.jpg",
+      "director": "Abbas Kiarostami",
+      "spine": "519"
+    },
+    {
+      "title": "Documenteur",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132300-66e1c211f66572529d3ebc2c38627dc9/Film_Eclipse43_Documenteur_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28630-documenteur",
+      "director": "Agnès Varda",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28630-documenteur"
+    },
+    {
+      "title": "F for Fake",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6745-f6f787f327afb3dc63c55c1875bc08ce/Film_288w_FForFake_original.jpg",
+      "director": "Orson Welles",
+      "spine": "288"
+    },
+    {
+      "title": "Hiroshima mon amour",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129873-e652f0dfe89ba299eaab45e6b4336cf2/hiroshima_bw_new_original.jpg",
+      "director": "Alain Resnais",
+      "spine": "196"
+    },
+    {
+      "title": "In Vanda’s Room",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/56735-1d7249e1ce0539ee0329e2c1cc2034b2/IVR_Filmw_InVandasRoom_original.jpg",
+      "director": "Pedro Costa",
+      "spine": "510"
+    },
+    {
+      "title": "Innocence Unprotected",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34652-06323b4a524aba1efb33dcc1e23e04e6/Film_Innocence_w_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/1073-innocence-unprotected",
+      "director": "Dušan Makavejev",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/1073-innocence-unprotected"
+    },
+    {
+      "title": "Lions Love (...and Lies)",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132303-0205fd7113e1685db437434e9c6a0622/Film_Eclipse43_LionsLove_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28628-lions-love-and-lies",
+      "director": "Agnès Varda",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28628-lions-love-and-lies"
+    },
+    {
+      "title": "Maidstone",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131973-14e53bb61a8b5d5f5109261f765a62d1/Mailer_Filmw_Maidstone_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28069-maidstone",
+      "director": "Norman Mailer",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/28069-maidstone"
+    },
+    {
+      "title": "Medium Cool",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132106-e322ccd0e05800e57f6cea096a2701ae/Film_658w_MediumCool_original.jpg",
+      "director": "Haskell Wexler",
+      "spine": "658"
+    },
+    {
+      "title": "The Most Beautiful",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130041-a92d4c3d8622449215a371cecd8dee51/AK_MostBeautiful_Film_bw_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/18790-the-most-beautiful",
+      "director": "Akira Kurosawa",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/18790-the-most-beautiful"
+    },
+    {
+      "title": "My Crasy Life",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131465-96efe9742a0e38d2ecd033dccde666ba/Gorin_Filmw_MyCrasyLife_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/27946-my-crasy-life",
+      "director": "Jean-Pierre Gorin",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/27946-my-crasy-life"
+    },
+    {
+      "title": "My Winnipeg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132268-c758bc756ebb751b6b6ebb7f4c0669be/Film_741_MyWinnipeg_original.jpg",
+      "director": "Guy Maddin",
+      "spine": "741"
+    },
+    {
+      "title": "The Naked Island",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132351-164b8f588197b29d717a717d78aa376b/Film_811_NakedIsland_original.jpg",
+      "director": "Kaneto Shindo",
+      "spine": "811"
+    },
+    {
+      "title": "Nanook of the North",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9127-ffc44cd8b65e5668653491f58314920c/Nanookw_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/574-nanook-of-the-north",
+      "director": "Robert Flaherty",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/574-nanook-of-the-north"
+    },
+    {
+      "title": "Native Land",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7623-d4bf1f04e40c632bec804ccc7972d160/Film_373w_NativeLand_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/814-native-land",
+      "director": "Leo Hurwitz and Paul Strand",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/814-native-land"
+    },
+    {
+      "title": "News from Home",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47975-f8f46f52650358927ef97b17ee7e477a/Film_Akerman_News_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/20978-news-from-home",
+      "director": "Chantal Akerman",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/20978-news-from-home"
+    },
+    {
+      "title": "People on Sunday",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131185-c2c84f43b91ead4c5fe8dbe15ac54361/People_on_Sunday_Still_original.jpg",
+      "director": "Robert Siodmak…",
+      "spine": "569"
+    },
+    {
+      "title": "Redes",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132200-133f82cf9ce8a001dd02519b8708d962/WCP_Film_Redes_original.jpg",
+      "director": "Emilio Gómez Muriel…",
+      "spine": "686"
+    },
+    {
+      "title": "Sans Soleil",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5199-66b0e9f90c8bc4f40785bbf0f37731c7/SansSoleil_original.jpg",
+      "image_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/304-sans-soleil",
+      "director": "Chris Marker",
+      "director_url": "https://web.archive.org/web/20160406034819/https://www.criterion.com/films/304-sans-soleil"
+    },
+    {
+      "title": "Symbiopsychotaxiplasm",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5871-715b9051ea7b53ccfe5a170c2e1d2633/Film_360w_Symbiopsychotaxiplasm_original.jpg",
+      "director": "William Greaves",
+      "spine": "360"
+    },
+    {
+      "title": "Through the Olive Trees",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/efe10ef7822ffee3efe4c7a7f76dfe10.jpeg",
+      "director": "Abbas Kiarostami",
+      "spine": "992"
+    },
+    {
+      "title": "WR: Mysteries of the Organism",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7565-7bf1b4c8315b068da539385fffb45508/Film_389w_WR_original.jpg",
+      "director": "Dušan Makavejev",
+      "spine": "389"
+    }
+  ]
 }

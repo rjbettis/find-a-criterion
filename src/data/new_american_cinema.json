@@ -1,5 +1,5 @@
 {
-  "new_american_cinema": [
+  "NewAmericanCinema": [
     {
       "title": "3 Women",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131193-5f1edd478489dc8e9be4f82675670e15/Film_230w_3Women_original.jpg",
@@ -8,7 +8,7 @@
     },
     {
       "title": "Badlands",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/1original73-35031bcf6031410b08a603c69c5d2119/Film_651w_Badlands_original.jpg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132073-35031bcf6031410b08a603c69c5d2119/Film_651w_Badlands_original.jpg",
       "director": "Terrence Malick",
       "spine": "651"
     },
@@ -113,7 +113,7 @@
     },
     {
       "title": "Rosemary’s Baby",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/1original21-3bf1cbc5974ba205fb5f93e4567d9ad1/Film_634w_RosemarysBaby_original.jpg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132021-3bf1cbc5974ba205fb5f93e4567d9ad1/Film_634w_RosemarysBaby_original.jpg",
       "director": "Roman Polanski",
       "spine": "630"
     },
@@ -149,7 +149,7 @@
     },
     {
       "title": "A Woman Under the Influence",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/1original99-b3f675db45fd437264c6430e6f32ca22/Film_253w_WomanUnderInfluence_original.jpg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132099-b3f675db45fd437264c6430e6f32ca22/Film_253w_WomanUnderInfluence_original.jpg",
       "director": "John Cassavetes",
       "spine": "253"
     }

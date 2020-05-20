@@ -19,11 +19,11 @@ class App extends Component {
       <Router>
         <Container fluid={true}>
           <Navigation />
-          <Route exact path="/Explore" component={Explore} />
-          <Route exact path="/Explore/Top10" component={Top10} />
-          <Route exact path="/Explore/Themes" component={Themes} />
-          <Route exact path="/Explore/People" component={People} />
-          <Route exact path="/Explore/Themes/:theme" component={GetTheme} />
+          <Route exact path="/explore" component={Explore} />
+          <Route exact path="/explore/top10" component={Top10} />
+          <Route exact path="/explore/themes" component={Themes} />
+          <Route exact path="/explore/people" component={People} />
+          <Route exact path="/explore/themes/:theme" component={GetTheme} />
         </Container>
       </Router>
     );

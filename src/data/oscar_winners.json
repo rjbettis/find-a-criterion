@@ -1,508 +1,606 @@
 {
- "oscar_winners": [
-  {
-   "title": "49th Parallel",
-   "image": "https://s3.amazonaws.com/criterion-production/films/da2032b3d3115969152fd4f442094cbd/yunzkLos81PnuwixO24PC6ZH8Nc4vM_thumbnail.jpg",
-   "director": "Michael Powell",
-   "spine": "376"
-  },
-  {
-   "title": "8½",
-   "image": "https://s3.amazonaws.com/criterion-production/films/2ae55be0d1938dcd30082006b5108053/EBSPG1J9ip2HjvJtUmzlDGLM9EtTFX_thumbnail.jpg",
-   "director": "Federico Fellini",
-   "spine": "140"
-  },
-  {
-   "title": "The Age of Innocence",
-   "image": "https://s3.amazonaws.com/criterion-production/films/23b95546eb76fe0bd9c69678c5130f60/Gicsoj0cO0g4i7a78Otic6zVhZKTv7_thumbnail.jpg",
-   "director": "Martin Scorsese",
-   "spine": "913"
-  },
-  {
-   "title": "All About Eve",
-   "image": "https://s3.amazonaws.com/criterion-production/films/43fd6f6135680ac83e75a69d9e94b7e4/SdDSAIemjQdIjmIByE6UI1xwCbXz9C_thumbnail.jpg",
-   "director": "Joseph L. Mankiewicz",
-   "spine": "1003"
-  },
-  {
-   "title": "All About My Mother",
-   "image": "https://s3.amazonaws.com/criterion-production/films/081d7c31ab52d99598396ad232926653/psy2aK64LWq4FLcQRLx86tC4MeIcdm_thumbnail.jpg",
-   "director": "Pedro Almodóvar",
-   "spine": "1012"
-  },
-  {
-   "title": "All That Jazz",
-   "image": "https://s3.amazonaws.com/criterion-production/films/8ee8b30fd8b04c0925a571a6aa83551b/AMKYaHIhWGuRsN3wZvDOZojSyG2ZaD_thumbnail.jpg",
-   "director": "Bob Fosse",
-   "spine": "724"
-  },
-  {
-   "title": "Amarcord",
-   "image": "https://s3.amazonaws.com/criterion-production/films/84514daa31d11ecc8efb89a53abba2f8/u6uT9NDu4YUQGebS2sXinyxWiNLJIp_thumbnail.jpg",
-   "director": "Federico Fellini",
-   "spine": "4"
-  },
-  {
-   "title": "Babette’s Feast",
-   "image": "https://s3.amazonaws.com/criterion-production/films/aca8036540d101ce120920bb83b906a1/RoF9kSXwRWFuCBu2KdSfS1v6oIsLis_thumbnail.jpg",
-   "director": "Gabriel Axel",
-   "spine": "665"
-  },
-  {
-   "title": "Barry Lyndon",
-   "image": "https://s3.amazonaws.com/criterion-production/films/01163ccf334f69f25ce81cb465a9c6d2/kEcq9HEnTRAPAenkxdbo5kYyqIsiTT_thumbnail.jpg",
-   "director": "Stanley Kubrick",
-   "spine": "897"
-  },
-  {
-   "title": "Being There",
-   "image": "https://s3.amazonaws.com/criterion-production/films/2a5c9ac31b12fc4efa1972c2d8906d4e/uRxZHyQUbdioYV50CFQ0GMbUSe7LIh_thumbnail.jpg",
-   "director": "Hal Ashby",
-   "spine": "864"
-  },
-  {
-   "title": "Bicycle Thieves",
-   "image": "https://s3.amazonaws.com/criterion-production/films/a020c4272223b01fa84782ca7f80ef3b/EtDUUmNY6vAX9TcTq0uRKG4BVqToH3_thumbnail.jpg",
-   "director": "Vittorio De Sica",
-   "spine": "374"
-  },
-  {
-   "title": "Black Narcissus",
-   "image": "https://s3.amazonaws.com/criterion-production/films/c2a614703cc6b07a7b3446e218bf4f06/1GGBmkMqFTNQpPngTALkhW66O6cKMi_thumbnail.jpg",
-   "director": "Michael Powell and Emeric Pressburger",
-   "spine": "93"
-  },
-  {
-   "title": "Black Orpheus",
-   "image": "https://s3.amazonaws.com/criterion-production/films/b99b48f71d6d9b495aa0d91363990d9c/pWLh4Xp87YCB9HRDdh7BrZDhZtyrWC_thumbnail.jpg",
-   "director": "Marcel Camus",
-   "spine": "48"
-  },
-  {
-   "title": "Blithe Spirit",
-   "image": "https://s3.amazonaws.com/criterion-production/films/700cdf843d9e0b61059e89897e49f240/n5pDONxrIiOlyCJR7T6elIdkBhiMHv_thumbnail.jpg",
-   "director": "David Lean",
-   "spine": "606"
-  },
-  {
-   "title": "Bowling for Columbine",
-   "image": "https://s3.amazonaws.com/criterion-production/films/78a86bc12fbed832f0b341609a22fa52/lun1ptGstEhxOhmc24pORDXEVkN2Ve_thumbnail.jpg",
-   "director": "Michael Moore",
-   "spine": "928"
-  },
-  {
-   "title": "Boyhood",
-   "image": "https://s3.amazonaws.com/criterion-production/films/982571dae8ebca5af9f1a1d2757b90fa/uOXeswAxDn2Ua5It0skccwApkGd9B6_thumbnail.jpg",
-   "director": "Richard Linklater",
-   "spine": "839"
-  },
-  {
-   "title": "Closely Watched Trains",
-   "image": "https://s3.amazonaws.com/criterion-production/films/af59bfa9eb76fd9dbeba7c5a7876101c/2SuquAQzCKQq0BGkFh9avbof4RYG79_thumbnail.jpg",
-   "director": "Jiří Menzel",
-   "spine": "131"
-  },
-  {
-   "title": "Cries and Whispers",
-   "image": "https://s3.amazonaws.com/criterion-production/films/8968996394900a7ff0de5a53d03ac392/mCvLwTDCAXEVyMHp4om3piFvSm2nzL_thumbnail.jpg",
-   "director": "Ingmar Bergman",
-   "spine": "101"
-  },
-  {
-   "title": "The Curious Case of Benjamin Button",
-   "image": "https://s3.amazonaws.com/criterion-production/films/999405f5b0b718043c15d1183d04bede/6ZXWpPhvznaU1VM6grQfjigdBN06Pi_thumbnail.jpg",
-   "director": "David Fincher",
-   "spine": "476"
-  },
-  {
-   "title": "Day for Night",
-   "image": "https://s3.amazonaws.com/criterion-production/films/7667c4229e57db415f4b05c81d07da43/AnZ260N6qfjN3t5vWZvfLYZv2PcaoB_thumbnail.jpg",
-   "director": "François Truffaut",
-   "spine": "769"
-  },
-  {
-   "title": "Days of Heaven",
-   "image": "https://s3.amazonaws.com/criterion-production/films/323c56a13b44f5ded3b7b0117a6dc08d/o7l2a4KSto1HXIf7DxvRcPVn2sMRvl_thumbnail.jpg",
-   "director": "Terrence Malick",
-   "spine": "409"
-  },
-  {
-   "title": "Divorce Italian Style",
-   "image": "https://s3.amazonaws.com/criterion-production/films/1fe503bed44263b70f7636796068ff8a/hTb7NjbnH3PFkEGB3AeotNhiyR4Wrg_thumbnail.jpg",
-   "director": "Pietro Germi",
-   "spine": "286"
-  },
-  {
-   "title": "La dolce vita",
-   "image": "https://s3.amazonaws.com/criterion-production/films/41271853307b3fb10334a7d2b51e41ce/pDxTYardFcKk8EIL1qgmAJ96A9zCTn_thumbnail.jpg",
-   "director": "Federico Fellini",
-   "spine": "733"
-  },
-  {
-   "title": "Fanny and Alexander: Theatrical Version",
-   "image": "https://s3.amazonaws.com/criterion-production/films/289eee85492838ff64671c24d63e631a/bqzpSsBVIkScl3o7Ae7hxmJ8ZubMnE_thumbnail.jpg",
-   "director": "Ingmar Bergman",
-   "spine": "263"
-  },
-  {
-   "title": "The Fisher King",
-   "image": "https://s3.amazonaws.com/criterion-production/films/f976557f07f1f8fe7164723849950f8c/vpWzBCv1hiHyS5nbP1K1nRMavew3mM_thumbnail.jpg",
-   "director": "Terry Gilliam",
-   "spine": "764"
-  },
-  {
-   "title": "Gate of Hell",
-   "image": "https://s3.amazonaws.com/criterion-production/films/84f05f64e1f280532d29c921e32e79f9/TpWnFHWJR7iUJtg686Ei4gSe78oZWc_thumbnail.jpg",
-   "director": "Teinosuke Kinugasa",
-   "spine": "653"
-  },
-  {
-   "title": "The Graduate",
-   "image": "https://s3.amazonaws.com/criterion-production/films/c1cb7c7c93760075005158d586b67d45/ace3Y8tk9zZ6RU58hIflxVsxZUIA2B_thumbnail.jpg",
-   "director": "Mike Nichols",
-   "spine": "800"
-  },
-  {
-   "title": "The Great Beauty",
-   "image": "https://s3.amazonaws.com/criterion-production/films/b25a8a700e4c33e76eb53578bc5de7d6/0g1hKjX8xWZ1L1jAfhGJFvGaNrMG7O_thumbnail.jpg",
-   "director": "Paolo Sorrentino",
-   "spine": "702"
-  },
-  {
-   "title": "Great Expectations",
-   "image": "https://s3.amazonaws.com/criterion-production/films/025c1c645c2cca0013d8df6cf813c22b/OPK5qMmGlZY3kHvJSb8y7THOmmtBX4_thumbnail.jpg",
-   "director": "David Lean",
-   "spine": "31"
-  },
-  {
-   "title": "Hamlet",
-   "image": "https://s3.amazonaws.com/criterion-production/films/2f448c30ac7b06febb22d66b5ff974a7/IbyM57yhe0Whunlq0YhnaVhNeqD9Hi_thumbnail.jpg",
-   "director": "Laurence Olivier",
-   "spine": "82"
-  },
-  {
-   "title": "Harlan County USA",
-   "image": "https://s3.amazonaws.com/criterion-production/films/f5361612515871553628e26305ac00a5/yc3y38kQLI8Mz6XaqTG0KhvdViYpyZ_thumbnail.jpg",
-   "director": "Barbara Kopple",
-   "spine": "334"
-  },
-  {
-   "title": "Hearts and Minds",
-   "image": "https://s3.amazonaws.com/criterion-production/films/af071bbf798ab3edf6cfdfa16251e9d0/VeWmk9YmpTS5o5BziWTuDXMTeER8NO_thumbnail.jpg",
-   "director": "Peter Davis",
-   "spine": "156"
-  },
-  {
-   "title": "The Heiress",
-   "image": "https://s3.amazonaws.com/criterion-production/films/cfd2f1ff16cf137afa82f1ca3a69396a/9sz3vbRXkTqk8NwSzvyuOZpuDaZ60k_thumbnail.jpg",
-   "director": "William Wyler",
-   "spine": "974"
-  },
-  {
-   "title": "Here Comes Mr. Jordan",
-   "image": "https://s3.amazonaws.com/criterion-production/films/3c2f9f202a6b57f2b444b424209ebe28/c5ox5KYrMRnqR8Wqw4VC8Zmn7pha4X_thumbnail.jpg",
-   "director": "Alexander Hall",
-   "spine": "819"
-  },
-  {
-   "title": "Investigation of a Citizen Above Suspicion",
-   "image": "https://s3.amazonaws.com/criterion-production/films/5bd2440e3403f8dcde2be7ddf15259b4/y0ZcQrhquZWlqSkkKkxzNUX9buPZkl_thumbnail.jpg",
-   "director": "Elio Petri",
-   "spine": "682"
-  },
-  {
-   "title": "It Happened One Night",
-   "image": "https://s3.amazonaws.com/criterion-production/films/c2dde679e36dd0dd23fd23cdf5d35bce/K48iXCNe4D2noqgK0VAWIIXZIuJShg_thumbnail.jpg",
-   "director": "Frank Capra",
-   "spine": "736"
-  },
-  {
-   "title": "It’s a Mad, Mad, Mad, Mad World",
-   "image": "https://s3.amazonaws.com/criterion-production/films/e32c738a5103544beedddc8903499cd7/5lmuxEOajE2NX9qhN5E6HvceDc6MgG_thumbnail.jpg",
-   "director": "Stanley Kramer",
-   "spine": "692"
-  },
-  {
-   "title": "King of Jazz",
-   "image": "https://s3.amazonaws.com/criterion-production/films/15bb540b38dbdaa023601e7456c3eebe/J24VDct0pXh868DYmPMO0I2j9ucr1N_thumbnail.jpg",
-   "director": "John Murray Anderson",
-   "spine": "915"
-  },
-  {
-   "title": "Klute",
-   "image": "https://s3.amazonaws.com/criterion-production/films/fa74322fad15c1fbfb3fb03b7a822462/gV7HvfrGzCSC4UYAY74gsbMhNsJWCd_thumbnail.jpg",
-   "director": "Alan J. Pakula",
-   "spine": "987"
-  },
-  {
-   "title": "The Last Emperor",
-   "image": "https://s3.amazonaws.com/criterion-production/films/df4a3828538e371bb514327fb5be561f/URBYiTnt4otEoXtvtr2zbHA5ykxgkB_thumbnail.jpg",
-   "director": "Bernardo Bertolucci",
-   "spine": "422"
-  },
-  {
-   "title": "The Last Picture Show",
-   "image": "https://s3.amazonaws.com/criterion-production/films/e3337688841b6e5c3e22796b3a889e02/feBBtCtzScE9oOvniyPVCbTsG34x2V_thumbnail.jpg",
-   "director": "Peter Bogdanovich",
-   "spine": "549"
-  },
-  {
-   "title": "Midnight Cowboy",
-   "image": "https://s3.amazonaws.com/criterion-production/films/85ebb0e5781f605179432d071eb3b340/Ayry8QwcAWWRZhyaMkSpzG3TSZ9JoJ_thumbnail.jpg",
-   "director": "John Schlesinger",
-   "spine": "925"
-  },
-  {
-   "title": "Mildred Pierce",
-   "image": "https://s3.amazonaws.com/criterion-production/films/92fe059f5008090433c98d5c2a743c03/kKv4Q7rP0MAkK33MQIydi5xjcCUKpT_thumbnail.jpg",
-   "director": "Michael Curtiz",
-   "spine": "860"
-  },
-  {
-   "title": "Missing",
-   "image": "https://s3.amazonaws.com/criterion-production/films/7aaed6f90996fb7acfde778d729243c7/AAb5rFrk6TBRsCkfUipjkHbarBlkZa_thumbnail.jpg",
-   "director": "Costa-Gavras",
-   "spine": "449"
-  },
-  {
-   "title": "Mon oncle",
-   "image": "https://s3.amazonaws.com/criterion-production/films/0a436dbf0865b63393c35846b989ba4c/cofkAT1oceBnZHsOyale1NmIJZ2Omj_thumbnail.jpg",
-   "director": "Jacques Tati",
-   "spine": "111"
-  },
-  {
-   "title": "The Naked City",
-   "image": "https://s3.amazonaws.com/criterion-production/films/87daa9ace532993cede90830f6d0ed07/NS4aptYhPymtXjw8m6iDCVPYIHM18V_thumbnail.jpg",
-   "director": "Jules Dassin",
-   "spine": "380"
-  },
-  {
-   "title": "Nashville",
-   "image": "https://s3.amazonaws.com/criterion-production/films/c701f80ae220c9948a01832f1b96bb49/pXj4meWTEKkclkBiVCrtId5yTzyGKL_thumbnail.jpg",
-   "director": "Robert Altman",
-   "spine": "683"
-  },
-  {
-   "title": "Now, Voyager",
-   "image": "https://s3.amazonaws.com/criterion-production/films/31b8ddf4b7224294e1c323968e5edcae/ZnvrX36fSxtqKKg2do5VnPKSusWgp1_thumbnail.jpg",
-   "director": "Irving Rapper",
-   "spine": "1004"
-  },
-  {
-   "title": "On the Waterfront",
-   "image": "https://s3.amazonaws.com/criterion-production/films/8682fec5356a2cff41d1e090662f8a02/pvQjxjt452yR9hjwgX5DJ4UZeCraAL_thumbnail.jpg",
-   "director": "Elia Kazan",
-   "spine": "647"
-  },
-  {
-   "title": "The Philadelphia Story",
-   "image": "https://s3.amazonaws.com/criterion-production/films/73a39f7f730d789ad75a85052fcb79ec/ctkavyALJzOHlnjyxyKzE5AyYFTLTJ_thumbnail.jpg",
-   "director": "George Cukor",
-   "spine": "901"
-  },
-  {
-   "title": "Rashomon",
-   "image": "https://s3.amazonaws.com/criterion-production/films/21d6c647d6b04343bcb9a475c8bf161e/mCz7xlfXoonwsP48ZmChNuVOxzzHRT_thumbnail.jpg",
-   "director": "Akira Kurosawa",
-   "spine": "138"
-  },
-  {
-   "title": "Rebecca",
-   "image": "https://s3.amazonaws.com/criterion-production/films/65ba8520032f6fea24aaa96c21c37252/3JpHzjZhjrmkm2SHE1n3R556QGyWPX_thumbnail.jpg",
-   "director": "Alfred Hitchcock",
-   "spine": "135"
-  },
-  {
-   "title": "The Red Shoes",
-   "image": "https://s3.amazonaws.com/criterion-production/films/daa1d614942bb086b7fa4d4e1eb8b0d0/aZoMem6iPcKUSkCDO0g26e1bKiwA8y_thumbnail.jpg",
-   "director": "Michael Powell…",
-   "spine": "44"
-  },
-  {
-   "title": "Roma",
-   "image": "https://s3.amazonaws.com/criterion-production/films/bc349204816d212fabd9b71524763b75/BMnwff4YpeT4kAkBsBwD6PGbdffoL3_thumbnail.jpg",
-   "director": "Alfonso Cuarón",
-   "spine": "1014"
-  },
-  {
-   "title": "A Room with a View",
-   "image": "https://s3.amazonaws.com/criterion-production/films/2a684a78d6b7c2e6aabb3341e08f0cf4/49RLuNCJcOFrAKVB1w00pKqmEQmXOs_thumbnail.jpg",
-   "director": "James Ivory",
-   "spine": "775"
-  },
-  {
-   "title": "Rosemary’s Baby",
-   "image": "https://s3.amazonaws.com/criterion-production/films/4886db5d9452d2247ff729d35aa839a6/rXjMmW28vBI3WW7qEj2gO6X7NKmq6A_thumbnail.jpg",
-   "director": "Roman Polanski",
-   "spine": "630"
-  },
-  {
-   "title": "Samurai I: Musashi Miyamoto",
-   "image": "https://s3.amazonaws.com/criterion-production/films/5807c1075adbbe846d6e23b56e86604e/fyBfBqESTNlEhwkukqycOsbj42qATY_thumbnail.jpg",
-   "director": "Hiroshi Inagaki",
-   "spine": "14"
-  },
-  {
-   "title": "Shampoo",
-   "image": "https://s3.amazonaws.com/criterion-production/films/99cdeb4c29bb63ff66b86ace00aa6d89/1PLK62AeGm2pF75m2eTnvsLfQB6DAe_thumbnail.jpg",
-   "director": "Hal Ashby",
-   "spine": "947"
-  },
-  {
-   "title": "Shanghai Express",
-   "image": "https://s3.amazonaws.com/criterion-production/films/19008d8792916fa5699a1cd997ffd452/fYsB3PXlq254rL0AXinwq4sOhIWMr3_thumbnail.jpg",
-   "director": "Josef von Sternberg",
-   "spine": "933"
-  },
-  {
-   "title": "The Shop on Main Street",
-   "image": "https://s3.amazonaws.com/criterion-production/films/17a09b267d7df228c099117fcc503b0b/HEN7Igx0rZ7xS24SClFcPTBRs9HxSL_thumbnail.jpg",
-   "director": "Ján Kadár…",
-   "spine": "130"
-  },
-  {
-   "title": "The Silence of the Lambs",
-   "image": "https://s3.amazonaws.com/criterion-production/films/46014912ca0c20592c472f5bbe33e4f8/L9AQ95Y7z2vOIUf1ntwvpZsZx3kp8B_thumbnail.jpg",
-   "director": "Jonathan Demme",
-   "spine": "13"
-  },
-  {
-   "title": "Some Like It Hot",
-   "image": "https://s3.amazonaws.com/criterion-production/films/b935a8eaff6f0e92d17b18a1cd19fdf6/5ZrsCMJikkq6bPNmWjofhZswbi544L_thumbnail.jpg",
-   "director": "Billy Wilder",
-   "spine": "950"
-  },
-  {
-   "title": "Spartacus",
-   "image": "https://s3.amazonaws.com/criterion-production/films/e1d28e10aec9e7e4e26e1f7eaaa39b68/oMuO4YgOTDxILEf87wCLwyLMPvoYPp_thumbnail.jpg",
-   "director": "Stanley Kubrick",
-   "spine": "105"
-  },
-  {
-   "title": "Stagecoach",
-   "image": "https://s3.amazonaws.com/criterion-production/films/c95af92bca3b979d3e7e4f251f010260/CsMBDL8lJ5CrZjyii2JVkG5nLIFDxc_thumbnail.jpg",
-   "director": "John Ford",
-   "spine": "516"
-  },
-  {
-   "title": "La strada",
-   "image": "https://s3.amazonaws.com/criterion-production/films/6bbc2c950f33a8f8d0c0e6b90451caaf/kppiMaqH8dmuMAqhvmr61moRT03uhA_thumbnail.jpg",
-   "director": "Federico Fellini",
-   "spine": "219"
-  },
-  {
-   "title": "Sundays and Cybèle",
-   "image": "https://s3.amazonaws.com/criterion-production/films/c741d1027a1f8937f4becf57f68a23dc/8Vw7Cqvm4c8vUuhhyaKWcUG6mtHdNj_thumbnail.jpg",
-   "director": "Serge Bourguignon",
-   "spine": "728"
-  },
-  {
-   "title": "Swing Time",
-   "image": "https://s3.amazonaws.com/criterion-production/films/4de07c5c8cbba60323a0a223fd0472a5/EzHLCBjl22SE5gjampFrkpS7SCKJmA_thumbnail.jpg",
-   "director": "George Stevens",
-   "spine": "979"
-  },
-  {
-   "title": "Tess",
-   "image": "https://s3.amazonaws.com/criterion-production/films/78d30fb14adaf900d4da698590d176cd/8yu0ykJTOrEfE9pT6hH7JWcl61pGGP_thumbnail.jpg",
-   "director": "Roman Polanski",
-   "spine": "697"
-  },
-  {
-   "title": "That Hamilton Woman",
-   "image": "https://s3.amazonaws.com/criterion-production/films/9097f2ab6c434435d6db191904457a84/5KOqSgdRhZXBRqaUfZKw83ipTh8dD9_thumbnail.jpg",
-   "director": "Alexander Korda",
-   "spine": "487"
-  },
-  {
-   "title": "The Grand Budapest Hotel",
-   "image": "https://s3.amazonaws.com/criterion-production/films/7dc949416ad00cd22a48dca569e5324e/k1cKiOeNtfh2R2jfqrxSMCOiuW3uwG_thumbnail.jpg",
-   "director": "Wes Anderson",
-   "spine": "1025"
-  },
-  {
-   "title": "The Thief of Bagdad",
-   "image": "https://s3.amazonaws.com/criterion-production/films/41132bea28bb3bbea12d52e78c20b378/kl6ebsg1AK3m1ejL3zvPJa17lTmxcW_thumbnail.jpg",
-   "director": "Tim Whelan…",
-   "spine": "431"
-  },
-  {
-   "title": "Through a Glass Darkly",
-   "image": "https://s3.amazonaws.com/criterion-production/films/9297bbfd6b7844574edc8d8845ad42e5/2USvVN72ycuyEsj81YkYu4yjmy0YPY_thumbnail.jpg",
-   "director": "Ingmar Bergman",
-   "spine": "209"
-  },
-  {
-   "title": "The Times of Harvey Milk",
-   "image": "https://s3.amazonaws.com/criterion-production/films/b218dc736aca04e70a9141fb76938977/iGVsfdDUhUrZ7Q8QTwV4HdWq9T9mQ3_thumbnail.jpg",
-   "director": "Robert Epstein",
-   "spine": "557"
-  },
-  {
-   "title": "The Tin Drum",
-   "image": "https://s3.amazonaws.com/criterion-production/films/1522135761424c32d477da9851f016ff/33GcylWNQvIKPneqIDDpcJnFPoUtSg_thumbnail.jpg",
-   "director": "Volker Schlöndorff",
-   "spine": "234"
-  },
-  {
-   "title": "Tom Jones",
-   "image": "https://s3.amazonaws.com/criterion-production/films/78fbfa2a7123cbcce483bb5dcb4cca4f/6FwvYWuz6xnPFlvRp09yb9QhzTIIu7_thumbnail.jpg",
-   "director": "Tony Richardson",
-   "spine": "910"
-  },
-  {
-   "title": "Tootsie",
-   "image": "https://s3.amazonaws.com/criterion-production/films/d5530513d003c807cf920945a9f9f6c8/5pQrCXHyWHzLVi2bDKoFTrkSdmachK_thumbnail.jpg",
-   "director": "Sydney Pollack",
-   "spine": "738"
-  },
-  {
-   "title": "Topsy-Turvy",
-   "image": "https://s3.amazonaws.com/criterion-production/films/cc2db5ec02179454a9f96fe4c952f854/6fy9Xe9dVwqYaI29eIEHcREi5ym9Dl_thumbnail.jpg",
-   "director": "Mike Leigh",
-   "spine": "558"
-  },
-  {
-   "title": "Traffic",
-   "image": "https://s3.amazonaws.com/criterion-production/films/fe948d1c0e152d619e8990e06db65666/U2SnL5KyczaI0mvvbHXiIyJnamNcn1_thumbnail.jpg",
-   "director": "Steven Soderbergh",
-   "spine": "151"
-  },
-  {
-   "title": "The Virgin Spring",
-   "image": "https://s3.amazonaws.com/criterion-production/films/801e84275fd24d65ca5c0f42aac9d3e6/7Cd0pGdJRCLCu2KTtuANf8lBDlSPbs_thumbnail.jpg",
-   "director": "Ingmar Bergman",
-   "spine": "321"
-  },
-  {
-   "title": "War and Peace",
-   "image": "https://s3.amazonaws.com/criterion-production/films/b020b5c4e0643af7c3cce7b62e224d5c/OnWiOZAjxlU7pHnN9Z7Yb9NJVfYhLX_thumbnail.jpg",
-   "director": "Sergei Bondarchuk",
-   "spine": "983"
-  },
-  {
-   "title": "When We Were Kings",
-   "image": "https://s3.amazonaws.com/criterion-production/films/e083a6d82b23f0bfc6976b999bfb815f/TF1D5jTB78s4ygmY3JRPP604wvhaxI_thumbnail.jpg",
-   "director": "Leon Gast",
-   "spine": "998"
-  },
-  {
-   "title": "Women in Love",
-   "image": "https://s3.amazonaws.com/criterion-production/films/7451ad8664e892cb9267d890a59b2158/Y63fOFkLXE5VXEUnbLcGZMqYfU5NRL_thumbnail.jpg",
-   "director": "Ken Russell",
-   "spine": "916"
-  },
-  {
-   "title": "Written on the Wind",
-   "image": "https://s3.amazonaws.com/criterion-production/films/1d7ade3bdcc22d2bb039da9a476253e3/0uE2AyA4AUH3s68uh2lmAxRkda4xcj_thumbnail.jpg",
-   "director": "Douglas Sirk",
-   "spine": "96"
-  },
-  {
-   "title": "Z",
-   "image": "https://s3.amazonaws.com/criterion-production/films/ce4dea23892206f842ea9e71a0efb172/vOVg5PTddWrSxKJfoqSO1jsZfAfEBB_thumbnail.jpg",
-   "director": "Costa-Gavras",
-   "spine": "491"
-  }
- ]
+  "OscarWinners": [
+    {
+      "title": "49th Parallel",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10633-98057579d11345c6860a849dcab9d5dc/49thParallel_2w_original.jpg",
+      "director": "Michael Powell",
+      "spine": "376"
+    },
+    {
+      "title": "8½",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/108665-b45d03afc116ddbb6b8cdec43f17778a/Film_140w_8_1_2_original.jpg",
+      "director": "Federico Fellini",
+      "spine": "140"
+    },
+    {
+      "title": "The Age of Innocence",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bbd6058918ce7db8df5d81343ddc0f41.jpeg",
+      "director": "Martin Scorsese",
+      "spine": "913"
+    },
+    {
+      "title": "All About Eve",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1f07326b6af1c07b1f0071d29765ca4f.jpeg",
+      "director": "Joseph L. Mankiewicz",
+      "spine": "1003"
+    },
+    {
+      "title": "All About My Mother",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c0f22575fc51319b15abf9b126966fe7.jpeg",
+      "director": "Pedro Almodóvar",
+      "spine": "1012"
+    },
+    {
+      "title": "All That Jazz",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132243-69de9e679d2a31f73410b441dae88e98/Film_724w_AllThatJazz_original.jpg",
+      "director": "Bob Fosse",
+      "spine": "724"
+    },
+    {
+      "title": "Amarcord",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130433-2d19232214a50449422f47c33cda9b79/Film_4w_Amarcord_A_original.jpg",
+      "director": "Federico Fellini",
+      "spine": "4"
+    },
+    {
+      "title": "Babette’s Feast",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132136-7cf9cbe634a809ebc8427f9f05aa3a39/Film_665w_BabettesFeast_original.jpg",
+      "director": "Gabriel Axel",
+      "spine": "665"
+    },
+    {
+      "title": "Barry Lyndon",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8c33a3526a8f10667ee7ef0ea2c99b48.jpeg",
+      "director": "Stanley Kubrick",
+      "spine": "897"
+    },
+    {
+      "title": "Being There",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/5c8aff9387b614197ca211ede35547e9.jpeg",
+      "director": "Hal Ashby",
+      "spine": "864"
+    },
+    {
+      "title": "Bicycle Thieves",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2694-e6f8fe40fe6ec9544b50c22f3f212120/P_original.jpg",
+      "director": "Vittorio De Sica",
+      "spine": "374"
+    },
+    {
+      "title": "Black Narcissus",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130649-e19d5bf2a7de578348700be2beccbdb5/Film_93w_BlackNarcissusC_original.jpg",
+      "director": "Michael Powell and Emeric Pressburger",
+      "spine": "93"
+    },
+    {
+      "title": "Black Orpheus",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129593-0e9fb5b7bd609e4ba8f8cd2fa8d67c42/Film_48w_BlackOrhpeus_original.jpg",
+      "director": "Marcel Camus",
+      "spine": "48"
+    },
+    {
+      "title": "Blithe Spirit",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131665-603eb8a5692f88b7f2e29a21ed162787/Film_606w_BlitheSpirit_original.jpg",
+      "director": "David Lean",
+      "spine": "606"
+    },
+    {
+      "title": "Bowling for Columbine",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/14e241f45077ffb52b078931b513c11f.jpeg",
+      "director": "Michael Moore",
+      "spine": "928"
+    },
+    {
+      "title": "Boyhood",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132344-c837ccb6a1be57f49f0a2bcc0cdac8e4/Film_806_Boyhood_original.jpg",
+      "director": "Richard Linklater",
+      "spine": "839"
+    },
+    {
+      "title": "Closely Watched Trains",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2734-858b383cef6e3228e07df2f2b0e1a088/P_original.jpg",
+      "director": "Jiří Menzel",
+      "spine": "131"
+    },
+    {
+      "title": "Cries and Whispers",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10937-70b860b1dc27b5a2aa0dabf640dca1db/Film_101w_CriesWhispers_original.jpg",
+      "director": "Ingmar Bergman",
+      "spine": "101"
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14349-31082171cf7ddc3613ede99e7211e9e6/Film_476w_BenButton_original.jpg",
+      "director": "David Fincher",
+      "spine": "476"
+    },
+    {
+      "title": "Day for Night",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132305-25d19685cbb6766fed527302b9bb24f9/Film_769_DayForNight_original.jpg",
+      "director": "François Truffaut",
+      "spine": "769"
+    },
+    {
+      "title": "Days of Heaven",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2678-ff745e43527c935905e668116e838304/P_original.jpg",
+      "director": "Terrence Malick",
+      "spine": "409"
+    },
+    {
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8389-6fb342c208cf6063c3709fd6a6186d20/Film_102w_DiscreetCharm_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie",
+      "director": "Luis Buñuel",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
+    },
+    {
+      "title": "Divorce Italian Style",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6737-6f3eb21709a5cf235e7b0bc785bc5e02/Film_286w_DivorceItalianStyle_original.jpg",
+      "director": "Pietro Germi",
+      "spine": "286"
+    },
+    {
+      "title": "La dolce vita",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132254-eede065a2b9f5cdebf18fd0fc48094e9/Film_733w_LaDolceVita_original.jpg",
+      "director": "Federico Fellini",
+      "spine": "733"
+    },
+    {
+      "title": "Fanny and Alexander: Theatrical Version",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/57991-a60baf0ef0310b42e733b18451219754/FANNY_ALEXANDER_xmas_filmstill_2_original.jpg",
+      "director": "Ingmar Bergman",
+      "spine": "263"
+    },
+    {
+      "title": "The Fisher King",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132292-01bf7615ce961fba6018447e9052e94d/Film_764_FisherKing_original.jpg",
+      "director": "Terry Gilliam",
+      "spine": "764"
+    },
+    {
+      "title": "Forbidden Games",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10183-2925ca82732da79ddce9c61e7e4d5ce4/Forbidden-Games_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/350-forbidden-games",
+      "director": "René Clément",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/350-forbidden-games"
+    },
+    {
+      "title": "Gate of Hell",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132134-543377897a79f8bb08dc1166af4f29e7/Gate_of_Hell_Film_Page_original.jpg",
+      "director": "Teinosuke Kinugasa",
+      "spine": "653"
+    },
+    {
+      "title": "The Graduate",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132337-65dbd2892844129704d8ce84b7c780c3/Film_800_TheGraduate_original.jpg",
+      "director": "Mike Nichols",
+      "spine": "800"
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9460a27e0dbf4e312588f920eff89db5.jpeg",
+      "director": "Wes Anderson",
+      "spine": "1025"
+    },
+    {
+      "title": "The Great Beauty",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132220-3e97a53f16617c34409acb539b4d40d2/Film_702w_GreatBeauty_pg_original.jpg",
+      "director": "Paolo Sorrentino",
+      "spine": "702"
+    },
+    {
+      "title": "Great Expectations",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129881-07cec7913565e8df8a5d89e1065a04e1/Film_31w_GreatExpectations_bw_new_original.jpg",
+      "director": "David Lean",
+      "spine": "31"
+    },
+    {
+      "title": "Hamlet",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132058-c5dd6a2e94d0584969225400f6ede48b/Film_82w_Hamlet_original.jpg",
+      "director": "Laurence Olivier",
+      "spine": "82"
+    },
+    {
+      "title": "Harlan County USA",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6007-9a5b9ebdcb64d08efa3bbc7557a46c92/Film_334w_HarlanCounty_original.jpg",
+      "director": "Barbara Kopple",
+      "spine": "334"
+    },
+    {
+      "title": "Hearts and Minds",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9725-a41fec2d98b80463bbf4fea83bcbbc96/Film_156w_HeartsAndMinds_original.jpg",
+      "director": "Peter Davis",
+      "spine": "156"
+    },
+    {
+      "title": "The Heiress",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "director": "William Wyler",
+      "spine": "974"
+    },
+    {
+      "title": "Here Comes Mr. Jordan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132358-fd1ffdbf115ca9582bcfad9fc6bf57aa/Film_819_HereComesMrJordan_original.jpg",
+      "director": "Alexander Hall",
+      "spine": "819"
+    },
+    {
+      "title": "Howards End",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14723-0113c3738ec5a6421d279496c21b0a3c/HowardsEnd_FilmStill_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/1515-howards-end",
+      "director": "James Ivory",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/1515-howards-end"
+    },
+    {
+      "title": "Investigation of a Citizen Above Suspicion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132206-3e3f047479a62ca1c32082f00216088b/Film_682_InvestigationCitizen_original.jpg",
+      "director": "Elio Petri",
+      "spine": "682"
+    },
+    {
+      "title": "It Happened One Night",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132256-db891045304b082be26b573fc30d6ee1/Film_736w_ItHappenedOneNight_original.jpg",
+      "director": "Frank Capra",
+      "spine": "736"
+    },
+    {
+      "title": "It’s a Mad, Mad, Mad, Mad World",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132212-187227916f1185dfc5b30012bc6273cc/Film_692w_ItsMadMadWorld_original.jpg",
+      "director": "Stanley Kramer",
+      "spine": "692"
+    },
+    {
+      "title": "King of Jazz",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/60802441aeabbc35979ea8fa568c6147.jpeg",
+      "director": "John Murray Anderson",
+      "spine": "915"
+    },
+    {
+      "title": "Klute",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b9ca137c526fb3245b44b6594527e705.jpeg",
+      "director": "Alan J. Pakula",
+      "spine": "987"
+    },
+    {
+      "title": "The Last Command",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129569-56a3680fc45eb7cdecc925331ae09f8f/Film_530w_LastCommand_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/6721-the-last-command",
+      "director": "Josef von Sternberg",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/6721-the-last-command"
+    },
+    {
+      "title": "The Last Emperor",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5743-62a71c78f340a4150192cf4a0d3899e2/Film_422w_LastEmperor_original.jpg",
+      "director": "Bernardo Bertolucci",
+      "spine": "422"
+    },
+    {
+      "title": "The Last Picture Show",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130321-d596960e0ddcfdf220a0a2605c713f14/Film_549w_LastPicture_original.jpg",
+      "director": "Peter Bogdanovich",
+      "spine": "549"
+    },
+    {
+      "title": "Midnight Cowboy",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/915dfa995a662b8d5f113cb512494ba3.jpeg",
+      "director": "John Schlesinger",
+      "spine": "925"
+    },
+    {
+      "title": "Mildred Pierce",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8e2521f96fcdac4e512ea8c4d3308994.jpeg",
+      "director": "Michael Curtiz",
+      "spine": "860"
+    },
+    {
+      "title": "Missing",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5783-79f33386fd251d2f7424b4f180abfdbe/Film_449w_Missing_original.jpg",
+      "director": "Costa-Gavras",
+      "spine": "449"
+    },
+    {
+      "title": "Mon oncle",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8421-c50647b0f22fad66a4f85ce90a9d5c7b/Film_111w_MonOncle_original.jpg",
+      "director": "Jacques Tati",
+      "spine": "111"
+    },
+    {
+      "title": "The Naked City",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7591-3943aa6984b1888630c88e362065080b/Film_380w_NakedCity_original.jpg",
+      "director": "Jules Dassin",
+      "spine": "380"
+    },
+    {
+      "title": "Nashville",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132207-b28903dbff606a4db462405222c212be/Film_683w_Nashville_original.jpg",
+      "director": "Robert Altman",
+      "spine": "683"
+    },
+    {
+      "title": "Nights of Cabiria",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129849-81a5bda1e1121659dd1f63e658418a5e/P-NIGHTS_OF_CABIRIA_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/243-nights-of-cabiria",
+      "director": "Federico Fellini",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/243-nights-of-cabiria"
+    },
+    {
+      "title": "Now, Voyager",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4357f9de2682bffcb021d9229e0f716.jpeg",
+      "director": "Irving Rapper",
+      "spine": "1004"
+    },
+    {
+      "title": "On the Waterfront",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132068-0a427f4f7bfa6825bce99038d5eccb82/Film_647w_OnWaterfront_original.jpg",
+      "director": "Elia Kazan",
+      "spine": "647"
+    },
+    {
+      "title": "Paul Robeson: Tribute to an Artist",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10513-fa81fc04ae8db2a2d16f67488246c050/tribute_w_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/808-paul-robeson-tribute-to-an-artist",
+      "director": "Saul J. Turell",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/808-paul-robeson-tribute-to-an-artist"
+    },
+    {
+      "title": "The Philadelphia Story",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/07b2e46a5d8dedbac13be8828eab94fa.jpeg",
+      "director": "George Cukor",
+      "spine": "901"
+    },
+    {
+      "title": "The Private Life of Henry VIII",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/13515-37960aaa6b25a7b6e47eb4a18c79226f/Henry_Film_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/1433-the-private-life-of-henry-viii",
+      "director": "Alexander Korda",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/1433-the-private-life-of-henry-viii"
+    },
+    {
+      "title": "Pygmalion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3958-6098aa50c9b2a12264b7bc5a8714d5d4/P_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/365-pygmalion",
+      "director": "Anthony Asquith and Leslie Howard",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/365-pygmalion"
+    },
+    {
+      "title": "Ran",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6105-1ae3d999eface304251de87ba0e76a89/Film_316w_Ran_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/754-ran",
+      "director": "Akira Kurosawa",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/754-ran"
+    },
+    {
+      "title": "Rashomon",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131065-c6859ac160e7ad08ffcc282984eb4665/Film_138w_Rashomon_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "138"
+    },
+    {
+      "title": "Rebecca",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10053-79fdfeed93425e6f63d7f5162a7c5652/REbecca_w_original.jpg",
+      "director": "Alfred Hitchcock",
+      "spine": "135"
+    },
+    {
+      "title": "The Red Balloon",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9241-30ffaa62c2024bbcc5a9df62a7b1e046/Red_Balloonw_copy_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/886-the-red-balloon",
+      "director": "Albert Lamorisse",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/886-the-red-balloon"
+    },
+    {
+      "title": "The Red Shoes",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130553-f029170c5b4ddf3e7025dd486b731875/THE_RED_SHOES_moira_original.jpg",
+      "director": "Michael Powell…",
+      "spine": "44"
+    },
+    {
+      "title": "RoboCop",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131737-f44b040943321b407e9a7568efe155a0/Film_23w_Robocop_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/542-robocop",
+      "director": "Paul Verhoeven",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/542-robocop"
+    },
+    {
+      "title": "Roma",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ff89982325c654bd1dc85cc36266c914.jpeg",
+      "director": "Alfonso Cuarón",
+      "spine": "1014"
+    },
+    {
+      "title": "A Room with a View",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132308-e079e36ec133dee43b0077ffc4861b95/Film_775_RoomWithView_original.jpg",
+      "director": "James Ivory",
+      "spine": "775"
+    },
+    {
+      "title": "Rosemary’s Baby",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132021-3bf1cbc5974ba205fb5f93e4567d9ad1/Film_634w_RosemarysBaby_original.jpg",
+      "director": "Roman Polanski",
+      "spine": "630"
+    },
+    {
+      "title": "Samurai I: Musashi Miyamoto",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131943-3f39054e2f2d517a8aa1abfe622c2826/Film_14w_SamuraiI_original.jpg",
+      "director": "Hiroshi Inagaki",
+      "spine": "14"
+    },
+    {
+      "title": "Shampoo",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a314d2b4aed1a7c61c2bcc7874f82f8f.jpeg",
+      "director": "Hal Ashby",
+      "spine": "947"
+    },
+    {
+      "title": "Shanghai Express",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6874ae5f02a8a46a37138bb91ac0a643.jpeg",
+      "director": "Josef von Sternberg",
+      "spine": "933"
+    },
+    {
+      "title": "The Shop on Main Street",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129905-455aafccb1e0edcc76d14b52b16f35c0/ShopMainw_bw_new_original.jpg",
+      "director": "Ján Kadár…",
+      "spine": "130"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9619-94f8232b61fc817507303d05e52b1dfa/Silencew_original.jpg",
+      "director": "Jonathan Demme",
+      "spine": "13"
+    },
+    {
+      "title": "Some Like It Hot",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/25252b803f75ecf2440523323b25e12e.jpeg",
+      "director": "Billy Wilder",
+      "spine": "950"
+    },
+    {
+      "title": "Spartacus",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4711-db81fcc2d11e4497503d53bd0db4ae78/P_original.jpg",
+      "director": "Stanley Kubrick",
+      "spine": "105"
+    },
+    {
+      "title": "Spellbound",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9653-aa6c88773b8a3b322d65fcb8e02b6d45/Spellboundw_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/681-spellbound",
+      "director": "Alfred Hitchcock",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/681-spellbound"
+    },
+    {
+      "title": "Stagecoach",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132002-67915c002b2bbf85a644b1ee83e620a5/Film_516w_Stagecoach_original.jpg",
+      "director": "John Ford",
+      "spine": "516"
+    },
+    {
+      "title": "La strada",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130009-74684c9b5d01299ad8f56b0d570ff8f3/strada_bw_original.jpg",
+      "director": "Federico Fellini",
+      "spine": "219"
+    },
+    {
+      "title": "Sundays and Cybèle",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132251-0d217b8c5d0647ca1cbb2a0d38c4daa3/Film_728w_SundaysAndCybele_original.jpg",
+      "director": "Serge Bourguignon",
+      "spine": "728"
+    },
+    {
+      "title": "Swing Time",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/65706fd3e49ee96eb1743cb8ff1f628c.jpeg",
+      "director": "George Stevens",
+      "spine": "979"
+    },
+    {
+      "title": "Tess",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132219-ba4de40bd576228b636ddb15bead6e76/Film_697w_Tess_original.jpg",
+      "director": "Roman Polanski",
+      "spine": "697"
+    },
+    {
+      "title": "That Hamilton Woman",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/30740-9413c1591561b976d7cff32178b671f5/Film_487_ThatHamiltonWoman_original.jpg",
+      "director": "Alexander Korda",
+      "spine": "487"
+    },
+    {
+      "title": "The Thief of Bagdad",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5727-e551da7e43ad0a08902f2e208ae5aa80/Film_431w_ThiefOfBagdad_original.jpg",
+      "director": "Tim Whelan…",
+      "spine": "431"
+    },
+    {
+      "title": "The Third Man",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130593-03a529d03160621c47e156a95bce26f0/Flim_64w_ThirdMan_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/236-the-third-man",
+      "director": "Carol Reed",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/236-the-third-man"
+    },
+    {
+      "title": "Through a Glass Darkly",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6483-4245f4d3c3792aa1a6736eedf3493466/Film_209w_ThroughGlass_original.jpg",
+      "director": "Ingmar Bergman",
+      "spine": "209"
+    },
+    {
+      "title": "The Times of Harvey Milk",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130737-c2e108ddcbf92407c6e1ed0dc5a36196/Film_557w_TimesHarveyMilk_original.jpg",
+      "director": "Robert Epstein",
+      "spine": "557"
+    },
+    {
+      "title": "The Tin Drum",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_original.jpg",
+      "director": "Volker Schlöndorff",
+      "spine": "234"
+    },
+    {
+      "title": "Tom Jones",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/16b9dd6f7b553174a33afa0212d81a9f.jpeg",
+      "director": "Tony Richardson",
+      "spine": "910"
+    },
+    {
+      "title": "Tootsie",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132260-19aa2ae1adc5afe4c77a08e56c9c9a70/Film_738_Tootse_original.jpg",
+      "director": "Sydney Pollack",
+      "spine": "738"
+    },
+    {
+      "title": "Topsy-Turvy",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130745-2b559a4ae2490e5390be86db90b6c854/Film_558w_TopsyTurvy_original.jpg",
+      "director": "Mike Leigh",
+      "spine": "558"
+    },
+    {
+      "title": "Traffic",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10343-442792ea561881e551a07805759c93aa/traffic2_original.jpg",
+      "director": "Steven Soderbergh",
+      "spine": "151"
+    },
+    {
+      "title": "Underworld",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131938-a9fa3793f94b47911f4543e44b84af82/1088_037_original.jpg",
+      "image_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/21766-underworld",
+      "director": "Josef von Sternberg",
+      "director_url": "https://web.archive.org/web/20170320041533/https://www.criterion.com/films/21766-underworld"
+    },
+    {
+      "title": "The Virgin Spring",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129769-9c1dbe3897e67ce929f6864cc4d37a81/Film_321w_VirginSpring_original.jpg",
+      "director": "Ingmar Bergman",
+      "spine": "321"
+    },
+    {
+      "title": "War and Peace",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e896653ae3bb79ad5827bfd1ef6de6f8.jpeg",
+      "director": "Sergei Bondarchuk",
+      "spine": "983"
+    },
+    {
+      "title": "When We Were Kings",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b8f9393bb6e063013563558cd85897c5.jpeg",
+      "director": "Leon Gast",
+      "spine": "998"
+    },
+    {
+      "title": "Women in Love",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6d093952da181f6664a00a1631dc9e7c.jpeg",
+      "director": "Ken Russell",
+      "spine": "916"
+    },
+    {
+      "title": "Written on the Wind",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130665-72be94ac19458cf4cf3075d5ee3c4138/Film_96w_WrittenWind_original.jpg",
+      "director": "Douglas Sirk",
+      "spine": "96"
+    },
+    {
+      "title": "Z",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/43935-e4f6387d0a1cdcf21a69bad68d05caad/Film_491w_Z_original.jpg",
+      "director": "Costa-Gavras",
+      "spine": "491"
+    }
+  ]
 }
