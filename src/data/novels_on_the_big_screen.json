@@ -1,0 +1,459 @@
+{
+ "novels_on_the_big_screen": [
+  {
+   "title": "1984",
+   "image": "https://s3.amazonaws.com/criterion-production/films/9b263f6358cf0bae18244c759d4592f0/BonyZ4taymxrfBiRqY6K42NBh0jsop_thumbnail.jpg",
+   "director": "Michael Radford",
+   "spine": "984"
+  },
+  {
+   "title": "The Age of Innocence",
+   "image": "https://s3.amazonaws.com/criterion-production/films/23b95546eb76fe0bd9c69678c5130f60/Gicsoj0cO0g4i7a78Otic6zVhZKTv7_thumbnail.jpg",
+   "director": "Martin Scorsese",
+   "spine": "913"
+  },
+  {
+   "title": "Anatomy of a Murder",
+   "image": "https://s3.amazonaws.com/criterion-production/films/303871dba84408054692162d362e800f/DZ4pikcV8PR878mzRBY3nRygvVnyXH_thumbnail.jpg",
+   "director": "Otto Preminger",
+   "spine": "600"
+  },
+  {
+   "title": "L’argent",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f700b2d43d7829bc795538602dc4120c/Na4b95E94g2wpH1f7iNU4pZj74NWOZ_thumbnail.jpg",
+   "director": "Robert Bresson",
+   "spine": "886"
+  },
+  {
+   "title": "Army of Shadows",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c9f771825b3863450ecfec9e8b440f05/YKQb8TICsflKZMMU2SEbsOH8x5eZrj_thumbnail.jpg",
+   "director": "Jean-Pierre Melville",
+   "spine": "385"
+  },
+  {
+   "title": "The Ballad of Narayama",
+   "image": "https://s3.amazonaws.com/criterion-production/films/5d52bd515511113629b6bf201b704ef8/vV8RmFH8YX7G5zJJs2jJDVYhCml4wS_thumbnail.jpg",
+   "director": "Keisuke Kinoshita",
+   "spine": "645"
+  },
+  {
+   "title": "Barry Lyndon",
+   "image": "https://s3.amazonaws.com/criterion-production/films/01163ccf334f69f25ce81cb465a9c6d2/kEcq9HEnTRAPAenkxdbo5kYyqIsiTT_thumbnail.jpg",
+   "director": "Stanley Kubrick",
+   "spine": "897"
+  },
+  {
+   "title": "Berlin Alexanderplatz",
+   "image": "https://s3.amazonaws.com/criterion-production/films/9d4f9a9e8c6a9a3dbc2962ee1c0fe66b/HkmiAJeukYH7OdffZ53S8gVu9ojPoZ_thumbnail.jpg",
+   "director": "Rainer Werner Fassbinder",
+   "spine": "411"
+  },
+  {
+   "title": "La bête humaine",
+   "image": "https://s3.amazonaws.com/criterion-production/films/456aa86ccbb3e2bfd9f72ddcbaeeacec/kSgP1xkaTvYm2ZbzJp7Sv7F2UIEpCZ_thumbnail.jpg",
+   "director": "Jean Renoir",
+   "spine": "324"
+  },
+  {
+   "title": "The Black Stallion",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f7bec3e6786018d661936d975b64e1b1/H74UdarqxqNyFJZFdDG3KOTE05Vcve_thumbnail.jpg",
+   "director": "Carroll Ballard",
+   "spine": "765"
+  },
+  {
+   "title": "The Breaking Point",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f70b3e2c5a4f2213b6a77b4f08061da8/mTFKIIcPJ215wVoQPbu2qX5nfcOE4r_thumbnail.jpg",
+   "director": "Michael Curtiz",
+   "spine": "889"
+  },
+  {
+   "title": "Certain Women",
+   "image": "https://s3.amazonaws.com/criterion-production/films/4fc022e9991a04da17eca116f25da486/9jF0ujusjEgxrtr0jHApYD6lmdl6OC_thumbnail.jpg",
+   "director": "Kelly Reichardt",
+   "spine": "893"
+  },
+  {
+   "title": "Closely Watched Trains",
+   "image": "https://s3.amazonaws.com/criterion-production/films/af59bfa9eb76fd9dbeba7c5a7876101c/2SuquAQzCKQq0BGkFh9avbof4RYG79_thumbnail.jpg",
+   "director": "Jiří Menzel",
+   "spine": "131"
+  },
+  {
+   "title": "Death in Venice",
+   "image": "https://s3.amazonaws.com/criterion-production/films/6fb38dd82b9187c02eefe787d4b50a26/6Sih2y6NRUfuPxa5MOSpbNEim3ydUM_thumbnail.jpg",
+   "director": "Luchino Visconti",
+   "spine": "962"
+  },
+  {
+   "title": "Desert Hearts",
+   "image": "https://s3.amazonaws.com/criterion-production/films/03324a6531ef2d5b59362c4c1f526f8d/W9BXrsLXnGb3dsEG98WrRJ9UuJHSWx_thumbnail.jpg",
+   "director": "Donna Deitch",
+   "spine": "902"
+  },
+  {
+   "title": "Election",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a75129341a5da1a31ed6cb4617cd7d2f/3X4bhh4Dgc2xO8k6iNMMtpUfFrFi8w_thumbnail.jpg",
+   "director": "Alexander Payne",
+   "spine": "904"
+  },
+  {
+   "title": "Les enfants terribles",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e4526a028381532bc86086e529651fb5/VGaBnkhUUI9sKivRaj0M9IRUZt3cVP_thumbnail.jpg",
+   "director": "Jean-Pierre Melville",
+   "spine": "398"
+  },
+  {
+   "title": "Fail Safe",
+   "image": "https://s3.amazonaws.com/criterion-production/films/697714c5f61884f16239ef755f14c843/fa4svULX2NfofX0swJvrLbMpl002Dq_thumbnail.jpg",
+   "director": "Sidney Lumet",
+   "spine": "1011"
+  },
+  {
+   "title": "Fantastic Mr. Fox",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1f9ceaaf056526c3d7c88296ce340579/WQjpoVqOb1CWcVmG1ZoaiEu0gJF0ez_thumbnail.jpg",
+   "director": "Wes Anderson",
+   "spine": "700"
+  },
+  {
+   "title": "Fear and Loathing in Las Vegas",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2eab6c19498ccc9c45709af90f0cc5da/POE0rbVpiFeXo7erOISf126v663x9J_thumbnail.jpg",
+   "director": "Terry Gilliam",
+   "spine": "175"
+  },
+  {
+   "title": "The Fire Within",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a8c39a413f3134b2940ede42c30c02d3/qL6ZEBtqgDUf0j76xJ6GFEpaGQYXl3_thumbnail.jpg",
+   "director": "Louis Malle",
+   "spine": "430"
+  },
+  {
+   "title": "The French Lieutenant’s Woman",
+   "image": "https://s3.amazonaws.com/criterion-production/films/9762df3989455ca24cd875d40725f202/fRIqrmeNWzN0xxfdXvd8vFM0gaAUAn_thumbnail.jpg",
+   "director": "Karel Reisz",
+   "spine": "768"
+  },
+  {
+   "title": "The Friends of Eddie Coyle",
+   "image": "https://s3.amazonaws.com/criterion-production/films/4b7b707e5d1ca031e64894a0f7664f56/Ih7c7WkDI5YcytMafpe83E30nVygJD_thumbnail.jpg",
+   "director": "Peter Yates",
+   "spine": "475"
+  },
+  {
+   "title": "The Furies",
+   "image": "https://s3.amazonaws.com/criterion-production/films/27347e78f7beca764a3920161b531e11/9TTjP15bKoZruNTlx8uvvB6oPAMC2O_thumbnail.jpg",
+   "director": "Anthony Mann",
+   "spine": "435"
+  },
+  {
+   "title": "Great Expectations",
+   "image": "https://s3.amazonaws.com/criterion-production/films/025c1c645c2cca0013d8df6cf813c22b/OPK5qMmGlZY3kHvJSb8y7THOmmtBX4_thumbnail.jpg",
+   "director": "David Lean",
+   "spine": "31"
+  },
+  {
+   "title": "The Heiress",
+   "image": "https://s3.amazonaws.com/criterion-production/films/cfd2f1ff16cf137afa82f1ca3a69396a/9sz3vbRXkTqk8NwSzvyuOZpuDaZ60k_thumbnail.jpg",
+   "director": "William Wyler",
+   "spine": "974"
+  },
+  {
+   "title": "The Ice Storm",
+   "image": "https://s3.amazonaws.com/criterion-production/films/58460754ccb655336e3763ae13943ea3/XxMhtmUAZQVOCVizNc8uDFw6UoNiyb_thumbnail.jpg",
+   "director": "Ang Lee",
+   "spine": "426"
+  },
+  {
+   "title": "Island of Lost Souls",
+   "image": "https://s3.amazonaws.com/criterion-production/films/9de0eda5b161e218aec5e45c9f71bc46/CIZxKmCjJsPRkHDp0FKzMMDIX4n72l_thumbnail.jpg",
+   "director": "Erle C. Kenton",
+   "spine": "586"
+  },
+  {
+   "title": "The Last Picture Show",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e3337688841b6e5c3e22796b3a889e02/feBBtCtzScE9oOvniyPVCbTsG34x2V_thumbnail.jpg",
+   "director": "Peter Bogdanovich",
+   "spine": "549"
+  },
+  {
+   "title": "The Last Temptation of Christ",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e72cb0861039ef5bfdd83eacc957ac58/1AczZQpaiRXO7xuSX9ZuGi8dpti30Z_thumbnail.jpg",
+   "director": "Martin Scorsese",
+   "spine": "70"
+  },
+  {
+   "title": "The Leopard",
+   "image": "https://s3.amazonaws.com/criterion-production/films/96833308352eedd79b50b2de8016a6c5/7IQOqWTrRuJg90rWrJZbK1VXI7aDcR_thumbnail.jpg",
+   "director": "Luchino Visconti",
+   "spine": "235"
+  },
+  {
+   "title": "Lord of the Flies",
+   "image": "https://s3.amazonaws.com/criterion-production/films/3c8e34ba4a541897737232a90611f947/uMJyxowOApuQ9O1hh2wLe26pqL14z1_thumbnail.jpg",
+   "director": "Peter Brook",
+   "spine": "43"
+  },
+  {
+   "title": "The Lower Depths",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1869-e5c85aaf05b37b7eb3c006cf0e4733b6/oc21ci95QjfyEYXMwqohFekz0EFAbu_small.jpg",
+   "spine": "239"
+  },
+  {
+   "title": "The Magnificent Ambersons",
+   "image": "https://s3.amazonaws.com/criterion-production/films/508da13d74af7209190380bec79002ab/KzkULFHCmg1KGSgM6OAm6LQUONSDWJ_thumbnail.jpg",
+   "director": "Orson Welles",
+   "spine": "952"
+  },
+  {
+   "title": "Magnificent Obsession",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e033d65a68d10236f332c06ce3725b59/5Pvpc7nsRpgo8lu3IQVlAeheME1g9w_thumbnail.jpg",
+   "director": "Douglas Sirk",
+   "spine": "457"
+  },
+  {
+   "title": "The Makioka Sisters",
+   "image": "https://s3.amazonaws.com/criterion-production/films/b37edc4b5c091dd4f2d4316d2f3801ee/BBVdxJnJ73hCcnGEiFOJWBJzg1qEKQ_thumbnail.jpg",
+   "director": "Kon Ichikawa",
+   "spine": "567"
+  },
+  {
+   "title": "The Manchurian Candidate",
+   "image": "https://s3.amazonaws.com/criterion-production/films/64093139506eeea73f973aee07e3f9ec/ZTvHQrwEUsJIjlvtHztiZ6g0UCH85m_thumbnail.jpg",
+   "director": "John Frankenheimer",
+   "spine": "803"
+  },
+  {
+   "title": "Marketa Lazarová",
+   "image": "https://s3.amazonaws.com/criterion-production/films/98a978f6bef534712f668212a2a2427c/siz1rk8Ivd4r95tysvYTxlmGmZAfz8_thumbnail.jpg",
+   "director": "František Vláčil",
+   "spine": "661"
+  },
+  {
+   "title": "Merry Christmas Mr. Lawrence",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c001b5fea06b5d20070d9460186f5fcc/E87js9pkGDYnXsgoQypgYqyAvKy1j4_thumbnail.jpg",
+   "director": "Nagisa Oshima",
+   "spine": "535"
+  },
+  {
+   "title": "Mister Johnson",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2ffe68940a1051ef6ad60ec2b8c1f1ea/hzZ3f7lknomADbO0NVFkLvs5Yl9bnH_thumbnail.jpg",
+   "director": "Bruce Beresford",
+   "spine": "774"
+  },
+  {
+   "title": "My Brilliant Career",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1076892f9021ddb7c859fd3c8e320e2a/Ci81X9eJjj5UeZxOsh0yqJlCk9CGOm_thumbnail.jpg",
+   "director": "Gillian Armstrong",
+   "spine": "973"
+  },
+  {
+   "title": "Naked Lunch",
+   "image": "https://s3.amazonaws.com/criterion-production/films/90d418713a2e7ecc053c7cea7f3edc07/BmQGbMPdDYJ7IwGNosdZiWUsJXh3EI_thumbnail.jpg",
+   "director": "David Cronenberg",
+   "spine": "220"
+  },
+  {
+   "title": "Oliver Twist",
+   "image": "https://s3.amazonaws.com/criterion-production/films/807be7602efb134fb383f549f6c49f5f/jtoATwfK2rvbM83E0X4EL3FbGZGOcm_thumbnail.jpg",
+   "director": "David Lean",
+   "spine": "32"
+  },
+  {
+   "title": "The Piano Teacher",
+   "image": "https://s3.amazonaws.com/criterion-production/films/6031b23c68422785c1e741025aa72938/3fA9GCobtNQwoLcBIV6QUQbKZxEx3c_thumbnail.jpg",
+   "director": "Michael Haneke",
+   "spine": "894"
+  },
+  {
+   "title": "The Princess Bride",
+   "image": "https://s3.amazonaws.com/criterion-production/films/aec8f8f4cb7a429f55333c5e1afbb3b1/RUqaCF7gTbmoOh7aDl4yQV3R8wsgzF_thumbnail.jpg",
+   "director": "Rob Reiner",
+   "spine": "948"
+  },
+  {
+   "title": "Purple Noon",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e431773b9686f745219d9bf7d8efff79/SXXZt3SRbTT8HnGGkDwTxTraKaK2BI_thumbnail.jpg",
+   "director": "René Clément",
+   "spine": "637"
+  },
+  {
+   "title": "Rebecca",
+   "image": "https://s3.amazonaws.com/criterion-production/films/65ba8520032f6fea24aaa96c21c37252/3JpHzjZhjrmkm2SHE1n3R556QGyWPX_thumbnail.jpg",
+   "director": "Alfred Hitchcock",
+   "spine": "135"
+  },
+  {
+   "title": "A Room with a View",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2a684a78d6b7c2e6aabb3341e08f0cf4/49RLuNCJcOFrAKVB1w00pKqmEQmXOs_thumbnail.jpg",
+   "director": "James Ivory",
+   "spine": "775"
+  },
+  {
+   "title": "Rosemary’s Baby",
+   "image": "https://s3.amazonaws.com/criterion-production/films/4886db5d9452d2247ff729d35aa839a6/rXjMmW28vBI3WW7qEj2gO6X7NKmq6A_thumbnail.jpg",
+   "director": "Roman Polanski",
+   "spine": "630"
+  },
+  {
+   "title": "Rumble Fish",
+   "image": "https://s3.amazonaws.com/criterion-production/films/28b1b85a6f4119f34d6165c5256037f6/CGCMTOMzrmzXe1qXr6Mnpt4jXgsgi0_thumbnail.jpg",
+   "director": "Francis Ford Coppola",
+   "spine": "869"
+  },
+  {
+   "title": "Salò, or The 120 Days of Sodom",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c1dca25b53f05bf28a029306a986f9be/8hOAp0htPTJ4M1LATpfXoCZKwxOu7y_thumbnail.jpg",
+   "director": "Pier Paolo Pasolini",
+   "spine": "17"
+  },
+  {
+   "title": "Seconds",
+   "image": "https://s3.amazonaws.com/criterion-production/films/b0b75eb96049776b39304544010775af/oZ4lookwBFKgRugblnwxK08rKZZYz8_thumbnail.jpg",
+   "director": "John Frankenheimer",
+   "spine": "667"
+  },
+  {
+   "title": "Shoot the Piano Player",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e2503ca1f726cccd07242a6f9b09d465/7FscZpQOPu1MA6NZgaw4USztuWuS2n_thumbnail.jpg",
+   "director": "François Truffaut",
+   "spine": "315"
+  },
+  {
+   "title": "Le silence de la mer",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c9235dbacc50bc3cf4c86d4f149de767/7rYBIqpqABaCIrwdwLXnNEBiq1O62e_thumbnail.jpg",
+   "director": "Jean-Pierre Melville",
+   "spine": "755"
+  },
+  {
+   "title": "The Silence of the Lambs",
+   "image": "https://s3.amazonaws.com/criterion-production/films/46014912ca0c20592c472f5bbe33e4f8/L9AQ95Y7z2vOIUf1ntwvpZsZx3kp8B_thumbnail.jpg",
+   "director": "Jonathan Demme",
+   "spine": "13"
+  },
+  {
+   "title": "The Small Back Room",
+   "image": "https://s3.amazonaws.com/criterion-production/films/dd600b70bda49320768a1a2545eabd7b/vBOoLKmxLqMp4rZ1WeBfbdsteerlnC_thumbnail.jpg",
+   "director": "Michael Powell…",
+   "spine": "441"
+  },
+  {
+   "title": "Solaris",
+   "image": "https://s3.amazonaws.com/criterion-production/films/647527e5987ba1f01e714df49e95acdb/caQS8NJz8DXvLNcdgnxxZJn7pZtC6l_thumbnail.jpg",
+   "director": "Andrei Tarkovsky",
+   "spine": "164"
+  },
+  {
+   "title": "The Spy Who Came in from the Cold",
+   "image": "https://s3.amazonaws.com/criterion-production/films/16a780fa46a7d4ec58d29cba5b304524/ciTMvYytYqmBFhcwmOppTZZ8iMI2WQ_thumbnail.jpg",
+   "director": "Martin Ritt",
+   "spine": "452"
+  },
+  {
+   "title": "Stalker",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a2edcc26e1eab799429c48ff7067cee7/E0TPdmb6xXiqaiuPmArJq90hdAs3xV_thumbnail.jpg",
+   "director": "Andrei Tarkovsky",
+   "spine": "888"
+  },
+  {
+   "title": "Sundays and Cybèle",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c741d1027a1f8937f4becf57f68a23dc/8Vw7Cqvm4c8vUuhhyaKWcUG6mtHdNj_thumbnail.jpg",
+   "director": "Serge Bourguignon",
+   "spine": "728"
+  },
+  {
+   "title": "Tess",
+   "image": "https://s3.amazonaws.com/criterion-production/films/78d30fb14adaf900d4da698590d176cd/8yu0ykJTOrEfE9pT6hH7JWcl61pGGP_thumbnail.jpg",
+   "director": "Roman Polanski",
+   "spine": "697"
+  },
+  {
+   "title": "The Prince of Tides",
+   "image": "https://s3.amazonaws.com/criterion-production/films/03f92b28b483c87990e64d3e8d65bb33/6U2WKHdRmzYqcnAqo95rDMT3GJ5Q2u_thumbnail.jpg",
+   "director": "Barbra Streisand",
+   "spine": "1022"
+  },
+  {
+   "title": "They Live by Night",
+   "image": "https://s3.amazonaws.com/criterion-production/films/7b61cc952472acaf45e25d18ecda3a6c/AvkrECEvwDaYkrM6obhacxPy1j0Nwy_thumbnail.jpg",
+   "director": "Nicholas Ray",
+   "spine": "880"
+  },
+  {
+   "title": "The Thin Red Line",
+   "image": "https://s3.amazonaws.com/criterion-production/films/65456f80783b9fc82a4a296501ac8578/7at8dAs0I2wnVsvIf4COS4WsBTYqyW_thumbnail.jpg",
+   "director": "Terrence Malick",
+   "spine": "536"
+  },
+  {
+   "title": "The Tin Drum",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1522135761424c32d477da9851f016ff/33GcylWNQvIKPneqIDDpcJnFPoUtSg_thumbnail.jpg",
+   "director": "Volker Schlöndorff",
+   "spine": "234"
+  },
+  {
+   "title": "Tom Jones",
+   "image": "https://s3.amazonaws.com/criterion-production/films/78fbfa2a7123cbcce483bb5dcb4cca4f/6FwvYWuz6xnPFlvRp09yb9QhzTIIu7_thumbnail.jpg",
+   "director": "Tony Richardson",
+   "spine": "910"
+  },
+  {
+   "title": "Under the Volcano",
+   "image": "https://s3.amazonaws.com/criterion-production/films/4b7422b56ee169b5b3d8581fe79f11fc/ocutEPmmOX4HRQR8RFenoUHcw0hvk6_thumbnail.jpg",
+   "director": "John Huston",
+   "spine": "410"
+  },
+  {
+   "title": "The Uninvited",
+   "image": "https://s3.amazonaws.com/criterion-production/films/9a47380e81bad08a322032a14158be83/8ftdZ1FybsRNtjEkE0lr8zYDcdx8lQ_thumbnail.jpg",
+   "director": "Lewis Allen",
+   "spine": "677"
+  },
+  {
+   "title": "The Virgin Suicides",
+   "image": "https://s3.amazonaws.com/criterion-production/films/dc3d5992049dae7c589492ccc81e1e18/9uRoyo4nyLZMomhprq1lNKVOXPXqel_thumbnail.jpg",
+   "director": "Sofia Coppola",
+   "spine": "920"
+  },
+  {
+   "title": "War and Peace",
+   "image": "https://s3.amazonaws.com/criterion-production/films/b020b5c4e0643af7c3cce7b62e224d5c/OnWiOZAjxlU7pHnN9Z7Yb9NJVfYhLX_thumbnail.jpg",
+   "director": "Sergei Bondarchuk",
+   "spine": "983"
+  },
+  {
+   "title": "Watership Down",
+   "image": "https://s3.amazonaws.com/criterion-production/films/8b4a24dc151083e1944cd00788f9bce9/xkjdIN7aUqiWMSDdCXrwehCMSpuqJL_thumbnail.jpg",
+   "director": "Martin Rosen",
+   "spine": "748"
+  },
+  {
+   "title": "Wildlife",
+   "image": "https://s3.amazonaws.com/criterion-production/films/597124f416f05a040868b747ef5dbb39/Yg8FHf5KpTrN5RJ01e73Y5kuxWAI3m_thumbnail.jpg",
+   "director": "Paul Dano",
+   "spine": "1031"
+  },
+  {
+   "title": "Wise Blood",
+   "image": "https://s3.amazonaws.com/criterion-production/films/604f95c6bfb50dba8e5f1c7b2513a5ab/H8hXQBgkkXPHZqc0aeBelkFeh3rrcU_thumbnail.jpg",
+   "director": "John Huston",
+   "spine": "470"
+  },
+  {
+   "title": "Women in Love",
+   "image": "https://s3.amazonaws.com/criterion-production/films/7451ad8664e892cb9267d890a59b2158/Y63fOFkLXE5VXEUnbLcGZMqYfU5NRL_thumbnail.jpg",
+   "director": "Ken Russell",
+   "spine": "916"
+  },
+  {
+   "title": "Young Törless",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ea8616829a288b5b6d680c9f6b66ba59/03UzOLZzQogXDtQOTkIp8BbLpZWGYM_thumbnail.jpg",
+   "director": "Volker Schlöndorff",
+   "spine": "279"
+  },
+  {
+   "title": "Zazie dans le métro",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f1747c2aaf658274a7e8e387d606b207/VSprwqE5FNJXGN7iPyWcXfOHTQz68t_thumbnail.jpg",
+   "director": "Louis Malle",
+   "spine": "570"
+  }
+ ]
+}

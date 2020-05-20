@@ -1,0 +1,232 @@
+{
+ "stage_to_screen": [
+  {
+   "title": "The Bitter Tears of Petra von Kant",
+   "image": "https://s3.amazonaws.com/criterion-production/films/4e79a1eff1b5b8650d9aa0a87f12b219/LAa9Dc6FFaSoBp08XqpUl1VNMbGHJy_thumbnail.jpg",
+   "director": "Rainer Werner Fassbinder",
+   "spine": "740"
+  },
+  {
+   "title": "Blithe Spirit",
+   "image": "https://s3.amazonaws.com/criterion-production/films/700cdf843d9e0b61059e89897e49f240/n5pDONxrIiOlyCJR7T6elIdkBhiMHv_thumbnail.jpg",
+   "director": "David Lean",
+   "spine": "606"
+  },
+  {
+   "title": "Boudu Saved from Drowning",
+   "image": "https://s3.amazonaws.com/criterion-production/films/41bab7d800fa8e2acb4c1225cc874538/6GhFqGUGRTHmv39pKLAOsW4tpxf0Ys_thumbnail.jpg",
+   "director": "Jean Renoir",
+   "spine": "305"
+  },
+  {
+   "title": "Breaker Morant",
+   "image": "https://s3.amazonaws.com/criterion-production/films/599c1d93d69bc16cf64bea4e5744ea53/aB9rUALrsOa4RdkVSqaV2SNoIC3Oej_thumbnail.jpg",
+   "director": "Bruce Beresford",
+   "spine": "773"
+  },
+  {
+   "title": "Brief Encounter",
+   "image": "https://s3.amazonaws.com/criterion-production/films/b1934b4748475590262b938b9cfc3c4a/w7dChuHNMJFqP6lR0le67x1rix4DQu_thumbnail.jpg",
+   "director": "David Lean",
+   "spine": "76"
+  },
+  {
+   "title": "The Browning Version",
+   "image": "https://s3.amazonaws.com/criterion-production/films/227e7c32cfe224950f9af8103a0454d9/hDJm3dtUOaFdpGrXecOOQSBv0AoRC4_thumbnail.jpg",
+   "director": "Anthony Asquith",
+   "spine": "294"
+  },
+  {
+   "title": "Chimes at Midnight",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1412d8b36b09381acde385c859f42cac/vVWYoiTPW7D4hf0mZN6yOsJEJ3wXsD_thumbnail.jpg",
+   "director": "Orson Welles",
+   "spine": "830"
+  },
+  {
+   "title": "Danton",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a22b98c408877cc33e0503bb843909c2/YweSwclx3W7SzFLPgICwBHTkdLCERC_thumbnail.jpg",
+   "director": "Andrzej Wajda",
+   "spine": "464"
+  },
+  {
+   "title": "The Emperor Jones",
+   "image": "https://s3.amazonaws.com/criterion-production/films/6ad67d0bf18658d64747ef2cad51dba4/DPrx897B0y0xSDBctcV7Dx9kcxV4C6_thumbnail.jpg",
+   "director": "Dudley Murphy",
+   "spine": "370"
+  },
+  {
+   "title": "The Fugitive Kind",
+   "image": "https://s3.amazonaws.com/criterion-production/films/54bc36388e16357fc3a1d942cb8d5b1f/gxZAPSOZS3yNklK8cd2gjlpnpKsGFq_thumbnail.jpg",
+   "director": "Sidney Lumet",
+   "spine": "515"
+  },
+  {
+   "title": "Gertrud",
+   "image": "https://s3.amazonaws.com/criterion-production/films/3a2d74980746ffe49fdb54ea36575afe/0ShXROwQwgzXY1eRCAhymJWlZw3Nd7_thumbnail.jpg",
+   "director": "Carl Th. Dreyer",
+   "spine": "127"
+  },
+  {
+   "title": "The Golden Coach",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2968049fe481643d16c0f71bfe23bf1a/Myv0dR7G964cHYX0hO6JazH8CY4bqB_thumbnail.jpg",
+   "director": "Jean Renoir",
+   "spine": "242"
+  },
+  {
+   "title": "Gray’s Anatomy",
+   "image": "https://s3.amazonaws.com/criterion-production/films/fe7df7609f7f3a1dc48f3c2d76e51036/wt7fR7XHJXY7n8XmquvUHujSrewDq6_thumbnail.jpg",
+   "director": "Steven Soderbergh",
+   "spine": "618"
+  },
+  {
+   "title": "Hamlet",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2f448c30ac7b06febb22d66b5ff974a7/IbyM57yhe0Whunlq0YhnaVhNeqD9Hi_thumbnail.jpg",
+   "director": "Laurence Olivier",
+   "spine": "82"
+  },
+  {
+   "title": "Hedwig and the Angry Inch",
+   "image": "https://s3.amazonaws.com/criterion-production/films/52ffffbd90945e11901030ff291ac5cb/r6jMm8TJwfxzntIo63jl208R8pfXcA_thumbnail.jpg",
+   "director": "John Cameron Mitchell",
+   "spine": "982"
+  },
+  {
+   "title": "The Heiress",
+   "image": "https://s3.amazonaws.com/criterion-production/films/cfd2f1ff16cf137afa82f1ca3a69396a/9sz3vbRXkTqk8NwSzvyuOZpuDaZ60k_thumbnail.jpg",
+   "director": "William Wyler",
+   "spine": "974"
+  },
+  {
+   "title": "Henry V",
+   "image": "https://s3.amazonaws.com/criterion-production/films/8ee59661122bd9d01884ca9b1b1540ec/ROVGDsGwF187gfngqmnIyAZikoWldm_thumbnail.jpg",
+   "director": "Laurence Olivier",
+   "spine": "41"
+  },
+  {
+   "title": "The Importance of Being Earnest",
+   "image": "https://s3.amazonaws.com/criterion-production/films/66e4031040dec345d5efded98c2819b9/SkCjGitEojIZn8ZEO3GR3Zj0cEdxg3_thumbnail.jpg",
+   "director": "Anthony Asquith",
+   "spine": "158"
+  },
+  {
+   "title": "Insignificance",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a5e3fd6f03567fe6a67f8b3b9eaa867d/mjZx83OMMuc168S7NOnc4FdO4ZI1rL_thumbnail.jpg",
+   "director": "Nicolas Roeg",
+   "spine": "566"
+  },
+  {
+   "title": "Love Streams",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ae5332041a8aa75000e2b5616f3ba6ae/9jjKsvHZbYeUyVTtHzKFb6JBlGLEo0_thumbnail.jpg",
+   "director": "John Cassavetes",
+   "spine": "721"
+  },
+  {
+   "title": "Macbeth",
+   "image": "https://s3.amazonaws.com/criterion-production/films/cb6e050b19cc766adeaa1a780617de0b/OI42u7RUSZxrs36D0uEjtkX4m6djx3_thumbnail.jpg",
+   "director": "Roman Polanski",
+   "spine": "726"
+  },
+  {
+   "title": "The Magic Flute",
+   "image": "https://s3.amazonaws.com/criterion-production/films/24f4d136b6d9b461116c2adc67ba695f/crh2jXaHD2BPVeUoR0IBQpPdeaOeYL_thumbnail.jpg",
+   "director": "Ingmar Bergman",
+   "spine": "71"
+  },
+  {
+   "title": "Marius",
+   "image": "https://s3.amazonaws.com/criterion-production/films/0a23a551aebf07fcf997dd0fc7201868/gK5Z0zfUDusxIBnAScefOq7kY5Pw6q_thumbnail.jpg",
+   "director": "Alexander Korda",
+   "spine": "882"
+  },
+  {
+   "title": "A Master Builder",
+   "image": "https://s3.amazonaws.com/criterion-production/films/4d12d0b6523c10060860b2695f32672f/KmC0p8LFp4dAfgyLalLkQRoZgakcY3_thumbnail.jpg",
+   "director": "Jonathan Demme",
+   "spine": "762"
+  },
+  {
+   "title": "Master of the House",
+   "image": "https://s3.amazonaws.com/criterion-production/films/55bfdb7f62206db7e4500dcdb850d17c/NxmCfGvMqbizxJmkBDsYwkUfjgJAV7_thumbnail.jpg",
+   "director": "Carl Th. Dreyer",
+   "spine": "706"
+  },
+  {
+   "title": "The Mikado",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e3c058a69006d26b6df4008dcbc87616/m2TegG4mLAOkV3oQmmKYYZxQmuFF8b_thumbnail.jpg",
+   "director": "Victor Schertzinger",
+   "spine": "559"
+  },
+  {
+   "title": "Miss Julie",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f401c442afc5436ff37e07f148fcd279/Pq65076icJ0w5uYt26AiIZNbRW2vdK_thumbnail.jpg",
+   "director": "Alf Sjöberg",
+   "spine": "416"
+  },
+  {
+   "title": "Othello",
+   "image": "https://s3.amazonaws.com/criterion-production/films/49e516a3b9f2ff8d5e44830a1154103f/XorHnUjAK0JVHgvTyc3cWo1H9o4we1_thumbnail.jpg",
+   "director": "Orson Welles",
+   "spine": "870"
+  },
+  {
+   "title": "Pandora’s Box",
+   "image": "https://s3.amazonaws.com/criterion-production/films/8cff4ed5c749a90d25f50667ab1908d2/erzB7rRyF3un8YavvACbHzygC7P0lm_thumbnail.jpg",
+   "director": "G. W. Pabst",
+   "spine": "358"
+  },
+  {
+   "title": "The Philadelphia Story",
+   "image": "https://s3.amazonaws.com/criterion-production/films/73a39f7f730d789ad75a85052fcb79ec/ctkavyALJzOHlnjyxyKzE5AyYFTLTJ_thumbnail.jpg",
+   "director": "George Cukor",
+   "spine": "901"
+  },
+  {
+   "title": "Richard III",
+   "image": "https://s3.amazonaws.com/criterion-production/films/32d0f143682b34732d0fdd3ed8e0e7bb/fBklqTm33Jg32mLL79K5I4cZHSt9cE_thumbnail.jpg",
+   "director": "Laurence Olivier",
+   "spine": "213"
+  },
+  {
+   "title": "La ronde",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2d9f65a009ae0df30f7268f5cad30602/hCVpEfIN7DST5IptZEPGxHXn1hTR9M_thumbnail.jpg",
+   "director": "Max Ophuls",
+   "spine": "443"
+  },
+  {
+   "title": "The Ruling Class",
+   "image": "https://s3.amazonaws.com/criterion-production/films/715c0edb17c2ec2066fa8be1e1f07ff2/lEbyN5olI9I9gY02DBezxJ9xQuly9q_thumbnail.jpg",
+   "director": "Peter Medak",
+   "spine": "132"
+  },
+  {
+   "title": "A Story from Chikamatsu",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f4ad6be2540c633598390d4e99bacfaa/8Z68h0ZUt4LzJE6hZO2rLOvfrA9avZ_thumbnail.jpg",
+   "director": "Kenji Mizoguchi",
+   "spine": "949"
+  },
+  {
+   "title": "A Taste of Honey",
+   "image": "https://s3.amazonaws.com/criterion-production/films/7bfaa9a3f92e2fc8b4cc5f8b3a72fcd4/sAyvt3qLGVUlBaHDDLG1vMF24HKrUk_thumbnail.jpg",
+   "director": "Tony Richardson",
+   "spine": "829"
+  },
+  {
+   "title": "This Happy Breed",
+   "image": "https://s3.amazonaws.com/criterion-production/films/8b53ffd205f5f2bf9f328b3940820344/GyqFGSUJ8VabXsYbhO9vEVrlnKFO2N_thumbnail.jpg",
+   "director": "David Lean",
+   "spine": "605"
+  },
+  {
+   "title": "The Threepenny Opera",
+   "image": "https://s3.amazonaws.com/criterion-production/films/61a18b721d7da3c80336baf91a7bd9f7/vjFC4gmkYHWrhV09dgqGRyHtLcJ5Rp_thumbnail.jpg",
+   "director": "G. W. Pabst",
+   "spine": "405"
+  },
+  {
+   "title": "Vanya on 42nd Street",
+   "image": "https://s3.amazonaws.com/criterion-production/films/b5de3107dbc1cac694c7581d787b3cd8/0EwZ3HapM3kv8NAIbGAzViVdQBbJHS_thumbnail.jpg",
+   "director": "Louis Malle",
+   "spine": "599"
+  }
+ ]
+}

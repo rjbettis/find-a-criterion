@@ -235,6 +235,195 @@ export class GetTheme extends Component {
         currentSummary: ThemeList.themes[22].summary,
         currentImage: ThemeList.themes[22].image,
       });
+    } else if (this.props.match.params.theme === 'JapaneseNewWave') {
+      this.setState({
+        films: combinedJson.japanese_new_wave,
+        currentTheme: ThemeList.themes[23].title,
+        currentSummary: ThemeList.themes[23].summary,
+        currentImage: ThemeList.themes[23].image,
+      });
+    } else if (this.props.match.params.theme === 'LittleSomethingExtra') {
+      this.setState({
+        films: combinedJson.little_something_extra,
+        currentTheme: ThemeList.themes[24].title,
+        currentSummary: ThemeList.themes[24].summary,
+        currentImage: ThemeList.themes[24].image,
+      });
+    } else if (this.props.match.params.theme === 'MadeDuringWorldWarII') {
+      this.setState({
+        films: combinedJson.made_during_world_war_ii,
+        currentTheme: ThemeList.themes[25].title,
+        currentSummary: ThemeList.themes[25].summary,
+        currentImage: ThemeList.themes[25].image,
+      });
+    } else if (this.props.match.params.theme === 'Melodrama') {
+      this.setState({
+        films: combinedJson.melodrama,
+        currentTheme: ThemeList.themes[26].title,
+        currentSummary: ThemeList.themes[26].summary,
+        currentImage: ThemeList.themes[26].image,
+      });
+    } else if (this.props.match.params.theme === 'NewAmericanCinema') {
+      this.setState({
+        films: combinedJson.melodrama,
+        currentTheme: ThemeList.themes[27].title,
+        currentSummary: ThemeList.themes[27].summary,
+        currentImage: ThemeList.themes[27].image,
+      });
+    } else if (this.props.match.params.theme === 'NewGermanCinema') {
+      this.setState({
+        films: combinedJson.new_german_cinema,
+        currentTheme: ThemeList.themes[28].title,
+        currentSummary: ThemeList.themes[28].summary,
+        currentImage: ThemeList.themes[28].image,
+      });
+    } else if (this.props.match.params.theme === 'NewYorkStories') {
+      this.setState({
+        films: combinedJson.new_york_stories,
+        currentTheme: ThemeList.themes[29].title,
+        currentSummary: ThemeList.themes[29].summary,
+        currentImage: ThemeList.themes[29].image,
+      });
+    } else if (this.props.match.params.theme === 'NoirAndNeonoir') {
+      this.setState({
+        films: combinedJson.noir_and_neonoir,
+        currentTheme: ThemeList.themes[30].title,
+        currentSummary: ThemeList.themes[30].summary,
+        currentImage: ThemeList.themes[30].image,
+      });
+    } else if (this.props.match.params.theme === 'NovelsOnTheBigScreen') {
+      this.setState({
+        films: combinedJson.novels_on_the_big_screen,
+        currentTheme: ThemeList.themes[31].title,
+        currentSummary: ThemeList.themes[31].summary,
+        currentImage: ThemeList.themes[31].image,
+      });
+    } else if (this.props.match.params.theme === 'Originals') {
+      this.setState({
+        films: combinedJson.originals,
+        currentTheme: ThemeList.themes[32].title,
+        currentSummary: ThemeList.themes[32].summary,
+        currentImage: ThemeList.themes[32].image,
+      });
+    } else if (this.props.match.params.theme === 'OscarWinners') {
+      this.setState({
+        films: combinedJson.oscar_winners,
+        currentTheme: ThemeList.themes[33].title,
+        currentSummary: ThemeList.themes[33].summary,
+        currentImage: ThemeList.themes[33].image,
+      });
+    } else if (this.props.match.params.theme === 'OutAtCriterion') {
+      this.setState({
+        films: combinedJson.out_at_criterion,
+        currentTheme: ThemeList.themes[34].title,
+        currentSummary: ThemeList.themes[34].summary,
+        currentImage: ThemeList.themes[34].image,
+      });
+    } else if (this.props.match.params.theme === 'PoeticRealism') {
+      this.setState({
+        films: combinedJson.poetic_realism,
+        currentTheme: ThemeList.themes[35].title,
+        currentSummary: ThemeList.themes[35].summary,
+        currentImage: ThemeList.themes[35].image,
+      });
+    } else if (this.props.match.params.theme === 'RoadTrips') {
+      this.setState({
+        films: combinedJson.road_trips,
+        currentTheme: ThemeList.themes[36].title,
+        currentSummary: ThemeList.themes[36].summary,
+        currentImage: ThemeList.themes[36].image,
+      });
+    } else if (this.props.match.params.theme === 'SamuraiCinema') {
+      this.setState({
+        films: combinedJson.samurai_cinema,
+        currentTheme: ThemeList.themes[37].title,
+        currentSummary: ThemeList.themes[37].summary,
+        currentImage: ThemeList.themes[37].image,
+      });
+    } else if (this.props.match.params.theme === 'ScaryMovies') {
+      this.setState({
+        films: combinedJson.scary_movies,
+        currentTheme: ThemeList.themes[38].title,
+        currentSummary: ThemeList.themes[38].summary,
+        currentImage: ThemeList.themes[38].image,
+      });
+    } else if (this.props.match.params.theme === 'SilentCinema') {
+      this.setState({
+        films: combinedJson.silent_cinema,
+        currentTheme: ThemeList.themes[39].title,
+        currentSummary: ThemeList.themes[39].summary,
+        currentImage: ThemeList.themes[39].image,
+      });
+    } else if (this.props.match.params.theme === 'SilentComedies') {
+      this.setState({
+        films: combinedJson.silent_comedies,
+        currentTheme: ThemeList.themes[40].title,
+        currentSummary: ThemeList.themes[40].summary,
+        currentImage: ThemeList.themes[40].image,
+      });
+    } else if (this.props.match.params.theme === 'SongAndDance') {
+      this.setState({
+        films: combinedJson.song_and_dance,
+        currentTheme: ThemeList.themes[41].title,
+        currentSummary: ThemeList.themes[41].summary,
+        currentImage: ThemeList.themes[41].image,
+      });
+    } else if (this.props.match.params.theme === 'StageToScreen') {
+      this.setState({
+        films: combinedJson.stage_to_screen,
+        currentTheme: ThemeList.themes[42].title,
+        currentSummary: ThemeList.themes[42].summary,
+        currentImage: ThemeList.themes[42].image,
+      });
+    } else if (this.props.match.params.theme === 'Suspense') {
+      this.setState({
+        films: combinedJson.suspense,
+        currentTheme: ThemeList.themes[43].title,
+        currentSummary: ThemeList.themes[43].summary,
+        currentImage: ThemeList.themes[43].image,
+      });
+    } else if (this.props.match.params.theme === 'Tearjerkers') {
+      this.setState({
+        films: combinedJson.tearjerkers,
+        currentTheme: ThemeList.themes[44].title,
+        currentSummary: ThemeList.themes[44].summary,
+        currentImage: ThemeList.themes[44].image,
+      });
+    } else if (this.props.match.params.theme === 'Technicolor') {
+      this.setState({
+        films: combinedJson.technicolor,
+        currentTheme: ThemeList.themes[45].title,
+        currentSummary: ThemeList.themes[45].summary,
+        currentImage: ThemeList.themes[45].image,
+      });
+    } else if (this.props.match.params.theme === 'VirtuallyReality') {
+      this.setState({
+        films: combinedJson.virtually_reality,
+        currentTheme: ThemeList.themes[46].title,
+        currentSummary: ThemeList.themes[46].summary,
+        currentImage: ThemeList.themes[46].image,
+      });
+    } else if (this.props.match.params.theme === 'WarFilms') {
+      this.setState({
+        films: combinedJson.war_films,
+        currentTheme: ThemeList.themes[47].title,
+        currentSummary: ThemeList.themes[47].summary,
+        currentImage: ThemeList.themes[47].image,
+      });
+    } else if (this.props.match.params.theme === 'Westerns') {
+      this.setState({
+        films: combinedJson.westerns,
+        currentTheme: ThemeList.themes[48].title,
+        currentSummary: ThemeList.themes[48].summary,
+        currentImage: ThemeList.themes[48].image,
+      });
+    } else if (this.props.match.params.theme === 'Yakuza') {
+      this.setState({
+        films: combinedJson.yakuza,
+        currentTheme: ThemeList.themes[49].title,
+        currentSummary: ThemeList.themes[49].summary,
+        currentImage: ThemeList.themes[49].image,
+      });
     }
 
     window.scrollTo(0, 0);

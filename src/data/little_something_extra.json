@@ -1,0 +1,548 @@
+{
+ "little_something_extra": [
+  {
+   "title": "4 by Agnès Varda",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1856-70cb6699a8cee4d1285949a3f86c813d/NxYyVlcajs0ng5eCLjUz0H5LgGSk7Z_small.jpg",
+   "spine": "418"
+  },
+  {
+   "title": "The 400 Blows",
+   "image": "https://s3.amazonaws.com/criterion-production/films/6419fdfbf3442b70b449e2780ae6ac04/Jli0DzbsLXV9c4V1sPirW4n2Lw5FR8_thumbnail.jpg",
+   "director": "François Truffaut",
+   "spine": "5"
+  },
+  {
+   "title": "49th Parallel",
+   "image": "https://s3.amazonaws.com/criterion-production/films/da2032b3d3115969152fd4f442094cbd/yunzkLos81PnuwixO24PC6ZH8Nc4vM_thumbnail.jpg",
+   "director": "Michael Powell",
+   "spine": "376"
+  },
+  {
+   "title": "¡Alambrista!",
+   "image": "https://s3.amazonaws.com/criterion-production/films/0491f97086109447ae043dd560ab1deb/yN0HxZOaIlmehJUNzXjOrTZoTSNtdp_thumbnail.jpg",
+   "director": "Robert M. Young",
+   "spine": "609"
+  },
+  {
+   "title": "Ali: Fear Eats the Soul",
+   "image": "https://s3.amazonaws.com/criterion-production/films/7dd41aeeab0ce784854db5756730e849/rp77a94J13Y9gB1nMxqiZ85R5UCaSb_thumbnail.jpg",
+   "director": "Rainer Werner Fassbinder",
+   "spine": "198"
+  },
+  {
+   "title": "Antonio Gaudí",
+   "image": "https://s3.amazonaws.com/criterion-production/films/9fbb1fd3e4b0e01dba200e753955bb7a/NKIsmQqC7PGzqels7ynuEsT5dqK8Zs_thumbnail.jpg",
+   "director": "Hiroshi Teshigahara",
+   "spine": "425"
+  },
+  {
+   "title": "Band of Outsiders",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ae260bc49b38999ae5d987f2bac9aeab/Leo6yt5ZClpT2WA4trT7idTMnGhNug_thumbnail.jpg",
+   "director": "Jean-Luc Godard",
+   "spine": "174"
+  },
+  {
+   "title": "Black Girl",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f80481e779fb4ee322ea076493f77809/aL8C9iixqiOxtqyTVPNMPTPQwrBtKl_thumbnail.jpg",
+   "director": "Ousmane Sembène",
+   "spine": "852"
+  },
+  {
+   "title": "The Black Stallion",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f7bec3e6786018d661936d975b64e1b1/H74UdarqxqNyFJZFdDG3KOTE05Vcve_thumbnail.jpg",
+   "director": "Carroll Ballard",
+   "spine": "765"
+  },
+  {
+   "title": "Les Blank: Always for Pleasure",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2f688652803c16264043f90f17e765ca/PheFiY9qVZJASFnN5IAxieKfzbo300_thumbnail.jpg",
+   "director": "Les Blank",
+   "spine": "737"
+  },
+  {
+   "title": "Bottle Rocket",
+   "image": "https://s3.amazonaws.com/criterion-production/films/35f9d445a3a2f956d2b62743d96b70a8/aCk80wNJpXkp5LtyMGF6tRFGmw12nI_thumbnail.jpg",
+   "director": "Wes Anderson",
+   "spine": "450"
+  },
+  {
+   "title": "Brand upon the Brain!",
+   "image": "https://s3.amazonaws.com/criterion-production/films/dd948ea1505c8c0c9d4cc14ce7ae6da0/4bHdVOYHaFfEvZyoh1P26mRc90hwHF_thumbnail.jpg",
+   "director": "Guy Maddin",
+   "spine": "440"
+  },
+  {
+   "title": "Breathless",
+   "image": "https://s3.amazonaws.com/criterion-production/films/3cef6f35153633b115fa86b7b7859b48/KLThdkATmWy4MXuzvzroYoVykInbAI_thumbnail.jpg",
+   "director": "Jean-Luc Godard",
+   "spine": "408"
+  },
+  {
+   "title": "Burden of Dreams",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ebb3bf89d705f125537a7e7e1aee3b29/GqsByzCtbyIcjEY4V5D6BZZua21jyh_thumbnail.jpg",
+   "director": "Les Blank",
+   "spine": "287"
+  },
+  {
+   "title": "Cameraperson",
+   "image": "https://s3.amazonaws.com/criterion-production/films/feb280573a89c5d8b5cb3ca19a304433/MLXowciFAZC8mnexn4Hqf7FIRuiR1r_thumbnail.jpg",
+   "director": "Kirsten Johnson",
+   "spine": "853"
+  },
+  {
+   "title": "A Canterbury Tale",
+   "image": "https://s3.amazonaws.com/criterion-production/films/b206f2fd2c1e24512689ec54b8402317/HTN85CSIghZznvIf2LJWNGmNVm5U00_thumbnail.jpg",
+   "director": "Michael Powell…",
+   "spine": "341"
+  },
+  {
+   "title": "La Ciénaga",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1c5fca8c40bb66746852edac6075a4c4/bfd4HXVR74XrJEepgJMYmJRi7zvIv7_thumbnail.jpg",
+   "director": "Lucrecia Martel",
+   "spine": "743"
+  },
+  {
+   "title": "The Complete Jacques Tati",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1826-74abafd9cdfb81dc87d1738ec3c99693/VZ6wkU3rR5LF2srqIn918sRLIBPOl8_small.jpg",
+   "spine": "729"
+  },
+  {
+   "title": "Cronos",
+   "image": "https://s3.amazonaws.com/criterion-production/films/bf5522f9c5a76a5e8b06fa496db2c56b/qLNV9fawkZraKjbzYwdhn6ArT0cMbF_thumbnail.jpg",
+   "director": "Guillermo del Toro",
+   "spine": "551"
+  },
+  {
+   "title": "The Darjeeling Limited",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ba78cd679dd658ed1a17221053a9bad5/SNeRLKUqSj4XOVWEWskwqDtlCTc7m4_thumbnail.jpg",
+   "director": "Wes Anderson",
+   "spine": "540"
+  },
+  {
+   "title": "Death by Hanging",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a14fbd036632e3f415a1d84eeb8c2163/YxXhIfpmjFKdisDsKw9Hp5jdpJcpZO_thumbnail.jpg",
+   "director": "Nagisa Oshima",
+   "spine": "798"
+  },
+  {
+   "title": "Dekalog",
+   "image": "https://s3.amazonaws.com/criterion-production/films/68df1877f011e5cc0d15378352c8d8a1/gr0TBE0B2FkVmq5BPOeS3xlzufID1T_thumbnail.jpg",
+   "director": "Krzysztof Kieślowski",
+   "spine": "837"
+  },
+  {
+   "title": "The Double Life of Véronique",
+   "image": "https://s3.amazonaws.com/criterion-production/films/3696c26f4ed9c4cd28f9451887257ca3/5ccWWR3eHcxxApgkyHF3AFiqNr43SG_thumbnail.jpg",
+   "director": "Krzysztof Kieślowski",
+   "spine": "359"
+  },
+  {
+   "title": "Eating Raoul",
+   "image": "https://s3.amazonaws.com/criterion-production/films/28d6495a960ffeca7c74c5a56d6e36e2/4FZJ4FZE0H7nPOEDoBjes4hUsAkzG1_thumbnail.jpg",
+   "director": "Paul Bartel",
+   "spine": "625"
+  },
+  {
+   "title": "Election",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a75129341a5da1a31ed6cb4617cd7d2f/3X4bhh4Dgc2xO8k6iNMMtpUfFrFi8w_thumbnail.jpg",
+   "director": "Alexander Payne",
+   "spine": "904"
+  },
+  {
+   "title": "Eraserhead",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c834dedcc911ec34cb90bdefd315542e/nqPw4QXPXZp3mgcIFcvR9BL0mW2obB_thumbnail.jpg",
+   "director": "David Lynch",
+   "spine": "725"
+  },
+  {
+   "title": "The Essential Jacques Demy",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1827-340d95a9dc4160151fad3b6ee59da757/g1SkfwOWOBrY9ryHCbnk9w9KcU5iJW_small.jpg",
+   "spine": "713"
+  },
+  {
+   "title": "Eyes Without a Face",
+   "image": "https://s3.amazonaws.com/criterion-production/films/fc3c1f281c7c268b95d6ccfcb9c09753/09SjT40uvff2VmvuzTfllqpz5yKg2o_thumbnail.jpg",
+   "director": "Georges Franju",
+   "spine": "260"
+  },
+  {
+   "title": "Fantastic Planet",
+   "image": "https://s3.amazonaws.com/criterion-production/films/3b384c601af6defbccd31020fb482b46/d5g8lS9xQQQyGpGaTma0HnkBycZvYo_thumbnail.jpg",
+   "director": "René Laloux",
+   "spine": "820"
+  },
+  {
+   "title": "Fish Tank",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c467c2b736aa487917e683bda0f5fee9/9csB0WnD265jEpvyTxJq5K2An80Ry5_thumbnail.jpg",
+   "director": "Andrea Arnold",
+   "spine": "553"
+  },
+  {
+   "title": "Following",
+   "image": "https://s3.amazonaws.com/criterion-production/films/872420cba7088d5f5f64157663c6c2c5/PWMlxSDrb4crZTImCxrDbFsxYZMb4k_thumbnail.jpg",
+   "director": "Christopher Nolan",
+   "spine": "638"
+  },
+  {
+   "title": "The Freshman",
+   "image": "https://s3.amazonaws.com/criterion-production/films/cbda2b73d58c94da90d718beb2a6212f/grzsX7mRu1vFpl7oMh12x96ahSdYbj_thumbnail.jpg",
+   "director": "Sam Taylor…",
+   "spine": "703"
+  },
+  {
+   "title": "George Washington",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a73475b70493622e2b88524df1c8e040/ls8lqlIoz36jroS7stPy7lfhWmzKD5_thumbnail.jpg",
+   "director": "David Gordon Green",
+   "spine": "152"
+  },
+  {
+   "title": "Hard Boiled",
+   "image": "https://s3.amazonaws.com/criterion-production/films/369fddc3b364390e48299de2dd01db42/qMFkit6AwCilHq2S92a6PNajEQ9WNR_thumbnail.jpg",
+   "director": "John Woo",
+   "spine": "9"
+  },
+  {
+   "title": "A Hard Day’s Night",
+   "image": "https://s3.amazonaws.com/criterion-production/films/bc5769c1a5d0c2822cb9ac84d12b82ab/dpplYgR6SzfCci4k6xvTWNk7wUqmon_thumbnail.jpg",
+   "director": "Richard Lester",
+   "spine": "711"
+  },
+  {
+   "title": "Here Is Your Life",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ccf8a3f2353002103ef420fd02fe2585/cE4nJ2rcnsqFoXZOGdTHQz1j9zLv3e_thumbnail.jpg",
+   "director": "Jan Troell",
+   "spine": "766"
+  },
+  {
+   "title": "His Girl Friday",
+   "image": "https://s3.amazonaws.com/criterion-production/films/436bb25710581da2127e35495df4f1ae/6kPDwi2IgqGHdX39YWNsucgacCRMw9_thumbnail.jpg",
+   "director": "Howard Hawks",
+   "spine": "849"
+  },
+  {
+   "title": "The Horse’s Mouth",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c6959a1673c21a4b3e6548fb30fef56a/8xozXlxosdeqIbRkrZGdsFsQqKBq5V_thumbnail.jpg",
+   "director": "Ronald Neame",
+   "spine": "154"
+  },
+  {
+   "title": "House",
+   "image": "https://s3.amazonaws.com/criterion-production/films/8d8acfc8c2639a4725f219b6fc42245e/qSJsRYuddgUdKqcwTdI6fsk48KhXF7_thumbnail.jpg",
+   "director": "Nobuhiko Obayashi",
+   "spine": "539"
+  },
+  {
+   "title": "If....",
+   "image": "https://s3.amazonaws.com/criterion-production/films/5c7d3348687e60fb9b7dce2223ae47e5/5aaI9pDV933u89kFpaHXagDJ2HqLEt_thumbnail.jpg",
+   "director": "Lindsay Anderson",
+   "spine": "391"
+  },
+  {
+   "title": "In the Mood for Love",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1b263590b0faeba99ca35b4fc02f7667/mTibr0yzCnoUK8wYtfEOXwKwAwPDUa_thumbnail.jpg",
+   "director": "Wong Kar-wai",
+   "spine": "147"
+  },
+  {
+   "title": "Insomnia",
+   "image": "https://s3.amazonaws.com/criterion-production/films/609ba3283ee6e7a688a8f332948af460/UQs28Jv5Fz6nuVrbcLXq70jhwKzxXV_thumbnail.jpg",
+   "director": "Erik Skjoldbjærg",
+   "spine": "47"
+  },
+  {
+   "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "image": "https://s3.amazonaws.com/criterion-production/films/d1d17f2dc20726b844cc1f64f782997b/RNgyyko6OZ25dRszEiMSU9WjMNJVUb_thumbnail.jpg",
+   "director": "Chantal Akerman",
+   "spine": "484"
+  },
+  {
+   "title": "Kes",
+   "image": "https://s3.amazonaws.com/criterion-production/films/746336dcd474416abf9e8984ca9a8b51/9HfpI6b5tMFk8tQmBzkgmgUIr6aU12_thumbnail.jpg",
+   "director": "Ken Loach",
+   "spine": "561"
+  },
+  {
+   "title": "Kicking and Screaming",
+   "image": "https://s3.amazonaws.com/criterion-production/films/72a04d992e6b3851090778c7eca1c196/xhuxNVYn3OOfBFuHkk88LeeZQBlymM_thumbnail.jpg",
+   "director": "Noah Baumbach",
+   "spine": "349"
+  },
+  {
+   "title": "The Kid",
+   "image": "https://s3.amazonaws.com/criterion-production/films/d79522ba6149f7c670b6f69a58f78d36/FWOWQZvfsMCAgUYwCQ6K5lBQrLR3XH_thumbnail.jpg",
+   "director": "Charlie Chaplin",
+   "spine": "799"
+  },
+  {
+   "title": "The Killers",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1859-5a1d456ec7733e9205b555242f30548d/QydMAqke3toeG4h4BOBYwNcOHf6z3W_small.jpg",
+   "spine": "176"
+  },
+  {
+   "title": "Knife in the Water",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1d9d5fece5c4c3cc639df4968f5d91bd/s0Sn7ygO2rHmYAmNkjIX5OwPkAYCf7_thumbnail.jpg",
+   "director": "Roman Polanski",
+   "spine": "215"
+  },
+  {
+   "title": "L’enfance nue",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2e0eb89f070c18c1adf8c0753d9c9589/84eqNAtUnzQIuIbrPq78uwqeOM7nx9_thumbnail.jpg",
+   "director": "Maurice Pialat",
+   "spine": "534"
+  },
+  {
+   "title": "The Last Metro",
+   "image": "https://s3.amazonaws.com/criterion-production/films/3b542aa4345014825677034e88a86e6d/n8W6S9aQt25iXGj6YmmCmbuqM3Pz1k_thumbnail.jpg",
+   "director": "François Truffaut",
+   "spine": "462"
+  },
+  {
+   "title": "Letters from Fontainhas: Three Films by Pedro Costa",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1851-dba6177f0bd538f868c12a4c87760e83/tLbF78x2hqXHJGqSbQ5j7qW9izcNvg_small.jpg",
+   "spine": "508"
+  },
+  {
+   "title": "Limelight",
+   "image": "https://s3.amazonaws.com/criterion-production/films/784084589c6c88228bc9ddbf2ab683cb/KLa6vCm5p0OKn3T9F5YRm3H3c7LBEe_thumbnail.jpg",
+   "director": "Charles Chaplin",
+   "spine": "756"
+  },
+  {
+   "title": "The Lodger: A Story of the London Fog",
+   "image": "https://s3.amazonaws.com/criterion-production/films/6d943264d831d3159db1baf3a2c2b230/7B0Jv1Tlc6O5qskDxKzmjmtnUu4gfA_thumbnail.jpg",
+   "director": "Alfred Hitchcock",
+   "spine": "885"
+  },
+  {
+   "title": "Lone Wolf and Cub",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1772-05f7b23e0d4044cfa66e916e5ef7a8df/atLwCDI4fWZrMlIpaGL1YTLyiGq7ND_small.jpg",
+   "spine": "841"
+  },
+  {
+   "title": "The Lure",
+   "image": "https://s3.amazonaws.com/criterion-production/films/8815a1cbdd19eb04dd2d741a171d0797/z2YwfsEwnceJMfMhzJLZKOOWMCM21F_thumbnail.jpg",
+   "director": "Agnieszka Smoczyńska",
+   "spine": "896"
+  },
+  {
+   "title": "Man Bites Dog",
+   "image": "https://s3.amazonaws.com/criterion-production/films/6727067d1f4e46a650902bc011e19592/tIr6988MSCKOQmR6KedSRIzbetNOjp_thumbnail.jpg",
+   "director": "Rémy Belvaux…",
+   "spine": "165"
+  },
+  {
+   "title": "Modern Times",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ea84da2f72396fc583c54892b92a5f10/4pVQR8QuPFQdZsErceEzrLlaCI48EL_thumbnail.jpg",
+   "director": "Charles Chaplin",
+   "spine": "543"
+  },
+  {
+   "title": "Mon oncle Antoine",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c01567fcc8a39f8e154f50430cc986ce/7oJP4owWJH4wIE4qROgEus6jB0HRFb_thumbnail.jpg",
+   "director": "Claude Jutra",
+   "spine": "438"
+  },
+  {
+   "title": "Monsoon Wedding",
+   "image": "https://s3.amazonaws.com/criterion-production/films/997a5a96686603b61e03b3ec22fa9681/rrHIBqqA7DOm7hMlMLX0DjRzsyETpF_thumbnail.jpg",
+   "director": "Mira Nair",
+   "spine": "489"
+  },
+  {
+   "title": "Monterey Pop",
+   "image": "https://s3.amazonaws.com/criterion-production/films/1bc8a77a9b2f7a58e889e08691f79d38/Y5ncLoucjsqMLboktsAudYE5HuJ5Eo_thumbnail.jpg",
+   "director": "D. A. Pennebaker",
+   "spine": "168"
+  },
+  {
+   "title": "My Life as a Dog",
+   "image": "https://s3.amazonaws.com/criterion-production/films/d484412b31e9c348b0759f06f632a360/WM3PAMu8qFiHbgH8yOHAX5neaJ75Yk_thumbnail.jpg",
+   "director": "Lasse Hallström",
+   "spine": "178"
+  },
+  {
+   "title": "My Winnipeg",
+   "image": "https://s3.amazonaws.com/criterion-production/films/ed79ccf0e591ea805214843f3731d138/XQizF2lrV1C8llF8iq6LvJn0X9wR8Z_thumbnail.jpg",
+   "director": "Guy Maddin",
+   "spine": "741"
+  },
+  {
+   "title": "El Norte",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c1fb2b82ed4efdfeed42218073a0b176/FHQSYwiYqbpb8iR4OtQGQPbroXU1Dm_thumbnail.jpg",
+   "director": "Gregory Nava",
+   "spine": "458"
+  },
+  {
+   "title": "À nous la liberté",
+   "image": "https://s3.amazonaws.com/criterion-production/films/38de1d92192de3a5d761faf4e6c2ecb7/blafBy2lxntqX5n4hNZ9BGKhVMOFIP_thumbnail.jpg",
+   "director": "René Clair",
+   "spine": "160"
+  },
+  {
+   "title": "Othello",
+   "image": "https://s3.amazonaws.com/criterion-production/films/49e516a3b9f2ff8d5e44830a1154103f/XorHnUjAK0JVHgvTyc3cWo1H9o4we1_thumbnail.jpg",
+   "director": "Orson Welles",
+   "spine": "870"
+  },
+  {
+   "title": "Overlord",
+   "image": "https://s3.amazonaws.com/criterion-production/films/86111580875e28e5a36dc225c9926266/uh9IJVswl55y0VrTNtQMZC8WqezjDK_thumbnail.jpg",
+   "director": "Stuart Cooper",
+   "spine": "382"
+  },
+  {
+   "title": "Paris Belongs to Us",
+   "image": "https://s3.amazonaws.com/criterion-production/films/9be88b1f41e58e65f3263aa98f6b8a5a/CWLyE8FB4vRnt8fzXVabHS4xQBhVko_thumbnail.jpg",
+   "director": "Jacques Rivette",
+   "spine": "802"
+  },
+  {
+   "title": "People on Sunday",
+   "image": "https://s3.amazonaws.com/criterion-production/films/5f43a5464a0df8ce69cb8bf45774302d/B4zQse0843Uu8bVCONSjsowuOQ3D4n_thumbnail.jpg",
+   "director": "Robert Siodmak…",
+   "spine": "569"
+  },
+  {
+   "title": "PlayTime",
+   "image": "https://s3.amazonaws.com/criterion-production/films/663198837fba81d3992553bb8667acbb/Zg4RuVPc8pnb4Rd23sN9by6Jfx8t6O_thumbnail.jpg",
+   "director": "Jacques Tati",
+   "spine": "112"
+  },
+  {
+   "title": "A Poem Is a Naked Person",
+   "image": "https://s3.amazonaws.com/criterion-production/films/a550fa4c48b676f77850ceb4d292a712/7spuIUaKC3gSaUUpTQ374BtkEc5fWM_thumbnail.jpg",
+   "director": "Les Blank",
+   "spine": "805"
+  },
+  {
+   "title": "Punch-Drunk Love",
+   "image": "https://s3.amazonaws.com/criterion-production/films/0f80977b82c0b68bfa43193be7cfc46c/aFQlK4PF7AXR5EdtpHGD2KmjEBoWjV_thumbnail.jpg",
+   "director": "Paul Thomas Anderson",
+   "spine": "843"
+  },
+  {
+   "title": "Ratcatcher",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2e0eb89f070c18c1adf8c0753d9c9589/EpE0fxyFF6hQ5D3K79cYRj9YcZMXB5_thumbnail.jpg",
+   "director": "Lynne Ramsay",
+   "spine": "162"
+  },
+  {
+   "title": "Red Desert",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f0698d10e7f1a77dd8e328a8ea94797f/Vd8Khg2Vd5KoE8hVxNrGs10PHkZAgZ_thumbnail.jpg",
+   "director": "Michelangelo Antonioni",
+   "spine": "522"
+  },
+  {
+   "title": "Revanche",
+   "image": "https://s3.amazonaws.com/criterion-production/films/8bd7bc2e13975cd8733f51d85346f8c0/jv8mOJ3S7gzDFNooyV0zXbNrHG8exO_thumbnail.jpg",
+   "director": "Götz Spielmann",
+   "spine": "502"
+  },
+  {
+   "title": "Safety Last!",
+   "image": "https://s3.amazonaws.com/criterion-production/films/96a2f214d42c91852a870d66be2caeb1/HKCtBxvj7OupJI4BrQJD7APR0bIpN4_thumbnail.jpg",
+   "director": "Fred Newmeyer…",
+   "spine": "662"
+  },
+  {
+   "title": "Sundays and Cybèle",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c741d1027a1f8937f4becf57f68a23dc/8Vw7Cqvm4c8vUuhhyaKWcUG6mtHdNj_thumbnail.jpg",
+   "director": "Serge Bourguignon",
+   "spine": "728"
+  },
+  {
+   "title": "Sweetie",
+   "image": "https://s3.amazonaws.com/criterion-production/films/7e1656931c9e79acae6e2cc5d9d2653d/oOCe0PmLrQjwwQX996gyg7Nnx5i0QB_thumbnail.jpg",
+   "director": "Jane Campion",
+   "spine": "356"
+  },
+  {
+   "title": "Tampopo",
+   "image": "https://s3.amazonaws.com/criterion-production/films/e69bc63440b867f82aef8779d06ec2ed/zTByEeWWijB1OUOBAPMcuBnLJEMdIJ_thumbnail.jpg",
+   "director": "Juzo Itami",
+   "spine": "868"
+  },
+  {
+   "title": "A Taste of Honey",
+   "image": "https://s3.amazonaws.com/criterion-production/films/7bfaa9a3f92e2fc8b4cc5f8b3a72fcd4/sAyvt3qLGVUlBaHDDLG1vMF24HKrUk_thumbnail.jpg",
+   "director": "Tony Richardson",
+   "spine": "829"
+  },
+  {
+   "title": "This Sporting Life",
+   "image": "https://s3.amazonaws.com/criterion-production/films/f722b4254dfd2142455afdde72a50ba0/4sTsCRidLlTehDNgglGCpzeCvOZ7a6_thumbnail.jpg",
+   "director": "Lindsay Anderson",
+   "spine": "417"
+  },
+  {
+   "title": "Three Colors",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1841-3ab3e39d4fbbf677631b93028f6045ea/jFU59ZGM56ObO24vNH29PZRGa1EBzM_small.jpg",
+   "spine": "587"
+  },
+  {
+   "title": "Tiny Furniture",
+   "image": "https://s3.amazonaws.com/criterion-production/films/2881929c283b8fb2cb0fe1d8c05bc189/vosQefD5ERUUYpVjTbTIBXTl4TX8vQ_thumbnail.jpg",
+   "director": "Lena Dunham",
+   "spine": "597"
+  },
+  {
+   "title": "To Be or Not to Be",
+   "image": "https://s3.amazonaws.com/criterion-production/films/d04b9f2a62025304c77d823ca89cba24/Qtb4y6uTAjYaHTQuk7FvUP1CjNbLxp_thumbnail.jpg",
+   "director": "Ernst Lubitsch",
+   "spine": "670"
+  },
+  {
+   "title": "Topsy-Turvy",
+   "image": "https://s3.amazonaws.com/criterion-production/films/cc2db5ec02179454a9f96fe4c952f854/6fy9Xe9dVwqYaI29eIEHcREi5ym9Dl_thumbnail.jpg",
+   "director": "Mike Leigh",
+   "spine": "558"
+  },
+  {
+   "title": "Trouble in Paradise",
+   "image": "https://s3.amazonaws.com/criterion-production/films/053c18e60c810d22f40ee5ac6d9155cb/vL0ECtEED8Jz3OGjfFErMmbpLQmJc2_thumbnail.jpg",
+   "director": "Ernst Lubitsch",
+   "spine": "170"
+  },
+  {
+   "title": "Under the Roofs of Paris",
+   "image": "https://s3.amazonaws.com/criterion-production/films/218404ac7edf68ec3ec120877941b76b/5HG0y4GpYvncVrHeqefNSqEglA9uLl_thumbnail.jpg",
+   "director": "René Clair",
+   "spine": "161"
+  },
+  {
+   "title": "Valerie and Her Week of Wonders",
+   "image": "https://s3.amazonaws.com/criterion-production/films/759805461c3e5365a323e779cf4e2b9c/ZZwAHHUZZsmWREsrXPnPLtlJ1i58Wb_thumbnail.jpg",
+   "director": "Jaromil Jireš",
+   "spine": "761"
+  },
+  {
+   "title": "Weekend",
+   "image": "https://s3.amazonaws.com/criterion-production/films/d1e2ba30b364ffc12fe3df0444446f74/eZcn64qtLp6iyb6dgTe4ef9iYSvCsb_thumbnail.jpg",
+   "director": "Andrew Haigh",
+   "spine": "622"
+  },
+  {
+   "title": "Wim Wenders: The Road Trilogy",
+   "image": "https://s3.amazonaws.com/criterion-production/product_images/1773-3e4219a9f27e8402b68c2d685584258a/qVsCeiFh9PYaWkZhYXFAMnpoAI0MUF_small.jpg",
+   "spine": "813"
+  },
+  {
+   "title": "Woman in the Dunes",
+   "image": "https://s3.amazonaws.com/criterion-production/films/98fca346151a9909ce777d3c7bcf4e14/NiN005MtaZLuhUJZOq7z7jOk0wRd02_thumbnail.jpg",
+   "director": "Hiroshi Teshigahara",
+   "spine": "394"
+  },
+  {
+   "title": "WR: Mysteries of the Organism",
+   "image": "https://s3.amazonaws.com/criterion-production/films/c8e739d705dfcfc85250cd8e7964cac5/Z2weqqbJY8cvVdxGqDCakEj4IjlDMF_thumbnail.jpg",
+   "director": "Dušan Makavejev",
+   "spine": "389"
+  },
+  {
+   "title": "Y tu mamá también",
+   "image": "https://s3.amazonaws.com/criterion-production/films/5f30d2a6f02704c28b2b31a9331e1f7c/9th6Iqsdh4VJpysPfdoOhLkU6YRLB9_thumbnail.jpg",
+   "director": "Alfonso Cuarón",
+   "spine": "723"
+  }
+ ]
+}

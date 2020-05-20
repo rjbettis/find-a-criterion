@@ -6,6 +6,12 @@
       "director": "David Lynch"
     },
     {
+      "title": "An Actor’s Revenge",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/395391148b3e706fbd9d98df4bb82b1b.jpeg",
+      "director": "Kon Ichikawa",
+      "spine": "912"
+    },
+    {
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/14e241f45077ffb52b078931b513c11f.jpeg",
       "title": "Bowling for Columbine",
       "director": "Michael Moore"
@@ -41,9 +47,27 @@
       "director": "Robert Altman"
     },
     {
+      "title": "The Age of Innocence",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bbd6058918ce7db8df5d81343ddc0f41.jpeg",
+      "director": "Martin Scorsese",
+      "spine": "913"
+    },
+    {
+      "title": "The Heiress",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "director": "William Wyler",
+      "spine": "974"
+    },
+    {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/My_Man_Godfrey.png",
       "title": "My Man Godfrey",
       "director": "Gregory La Cava"
+    },
+    {
+      "title": "Shampoo",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a314d2b4aed1a7c61c2bcc7874f82f8f.jpeg",
+      "director": "Hal Ashby",
+      "spine": "947"
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/carousel-files/6cb9308dbbc5d87872834a10f8d33f3b.jpeg",
@@ -124,6 +148,12 @@
       "spine": "472"
     },
     {
+      "title": "49th Parallel",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b4e96b3bfc05e3b53fabe3a22c1619fb.jpeg",
+      "director": "Michael Powell",
+      "spine": "376"
+    },
+    {
       "title": "White Mane",
       "image": "https://web.archive.org/save/_embed/https://criterion-production.s3.amazonaws.com/carousel-files/3d78b319774009a673eddafd599fa438.jpeg",
       "director": "Albert Lamorisse",
@@ -202,6 +232,12 @@
       "spine": ""
     },
     {
+      "title": "The Bitter Tears of Petra von Kant",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/c8385b402c635080eafd103edc53b709.jpeg",
+      "director": "Rainer Werner Fassbinder",
+      "spine": "740"
+    },
+    {
       "title": "Weekend",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/09d7561b0ff98cf67585e97dd17fe8b4.jpeg",
       "director": "Andrew Haigh",
@@ -256,16 +292,34 @@
       "spine": "889"
     },
     {
+      "title": "Detour",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/473c69567ffee788c44e14367eab1e1d.jpeg",
+      "director": "Edgar G. Ulmer",
+      "spine": "966"
+    },
+    {
       "title": "Cat People",
       "image": "https://s3.amazonaws.com/criterion-production/carousel-files/827125aab728bcb3bdbdfe75db59965b.jpeg",
       "director": "Jacques Tourneur",
       "spine": "833"
     },
     {
+      "title": "The Cremator",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e692e9fa7fed65b6b72ba168af2291a3.jpeg",
+      "director": "Juraj Herz",
+      "spine": "1023"
+    },
+    {
       "title": "Cluny Brown",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/da07011e8bec9b3ff25396c2d88b7202.jpeg",
       "director": "Ernst Lubitsch",
       "spine": "997"
+    },
+    {
+      "title": "Funny Games",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/925ee2dee6d69572ad8f6d34fc5107dc.jpeg",
+      "director": "Michael Haneke",
+      "spine": "975"
     },
     {
       "title": "Dance, Girl, Dance",
@@ -278,6 +332,18 @@
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1a402370367c78a5a79b297cbaf6a0b.jpeg",
       "director": "George Marshall",
       "spine": "1024"
+    },
+    {
+      "title": "Death in Venice",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ab351d2cfc3dc2097fc64300ccb598a6.jpeg",
+      "director": "Luchino Visconti",
+      "spine": "962"
+    },
+    {
+      "title": "Desert Hearts",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/28808dd56ca5db9a7931d97b136d067b.jpeg",
+      "director": "Donna Deitch",
+      "spine": "902"
     },
     {
       "title": "The Devil Is a Woman",
@@ -334,10 +400,22 @@
       "spine": "860"
     },
     {
+      "title": "Now, Voyager",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4357f9de2682bffcb021d9229e0f716.jpeg",
+      "director": "Irving Rapper",
+      "spine": "1004"
+    },
+    {
       "title": "Moonrise",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a04285c97aa7f35b452f8b39ee0eda3e.jpeg",
       "director": "Frank Borzage",
       "spine": "921"
+    },
+    {
+      "title": "Leave Her to Heaven",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4fb3a974008ef6f675201d333c58fd67.jpeg",
+      "director": "John M. Stahl",
+      "spine": "1020"
     },
     {
       "title": "Morocco",
@@ -412,10 +490,34 @@
       "spine": "1024"
     },
     {
+      "title": "In a Lonely Place",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/e7e84e9f1786861d5b30cb1e09a07347.jpeg",
+      "director": "Nicholas Ray",
+      "spine": "810"
+    },
+    {
+      "title": "Death in Venice",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ab351d2cfc3dc2097fc64300ccb598a6.jpeg",
+      "director": "Luchino Visconti",
+      "spine": "962"
+    },
+    {
+      "title": "Desert Hearts",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/28808dd56ca5db9a7931d97b136d067b.jpeg",
+      "director": "Donna Deitch",
+      "spine": "902"
+    },
+    {
       "title": "Female Trouble",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/43790a724475ec9256edeebbf4a636e6.jpeg",
       "director": "John Waters",
       "spine": "929"
+    },
+    {
+      "title": "Fox and His Friends",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ad8dc0cf50ebb347e5b95f989e72e9ed.jpeg",
+      "director": "Rainer Werner Fassbinder",
+      "spine": "851"
     },
     {
       "title": "The Grand Budapest Hotel",
@@ -440,6 +542,12 @@
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/64ca34ab4af7acc2922c3dbd2e42b7c5.jpeg",
       "director": "Ted Wilde",
       "spine": "964"
+    },
+    {
+      "title": "Klute",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b9ca137c526fb3245b44b6594527e705.jpeg",
+      "director": "Alan J. Pakula",
+      "spine": "987"
     },
     {
       "title": "Local Hero",
@@ -478,10 +586,28 @@
       "spine": "995"
     },
     {
+      "title": "A Story from Chikamatsu",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9c37a2653c624ae82f0e60e4f3c28c7e.jpeg",
+      "director": "Kenji Mizoguchi",
+      "spine": "949"
+    },
+    {
+      "title": "The Story of Temple Drake",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e5d1834ac3dc4cbd35e79622b03c15c7.jpeg",
+      "director": "Stephen Roberts",
+      "spine": "1006"
+    },
+    {
       "title": "Some Like It Hot",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/25252b803f75ecf2440523323b25e12e.jpeg",
       "director": "Billy Wilder",
       "spine": "950"
+    },
+    {
+      "title": "Being There",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/5c8aff9387b614197ca211ede35547e9.jpeg",
+      "director": "Hal Ashby",
+      "spine": "864"
     },
     {
       "title": "Women on the Verge of a Nervous Breakdown",
@@ -571,6 +697,12 @@
       "country": "United States,",
       "year": "1970",
       "spine": "836"
+    },
+    {
+      "title": "Valley of the Dolls",
+      "image": "https://s3.amazonaws.com/criterion-production/images/7592-cfae98e356f6952510f5a2fb3cdb2fab/valley_current_medium.jpg",
+      "director": "Mark Robson",
+      "spine": "835"
     },
     {
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b74991f504cf680ec93c7528fad3a716.jpeg",
@@ -891,6 +1023,12 @@
       "spine": "1018"
     },
     {
+      "title": "And Life Goes On",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/651a34be4c7c69155ac45456f7671387.jpeg",
+      "director": "Abbas Kiarostami",
+      "spine": "991"
+    },
+    {
       "title": "Scorsese Shorts",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/319a076908c8cffa2e08f6c10d70477a.jpeg",
       "director": "Martin Scorsese",
@@ -1045,6 +1183,12 @@
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e38a6d80d01a26f53256c4bf4d0197d2.jpeg",
       "director": "Sofia Coppola",
       "spine": "920"
+    },
+    {
+      "title": "Roma",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ff89982325c654bd1dc85cc36266c914.jpeg",
+      "director": "Alfonso Cuarón",
+      "spine": "1014"
     },
     {
       "title": "Wildlife",
@@ -1209,6 +1353,18 @@
       "spine": "716"
     },
     {
+      "title": "The Cloud-Capped Star",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ac1f749d8300115c9080d1b6f1ce953e.jpeg",
+      "director": "Ritwik Ghatak",
+      "spine": "993"
+    },
+    {
+      "title": "Eight Hours Don’t Make a Day",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e87267c36ca99cec0a25c4379ba3aeeb.jpeg",
+      "director": "Rainer Werner Fassbinder",
+      "spine": "946"
+    },
+    {
       "title": "Une chambre en ville",
       "image": "https://s3.amazonaws.com/criterion-production/carousel-files/e2b19eb6b4e11668b385ae8a14f5caee.jpeg",
       "director": "Jacques Demy",
@@ -1243,6 +1399,674 @@
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/33f25039a30401a581920d5ac49327a0.jpeg",
       "director": "Robert M. Young",
       "spine": "940"
+    },
+    {
+      "title": "Pigs and Battleships",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/362a43aae313a728437e11f3223e8ed5.jpeg",
+      "director": "Shohei Imamura",
+      "spine": "472"
+    },
+    {
+      "title": "The Ballad of Gregorio Cortez",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/33f25039a30401a581920d5ac49327a0.jpeg",
+      "director": "Robert M. Young",
+      "spine": "940"
+    },
+    {
+      "title": "Dead Man",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/31326f0264c579fff84eae46af3f1474.jpeg",
+      "director": "Jim Jarmusch",
+      "spine": "919"
+    },
+    {
+      "title": "Destry Rides Again",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1a402370367c78a5a79b297cbaf6a0b.jpeg",
+      "director": "George Marshall",
+      "spine": "1024"
+    },
+    {
+      "title": "The Great Escape",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8331c8401ccf3ac909a6c7b347789c94.jpeg",
+      "director": "John Sturges",
+      "spine": "1027"
+    },
+    {
+      "title": "Le petit soldat",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/27588ef66526d672275de4e8186c4772.jpeg",
+      "director": "Jean-Luc Godard",
+      "spine": "1010"
+    },
+    {
+      "title": "Fail Safe",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c8b2a4ece655f691329b5ad9d3f46551.jpeg",
+      "director": "Sidney Lumet",
+      "spine": "1011"
+    },
+    {
+      "title": "Forty Guns",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c09dcc5f2a3ee9fae67a8639aa62ea64.jpeg",
+      "director": "Samuel Fuller",
+      "spine": "954"
+    },
+    {
+      "title": "McCabe & Mrs. Miller",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/McCabe_and_Mrs_Miller.png",
+      "director": "Robert Altman",
+      "spine": "827"
+    },
+    {
+      "title": "One-Eyed Jacks",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/1105f4827c1546237181f133e32a18c8.jpeg",
+      "director": "Marlon Brando",
+      "spine": "844"
+    },
+    {
+      "title": "Walker",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/533f93089714c4c1009fc2ea26461411.jpeg",
+      "director": "Alex Cox",
+      "spine": "423"
+    },
+    {
+      "title": "War and Peace",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e896653ae3bb79ad5827bfd1ef6de6f8.jpeg",
+      "director": "Sergei Bondarchuk",
+      "spine": "983"
+    },
+    {
+      "title": "Westfront 1918",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6717096c21113c8f8b47baa8d7a3db4d.jpeg",
+      "director": "G. W. Pabst",
+      "spine": "907"
+    },
+    {
+      "title": "And Life Goes On",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/651a34be4c7c69155ac45456f7671387.jpeg",
+      "director": "Abbas Kiarostami",
+      "spine": "991"
+    },
+    {
+      "title": "Cameraperson",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/35cfcfb72bafec0a7a96a2a8cebf3af3.jpeg",
+      "director": "Kirsten Johnson",
+      "spine": "853"
+    },
+    {
+      "title": "Through the Olive Trees",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/efe10ef7822ffee3efe4c7a7f76dfe10.jpeg",
+      "director": "Abbas Kiarostami",
+      "spine": "992"
+    },
+    {
+      "title": "King of Jazz",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/51af2f5d6d09aceebb11b3df196d5c3e.jpeg",
+      "director": "John Murray Anderson",
+      "spine": "915"
+    },
+    {
+      "title": "A Matter of Life and Death",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/05836b4f9cb4db7a6e0097ed8388c4df.jpeg",
+      "director": "Michael Powell and Emeric Pressburger",
+      "spine": "939"
+    },
+    {
+      "title": "Roma",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ff89982325c654bd1dc85cc36266c914.jpeg",
+      "director": "Alfonso Cuarón",
+      "spine": "1014"
+    },
+    {
+      "title": "A Story from Chikamatsu",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9c37a2653c624ae82f0e60e4f3c28c7e.jpeg",
+      "director": "Kenji Mizoguchi",
+      "spine": "949"
+    },
+    {
+      "title": "Une chambre en ville",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/e2b19eb6b4e11668b385ae8a14f5caee.jpeg",
+      "director": "Jacques Demy",
+      "spine": "719"
+    },
+    {
+      "title": "Dance, Girl, Dance",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f95f8cc862b4158e192382558ade8699.jpeg",
+      "director": "Dorothy Arzner",
+      "spine": "1028"
+    },
+    {
+      "title": "Donkey Skin",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/644b329ec9ebad2a991d5f19b9fb67be.jpeg",
+      "director": "Jacques Demy",
+      "spine": "718"
+    },
+    {
+      "title": "Festival",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/26e1d7ae176f92e93312dbfeae5eecd4.jpeg",
+      "director": "Murray Lerner",
+      "spine": "892"
+    },
+    {
+      "title": "Monterey Pop",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/933a682fcea0eab68c5236dfa11453f4.jpeg",
+      "image_url": "https://web.archive.org/web/20170701020208/https://www.criterion.com/films/720-monterey-pop",
+      "director": "D. A. Pennebaker",
+      "director_url": "https://web.archive.org/web/20170701020208/https://www.criterion.com/films/720-monterey-pop"
+    },
+    {
+      "title": "Sid & Nancy",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d8be7d29c2f272ef4ff550cb57a245b9.jpeg",
+      "director": "Alex Cox",
+      "spine": "20"
+    },
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/1526cfb8f320fadf729ed006a32c11d8.jpeg",
+      "director": "Jacques Demy",
+      "spine": "716"
+    },
+    {
+      "title": "The Young Girls of Rochefort",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f1f050433035ae4cc6696b645d865669.jpeg",
+      "director": "Jacques Demy",
+      "spine": "717"
+    },
+    {
+      "title": "The Circus",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e461dd0bfba4c4a4af25c8d4b0127876.jpeg",
+      "director": "Charles Chaplin",
+      "spine": "996"
+    },
+    {
+      "title": "The Cremator",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e692e9fa7fed65b6b72ba168af2291a3.jpeg",
+      "director": "Juraj Herz",
+      "spine": "1023"
+    },
+    {
+      "title": "Funny Games",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/925ee2dee6d69572ad8f6d34fc5107dc.jpeg",
+      "director": "Michael Haneke",
+      "spine": "975"
+    },
+    {
+      "title": "Lone Wolf and Cub",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/97fcf8ce0cf317391bc713f8dfafdd19.jpeg",
+      "spine": "841"
+    },
+    {
+      "title": "Zatoichi: The Blind Swordsman",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/fec2ec518d181e9ec7c24c0813a3ca9b.jpeg",
+      "spine": "679"
+    },
+    {
+      "title": "And Life Goes On",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/651a34be4c7c69155ac45456f7671387.jpeg",
+      "director": "Abbas Kiarostami",
+      "spine": "991"
+    },
+    {
+      "title": "The Daytrippers",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1a9ac30684db8601c3c49ba8e4b8134f.jpeg",
+      "director": "Greg Mottola",
+      "spine": "1001"
+    },
+    {
+      "title": "Old Joy",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/cca96d5bcb3db04b7704b15819c280c9.jpeg",
+      "director": "Kelly Reichardt",
+      "spine": "1008"
+    },
+    {
+      "title": "Stranger Than Paradise",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/60384fcfb94f1d19491dd9fd16d9d4d3.jpeg",
+      "director": "Jim Jarmusch",
+      "spine": "400"
+    },
+    {
+      "title": "True Stories",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b642b0d93772aba6b2515c87ee532711.jpeg",
+      "director": "David Byrne",
+      "spine": "951"
+    },
+    {
+      "title": "Until the End of the World",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/401505bd5511a4b4d4bbaf1f785df7ae.jpeg",
+      "director": "Wim Wenders",
+      "spine": "1007"
+    },
+    {
+      "title": "Death in Venice",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ab351d2cfc3dc2097fc64300ccb598a6.jpeg",
+      "director": "Luchino Visconti",
+      "spine": "962"
+    },
+    {
+      "title": "Female Trouble",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/43790a724475ec9256edeebbf4a636e6.jpeg",
+      "director": "John Waters",
+      "spine": "929"
+    },
+    {
+      "title": "Hedwig and the Angry Inch",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/2ad82060feef56e2ef45603b22d74bab.jpeg",
+      "director": "John Cameron Mitchell",
+      "spine": "982"
+    },
+    {
+      "title": "Paris Is Burning",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/02acc5e476bddab8ee522040ec02e3a6.jpeg",
+      "director": "Jennie Livingston",
+      "spine": "1018"
+    },
+    {
+      "title": "Blue Velvet",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bc36b43537bbe87d5bb6c163120f7a92.jpeg",
+      "director": "David Lynch",
+      "spine": "977"
+    },
+    {
+      "title": "The Breaking Point",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c7922e6dbe3ffcaee3ffc4305baa84fb.jpeg",
+      "director": "Michael Curtiz",
+      "spine": "889"
+    },
+    {
+      "title": "Detour",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/473c69567ffee788c44e14367eab1e1d.jpeg",
+      "director": "Edgar G. Ulmer",
+      "spine": "966"
+    },
+    {
+      "title": "Gilda",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/0e6337c9955ccb44dc3a0666620f7841.jpeg",
+      "director": "Charles Vidor",
+      "spine": "795"
+    },
+    {
+      "title": "Leave Her to Heaven",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4fb3a974008ef6f675201d333c58fd67.jpeg",
+      "director": "John M. Stahl",
+      "spine": "1020"
+    },
+    {
+      "title": "Moonrise",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a04285c97aa7f35b452f8b39ee0eda3e.jpeg",
+      "director": "Frank Borzage",
+      "spine": "921"
+    },
+    {
+      "title": "Panique",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e9f4554717215417a73c7b118f75fb95.jpeg",
+      "director": "Julien Duvivier",
+      "spine": "955"
+    },
+    {
+      "title": "Le samouraï",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/3ac2f2ca00baefa27dff446226452b59.jpeg",
+      "director": "Jean-Pierre Melville",
+      "spine": "306"
+    },
+    {
+      "title": "The Age of Innocence",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bbd6058918ce7db8df5d81343ddc0f41.jpeg",
+      "director": "Martin Scorsese",
+      "spine": "913"
+    },
+    {
+      "title": "The Heiress",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "director": "William Wyler",
+      "spine": "974"
+    },
+    {
+      "title": "I Wanna Hold Your Hand",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4a643bde027085aec0df222c8d2dec5.jpeg",
+      "director": "Robert Zemeckis",
+      "spine": "967"
+    },
+    {
+      "title": "Klute",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b9ca137c526fb3245b44b6594527e705.jpeg",
+      "director": "Alan J. Pakula",
+      "spine": "987"
+    },
+    {
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/915dfa995a662b8d5f113cb512494ba3.jpeg",
+      "title": "Midnight Cowboy",
+      "title_url": "https://www.criterion.com/films/29369-midnight-cowboy",
+      "director": "John Schlesinger",
+      "country": "United States,",
+      "year": "1969",
+      "spine": "925"
+    },
+    {
+      "title": "Paris Is Burning",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/02acc5e476bddab8ee522040ec02e3a6.jpeg",
+      "director": "Jennie Livingston",
+      "spine": "1018"
+    },
+    {
+      "title": "Scorsese Shorts",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/319a076908c8cffa2e08f6c10d70477a.jpeg",
+      "director": "Martin Scorsese",
+      "spine": "1030"
+    },
+    {
+      "title": "Sid & Nancy",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d8be7d29c2f272ef4ff550cb57a245b9.jpeg",
+      "director": "Alex Cox",
+      "spine": "20"
+    },
+    {
+      "title": "Something Wild",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/926103ac8e59f96d2974fa39225c4e5e.jpeg",
+      "director": "Jack Garfein",
+      "spine": "850"
+    },
+    {
+      "title": "Shampoo",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a314d2b4aed1a7c61c2bcc7874f82f8f.jpeg",
+      "director": "Hal Ashby",
+      "spine": "947"
+    },
+    {
+      "title": "An Actor’s Revenge",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/395391148b3e706fbd9d98df4bb82b1b.jpeg",
+      "director": "Kon Ichikawa",
+      "spine": "912"
+    },
+    {
+      "title": "All About My Mother",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c0f22575fc51319b15abf9b126966fe7.jpeg",
+      "director": "Pedro Almodóvar",
+      "spine": "1012"
+    },
+    {
+      "title": "The Bitter Tears of Petra von Kant",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/c8385b402c635080eafd103edc53b709.jpeg",
+      "director": "Rainer Werner Fassbinder",
+      "spine": "740"
+    },
+    {
+      "title": "Blue Velvet",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bb8f5221b0e131086a47755753b58db2.jpeg",
+      "director": "David Lynch",
+      "spine": "977"
+    },
+    {
+      "title": "The Cloud-Capped Star",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ac1f749d8300115c9080d1b6f1ce953e.jpeg",
+      "director": "Ritwik Ghatak",
+      "spine": "993"
+    },
+    {
+      "title": "Eight Hours Don’t Make a Day",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e87267c36ca99cec0a25c4379ba3aeeb.jpeg",
+      "director": "Rainer Werner Fassbinder",
+      "spine": "946"
+    },
+    {
+      "title": "Female Trouble",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/43790a724475ec9256edeebbf4a636e6.jpeg",
+      "director": "John Waters",
+      "spine": "929"
+    },
+    {
+      "title": "In a Lonely Place",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/e7e84e9f1786861d5b30cb1e09a07347.jpeg",
+      "director": "Nicholas Ray",
+      "spine": "810"
+    },
+    {
+      "title": "Mildred Pierce",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8e2521f96fcdac4e512ea8c4d3308994.jpeg",
+      "director": "Michael Curtiz",
+      "spine": "860"
+    },
+    {
+      "title": "Now, Voyager",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4357f9de2682bffcb021d9229e0f716.jpeg",
+      "director": "Irving Rapper",
+      "spine": "1004"
+    },
+    {
+      "title": "Polyester",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/0c2558419e5f25841a93045add635476.jpeg",
+      "director": "John Waters",
+      "spine": "995"
+    },
+    {
+      "title": "A Story from Chikamatsu",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9c37a2653c624ae82f0e60e4f3c28c7e.jpeg",
+      "director": "Kenji Mizoguchi",
+      "spine": "949"
+    },
+    {
+      "title": "The Story of Temple Drake",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e5d1834ac3dc4cbd35e79622b03c15c7.jpeg",
+      "director": "Stephen Roberts",
+      "spine": "1006"
+    },
+    {
+      "title": "The Story of the Last Chrysanthemum",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/368a9508a997d4365bf0bc402e02324d.jpeg",
+      "director": "Kenji Mizoguchi",
+      "spine": "832"
+    },
+    {
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bb11481e7cb30c36292ec51d9c3f33fd.jpeg",
+      "director": "Pedro Almodóvar",
+      "spine": "855"
+    },
+    {
+      "title": "Valley of the Dolls",
+      "image": "https://s3.amazonaws.com/criterion-production/images/7592-cfae98e356f6952510f5a2fb3cdb2fab/valley_current_medium.jpg",
+      "director": "Mark Robson",
+      "spine": "835"
+    },
+    {
+      "title": "The Breakfast Club",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/baf24a5f2d9a3f50d141fcafc3a91def.jpeg",
+      "director": "John Hughes",
+      "spine": "905"
+    },
+    {
+      "title": "Ghost World",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/edbbba99dd572feacca115f132a789af.jpeg",
+      "director": "Terry Zwigoff",
+      "spine": "872"
+    },
+    {
+      "title": "Good Morning",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/2d07c99891859247651d3ece15476221.jpeg",
+      "director": "Yasujiro Ozu",
+      "spine": "84"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/6910ecda415669250f2031c432acc27e.jpeg",
+      "director": "Wes Anderson",
+      "spine": "776"
+    },
+    {
+      "title": "Rumble Fish",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/69736e07f32429e339ba93e3c166ab30.jpeg",
+      "director": "Francis Ford Coppola",
+      "spine": "869"
+    },
+    {
+      "title": "El Sur",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/7710d75d8cfa3cf707dea7984a174c28.jpeg",
+      "director": "Víctor Erice",
+      "spine": "927"
+    },
+    {
+      "title": "The Virgin Suicides",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b7fd1b01487044ff2fa0657a735e6ed3.jpeg",
+      "director": "Sofia Coppola",
+      "spine": "920"
+    },
+    {
+      "title": "Where Is the Friend’s House?",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/2d9f5847aea09c2dc90dfa1d0d8ff2f7.jpeg",
+      "director": "Abbas Kiarostami",
+      "spine": "990"
+    },
+    {
+      "title": "All That Jazz",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/9e2c3fec75c1d4a8e926f849118dca40.jpeg",
+      "director": "Bob Fosse",
+      "spine": "724"
+    },
+    {
+      "title": "Beastie Boys Video Anthology",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/9cadb9df73d47016f4a4ceaa2afbd1c9.jpeg",
+      "director": "Various",
+      "spine": "100"
+    },
+    {
+      "title": "Blue Velvet",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bb8f5221b0e131086a47755753b58db2.jpeg",
+      "director": "David Lynch",
+      "spine": "977"
+    },
+    {
+      "title": "The Breakfast Club",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/442e8f826e09522846ae7f060349e546.jpeg",
+      "director": "John Hughes",
+      "spine": "905"
+    },
+    {
+      "title": "Cold Water",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b6abedea3c7cc0bf6a3aea79bb06c0dd.jpeg",
+      "director": "Olivier Assayas",
+      "spine": "944"
+    },
+    {
+      "title": "Dead Man",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/31326f0264c579fff84eae46af3f1474.jpeg",
+      "director": "Jim Jarmusch",
+      "spine": "919"
+    },
+    {
+      "title": "Desert Hearts",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/0a3f559b43c66a6fbd36ee611e725974.jpeg",
+      "director": "Donna Deitch",
+      "spine": "902"
+    },
+    {
+      "title": "Donkey Skin",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/644b329ec9ebad2a991d5f19b9fb67be.jpeg",
+      "director": "Jacques Demy",
+      "spine": "718"
+    },
+    {
+      "title": "Dont Look Back",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/2bbe49dbec2ce3f3bea04493f11956ec.jpeg",
+      "director": "D. A. Pennebaker",
+      "spine": "786"
+    },
+    {
+      "title": "Festival",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/26e1d7ae176f92e93312dbfeae5eecd4.jpeg",
+      "director": "Murray Lerner",
+      "spine": "892"
+    },
+    {
+      "title": "Hedwig and the Angry Inch",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/2ad82060feef56e2ef45603b22d74bab.jpeg",
+      "director": "John Cameron Mitchell",
+      "spine": "982"
+    },
+    {
+      "title": "In the Heat of the Night",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/cd9631bb771c70c05750454e0732e122.jpeg",
+      "director": "Norman Jewison",
+      "spine": "959"
+    },
+    {
+      "title": "King of Jazz",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/60802441aeabbc35979ea8fa568c6147.jpeg",
+      "director": "John Murray Anderson",
+      "spine": "915"
+    },
+    {
+      "title": "The Lure",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1582c456b49232a3fedbb822181fb40b.jpeg",
+      "director": "Agnieszka Smoczyńska",
+      "spine": "896"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/6910ecda415669250f2031c432acc27e.jpeg",
+      "director": "Wes Anderson",
+      "spine": "776"
+    },
+    {
+      "title": "The Other Side of Hope",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9bc91ea4741c0f88b564ede04d4497ca.jpeg",
+      "director": "Aki Kaurismäki",
+      "spine": "922"
+    },
+    {
+      "title": "The Piano Teacher",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/3417b8a748cf97eb65680be9241b4523.jpeg",
+      "director": "Michael Haneke",
+      "spine": "894"
+    },
+    {
+      "title": "Sid & Nancy",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d8be7d29c2f272ef4ff550cb57a245b9.jpeg",
+      "director": "Alex Cox",
+      "spine": "20"
+    },
+    {
+      "title": "Smithereens",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/3cd15b565a9941598652255b6520b9d0.jpeg",
+      "director": "​Susan Seidelman",
+      "spine": "941"
+    },
+    {
+      "title": "Swing Time",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/65706fd3e49ee96eb1743cb8ff1f628c.jpeg",
+      "director": "George Stevens",
+      "spine": "979"
+    },
+    {
+      "title": "True Stories",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/238a43c7835a588f158d039bb5471354.jpeg",
+      "director": "David Byrne",
+      "spine": "951"
+    },
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/1526cfb8f320fadf729ed006a32c11d8.jpeg",
+      "director": "Jacques Demy",
+      "spine": "716"
+    },
+    {
+      "title": "Une chambre en ville",
+      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/e2b19eb6b4e11668b385ae8a14f5caee.jpeg",
+      "director": "Jacques Demy",
+      "spine": "719"
+    },
+    {
+      "title": "Until the End of the World",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/401505bd5511a4b4d4bbaf1f785df7ae.jpeg",
+      "director": "Wim Wenders",
+      "spine": "1007"
+    },
+    {
+      "title": "The Virgin Suicides",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b7fd1b01487044ff2fa0657a735e6ed3.jpeg",
+      "director": "Sofia Coppola",
+      "spine": "920"
+    },
+    {
+      "title": "The Young Girls of Rochefort",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f1f050433035ae4cc6696b645d865669.jpeg",
+      "director": "Jacques Demy",
+      "spine": "717"
     }
   ]
 }

@@ -1,0 +1,107 @@
+{
+ "westerns": [
+  {
+   "title": "3:10 to Yuma",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132105-e5ef33e164399d5e7f878b350fe37242/Film_657w_310Yuma_original.jpg",
+   "director": "Delmer Daves",
+   "spine": "657"
+  },
+  {
+   "title": "The Ballad of Gregorio Cortez",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/33f25039a30401a581920d5ac49327a0.jpeg",
+   "director": "Robert M. Young",
+   "spine": "940"
+  },
+  {
+   "title": "Dead Man",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/31326f0264c579fff84eae46af3f1474.jpeg",
+   "director": "Jim Jarmusch",
+   "spine": "919"
+  },
+  {
+   "title": "Destry Rides Again",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1a402370367c78a5a79b297cbaf6a0b.jpeg",
+   "director": "George Marshall",
+   "spine": "1024"
+  },
+  {
+   "title": "Forty Guns",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c09dcc5f2a3ee9fae67a8639aa62ea64.jpeg",
+   "director": "Samuel Fuller",
+   "spine": "954"
+  },
+  {
+   "title": "The Furies",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132158-4d9277cbf2ec1ff7063f04e981d29d9a/Film_Furies_original.jpg",
+   "director": "Anthony Mann",
+   "spine": "435"
+  },
+  {
+   "title": "Heaven’s Gate",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132028-10fe9dc4639a2a5a049781915f266d70/Film_636w_HeavensGate_original.jpg",
+   "director": "Michael Cimino",
+   "spine": "636"
+  },
+  {
+   "title": "I Shot Jesse James",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/8301-09a545277af5c0f163aad62fed03dbaf/jessejames1_original.jpg",
+   "image_url": "https://web.archive.org/web/20150627051808/http://www.criterion.com/films/882-i-shot-jesse-james",
+   "director": "Samuel Fuller",
+   "director_url": "https://web.archive.org/web/20150627051808/http://www.criterion.com/films/882-i-shot-jesse-james"
+  },
+  {
+   "title": "Jubal",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132104-cbd59abc0c6ab500e2b7ea9e1dc3945c/Film_656w_Jubal_original.jpg",
+   "director": "Delmer Daves",
+   "spine": "656"
+  },
+  {
+   "title": "McCabe & Mrs. Miller",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/McCabe_and_Mrs_Miller.png",
+   "director": "Robert Altman",
+   "spine": "827"
+  },
+  {
+   "title": "My Darling Clementine",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132255-6bfa59dacabc63836b5644d80f02b47a/Film_732w_MyDarlingClementine_original.jpg",
+   "director": "John Ford",
+   "spine": "732"
+  },
+  {
+   "title": "One-Eyed Jacks",
+   "image": "https://s3.amazonaws.com/criterion-production/carousel-files/1105f4827c1546237181f133e32a18c8.jpeg",
+   "director": "Marlon Brando",
+   "spine": "844"
+  },
+  {
+   "title": "Red River",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132229-37d27a70fe57baff957611e55cbb64d0/Film_709w_RedRiver_original.jpg",
+   "director": "Howard Hawks",
+   "spine": "709"
+  },
+  {
+   "title": "Ride in the Whirlwind",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132258-28d32204b02c4d4217173ed3f68ab835/Film_735_RideWhirlwind_original.jpg",
+   "director": "Monte Hellman",
+   "spine": "735"
+  },
+  {
+   "title": "The Shooting",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132257-e8cdac8fcd7283cb19a74acb75dfff84/Film_734_Shooting_original.jpg",
+   "director": "Monte Hellman",
+   "spine": "734"
+  },
+  {
+   "title": "Stagecoach",
+   "image": "http://s3.amazonaws.com/criterion-production/stills/132002-67915c002b2bbf85a644b1ee83e620a5/Film_516w_Stagecoach_original.jpg",
+   "director": "John Ford",
+   "spine": "516"
+  },
+  {
+   "title": "Walker",
+   "image": "https://criterion-production.s3.amazonaws.com/carousel-files/533f93089714c4c1009fc2ea26461411.jpeg",
+   "director": "Alex Cox",
+   "spine": "423"
+  }
+ ]
+}

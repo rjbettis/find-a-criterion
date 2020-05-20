@@ -1,0 +1,299 @@
+{
+ "originals": [
+  {
+   "title": "3:10 to Yuma",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132105-e5ef33e164399d5e7f878b350fe37242/Film_657w_310Yuma_original.jpg",
+   "director": "Delmer Daves",
+   "spine": "657"
+  },
+  {
+   "title": "All That Heaven Allows",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132234-9a22ebe06e2e9fa6755cfea691234fe2/Film_95w_AllHeavenAllows_original.jpg",
+   "director": "Douglas Sirk",
+   "spine": "95"
+  },
+  {
+   "title": "And God Created Woman",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131989-60525774bd60a5314f3d5b1773d021c8/Film_77w_AndGodCreatedWoman_original.jpg",
+   "director": "Roger Vadim",
+   "spine": "77"
+  },
+  {
+   "title": "The Ballad of Narayama",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132067-27fa817f452357b0a2fba44f8e43d374/Film_645w_BalladNaryama_original.jpg",
+   "director": "Keisuke Kinoshita",
+   "spine": "645"
+  },
+  {
+   "title": "Big Deal on Madonna Street",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130169-dd5e1c4af56306e3d40643a42f7caab9/Film_113w_BigDealMadonna_bw_original.jpg",
+   "director": "Mario Monicelli",
+   "spine": "113"
+  },
+  {
+   "title": "The Blob",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131995-16127e2bdf4609687ee951e6307293e7/Blob_Film_Page_original.jpg",
+   "director": "Irvin S. Yeaworth Jr.",
+   "spine": "91"
+  },
+  {
+   "title": "Bob le flambeur",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130161-b67937fa647623df78ba039f15f9a0c4/Film_150w_BobFlambeur_bw_original.jpg",
+   "image_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/690-bob-le-flambeur",
+   "director": "Jean-Pierre Melville",
+   "director_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/690-bob-le-flambeur"
+  },
+  {
+   "title": "Boudu Saved from Drowning",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6171-ad27a2ffe6645d7618b8f40a7bea97a3/Film_306w_BouduSaved_original.jpg",
+   "director": "Jean Renoir",
+   "spine": "305"
+  },
+  {
+   "title": "Breathless",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129729-dc88df1de0ad117daa77079692b0706d/Film_408w_Breathless_original.jpg",
+   "director": "Jean-Luc Godard",
+   "spine": "408"
+  },
+  {
+   "title": "The Browning Version",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129761-2cd2f23232ca7a82930fa840d3f883e7/Film_294w_BrowningVersion_bw_new_original.jpg",
+   "director": "Anthony Asquith",
+   "spine": "294"
+  },
+  {
+   "title": "The Burmese Harp",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129785-94fd8a81539abd163ee0cb2aaf0a83e7/Film_379w_BurmeseHarp_original.jpg",
+   "director": "Kon Ichikawa",
+   "spine": "379"
+  },
+  {
+   "title": "La Cage aux Folles",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132162-cad76523597ec8ec4a6279a2066f3ac7/Film_671w_CageAuxFolles_original.jpg",
+   "director": "Edouard Molinaro",
+   "spine": "671"
+  },
+  {
+   "title": "Charade",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129673-0ea2aac9a611213dd57031baf3eecd6d/Film_57w_Charade_original.jpg",
+   "director": "Stanley Donen",
+   "spine": "57"
+  },
+  {
+   "title": "La chienne",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132357-f661ba7eb5d1c431616c92d611b015d8/Film_818_LaChienne_original.jpg",
+   "director": "Jean Renoir",
+   "spine": "818"
+  },
+  {
+   "title": "Diabolique",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131982-cb1085d529ed277db1c0db25465c6c95/Film_35w_Diabolique_original.jpg",
+   "director": "Henri-Georges Clouzot",
+   "spine": "35"
+  },
+  {
+   "title": "The Four Feathers",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131289-f94a9c22d206836efbdfe18375e8f196/Film_583w_FourFeather_original.jpg",
+   "director": "Zoltán Korda",
+   "spine": "583"
+  },
+  {
+   "title": "Here Comes Mr. Jordan",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132358-fd1ffdbf115ca9582bcfad9fc6bf57aa/Film_819_HereComesMrJordan_original.jpg",
+   "director": "Alexander Hall",
+   "spine": "819"
+  },
+  {
+   "title": "The Hidden Fortress",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129809-5c06b9f534572ab7918e57930ad04212/Film_116w_HiddenFortress_original.jpg",
+   "director": "Akira Kurosawa",
+   "spine": "116"
+  },
+  {
+   "title": "High and Low",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131321-162d746d38959e6b0e1227a8e3e7f25c/54_025_original.jpg",
+   "director": "Akira Kurosawa",
+   "spine": "24"
+  },
+  {
+   "title": "Insomnia",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132048-b5c852f9b0185fdb25973bd0c20aabfc/Insomnia_Film_Page_original.jpg",
+   "director": "Erik Skjoldbjærg",
+   "spine": "47"
+  },
+  {
+   "title": "Island of Lost Souls",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131305-40da86ee35a108fe19fa505cc5cf32f7/Film_586w_IslandLostSouls_original.jpg",
+   "director": "Erle C. Kenton",
+   "spine": "586"
+  },
+  {
+   "title": "La Jetée",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/3638-17f9fe315ecf2a7fea2c96036271f6ba/P_original.jpg",
+   "image_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/329-la-jetee",
+   "director": "Chris Marker",
+   "director_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/329-la-jetee"
+  },
+  {
+   "title": "Jungle Book",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131369-cad64bff99ff80038d5c2d9593434ef4/Sabu_Filmw_JungleBook_original.jpg",
+   "image_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/27649-jungle-book",
+   "director": "Zoltán Korda",
+   "director_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/27649-jungle-book"
+  },
+  {
+   "title": "The King of Kings",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6627-4eb6501cfe548e275754d0bd5b9c8923/Film_266w_KingOfKings_original.jpg",
+   "director": "Cecil B. DeMille",
+   "spine": "266"
+  },
+  {
+   "title": "Lord of the Flies",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132140-f05cc963bedad5bd7d483d97a847199d/Film_43w_LordOfFlies_original.jpg",
+   "director": "Peter Brook",
+   "spine": "43"
+  },
+  {
+   "title": "Love in the Afternoon",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5903-24a00a3b54652f1f0b8034b305249671/Film_348w_LoveAfternoon_original.jpg",
+   "image_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/794-love-in-the-afternoon",
+   "director": "Eric Rohmer",
+   "director_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/794-love-in-the-afternoon"
+  },
+  {
+   "title": "M",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/5325-f304527de738394bbc6936035192b0f1/Film_30w_M_original.jpg",
+   "director": "Fritz Lang",
+   "spine": "30"
+  },
+  {
+   "title": "The Man Who Knew Too Much",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132063-145eaae93054be2efe09919fa86a7a72/Film_643_ManWhoKnew_original.jpg",
+   "director": "Alfred Hitchcock",
+   "spine": "643"
+  },
+  {
+   "title": "The Manchurian Candidate",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132345-b5defec86cb74f0346c35521fe7ae70c/Film_803_ManchurianCandidate_original.jpg",
+   "director": "John Frankenheimer",
+   "spine": "803"
+  },
+  {
+   "title": "The Most Dangerous Game",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/9005-7ae0b09f12fffcb9f72c4bb51fd7864d/Film_46w_MostDangerous_original.jpg",
+   "director": "Ernest B. Schoedsack…",
+   "spine": "46"
+  },
+  {
+   "title": "My Man Godfrey",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130113-5cbbf54c7aa7db447a260164376164a8/Godfreyw_bw_original.jpg",
+   "director": "Gregory La Cava",
+   "spine": "114"
+  },
+  {
+   "title": "Nights of Cabiria",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129849-81a5bda1e1121659dd1f63e658418a5e/P-NIGHTS_OF_CABIRIA_original.jpg",
+   "image_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/243-nights-of-cabiria",
+   "director": "Federico Fellini",
+   "director_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/243-nights-of-cabiria"
+  },
+  {
+   "title": "Pépé le moko",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129833-54fdb2575bb86f7b438667c34a7fa8d7/Film_172w_PepeLeMoko_original.jpg",
+   "director": "Julien Duvivier",
+   "spine": "172"
+  },
+  {
+   "title": "The Phantom Carriage",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131417-dfdd660a343b70cc7ecb763fe9aa14bd/Phantom_Carriage_Webclip_Still_original.jpg",
+   "director": "Victor Sjöström",
+   "spine": "579"
+  },
+  {
+   "title": "Purple Noon",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132045-4cceaed70b391285dae8a3b3c173bd51/Film_637w_PurpleNoon_original.jpg",
+   "director": "René Clément",
+   "spine": "637"
+  },
+  {
+   "title": "Pygmalion",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/3958-6098aa50c9b2a12264b7bc5a8714d5d4/P_original.jpg",
+   "image_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/365-pygmalion",
+   "director": "Anthony Asquith and Leslie Howard",
+   "director_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/365-pygmalion"
+  },
+  {
+   "title": "Rashomon",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/131065-c6859ac160e7ad08ffcc282984eb4665/Film_138w_Rashomon_original.jpg",
+   "director": "Akira Kurosawa",
+   "spine": "138"
+  },
+  {
+   "title": "Seven Samurai",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130497-7f6bf20a3dfa375eb303095cf71e3ea9/Film_2w_SevenSamurai_original.jpg",
+   "director": "Akira Kurosawa",
+   "spine": "2"
+  },
+  {
+   "title": "Sisters",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130609-d5da345c8c245b168025cf623591ded5/Film_89w_SistersD_original.jpg",
+   "director": "Brian De Palma",
+   "spine": "89"
+  },
+  {
+   "title": "Solaris",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130833-5b8a102317e750da37ab147b5d178c3b/Film_164w_Solaris_original.jpg",
+   "director": "Andrei Tarkovsky",
+   "spine": "164"
+  },
+  {
+   "title": "To Be or Not to Be",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132143-a9a49eb6ee0c2ac582a561c8d9266af5/Film_670w_ToBeNotToBe_original.jpg",
+   "director": "Ernst Lubitsch",
+   "spine": "670"
+  },
+  {
+   "title": "Unfaithfully Yours",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/6777-72367a35d448fdb4c19ebbf86fa87aa9/Film_292w_UnfaithfullyYours_original.jpg",
+   "director": "Preston Sturges",
+   "spine": "292"
+  },
+  {
+   "title": "The Vanishing",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/9403-77934fc1b43fd9c89ee558d3192dc4e1/Film_133w_TheVanishing_original.jpg",
+   "director": "George Sluizer",
+   "spine": "133"
+  },
+  {
+   "title": "The Virgin Spring",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129769-9c1dbe3897e67ce929f6864cc4d37a81/Film_321w_VirginSpring_original.jpg",
+   "director": "Ingmar Bergman",
+   "spine": "321"
+  },
+  {
+   "title": "The Wages of Fear",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/129825-79c64f221071cf65feb46fed0d01a176/Film_36w_WagesFear_original.jpg",
+   "director": "Henri-Georges Clouzot",
+   "spine": "36"
+  },
+  {
+   "title": "The Wicked Lady",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/132062-cb9032784fdc768cf2b3389b4cd2c2df/Wicked_Lady_Film_Page_original.jpg",
+   "image_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/28017-the-wicked-lady",
+   "director": "Leslie Arliss",
+   "director_url": "https://web.archive.org/web/20170113003638/https://www.criterion.com/films/28017-the-wicked-lady"
+  },
+  {
+   "title": "Wings of Desire",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/34676-9821ceac4831c39d0adf723c46bf2ebb/Film_490w_WingsDesire_original.jpg",
+   "director": "Wim Wenders",
+   "spine": "490"
+  },
+  {
+   "title": "Yojimbo",
+   "image": "https://s3.amazonaws.com/criterion-production/stills/130185-02484313e9a43f2ac522e98cb844b85a/YOJIMBO_new_film_still_original.jpg",
+   "director": "Akira Kurosawa",
+   "spine": "52"
+  }
+ ]
+}

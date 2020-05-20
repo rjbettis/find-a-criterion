@@ -1,0 +1,265 @@
+{
+  "war_films": [
+    {
+      "title": "49th Parallel",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10633-98057579d11345c6860a849dcab9d5dc/49thParallel_2w_original.jpg",
+      "director": "Michael Powell",
+      "spine": "376"
+    },
+    {
+      "title": "Alexander Nevsky",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10247-f27d331e973f8d8a5e1b62b71da1f932/Nevsky_original.jpg",
+      "director": "Sergei Eisenstein",
+      "spine": "87"
+    },
+    {
+      "title": "The Ascent",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8189-1b4f0ce0e4ef9ae602efda8bc665de94/Ascent_003_original.jpg",
+      "image_url": "https://web.archive.org/web/20170416134911/https://www.criterion.com/films/561-the-ascent",
+      "director": "Larisa Shepitko",
+      "director_url": "https://web.archive.org/web/20170416134911/https://www.criterion.com/films/561-the-ascent"
+    },
+    {
+      "title": "Army of Shadows",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132110-451d0c07505951308d579cbb7bb9374f/Film_385_ArmyOfShadows_original.jpg",
+      "director": "Jean-Pierre Melville",
+      "spine": "385"
+    },
+    {
+      "title": "Ashes and Diamonds",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3902-5ec7f9090963f968aceb27302865a105/P_original.jpg",
+      "director": "Andrzej Wajda",
+      "spine": "285"
+    },
+    {
+      "title": "Ballad of a Soldier",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130081-72cf5b5f95c2f428385ecce416649e4c/balladsoldier_bw_original.jpg",
+      "director": "Grigori Chukhrai",
+      "spine": "148"
+    },
+    {
+      "title": "The Battle of Algiers",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10127-0408a291f8dcd84624f92f65c6878a9d/batllealgiers_original.jpg",
+      "director": "Gillo Pontecorvo",
+      "spine": "249"
+    },
+    {
+      "title": "Before the Rain",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6387-576e10d767572df40fd9a0bd884fcd49/Film_436w_BeforeRain_original.jpg",
+      "director": "Milcho Manchevski",
+      "spine": "436"
+    },
+    {
+      "title": "The Bridge",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132293-b66df9927a467e8a30e3898476b64442/Film_763_Bridge_original.jpg",
+      "director": "Bernhard Wicki",
+      "spine": "763"
+    },
+    {
+      "title": "The Burmese Harp",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129785-94fd8a81539abd163ee0cb2aaf0a83e7/Film_379w_BurmeseHarp_original.jpg",
+      "director": "Kon Ichikawa",
+      "spine": "379"
+    },
+    {
+      "title": "Che",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47951-19c31990da077717883f5abcf8f67344/Film_496w_Che_original.jpg",
+      "director": "Steven Soderbergh",
+      "spine": "496"
+    },
+    {
+      "title": "The Cranes Are Flying",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132141-7a618069dfdc0e7e568fb642f748db71/Film_146w_CranesAreFlying_original.jpg",
+      "director": "Mikhail Kalatozov",
+      "spine": "146"
+    },
+    {
+      "title": "Fail Safe",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c8b2a4ece655f691329b5ad9d3f46551.jpeg",
+      "director": "Sidney Lumet",
+      "spine": "1011"
+    },
+    {
+      "title": "Fires on the Plain",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129937-0a037b83bc8af376b5a31517f3a19afb/firesplain_bw_original.jpg",
+      "director": "Kon Ichikawa",
+      "spine": "378"
+    },
+    {
+      "title": "Forbidden Games",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10183-2925ca82732da79ddce9c61e7e4d5ce4/Forbidden-Games_original.jpg",
+      "director": "René Clément",
+      "spine": "318"
+    },
+    {
+      "title": "A Generation",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6719-768317a4e2b870eaf9d6abf2661d32ce/Film_283w_Generation_original.jpg",
+      "director": "Andrzej Wajda",
+      "spine": "283"
+    },
+    {
+      "title": "Grand Illusion",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129921-e9da918149e8edae9cd256fd96857b04/P_GRAND_ILLUSION_bw_original.jpg",
+      "director": "Jean Renoir",
+      "spine": "1"
+    },
+    {
+      "title": "The Great Escape",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8331c8401ccf3ac909a6c7b347789c94.jpeg",
+      "director": "John Sturges",
+      "spine": "1027"
+    },
+    {
+      "title": "Hearts and Minds",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9725-a41fec2d98b80463bbf4fea83bcbbc96/Film_156w_HeartsAndMinds_original.jpg",
+      "director": "Peter Davis",
+      "spine": "156"
+    },
+    {
+      "title": "Henry V",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131984-505ab0b45faf11ca0c7db3910c4321d4/Film_41w_HenryV_original.jpg",
+      "director": "Laurence Olivier",
+      "spine": "41"
+    },
+    {
+      "title": "The Human Condition",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/18145-02e88363c6d2e169de7cdf3eb5c10bd5/480_Film_HumanCondition_original.jpg",
+      "director": "Masaki Kobayashi",
+      "spine": "480"
+    },
+    {
+      "title": "In Which We Serve",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131649-919cea762195a63d6b1b8e9b253c5256/Film_604w_InWhichWeServe_original.jpg",
+      "director": "David Lean…",
+      "spine": "604"
+    },
+    {
+      "title": "Ivan’s Childhood",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7517-321092def482c86e44286741350d378d/Film_397w_IvansChildhood_original.jpg",
+      "director": "Andrei Tarkovsky",
+      "spine": "397"
+    },
+    {
+      "title": "Kanal",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6729-14e34077886b9669e0fd4c6adc70e5e3/Film_284w_Kanal_original.jpg",
+      "director": "Andrzej Wajda",
+      "spine": "284"
+    },
+    {
+      "title": "Lacombe, Lucien",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132065-be001b038627819ff53b6b3e1a5c005c/Film_329w_LacombeLucien_original.jpg",
+      "director": "Louis Malle",
+      "spine": "329"
+    },
+    {
+      "title": "Le petit soldat",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/27588ef66526d672275de4e8186c4772.jpeg",
+      "director": "Jean-Luc Godard",
+      "spine": "1010"
+    },
+    {
+      "title": "The Life and Death of Colonel Blimp",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132052-423922ccf717403c9f83d093af0ac21c/Blimp_Film_Page_original.jpg",
+      "director": "Michael Powell…",
+      "spine": "173"
+    },
+    {
+      "title": "Merry Christmas Mr. Lawrence",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129617-6e3d1f9deaa69bbbfd567568bbb9f829/Film_535w_MerryXmasLawrence_original.jpg",
+      "director": "Nagisa Oshima",
+      "spine": "535"
+    },
+    {
+      "title": "Night and Fog",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2808-b60f85a571c25de9cdf48ff9a5bd7caa/Film_197_NightAndFog_original.jpg",
+      "director": "Alain Resnais",
+      "spine": "197"
+    },
+    {
+      "title": "Night Train to Munich",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/89079-95cdd4406fea0e25e1de40261b20ea43/523_Filmw_NightTrain_original.jpg",
+      "director": "Carol Reed",
+      "spine": "523"
+    },
+    {
+      "title": "Overlord",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5167-5c379b42ddbae3f9832ac30097cb477c/Overlord_original.jpg",
+      "director": "Stuart Cooper",
+      "spine": "382"
+    },
+    {
+      "title": "Paths of Glory",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130057-0b84035d0fbefb2bcfef95fbcd65b194/Film_538w_PathsGlory_original.jpg",
+      "director": "Stanley Kubrick",
+      "spine": "538"
+    },
+    {
+      "title": "Ride with the Devil",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131994-a137ca7b693b2d6d8ae88b609094a76a/514_Filmw_RideWithDevil_original.jpg",
+      "director": "Ang Lee",
+      "spine": "514"
+    },
+    {
+      "title": "Rome Open City",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129817-e37b7f4303884cbe126e5c98f6cd2fa1/Film_497w_RomeOpenCity_original.jpg",
+      "director": "Roberto Rossellini",
+      "spine": "497"
+    },
+    {
+      "title": "The Shop on Main Street",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129905-455aafccb1e0edcc76d14b52b16f35c0/ShopMainw_bw_new_original.jpg",
+      "director": "Ján Kadár…",
+      "spine": "130"
+    },
+    {
+      "title": "The Spy Who Came in from the Cold",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6371-1ddb8cc70cc22b23cebe9b35e852b9db/Film_452w_SpyCold_original.jpg",
+      "director": "Martin Ritt",
+      "spine": "452"
+    },
+    {
+      "title": "The Steel Helmet",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8285-77ab373dc68cbdd6136c25acd9580858/SteelHelmet1_original.jpg",
+      "image_url": "https://web.archive.org/web/20170416134911/https://www.criterion.com/films/445-the-steel-helmet",
+      "director": "Samuel Fuller",
+      "director_url": "https://web.archive.org/web/20170416134911/https://www.criterion.com/films/445-the-steel-helmet"
+    },
+    {
+      "title": "The Thin Red Line",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131745-1984ff51f97de09d2859ee6e3f29ee5c/Film_536w_ThinRedLine_B_original.jpg",
+      "director": "Terrence Malick",
+      "spine": "536"
+    },
+    {
+      "title": "The Tin Drum",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_original.jpg",
+      "director": "Volker Schlöndorff",
+      "spine": "234"
+    },
+    {
+      "title": "Walker",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5711-a68daf55ce4e2eb8e27ce884824dcc7f/Film_423w_Walker_original.jpg",
+      "director": "Alex Cox",
+      "spine": "423"
+    },
+    {
+      "title": "War and Peace",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e896653ae3bb79ad5827bfd1ef6de6f8.jpeg",
+      "director": "Sergei Bondarchuk",
+      "spine": "983"
+    },
+    {
+      "title": "Westfront 1918",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6717096c21113c8f8b47baa8d7a3db4d.jpeg",
+      "director": "G. W. Pabst",
+      "spine": "907"
+    },
+    {
+      "title": "Wooden Crosses",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8277-a02ae1bb226c9fcf98ea63e83d7195c0/woodencrosses_2_original.jpg",
+      "image_url": "https://web.archive.org/web/20170416134911/https://www.criterion.com/films/880-wooden-crosses",
+      "director": "Raymond Bernard",
+      "director_url": "https://web.archive.org/web/20170416134911/https://www.criterion.com/films/880-wooden-crosses"
+    }
+  ]
+}

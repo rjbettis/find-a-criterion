@@ -1,0 +1,355 @@
+{
+  "tearjerkers": [
+    {
+      "title": "Ali: Fear Eats the Soul",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2004-02be8557983f2d5a03e927b48471de85/P_original.jpg",
+      "director": "Rainer Werner Fassbinder",
+      "spine": "198"
+    },
+    {
+      "title": "All That Heaven Allows",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132234-9a22ebe06e2e9fa6755cfea691234fe2/Film_95w_AllHeavenAllows_original.jpg",
+      "director": "Douglas Sirk",
+      "spine": "95"
+    },
+    {
+      "title": "Aparajito",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132320-c7a2e71e08165244169e25c862b82b77/Film_784_Aparajito_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/28443-aparajito",
+      "director": "Satyajit Ray",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/28443-aparajito"
+    },
+    {
+      "title": "Apart from You",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130945-f031ea1bc59d8f2162b89f8fe2957ca0/Naruse_Filmw_ApartFromYou_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27546-apart-from-you",
+      "director": "Mikio Naruse",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27546-apart-from-you"
+    },
+    {
+      "title": "Apur Sansar",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132321-356860e5da5f9f5cea0171d0e0a9e479/Film_785_ApurSansar_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27905-apur-sansar",
+      "director": "Satyajit Ray",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27905-apur-sansar"
+    },
+    {
+      "title": "Au hasard Balthazar",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132109-e5f697b6ea822a3b41660e2cdb6b0308/Au_hasard_Balthazar_Film_original.jpg",
+      "director": "Robert Bresson",
+      "spine": "297"
+    },
+    {
+      "title": "Au revoir les enfants",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5111-cfde6effa80009e49f3a59bfa692bc1c/AuRevoirEnfants_original.jpg",
+      "director": "Louis Malle",
+      "spine": "330"
+    },
+    {
+      "title": "An Autumn Afternoon",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131940-52e01e0ca731f31642eb5990faa538bf/Film_446w_AutumnAfternoon_original.jpg",
+      "director": "Yasujiro Ozu",
+      "spine": "446"
+    },
+    {
+      "title": "Brief Encounter",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10721-7ee0b76873fa57ac0195b93e1dc5049b/BriefEncounter_w_original.jpg",
+      "director": "David Lean",
+      "spine": "76"
+    },
+    {
+      "title": "The Children Are Watching Us",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6047-d7569555c37e04d3a9b9c9677fd628ed/Film_323w_ChildrenWatchingUs_original.jpg",
+      "director": "Vittorio De Sica",
+      "spine": "323"
+    },
+    {
+      "title": "City Lights",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132198-bcd27eb4d2f6015adf5dda776658a3c2/Film_680_CityLights_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "680"
+    },
+    {
+      "title": "Cría cuervos...",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132005-1227dedb298711bf425ef22bc80ecf2a/Film_403w_CriaCuervos_x_original.jpg",
+      "director": "Carlos Saura",
+      "spine": "403"
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14349-31082171cf7ddc3613ede99e7211e9e6/Film_476w_BenButton_original.jpg",
+      "director": "David Fincher",
+      "spine": "476"
+    },
+    {
+      "title": "Dying at Grace",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129657-847aba10c8383aff7ff8d7bb90d1470b/King_Filmw_DyingAtGrace_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27517-dying-at-grace",
+      "director": "Allan King",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27517-dying-at-grace"
+    },
+    {
+      "title": "Everlasting Moments",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/89007-c7fdc8da20784aa0203bde10a6790b6e/520_Filmw_EverlastingMoments_original.jpg",
+      "director": "Jan Troell",
+      "spine": "520"
+    },
+    {
+      "title": "Every-Night Dreams",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130721-1439ecf9a59bdaa711c5a511753a69cb/Naruse_Filmw_EveryNightsDream_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27547-every-night-dreams",
+      "director": "Mikio Naruse",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27547-every-night-dreams"
+    },
+    {
+      "title": "Germany Year Zero",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47935-c43fda766423277692c8249da8504cab/Film_499w_GermanyYearZero_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/297-germany-year-zero",
+      "director": "Roberto Rossellini",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/297-germany-year-zero"
+    },
+    {
+      "title": "Hoop Dreams",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6753-3129295a97c7a7307e8fb6bd968fa135/Film_289w_HoopDreams_original.jpg",
+      "director": "Steve James",
+      "spine": "289"
+    },
+    {
+      "title": "The Ice Storm",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5735-1060eba32a6a7df48ee7166cd26f0ef7/Film_426w_IceStorm_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/336-the-ice-storm",
+      "director": "Ang Lee",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/336-the-ice-storm"
+    },
+    {
+      "title": "Ikiru",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9783-a18eb88348b155f0bd4add9f5e995ac7/Ikiruw_original.jpg",
+      "director": "Akira Kurosawa",
+      "spine": "221"
+    },
+    {
+      "title": "Kapò",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/60483-5e8e0232b396c78c500374c5b9faed35/EAH5_Film_Kapo_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/22619-kapo",
+      "director": "Gillo Pontecorvo",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/22619-kapo"
+    },
+    {
+      "title": "Kes",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130785-e47df9bafe2ac5ad4edd1a70328028af/Film_561w_Kes_original.jpg",
+      "director": "Ken Loach",
+      "spine": "561"
+    },
+    {
+      "title": "The Kid",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132334-64f4bfa87bfa5c21b593f439029ff71b/Film_799_TheKid_original.jpg",
+      "director": "Charlie Chaplin",
+      "spine": "799"
+    },
+    {
+      "title": "Late Spring",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131922-96889c65ad1c912f9081ed43cc878887/Film_331w_LateSpring_original.jpg",
+      "director": "Yasujiro Ozu",
+      "spine": "331"
+    },
+    {
+      "title": "The Life of Oharu",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132166-b995762b879c326a42cf0389aa25b437/Film_664w_LifeOharu_original_original.jpg",
+      "director": "Kenji Mizoguchi",
+      "spine": "664"
+    },
+    {
+      "title": "Limelight",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132288-fb628ebdf8a0b6cc5b614f23943bd0c6/Film_756_Limelight_original.jpg",
+      "director": "Charles Chaplin",
+      "spine": "756"
+    },
+    {
+      "title": "Magnificent Obsession",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132170-2361d4d9bda39f0a2abe6ff9d954c552/Film_457w_MagnificentObsession_original.jpg",
+      "director": "Douglas Sirk",
+      "spine": "457"
+    },
+    {
+      "title": "Make Way for Tomorrow",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/76047-78b0d15ae71c0bcae8bb1f2c169fb6b0/MAKEWAYFORTOMORROW_filmstill_new_original.jpg",
+      "director": "Leo McCarey",
+      "spine": "505"
+    },
+    {
+      "title": "Mouchette",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10239-a08df3da04887e85ec27dda8170251b6/mouchette_original.jpg",
+      "director": "Robert Bresson",
+      "spine": "363"
+    },
+    {
+      "title": "My Life as a Dog",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7877-38f0c36239f137ab61dac4aaab6b2655/Film_178w_MyLifeDog_original.jpg",
+      "director": "Lasse Hallström",
+      "spine": "178"
+    },
+    {
+      "title": "Nobody’s Children",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130929-e7e37cdcc1d89fa25875f76dfda27349/Matarazzo_Filmw_NobodysChildren_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27623-nobody-s-children",
+      "director": "Raffaello Matarazzo",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27623-nobody-s-children"
+    },
+    {
+      "title": "El Norte",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9947-b4c11fa0c87d590ed5d5a861c6922973/Nortew_original.jpg",
+      "director": "Gregory Nava",
+      "spine": "458"
+    },
+    {
+      "title": "One Wonderful Sunday",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129969-92516534f8ff0a9e2f37a09b179f5fad/OneWonderful_image_2_bw_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/888-one-wonderful-sunday",
+      "director": "Akira Kurosawa",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/888-one-wonderful-sunday"
+    },
+    {
+      "title": "The Only Son",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129705-9945d5757bc3cb24fecafd390bcba49d/THE-ONLY-SON-film-still-brighter_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/2606-the-only-son",
+      "director": "Yasujiro Ozu",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/2606-the-only-son"
+    },
+    {
+      "title": "Paisan",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47927-516db7acce12b4d13549dd3ab7ca152c/Film_498w_Paisan_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/2415-paisan",
+      "director": "Roberto Rossellini",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/2415-paisan"
+    },
+    {
+      "title": "Pather Panchali",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132319-5ae51b5a6ce4703df7f405d1997edd56/Film_783_PatherPanchali_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/28021-pather-panchali",
+      "director": "Satyajit Ray",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/28021-pather-panchali"
+    },
+    {
+      "title": "Paths of Glory",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130057-0b84035d0fbefb2bcfef95fbcd65b194/Film_538w_PathsGlory_original.jpg",
+      "director": "Stanley Kubrick",
+      "spine": "538"
+    },
+    {
+      "title": "Poil de carotte",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132316-b91a64aef2e4091cb818f47f041c51a9/Eclipse_Film_PoilDeCarrote_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/28026-poil-de-carotte",
+      "director": "Julien Duvivier",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/28026-poil-de-carotte"
+    },
+    {
+      "title": "Rome Open City",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129817-e37b7f4303884cbe126e5c98f6cd2fa1/Film_497w_RomeOpenCity_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/975-rome-open-city",
+      "director": "Roberto Rossellini",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/975-rome-open-city"
+    },
+    {
+      "title": "Roma",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ff89982325c654bd1dc85cc36266c914.jpeg",
+      "director": "Alfonso Cuarón",
+      "spine": "1014"
+    },
+    {
+      "title": "Sansho the Bailiff",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7575-77ca858234f0e500d52b615f50ba68f6/Film_386w_SanshoBaliff_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/823-sansho-the-bailiff",
+      "director": "Kenji Mizoguchi",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/823-sansho-the-bailiff"
+    },
+    {
+      "title": "Secret Sunshine",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131153-af1934c72639fa0365ef69191c6ee73b/Film_576w_SecretSunshine_original.jpg",
+      "director": "Lee Chang-dong",
+      "spine": "576"
+    },
+    {
+      "title": "Senso",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130465-41b746dc5bfac0d1f2c34bd203ada1ad/Film_556w_Senso_original.jpg",
+      "director": "Luchino Visconti",
+      "spine": "556"
+    },
+    {
+      "title": "Still Walking",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130441-71bec623da696b66b9a3fe97c8668d70/Film_554w_StillWalking_original.jpg",
+      "director": "Hirokazu Kore-eda",
+      "spine": "554"
+    },
+    {
+      "title": "A Story from Chikamatsu",
+      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9c37a2653c624ae82f0e60e4f3c28c7e.jpeg",
+      "director": "Kenji Mizoguchi",
+      "spine": "949"
+    },
+    {
+      "title": "Summer Hours",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/113689-087030ff7dc77b11c49c4c28ea8359ef/513_Filmw_SummerHours_original.jpg",
+      "director": "Olivier Assayas",
+      "spine": "513"
+    },
+    {
+      "title": "There Was a Father",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/109065-e866c11fa9b7621d5e66b3d71a016bae/Film_525w_ThereWasFather_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/22839-there-was-a-father",
+      "director": "Yasujiro Ozu",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/22839-there-was-a-father"
+    },
+    {
+      "title": "Tokyo Story",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132199-b069e4720c35ba46b653946afbbc1fda/Film_217_TokyoStory_original.jpg",
+      "director": "Yasujiro Ozu",
+      "spine": "217"
+    },
+    {
+      "title": "Tokyo Twilight",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8205-c821e3eadf483b64ba4cbc7ae12c8230/Eclipse_Film_TokyTwilight_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/771-tokyo-twilight",
+      "director": "Yasujiro Ozu",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/771-tokyo-twilight"
+    },
+    {
+      "title": "Tormento",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130921-fb4c3c19b99ccf785459523a8f9eb6f0/Matarazzo_Filmw_Tormento_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27622-tormento",
+      "director": "Raffaello Matarazzo",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27622-tormento"
+    },
+    {
+      "title": "Twenty-Four Eyes",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5815-2c536b921c534659ef3fd04636e21dc2/Film_442w_TwentyFourEyes_original.jpg",
+      "director": "Keisuke Kinoshita",
+      "spine": "442"
+    },
+    {
+      "title": "Umberto D.",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132000-42786a035e680b9d9f6942a32c240d46/Film_201w_UmbertoD_original.jpg",
+      "director": "Vittorio De Sica",
+      "spine": "201"
+    },
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132239-18ca14a1b5b085e2f5a16f383efe0a54/Film_716_Umbrellas_original.jpg",
+      "director": "Jacques Demy",
+      "spine": "716"
+    },
+    {
+      "title": "The White Angel",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130937-100ae25710273392c02d1314c65bd432/Matarazzo_Filmw_WhiteAngel_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27624-the-white-angel",
+      "director": "Raffaello Matarazzo",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/27624-the-white-angel"
+    },
+    {
+      "title": "Wild Strawberries",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132122-f0c3df50bcaa8a836dc5cf01388a744f/wild-strawberries_w_new_original.jpg",
+      "image_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/175-wild-strawberries",
+      "director": "Ingmar Bergman",
+      "director_url": "https://web.archive.org/web/20170829085734/https://www.criterion.com/films/175-wild-strawberries"
+    }
+  ]
+}
