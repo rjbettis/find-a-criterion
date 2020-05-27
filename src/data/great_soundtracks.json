@@ -44,7 +44,7 @@
     },
     {
       "title": "Blue Velvet",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bb8f5221b0e131086a47755753b58db2.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
       "director": "David Lynch",
       "spine": "977"
     },
@@ -135,7 +135,7 @@
     },
     {
       "title": "Dont Look Back",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/2bbe49dbec2ce3f3bea04493f11956ec.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dont_Look_Back.jpg",
       "director": "D. A. Pennebaker",
       "spine": "786"
     },
@@ -165,7 +165,7 @@
     },
     {
       "title": "Festival",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/26e1d7ae176f92e93312dbfeae5eecd4.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Festival.jpg",
       "director": "Murray Lerner",
       "spine": "892"
     },
@@ -256,7 +256,7 @@
     },
     {
       "title": "King of Jazz",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/60802441aeabbc35979ea8fa568c6147.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/King_of_Jazz.jpg",
       "director": "John Murray Anderson",
       "spine": "915"
     },
@@ -287,7 +287,7 @@
     },
     {
       "title": "The Lure",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1582c456b49232a3fedbb822181fb40b.jpeg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132439-b3a8b7079a0a9cd02871c706b843a0b2/Film_896_Lure_original.jpg",
       "director": "Agnieszka Smoczyńska",
       "spine": "896"
     },
@@ -299,7 +299,7 @@
     },
     {
       "title": "Monterey Pop",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/933a682fcea0eab68c5236dfa11453f4.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Monterey_Pop.jpg",
       "director": "D. A. Pennebaker",
       "spine": "168"
     },
@@ -421,7 +421,7 @@
     },
     {
       "title": "Swing Time",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/65706fd3e49ee96eb1743cb8ff1f628c.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Swing_Time.jpg",
       "director": "George Stevens",
       "spine": "979"
     },
@@ -482,7 +482,7 @@
     },
     {
       "title": "The Young Girls of Rochefort",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f1f050433035ae4cc6696b645d865669.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Young_Girls_of_Rochefort.jpg",
       "director": "Jacques Demy",
       "spine": "717"
     },

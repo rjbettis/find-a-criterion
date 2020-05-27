@@ -29,13 +29,13 @@
       "spine": "611"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f70da8039ea53d97aa945b77bcf7f535.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Beyond_the_Law.jpeg",
       "title": "Beyond the Law",
       "director": "Norman Mailer",
       "spine": "e35"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/2a51a26b99811373b33ec7e3f8b788bf.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Beyond_the_Valley_of_the_Dolls.jpg",
       "title": "Beyond the Valley of the Dolls",
       "title_url": "https://www.criterion.com/films/28120-beyond-the-valley-of-the-dolls",
       "director": "Russ Meyer",
@@ -76,7 +76,7 @@
       "spine": "865"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bc36b43537bbe87d5bb6c163120f7a92.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
       "title": "Blue Velvet",
       "title_url": "https://www.criterion.com/films/29144-blue-velvet",
       "director": "David Lynch",
@@ -121,7 +121,7 @@
       "spine": "63"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/132b0a680d172b316f2855e8abff4f7c.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Cat_People.jpg",
       "title": "Cat People",
       "title_url": "https://www.criterion.com/films/28696-cat-people",
       "director": "Jacques Tourneur",
@@ -254,7 +254,7 @@
       "director": "Orson Welles"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/268203d0d73244334e7caee72c1e2a18.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Fabulous_Baron_Munchausen.jpg",
       "title": "The Fabulous Baron Munchausen",
       "director": "Karel Zeman",
       "spine": "1017"
@@ -340,7 +340,7 @@
       "director": "Hajime Sato"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/f71bf6d59b9d781671221e8b3a469fb4.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Grey_Gardens.jpg",
       "title": "Grey Gardens",
       "title_url": "https://www.criterion.com/films/664-grey-gardens",
       "director": "David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer",
@@ -421,7 +421,7 @@
       "director": "Nagisa Oshima"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c3d088753f0759f2405b92d9edc29989.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Invention_for_Destruction.jpg",
       "title": "Invention for Destruction",
       "director": "Karel Zeman",
       "spine": "1016"
@@ -445,7 +445,7 @@
       "spine": "352"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/235039b53c73d5bbf1137d36b8ae8840.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Journey_to_the_Beginning_of_Time.jpg",
       "title": "Journey to the Beginning of Time",
       "director": "Karel Zeman",
       "spine": "1015"
@@ -504,7 +504,7 @@
       "spine": "994"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1697852a68a2dba90ea68aac8fc2c5bc.jpeg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132439-b3a8b7079a0a9cd02871c706b843a0b2/Film_896_Lure_original.jpg",
       "title": "The Lure",
       "title_url": "https://www.criterion.com/films/29061-the-lure",
       "director": "Agnieszka Smoczyńska",
@@ -588,7 +588,7 @@
       "spine": "415"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c2198b0a6b67fab2297bdab96598b893.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Night_of_the_Living_Dead.jpg",
       "title": "Night of the Living Dead",
       "title_url": "https://www.criterion.com/films/29331-night-of-the-living-dead",
       "director": "George A. Romero",
@@ -693,7 +693,7 @@
       "spine": "247"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/abc042b0667e59fd0d7bcba210f7846e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Solaris.jpg",
       "title": "Solaris",
       "title_url": "https://www.criterion.com/films/553-solaris",
       "director": "Andrei Tarkovsky",
@@ -825,7 +825,7 @@
       "director": "Samuel Fuller"
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e992f9d92c1286f5e795c19c0e476848.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Wild_90.jpg",
       "title": "Wild 90",
       "director": "Norman Mailer",
       "spine": "e35"

@@ -1,190 +1,264 @@
 {
   "AmericaAmerica": [
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8109-b9d115f85951486c64d84c55672a3abc/pursuit_02_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/And_the_Pursuit_of_Happiness.jpg",
       "title": "...And the Pursuit of Happiness",
-      "director": "Louis Malle"
+      "director": "Louis Malle",
+      "filmLink": "https://www.criterion.com/films/676-and-the-pursuit-of-happiness",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131931-fc7a8298afd4e7f5fb57671b3d5d6d35/Downey_Filmw_Babo73_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Babo_73.jpg",
       "title": "Babo 73",
-      "director": "Robert Downey Sr."
+      "director": "Robert Downey Sr.",
+      "filmLink": "https://www.criterion.com/films/27938-babo-73",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130793-13bc91545dad230369fa36075c51166b/Film_562w_BlowOut_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blow_Out.jpg",
       "title": "Blow Out",
-      "director": "Brian De Palma"
+      "director": "Brian De Palma",
+      "filmLink": "https://www.criterion.com/films/27561-blow-out",
+      "directorLink": ""
     },
     {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Blue_Velvet.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
       "title": "Blue Velvet",
-      "director": "David Lynch"
+      "director": "David Lynch",
+      "filmLink": "https://www.criterion.com/films/29144-blue-velvet",
+      "directorLink": ""
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/14e241f45077ffb52b078931b513c11f.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Bowling_For_Columbine.jpg",
       "title": "Bowling for Columbine",
-      "director": "Michael Moore"
+      "director": "Michael Moore",
+      "filmLink": "https://www.criterion.com/films/28785-bowling-for-columbine",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/3596-50d14ecc0419369b997df9d92f006fbd/P2_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dazed_and_Confused.jpg",
       "title": "Dazed and Confused",
-      "director": "Richard Linklater"
+      "director": "Richard Linklater",
+      "filmLink": "https://www.criterion.com/films/314-dazed-and-confused",
+      "directorLink": ""
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/31326f0264c579fff84eae46af3f1474.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dead_Man.jpg",
       "title": "Dead Man",
-      "director": "Jim Jarmusch"
+      "director": "Jim Jarmusch",
+      "filmLink": "https://www.criterion.com/films/29064-dead-man",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/fd5175ea1f1b8f0be1aeddbfcff14735.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dr_Strangelove.jpg",
       "title": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
-      "director": "Stanley Kubrick"
+      "director": "Stanley Kubrick",
+      "filmLink": "https://www.criterion.com/films/28822-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130345-d710c2512002232b69b747a51d590605/Film_545_EasyRider_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Easy_Rider.jpg",
       "title": "Easy Rider",
-      "director": "Dennis Hopper"
+      "director": "Dennis Hopper",
+      "filmLink": "https://www.criterion.com/films/27528-easy-rider",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/0348d853471f21f05ebacfe59180260e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Emigrants.jpg",
       "title": "The Emigrants",
-      "director": "Jan Troell"
+      "director": "Jan Troell",
+      "filmLink": "https://www.criterion.com/films/28701-the-emigrants",
+      "directorLink": ""
     },
 
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7909-fde72a57c6d1c0e5fbdfff6b6a38121a/Film_175w_FearLoathing_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Fear_and_Loathing_in_Las_Vegas.jpg",
       "title": "Fear and Loathing in Las Vegas",
-      "director": "Terry Gilliam"
+      "director": "Terry Gilliam",
+      "filmLink": "https://www.criterion.com/films/215-fear-and-loathing-in-las-vegas",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8093-e350a4f42b1aa9c90b2f8debd01dfae8/godscountry_01_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Gods_Country.jpg",
       "title": "God's Country",
-      "director": "Louis Malle"
+      "director": "Louis Malle",
+      "filmLink": "https://www.criterion.com/films/675-god-s-country",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6007-9a5b9ebdcb64d08efa3bbc7557a46c92/Film_334w_HarlanCounty_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Harlan_County_USA.jpg",
       "title": "Harlan County USA",
-      "director": "Barbara Kopple"
+      "director": "Barbara Kopple",
+      "filmLink": "https://web.archive.org/web/20180501150941/https://www.criterion.com/films/777-harlan-county-usa",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132028-10fe9dc4639a2a5a049781915f266d70/Film_636w_HeavensGate_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heavens_Gate.jpg",
       "title": "Heaven's Gate",
-      "director": "Michael Cimino"
+      "director": "Michael Cimino",
+      "filmLink": "https://www.criterion.com/films/28036-heaven-s-gate",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130897-ce5893970324c6abd85cecda083643c2/Film_566w_Insignificance_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Insignificance.jpg",
       "title": "Insignificance",
-      "director": "Nicolas Roeg"
+      "director": "Nicolas Roeg",
+      "filmLink": "https://www.criterion.com/films/27618-insignificance",
+      "directorLink": ""
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/79650a4a255a10b8e7c3573859ae6296.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Lost_in_America.jpg",
       "title": "Lost in America",
-      "director": "Albert Brooks"
+      "director": "Albert Brooks",
+      "filmLink": "https://www.criterion.com/films/29022-lost-in-america",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/18127-94d027b10c7dc9bf067a8fa6b5e5d50b/481_Film_made_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Made_in_the_USA.jpg",
       "title": "Made in the U.S.A.",
-      "director": "Jean-Luc Godard"
+      "director": "Jean-Luc Godard",
+      "filmLink": "https://www.criterion.com/films/2109-made-in-u-s-a",
+      "directorLink": ""
     },
     {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Magnificent_Ambersons.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Magnificent_Ambersons.jpg",
       "title": "The Magnificent Ambersons",
-      "director": "Orson Welles"
+      "director": "Orson Welles",
+      "filmLink": "https://www.criterion.com/films/28711-the-magnificent-ambersons",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132345-b5defec86cb74f0346c35521fe7ae70c/Film_803_ManchurianCandidate_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Manchurian_Candidate.jpg",
       "title": "The Manchurian Candidate",
-      "director": "John Frankenheimer"
+      "director": "John Frankenheimer",
+      "filmLink": "https://www.criterion.com/films/28784-the-manchurian-candidate",
+      "directorLink": ""
     },
     {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/McCabe_and_Mrs_Miller.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/McCabe_and_Mrs_Miller.jpg",
       "title": "McCabe & Mrs. Miller",
-      "director": "Robert Altman"
+      "director": "Robert Altman",
+      "filmLink": "https://www.criterion.com/films/28712-mccabe-mrs-miller",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132106-e322ccd0e05800e57f6cea096a2701ae/Film_658w_MediumCool_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Medium_Cool.jpg",
       "title": "Medium Cool",
-      "director": "Haskell Wexler"
+      "director": "Haskell Wexler",
+      "filmLink": "https://www.criterion.com/films/28426-medium-cool",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8037-281b805b62765d941832a303cbc55011/MrFreedom_2_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mr_Freedom.jpg",
       "title": "Mr. Freedom",
-      "director": "William Klein"
+      "director": "William Klein",
+      "filmLink": "https://www.criterion.com/films/903-mr-freedom",
+      "directorLink": ""
     },
     {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/My_Man_Godfrey.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/My_Man_Godfrey.jpg",
       "title": "My Man Godfrey",
-      "director": "Gregory La Cava"
+      "director": "Gregory La Cava",
+      "filmLink": "https://www.criterion.com/films/653-my-man-godfrey",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132207-b28903dbff606a4db462405222c212be/Film_683w_Nashville_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Nashville.jpg",
       "title": "Nashville",
-      "director": "Robert Altman"
+      "director": "Robert Altman",
+      "filmLink": "https://www.criterion.com/films/28427-nashville",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7623-d4bf1f04e40c632bec804ccc7972d160/Film_373w_NativeLand_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Native_Land.jpg",
       "title": "Native Land",
-      "director": "Leo Hurwitz and Paul Strand"
+      "director": "Leo Hurwitz and Paul Strand",
+      "filmLink": "https://www.criterion.com/films/814-native-land",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/6cb9308dbbc5d87872834a10f8d33f3b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/New_Land.jpg",
       "title": "The New Land",
-      "director": "Jan Troell"
+      "director": "Jan Troell",
+      "filmLink": "https://www.criterion.com/films/28702-the-new-land",
+      "directorLink": ""
     },
     {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/The_New_World.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/New_World.jpg",
       "title": "The New World",
-      "director": "Terence Malick"
+      "director": "Terence Malick",
+      "filmLink": "https://www.criterion.com/films/28713-the-new-world",
+      "directorLink": ""
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/432112ab6edf6b97e52670bcd3039106.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Raisin_in_the_Sun.jpg",
       "title": "A Raisin in the Sun",
-      "director": "Daniel Petrie"
+      "director": "Daniel Petrie",
+      "filmLink": "https://www.criterion.com/films/28826-a-raisin-in-the-sun",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131994-a137ca7b693b2d6d8ae88b609094a76a/514_Filmw_RideWithDevil_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Ride_With_the_Devil.jpg",
       "title": "Ride with the Devil",
-      "director": "Ang Lee"
+      "director": "Ang Lee",
+      "filmLink": "https://www.criterion.com/films/17282-ride-with-the-devil",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131737-f44b040943321b407e9a7568efe155a0/Film_23w_Robocop_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/RoboCop.jpg",
       "title": "RoboCop",
-      "director": "Paul Verhoeven"
+      "director": "Paul Verhoeven",
+      "filmLink": "https://www.criterion.com/films/542-robocop",
+      "directorLink": ""
     },
     {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Sullivans_Travels.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Sullivans_Travels.jpg",
       "title": "Sullivan's Travels",
-      "director": "Preston Sturges"
+      "director": "Preston Sturges",
+      "filmLink": "https://www.criterion.com/films/657-sullivan-s-travels",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6611-fd4df8c9972ae748ddcb20dd0fd695fe/Film_258w_Tanner88_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Tanner_88.jpg",
       "title": "Tanner '88",
-      "director": "Robert Altman"
+      "director": "Robert Altman",
+      "filmLink": "https://www.criterion.com/films/952-tanner-88",
+      "directorLink": ""
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b642b0d93772aba6b2515c87ee532711.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/True_Stories.jpg",
       "title": "True Stories",
-      "director": "David Byrne"
+      "director": "David Byrne",
+      "filmLink": "https://www.criterion.com/films/29038-true-stories",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10497-abd8f9dbeb215f33364e351918908cae/Twolane_w_original.jpg",
-      "title": "Two-Lane Blocktop",
-      "director": "Monte Hellman"
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Two_Lane_Blacktop.jpg",
+      "title": "Two-Lane Blacktop",
+      "director": "Monte Hellman",
+      "filmLink": "https://www.criterion.com/films/847-two-lane-blacktop",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5711-a68daf55ce4e2eb8e27ce884824dcc7f/Film_423w_Walker_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Walker.jpg",
       "title": "Walker",
-      "director": "Alex Cox"
+      "director": "Alex Cox",
+      "filmLink": "https://www.criterion.com/films/526-walker",
+      "directorLink": ""
     },
     {
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6f312558b86fe4699e219f77520f5082.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Wildlife.jpg",
       "title": "Wildlife",
-      "director": "Paul Dano"
+      "director": "Paul Dano",
+      "filmLink": "https://www.criterion.com/films/29644-wildlife",
+      "directorLink": ""
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6097-8f1c2c768d944874be723533bd2b130d/Film_320w_YoungMrLincoln_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Young_Mr_Lincoln.jpg",
       "title": "Young Mr. Lincoln",
-      "director": "John Ford"
+      "director": "John Ford",
+      "filmLink": "https://www.criterion.com/films/766-young-mr-lincoln",
+      "directorLink": ""
     }
   ]
 }

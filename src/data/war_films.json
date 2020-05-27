@@ -105,7 +105,7 @@
     },
     {
       "title": "The Great Escape",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8331c8401ccf3ac909a6c7b347789c94.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Great_Escape.jpg",
       "director": "John Sturges",
       "spine": "1027"
     },
@@ -152,12 +152,6 @@
       "spine": "329"
     },
     {
-      "title": "Le petit soldat",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/27588ef66526d672275de4e8186c4772.jpeg",
-      "director": "Jean-Luc Godard",
-      "spine": "1010"
-    },
-    {
       "title": "The Life and Death of Colonel Blimp",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132052-423922ccf717403c9f83d093af0ac21c/Blimp_Film_Page_original.jpg",
       "director": "Michael Powell…",
@@ -192,6 +186,12 @@
       "image": "https://s3.amazonaws.com/criterion-production/stills/130057-0b84035d0fbefb2bcfef95fbcd65b194/Film_538w_PathsGlory_original.jpg",
       "director": "Stanley Kubrick",
       "spine": "538"
+    },
+    {
+      "title": "Le petit soldat",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/petit_soldat.jpg",
+      "director": "Jean-Luc Godard",
+      "spine": "1010"
     },
     {
       "title": "Ride with the Devil",
@@ -244,13 +244,13 @@
     },
     {
       "title": "War and Peace",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e896653ae3bb79ad5827bfd1ef6de6f8.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/War_and_Peace.jpg",
       "director": "Sergei Bondarchuk",
       "spine": "983"
     },
     {
       "title": "Westfront 1918",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6717096c21113c8f8b47baa8d7a3db4d.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Westfront_1918.jpg",
       "director": "G. W. Pabst",
       "spine": "907"
     },

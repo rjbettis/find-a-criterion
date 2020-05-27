@@ -253,7 +253,7 @@
     },
     {
       "title": "His Girl Friday",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/aeef7698a61fe8591b903507cfa92bbb.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/His_Girl_Friday.jpg",
       "director": "Howard Hawks",
       "spine": "849"
     },
@@ -354,13 +354,13 @@
     },
     {
       "title": "The Lodger: A Story of the London Fog",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e10fec625c0392bfbb1d53d85d306563.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Lodger_A_Story_of_the_London_Fog.jpg",
       "director": "Alfred Hitchcock",
       "spine": "885"
     },
     {
       "title": "Lone Wolf and Cub",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b765fd9486473e722afdf975b2c3db3f.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Lone_Wolf_and_Cub.jpg",
       "spine": "841"
     },
     {
@@ -446,7 +446,7 @@
     },
     {
       "title": "Othello",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/793cebe199f5bad2a8312705df69d454.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Othello.jpg",
       "director": "Orson Welles",
       "spine": "870"
     },

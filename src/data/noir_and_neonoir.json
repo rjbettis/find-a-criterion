@@ -54,7 +54,7 @@
     },
     {
       "title": "Blue Velvet",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bc36b43537bbe87d5bb6c163120f7a92.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
       "director": "David Lynch",
       "spine": "977"
     },
@@ -66,7 +66,7 @@
     },
     {
       "title": "The Breaking Point",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c7922e6dbe3ffcaee3ffc4305baa84fb.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Breaking_Point.jpg",
       "director": "Michael Curtiz",
       "spine": "889"
     },
@@ -118,7 +118,7 @@
     },
     {
       "title": "Detour",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/473c69567ffee788c44e14367eab1e1d.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Detour.jpg",
       "director": "Edgar G. Ulmer",
       "spine": "966"
     },
@@ -185,7 +185,7 @@
     },
     {
       "title": "Gilda",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/0e6337c9955ccb44dc3a0666620f7841.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Gilda.jpg",
       "director": "Charles Vidor",
       "spine": "795"
     },
@@ -281,7 +281,7 @@
     },
     {
       "title": "Leave Her to Heaven",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4fb3a974008ef6f675201d333c58fd67.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Leave_Her_to_Heaven.jpg",
       "director": "John M. Stahl",
       "spine": "1020"
     },
@@ -314,7 +314,7 @@
     },
     {
       "title": "Moonrise",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a04285c97aa7f35b452f8b39ee0eda3e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Moonrise.jpg",
       "director": "Frank Borzage",
       "spine": "921"
     },
@@ -350,7 +350,7 @@
     },
     {
       "title": "Panique",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e9f4554717215417a73c7b118f75fb95.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Panique.jpg",
       "director": "Julien Duvivier",
       "spine": "955"
     },

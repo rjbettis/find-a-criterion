@@ -2,7 +2,7 @@
   "CannesBigWinners": [
     {
       "title": "All About My Mother",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c0f22575fc51319b15abf9b126966fe7.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_My_Mother.jpg",
       "director": "Pedro Almodóvar",
       "spine": "1012"
     },
@@ -32,7 +32,7 @@
     },
     {
       "title": "Death in Venice",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a6efeaa58c7ad5a1cdba9fada2dae950.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Death_in_Venice.jpg",
       "director": "Luchino Visconti",
       "spine": "962"
     },

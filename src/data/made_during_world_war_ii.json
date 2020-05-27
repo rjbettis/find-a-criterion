@@ -40,7 +40,7 @@
     },
     {
       "title": "Le Corbeau",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/13731-5f61a058033a09dafe59b2c44103d93a/img_lecorbeau_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Corbeau.jpg",
       "image_url": "https://web.archive.org/web/20150521105757/http://www.criterion.com/films/684-le-corbeau",
       "director": "Henri-Georges Clouzot",
       "director_url": "https://web.archive.org/web/20150521105757/http://www.criterion.com/films/684-le-corbeau"

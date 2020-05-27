@@ -14,7 +14,7 @@
     },
     {
       "title": "All About Eve",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1f07326b6af1c07b1f0071d29765ca4f.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_Eve.jpg",
       "director": "Joseph L. Mankiewicz",
       "spine": "1003"
     },
@@ -32,13 +32,13 @@
     },
     {
       "title": "The Asphalt Jungle",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/1d82db81bb380ba52325e174448f37b5.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Asphalt_Jungle.jpg",
       "director": "John Huston",
       "spine": "847"
     },
     {
       "title": "The Awful Truth",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/673cdfc5de5de91f7229c577785c7792.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Awful_Truth.jpg",
       "director": "Leo McCarey",
       "spine": "917"
     },
@@ -50,7 +50,7 @@
     },
     {
       "title": "Blonde Venus",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/aeab8322e99ad84b4559ad2d2cd41036.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blonde_Venus.jpeg",
       "director": "Josef von Sternberg",
       "spine": "934"
     },
@@ -74,7 +74,7 @@
     },
     {
       "title": "Dance, Girl, Dance",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f95f8cc862b4158e192382558ade8699.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dance_Girl_Dance.jpg",
       "director": "Dorothy Arzner",
       "spine": "1028"
     },
@@ -86,7 +86,7 @@
     },
     {
       "title": "Destry Rides Again",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1a402370367c78a5a79b297cbaf6a0b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Destry_Rides_Again.jpg",
       "director": "George Marshall",
       "spine": "1024"
     },
@@ -98,13 +98,13 @@
     },
     {
       "title": "The Devil Is a Woman",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/477135eb881bf6146ed4d1f8ec187164.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Devil_is_a_Woman.jpg",
       "director": "Josef von Sternberg",
       "spine": "935"
     },
     {
       "title": "Dishonored",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/dabce5e84845b81a5541f18020f8b9e2.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dishonored.jpg",
       "director": "Josef von Sternberg",
       "spine": "932"
     },
@@ -128,7 +128,7 @@
     },
     {
       "title": "Gilda",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/0e6337c9955ccb44dc3a0666620f7841.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Gilda.jpg",
       "director": "Charles Vidor",
       "spine": "795"
     },
@@ -140,7 +140,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
       "director": "William Wyler",
       "spine": "974"
     },
@@ -152,13 +152,13 @@
     },
     {
       "title": "His Girl Friday",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/aeef7698a61fe8591b903507cfa92bbb.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/His_Girl_Friday.jpg",
       "director": "Howard Hawks",
       "spine": "849"
     },
     {
       "title": "Holiday",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/444d9aa88c30be2bdfa41c70e427a908.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Holiday.jpg",
       "director": "George Cukor",
       "spine": "1009"
     },
@@ -188,7 +188,7 @@
     },
     {
       "title": "King of Jazz",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/51af2f5d6d09aceebb11b3df196d5c3e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/King_of_Jazz.jpg",
       "director": "John Murray Anderson",
       "spine": "915"
     },
@@ -224,7 +224,7 @@
     },
     {
       "title": "The Magnificent Ambersons",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/d0541ad3e50adf31bd2ffec45cc67fdf.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Magnificent_Ambersons.jpg",
       "director": "Orson Welles",
       "spine": "952"
     },
@@ -242,7 +242,7 @@
     },
     {
       "title": "Mildred Pierce",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8e2521f96fcdac4e512ea8c4d3308994.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mildred_Pierce.jpg",
       "director": "Michael Curtiz",
       "spine": "860"
     },
@@ -266,13 +266,13 @@
     },
     {
       "title": "Moonrise",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a04285c97aa7f35b452f8b39ee0eda3e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Moonrise.jpg",
       "director": "Frank Borzage",
       "spine": "921"
     },
     {
       "title": "Morocco",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4ea3f7ec9aa6247747873a0c0b7d5aee.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Morocco.jpg",
       "director": "Josef von Sternberg",
       "spine": "931"
     },
@@ -332,7 +332,7 @@
     },
     {
       "title": "The Philadelphia Story",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/07b2e46a5d8dedbac13be8828eab94fa.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Philadelphia_Story.jpg",
       "director": "George Cukor",
       "spine": "901"
     },
@@ -350,13 +350,13 @@
     },
     {
       "title": "The Scarlet Empress",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/698f4e1f8b3c3b1921a66222fe678f5e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Scarlet_Empress.jpg",
       "director": "Josef von Sternberg",
       "spine": "109"
     },
     {
       "title": "Shanghai Express",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6874ae5f02a8a46a37138bb91ac0a643.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Shanghai_Express.jpg",
       "director": "Josef von Sternberg",
       "spine": "933"
     },
@@ -398,13 +398,13 @@
     },
     {
       "title": "Swing Time",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/35daf2d8e07118fc5e40bcd6651e2c3b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Swing_Time.jpg",
       "director": "George Stevens",
       "spine": "979"
     },
     {
       "title": "They Live by Night",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4588044d895af4ada6ba925d26e0c90e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/They_Live_by_Night.jpg",
       "director": "Nicholas Ray",
       "spine": "880"
     },
@@ -452,7 +452,7 @@
     },
     {
       "title": "Young Mr. Lincoln",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bec1436b677715b915db99b1b469a30d.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Young_Mr_Lincoln.jpg",
       "director": "John Ford",
       "spine": "320"
     }

@@ -339,7 +339,7 @@
     },
     {
       "title": "Night of the Living Dead",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c2198b0a6b67fab2297bdab96598b893.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Night_of_the_Living_Dead.jpg",
       "director": "George A. Romero",
       "spine": "909"
     },
@@ -364,7 +364,7 @@
     },
     {
       "title": "Paris Is Burning",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/02acc5e476bddab8ee522040ec02e3a6.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
       "spine": "1018"
     },
@@ -400,7 +400,7 @@
     },
     {
       "title": "Scorsese Shorts",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/319a076908c8cffa2e08f6c10d70477a.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Scorsese_Shorts.jpg",
       "director": "Martin Scorsese",
       "spine": "1030"
     },

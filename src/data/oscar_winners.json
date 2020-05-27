@@ -14,19 +14,19 @@
     },
     {
       "title": "The Age of Innocence",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bbd6058918ce7db8df5d81343ddc0f41.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Age_of_Innocence.jpg",
       "director": "Martin Scorsese",
       "spine": "913"
     },
     {
       "title": "All About Eve",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1f07326b6af1c07b1f0071d29765ca4f.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_Eve.jpg",
       "director": "Joseph L. Mankiewicz",
       "spine": "1003"
     },
     {
       "title": "All About My Mother",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c0f22575fc51319b15abf9b126966fe7.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_My_Mother.jpg",
       "director": "Pedro Almodóvar",
       "spine": "1012"
     },
@@ -178,7 +178,7 @@
     },
     {
       "title": "The Grand Budapest Hotel",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9460a27e0dbf4e312588f920eff89db5.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Grand_Budapest_Hotel.jpg",
       "director": "Wes Anderson",
       "spine": "1025"
     },
@@ -214,7 +214,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
       "director": "William Wyler",
       "spine": "974"
     },
@@ -251,13 +251,13 @@
     },
     {
       "title": "King of Jazz",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/60802441aeabbc35979ea8fa568c6147.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/King_of_Jazz.jpg",
       "director": "John Murray Anderson",
       "spine": "915"
     },
     {
       "title": "Klute",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b9ca137c526fb3245b44b6594527e705.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Klute.jpg",
       "director": "Alan J. Pakula",
       "spine": "987"
     },
@@ -288,7 +288,7 @@
     },
     {
       "title": "Mildred Pierce",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8e2521f96fcdac4e512ea8c4d3308994.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mildred_Pierce.jpg",
       "director": "Michael Curtiz",
       "spine": "860"
     },
@@ -325,7 +325,7 @@
     },
     {
       "title": "Now, Voyager",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4357f9de2682bffcb021d9229e0f716.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Now_Voyager.jpg",
       "director": "Irving Rapper",
       "spine": "1004"
     },
@@ -344,7 +344,7 @@
     },
     {
       "title": "The Philadelphia Story",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/07b2e46a5d8dedbac13be8828eab94fa.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Philadelphia_Story.jpg",
       "director": "George Cukor",
       "spine": "901"
     },
@@ -403,7 +403,7 @@
     },
     {
       "title": "Roma",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ff89982325c654bd1dc85cc36266c914.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Roma.jpg",
       "director": "Alfonso Cuarón",
       "spine": "1014"
     },
@@ -433,7 +433,7 @@
     },
     {
       "title": "Shanghai Express",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6874ae5f02a8a46a37138bb91ac0a643.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Shanghai_Express.jpg",
       "director": "Josef von Sternberg",
       "spine": "933"
     },
@@ -488,7 +488,7 @@
     },
     {
       "title": "Swing Time",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/65706fd3e49ee96eb1743cb8ff1f628c.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Swing_Time.jpg",
       "director": "George Stevens",
       "spine": "979"
     },
@@ -574,7 +574,7 @@
     },
     {
       "title": "War and Peace",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e896653ae3bb79ad5827bfd1ef6de6f8.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/War_and_Peace.jpg",
       "director": "Sergei Bondarchuk",
       "spine": "983"
     },

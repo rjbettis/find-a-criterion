@@ -120,7 +120,7 @@
     },
     {
       "title": "Daguerréotypes",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/48e3baad51363ffb0795d16ec908a35c.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Daguerr%C3%A9otypes.jpg",
       "director": "Agnès Varda",
       "spine": ""
     },
@@ -193,13 +193,13 @@
     },
     {
       "title": "The Gleaners and I",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/3fc37f8caaf35762fe27ad7010b7e774.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Gleaners_and_I.jpg",
       "director": "Agnès Varda",
       "spine": ""
     },
     {
       "title": "The Gleaners and I: Two Years Later",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/75ab2cb3e6d31015328ec421e4686785.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Gleaners_and_I_Two_Years_Later.jpg",
       "director": "Agnès Varda",
       "spine": ""
     },
@@ -362,7 +362,7 @@
     },
     {
       "title": "Paris Is Burning",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/02acc5e476bddab8ee522040ec02e3a6.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
       "spine": "1018"
     },
@@ -427,7 +427,7 @@
     },
     {
       "title": "Scorsese Shorts",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/319a076908c8cffa2e08f6c10d70477a.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Scorsese_Shorts.jpg",
       "director": "Martin Scorsese",
       "spine": "1030"
     },

@@ -398,7 +398,7 @@
     },
     {
       "title": "Night of the Living Dead",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/4486de241b94789f73b48aa365e72144.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Night_of_the_Living_Dead.jpg",
       "director": "George A. Romero",
       "spine": "909"
     },
@@ -410,7 +410,7 @@
     },
     {
       "title": "Paris Is Burning",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/61e2ee27d41ee47256cb58e980b4444e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
       "spine": "1018"
     },
@@ -564,17 +564,17 @@
       "director_url": "https://web.archive.org/web/20170812221755/https://www.criterion.com/films/757-the-two-of-us"
     },
     {
-      "title": "La vie de Jésus",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6ccd2c91829f5f07dce80f44d542a9ad.jpeg",
-      "director": "Bruno Dumont",
-      "spine": "980"
-    },
-    {
       "title": "Variety Lights",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5531-33bea2feecd661c0aaa07a60c117f436/Film_81w_VarietyLights_original.jpg",
       "image_url": "https://web.archive.org/web/20170812221755/https://www.criterion.com/films/620-variety-lights",
       "director": "Federico Fellini and Alberto Lattuada",
       "director_url": "https://web.archive.org/web/20170812221755/https://www.criterion.com/films/620-variety-lights"
+    },
+    {
+      "title": "La vie de Jésus",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/vie_de_J%C3%A9sus.jpg",
+      "director": "Bruno Dumont",
+      "spine": "980"
     },
     {
       "title": "The Virgin Suicides",

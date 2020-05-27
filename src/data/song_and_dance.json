@@ -41,7 +41,7 @@
     },
     {
       "title": "Dance, Girl, Dance",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f95f8cc862b4158e192382558ade8699.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dance_Girl_Dance.jpg",
       "director": "Dorothy Arzner",
       "spine": "1028"
     },
@@ -59,7 +59,7 @@
     },
     {
       "title": "Festival",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/26e1d7ae176f92e93312dbfeae5eecd4.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Festival.jpg",
       "director": "Murray Lerner",
       "spine": "892"
     },
@@ -90,7 +90,7 @@
     },
     {
       "title": "The Lure",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1582c456b49232a3fedbb822181fb40b.jpeg",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132439-b3a8b7079a0a9cd02871c706b843a0b2/Film_896_Lure_original.jpg",
       "director": "Agnieszka Smoczyńska",
       "spine": "896"
     },
@@ -114,7 +114,7 @@
     },
     {
       "title": "Monterey Pop",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/933a682fcea0eab68c5236dfa11453f4.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Monterey_Pop.jpg",
       "image_url": "https://web.archive.org/web/20170701020208/https://www.criterion.com/films/720-monterey-pop",
       "director": "D. A. Pennebaker",
       "director_url": "https://web.archive.org/web/20170701020208/https://www.criterion.com/films/720-monterey-pop"
@@ -196,7 +196,7 @@
     },
     {
       "title": "The Young Girls of Rochefort",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/f1f050433035ae4cc6696b645d865669.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Young_Girls_of_Rochefort.jpg",
       "director": "Jacques Demy",
       "spine": "717"
     }

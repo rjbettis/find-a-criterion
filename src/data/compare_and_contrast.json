@@ -32,7 +32,7 @@
     },
     {
       "title": "Carnival of Souls",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/6c11fca0bb0ae648c009a3b7f99675dc.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Carnival_of_Souls.jpg",
       "spine": ""
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "title": "Jour de fête",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/80fd4e5aa69a2032fc1b27a5d7eaaba0.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Jour_de_f%C3%AAte.jpg",
       "director": "Jacques Tati",
       "spine": ""
     },
@@ -179,13 +179,13 @@
     },
     {
       "title": "Mon oncle",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d975e8790d6409d334363758ad87825b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mon_oncle.jpg",
       "director": "Jacques Tati",
       "spine": ""
     },
     {
       "title": "Monsieur Hulot’s Holiday",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/2cce64318e69bd8f415fe72f9b012f85.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Monsieur_Hulots_Holiday.jpg",
       "director": "Jacques Tati",
       "spine": ""
     },
@@ -203,7 +203,7 @@
     },
     {
       "title": "The New World",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/The_New_World.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/New_World.jpg",
       "director": "Terrence Malick",
       "spine": "826"
     },
@@ -227,13 +227,13 @@
     },
     {
       "title": "Othello",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/793cebe199f5bad2a8312705df69d454.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Othello.jpg",
       "director": "Orson Welles",
       "spine": "870"
     },
     {
       "title": "Parade",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/12526f9d1e54d8b72b525a0891bcacd9.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Parade.jpg",
       "director": "Jacques Tati",
       "spine": ""
     },
@@ -245,7 +245,7 @@
     },
     {
       "title": "The Philadelphia Story",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/28a2d0ae40e7c55af8fb50179fc3266a.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Philadelphia_Story.jpg",
       "director": "George Cukor",
       "spine": "901"
     },
@@ -334,7 +334,7 @@
     },
     {
       "title": "Trafic",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/01d224c170c627819466d7ced2b146db.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Trafic.jpg",
       "director": "Jacques Tati",
       "spine": ""
     },

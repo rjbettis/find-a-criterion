@@ -2,7 +2,7 @@
   "SilentComedies": [
     {
       "title": "The Circus",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e461dd0bfba4c4a4af25c8d4b0127876.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Circus.jpg",
       "director": "Charles Chaplin",
       "spine": "996"
     },
@@ -32,7 +32,7 @@
     },
     {
       "title": "The Kid Brother",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/64ca34ab4af7acc2922c3dbd2e42b7c5.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Kid_Brother.jpg",
       "director": "Ted Wilde",
       "spine": "964"
     },
@@ -44,7 +44,7 @@
     },
     {
       "title": "Safety Last!",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/86421a1943f0e6cf2f9729bccc5cc2c5.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Safety_Last.jpg",
       "director": "Fred Newmeyer…",
       "spine": "662"
     },

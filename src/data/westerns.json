@@ -20,13 +20,13 @@
     },
     {
       "title": "Destry Rides Again",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1a402370367c78a5a79b297cbaf6a0b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Destry_Rides_Again.jpg",
       "director": "George Marshall",
       "spine": "1024"
     },
     {
       "title": "Forty Guns",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c09dcc5f2a3ee9fae67a8639aa62ea64.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Forty_Guns.jpg",
       "director": "Samuel Fuller",
       "spine": "954"
     },
@@ -57,7 +57,7 @@
     },
     {
       "title": "McCabe & Mrs. Miller",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/McCabe_and_Mrs_Miller.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/McCabe_and_Mrs_Miller.jpg",
       "director": "Robert Altman",
       "spine": "827"
     },

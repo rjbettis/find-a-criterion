@@ -161,7 +161,7 @@
     },
     {
       "title": "The Magnificent Ambersons",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a633d0a0c2ff0b8dd72904b83b719447.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Magnificent_Ambersons.jpg",
       "director": "Orson Welles",
       "spine": "952"
     },
@@ -205,7 +205,7 @@
     },
     {
       "title": "Roma",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ff89982325c654bd1dc85cc36266c914.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Roma.jpg",
       "director": "Alfonso Cuarón",
       "spine": "1014"
     },

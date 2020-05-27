@@ -38,7 +38,7 @@
     },
     {
       "title": "Cold War",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/946b57e1266b9dda44f9faac634a59b9.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Cold_War.jpg",
       "director": "Paweł Pawlikowski",
       "spine": "1005"
     },
@@ -50,7 +50,7 @@
     },
     {
       "title": "Death in Venice",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9e9f38a90105940702401f90362d1bf2.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Death_in_Venice.jpg",
       "director": "Luchino Visconti",
       "spine": "962"
     },
@@ -80,7 +80,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
       "director": "William Wyler",
       "spine": "974"
     },

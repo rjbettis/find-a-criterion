@@ -8,7 +8,7 @@
     },
     {
       "title": "The Age of Innocence",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bbd6058918ce7db8df5d81343ddc0f41.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Age_of_Innocence.jpg",
       "director": "Martin Scorsese",
       "spine": "913"
     },
@@ -62,7 +62,7 @@
     },
     {
       "title": "The Breaking Point",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c7922e6dbe3ffcaee3ffc4305baa84fb.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Breaking_Point.jpg",
       "director": "Michael Curtiz",
       "spine": "889"
     },
@@ -87,7 +87,7 @@
     },
     {
       "title": "Death in Venice",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ab351d2cfc3dc2097fc64300ccb598a6.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Death_in_Venice.jpg",
       "director": "Luchino Visconti",
       "spine": "962"
     },
@@ -99,7 +99,7 @@
     },
     {
       "title": "Election",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1595296be5ccfe35885e6c9fadc67684.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Election.jpg",
       "director": "Alexander Payne",
       "spine": "904"
     },
@@ -166,7 +166,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
       "director": "William Wyler",
       "spine": "974"
     },
@@ -241,7 +241,7 @@
     },
     {
       "title": "The Magnificent Ambersons",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Magnificent_Ambersons.png",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Magnificent_Ambersons.jpg",
       "director": "Orson Welles",
       "spine": "952"
     },
@@ -432,7 +432,7 @@
     },
     {
       "title": "Stalker",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/781d52992eb75372a93c3d774054a89a.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Stalker.jpg",
       "director": "Andrei Tarkovsky",
       "spine": "888"
     },
@@ -506,7 +506,7 @@
     },
     {
       "title": "War and Peace",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e896653ae3bb79ad5827bfd1ef6de6f8.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/War_and_Peace.jpg",
       "director": "Sergei Bondarchuk",
       "spine": "983"
     },

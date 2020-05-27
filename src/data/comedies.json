@@ -104,7 +104,7 @@
     },
     {
       "title": "The Circus",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e461dd0bfba4c4a4af25c8d4b0127876.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Circus.jpg",
       "director": "Charles Chaplin",
       "spine": "996"
     },
@@ -116,7 +116,7 @@
     },
     {
       "title": "Cluny Brown",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/da07011e8bec9b3ff25396c2d88b7202.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Cluny_Brown.jpg",
       "director": "Ernst Lubitsch",
       "spine": "997"
     },
@@ -152,7 +152,7 @@
     },
     {
       "title": "Destry Rides Again",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a1a402370367c78a5a79b297cbaf6a0b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Destry_Rides_Again.jpg",
       "director": "George Marshall",
       "spine": "1024"
     },
@@ -254,7 +254,7 @@
     },
     {
       "title": "The Grand Budapest Hotel",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9460a27e0dbf4e312588f920eff89db5.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Grand_Budapest_Hotel.jpg",
       "director": "Wes Anderson",
       "spine": "1025"
     },
@@ -283,12 +283,6 @@
       "spine": "544"
     },
     {
-      "title": "Here Comes Mr. Jordan",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132358-fd1ffdbf115ca9582bcfad9fc6bf57aa/Film_819_HereComesMrJordan_original.jpg",
-      "director": "Alexander Hall+",
-      "spine": "544"
-    },
-    {
       "title": "Heaven Can Wait",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6769-a404b77b132f46cf1045d3fda0c178e5/Film_291w_HeavenCanWait_original.jpg",
       "director": "Ernst Lubitsch",
@@ -296,7 +290,7 @@
     },
     {
       "title": "Here Comes Mr. Jordan",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/276f5093ee893998e7fc380000714a72.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Here_Comes_Mr_Jordan.jpg",
       "director": "Alexander Hall",
       "spine": "819"
     },
@@ -380,7 +374,7 @@
     },
     {
       "title": "The Kid Brother",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/64ca34ab4af7acc2922c3dbd2e42b7c5.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Kid_Brother.jpg",
       "director": "Ted Wilde",
       "spine": "964"
     },
@@ -476,7 +470,7 @@
     },
     {
       "title": "Mon oncle",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d975e8790d6409d334363758ad87825b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mon_oncle.jpg",
       "director": "Jacques Tati",
       "spine": "111"
     },
@@ -488,7 +482,7 @@
     },
     {
       "title": "Monsieur Verdoux",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/50a6fd1d797ebca7650cadda1c6c7cec.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Monsieur_Verdoux.jpg",
       "director": "Charles Chaplin",
       "spine": "652"
     },

@@ -2,7 +2,7 @@
   "Melodrama": [
     {
       "title": "An Actor’s Revenge",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/395391148b3e706fbd9d98df4bb82b1b.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Actors_Revenge.jpeg",
       "director": "Kon Ichikawa",
       "spine": "912"
     },
@@ -14,7 +14,7 @@
     },
     {
       "title": "All About My Mother",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c0f22575fc51319b15abf9b126966fe7.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_My_Mother.jpg",
       "director": "Pedro Almodóvar",
       "spine": "1012"
     },
@@ -39,13 +39,13 @@
     },
     {
       "title": "The Bitter Tears of Petra von Kant",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/c8385b402c635080eafd103edc53b709.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Bitter_Tears_of_Petra_von_Kant.jpg",
       "director": "Rainer Werner Fassbinder",
       "spine": "740"
     },
     {
       "title": "Blue Velvet",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/bb8f5221b0e131086a47755753b58db2.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
       "director": "David Lynch",
       "spine": "977"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "The Cloud-Capped Star",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ac1f749d8300115c9080d1b6f1ce953e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Cloud-Capped_Star.jpg",
       "director": "Ritwik Ghatak",
       "spine": "993"
     },
@@ -82,7 +82,7 @@
     },
     {
       "title": "Eight Hours Don’t Make a Day",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e87267c36ca99cec0a25c4379ba3aeeb.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Eight_Hours_Dont_Make_a_Day.jpg",
       "director": "Rainer Werner Fassbinder",
       "spine": "946"
     },
@@ -100,7 +100,7 @@
     },
     {
       "title": "In a Lonely Place",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/e7e84e9f1786861d5b30cb1e09a07347.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/In_a_Lonely_Place.jpg",
       "director": "Nicholas Ray",
       "spine": "810"
     },
@@ -152,7 +152,7 @@
     },
     {
       "title": "Mildred Pierce",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8e2521f96fcdac4e512ea8c4d3308994.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mildred_Pierce.jpg",
       "director": "Michael Curtiz",
       "spine": "860"
     },
@@ -178,7 +178,7 @@
     },
     {
       "title": "Now, Voyager",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4357f9de2682bffcb021d9229e0f716.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Now_Voyager.jpg",
       "director": "Irving Rapper",
       "spine": "1004"
     },
@@ -196,19 +196,19 @@
     },
     {
       "title": "A Story from Chikamatsu",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9c37a2653c624ae82f0e60e4f3c28c7e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_from_Chikamatsu.jpg",
       "director": "Kenji Mizoguchi",
       "spine": "949"
     },
     {
       "title": "The Story of Temple Drake",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e5d1834ac3dc4cbd35e79622b03c15c7.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_of_Temple_Drake.jpg",
       "director": "Stephen Roberts",
       "spine": "1006"
     },
     {
       "title": "The Story of the Last Chrysanthemum",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/368a9508a997d4365bf0bc402e02324d.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_of_the_Last_Chrysanthemum.jpg",
       "director": "Kenji Mizoguchi",
       "spine": "832"
     },

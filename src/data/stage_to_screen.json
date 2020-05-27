@@ -141,7 +141,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/ca14e3cea9bb8ff1e48d7514dfeefbcf.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
       "director": "William Wyler",
       "spine": "974"
     },
@@ -204,7 +204,7 @@
     },
     {
       "title": "Marius",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/6b7b126bd4fc21e0910a15abf5f08394.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Marius.jpg",
       "director": "Alexander Korda",
       "spine": "882"
     },
@@ -246,7 +246,7 @@
     },
     {
       "title": "The Philadelphia Story",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/07b2e46a5d8dedbac13be8828eab94fa.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Philadelphia_Story.jpg",
       "director": "George Cukor",
       "spine": "901"
     },
@@ -284,7 +284,7 @@
     },
     {
       "title": "A Story from Chikamatsu",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/9c37a2653c624ae82f0e60e4f3c28c7e.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_from_Chikamatsu.jpg",
       "director": "Kenji Mizoguchi",
       "spine": "949"
     },
