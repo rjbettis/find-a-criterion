@@ -4,198 +4,220 @@
       "title": "Andrei Rublev",
       "image": "https://s3.amazonaws.com/criterion-production/stills/3402-30e458fb88987efa997ee688419a34a8/P_original.jpg",
       "director": "Andrei Tarkovsky",
-      "spine": "34"
+      "criterionUrl": "https://www.criterion.com/films/300-andrei-rublev",
+      "directorLink": ""
     },
     {
       "title": "Androcles and the Lion",
       "image": "https://s3.amazonaws.com/criterion-production/stills/51975-930de8a6d4fa87d85f0587e6b92a0988/Shaw_box_film_Andronocles_original.jpg",
-      "image_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/6225-androcles-and-the-lion",
-      "director": "Chester Erskine",
-      "director_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/6225-androcles-and-the-lion"
+      "criterionUrl": "https://www.criterion.com/films/6225-androcles-and-the-lion",
+      "director": "Chester Erskine"
     },
     {
       "title": "Au hasard Balthazar",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132109-e5f697b6ea822a3b41660e2cdb6b0308/Au_hasard_Balthazar_Film_original.jpg",
       "director": "Robert Bresson",
-      "spine": "297"
+      "criterionUrl": "https://www.criterion.com/films/455-au-hasard-balthazar",
+      "directorLink": ""
     },
     {
       "title": "Babette’s Feast",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132136-7cf9cbe634a809ebc8427f9f05aa3a39/Film_665w_BabettesFeast_original.jpg",
       "director": "Gabriel Axel",
-      "spine": "665"
+      "criterionUrl": "https://www.criterion.com/films/27894-babette-s-feast",
+      "directorLink": ""
     },
     {
       "title": "Before the Rain",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6387-576e10d767572df40fd9a0bd884fcd49/Film_436w_BeforeRain_original.jpg",
       "director": "Milcho Manchevski",
-      "spine": "436"
+      "criterionUrl": "https://www.criterion.com/films/858-before-the-rain",
+      "directorLink": ""
     },
     {
       "title": "Black Narcissus",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130649-e19d5bf2a7de578348700be2beccbdb5/Film_93w_BlackNarcissusC_original.jpg",
       "director": "Michael Powell and Emeric Pressburger",
-      "spine": "93"
+      "criterionUrl": "https://www.criterion.com/films/632-black-narcissus",
+      "directorLink": ""
     },
     {
       "title": "Blaise Pascal",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9087-15e5473c418d188845475cb310bdc656/BlaisePascal_1w_original.jpg",
-      "image_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/1027-blaise-pascal",
-      "director": "Roberto Rossellini",
-      "director_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/1027-blaise-pascal"
+      "criterionUrl": "https://www.criterion.com/films/1027-blaise-pascal",
+      "director": "Roberto Rossellini"
     },
     {
       "title": "Breaking the Waves",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132226-72809d92c1f71ee13dc7d4c85d3ca24b/Film_705w_BreakingWaves_original.jpg",
       "director": "Lars von Trier",
-      "spine": "705"
+      "criterionUrl": "https://www.criterion.com/films/28350-breaking-the-waves",
+      "directorLink": ""
     },
     {
       "title": "Day of Wrath",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132133-4c21f936ce8dce08af5cf4b4482c51ea/Film_125w_DayOfWrath_original.jpg",
       "director": "Carl Th. Dreyer",
-      "spine": "125"
+      "criterionUrl": "https://www.criterion.com/films/442-day-of-wrath",
+      "directorLink": ""
     },
     {
       "title": "Dekalog",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132376-93b3f0e31662cf9b4af6ca69e72bfa25/Film_837_Dekalog_original.jpg",
       "director": "Krzysztof Kieślowski",
-      "spine": "837"
+      "criterionUrl": "https://www.criterion.com/films/28661-dekalog",
+      "directorLink": ""
     },
     {
       "title": "Diary of a Country Priest",
       "image": "https://s3.amazonaws.com/criterion-production/stills/4695-c7629310b9f89a623df9f49f1f883efb/Film_222w_DiaryCountyPriest_original.jpg",
-      "image_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/452-diary-of-a-country-priest",
-      "director": "Robert Bresson",
-      "director_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/452-diary-of-a-country-priest"
+      "criterionUrl": "https://www.criterion.com/films/452-diary-of-a-country-priest",
+      "director": "Robert Bresson"
     },
     {
       "title": "Fanny and Alexander: Theatrical Version",
       "image": "https://s3.amazonaws.com/criterion-production/stills/57991-a60baf0ef0310b42e733b18451219754/FANNY_ALEXANDER_xmas_filmstill_2_original.jpg",
       "director": "Ingmar Bergman",
-      "spine": "263"
+      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version",
+      "directorLink": ""
     },
     {
       "title": "The Flowers of St. Francis",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6785-e54f7fc637ee856a449fd0d8b523e25c/Film_293w_FlowersFrancis_original.jpg",
       "director": "Roberto Rossellini",
-      "spine": "293"
+      "criterionUrl": "https://www.criterion.com/films/874-the-flowers-of-st-francis",
+      "directorLink": ""
     },
     {
       "title": "Häxan",
       "image": "https://s3.amazonaws.com/criterion-production/stills/8469-bdf01bacb7a00d6a750dfa17f2d9cc10/Film_134w_Haxan_original.jpg",
       "director": "Benjamin Christensen",
-      "spine": "134"
+      "criterionUrl": "https://www.criterion.com/films/352-h-xan",
+      "directorLink": ""
     },
     {
       "title": "The King of Kings",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6627-4eb6501cfe548e275754d0bd5b9c8923/Film_266w_KingOfKings_original.jpg",
       "director": "Cecil B. DeMille",
-      "spine": "266"
+      "criterionUrl": "https://www.criterion.com/films/949-the-king-of-kings",
+      "directorLink": ""
     },
     {
       "title": "The Last Temptation of Christ",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131609-b72e1fa42db5da887cc1988edc1d676b/Film_70w_LastTemptation_original.jpg",
       "director": "Martin Scorsese",
-      "spine": "70"
+      "criterionUrl": "https://www.criterion.com/films/612-the-last-temptation-of-christ",
+      "directorLink": ""
     },
     {
       "title": "Major Barbara",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129801-bcbe2d776a801c80c430ab192a6fe066/Shaw_box_film_MajorB_original.jpg",
-      "image_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/9904-major-barbara",
-      "director": "Gabriel Pascal",
-      "director_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/9904-major-barbara"
+      "criterionUrl": "https://www.criterion.com/films/9904-major-barbara",
+      "director": "Gabriel Pascal"
     },
     {
       "title": "The Milky Way",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7501-99a94f4b52b1023ac3623635f8527a4e/Film_402w_MilkyWay_original.jpg",
-      "image_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/832-the-milky-way",
-      "director": "Luis Buñuel",
-      "director_url": "https://web.archive.org/web/20170624162233/https://www.criterion.com/films/832-the-milky-way"
+      "criterionUrl": "https://www.criterion.com/films/832-the-milky-way",
+      "director": "Luis Buñuel"
     },
     {
       "title": "Ordet",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10447-49d18912262993b7aac2b9a2e69a48e3/ordet_w_original.jpg",
       "director": "Carl Th. Dreyer",
-      "spine": "126"
+      "criterionUrl": "https://www.criterion.com/films/441-ordet",
+      "directorLink": ""
     },
     {
       "title": "The Passion of Joan of Arc",
       "image": "https://s3.amazonaws.com/criterion-production/stills/2888-630f58b83c3cfff9712e710431249ef5/P_original.jpg",
       "director": "Carl Th. Dreyer",
-      "spine": "62"
+      "criterionUrl": "https://www.criterion.com/films/228-the-passion-of-joan-of-arc",
+      "directorLink": ""
     },
     {
       "title": "The River",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10505-018c2090501507160aac2e8a18f1e90f/Film_276w_River_original.jpg",
       "director": "Jean Renoir",
-      "spine": "276"
+      "criterionUrl": "https://www.criterion.com/films/679-the-river",
+      "directorLink": ""
     },
     {
       "title": "The Ruling Class",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10311-a6ded05872e468b8eb087af32e1ae98b/RULING-CLASS-007_original.jpg",
       "director": "Peter Medak",
-      "spine": "132"
+      "criterionUrl": "https://www.criterion.com/films/678-the-ruling-class",
+      "directorLink": ""
     },
     {
       "title": "Secret Sunshine",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131153-af1934c72639fa0365ef69191c6ee73b/Film_576w_SecretSunshine_original.jpg",
       "director": "Lee Chang-dong",
-      "spine": "576"
+      "criterionUrl": "https://www.criterion.com/films/27750-secret-sunshine",
+      "directorLink": ""
     },
     {
       "title": "Simon of the Desert",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10609-e54588c2b68c8a6467e735fd33e75065/simon_w_original.jpg",
       "director": "Luis Buñuel",
-      "spine": "460"
+      "criterionUrl": "https://www.criterion.com/films/1077-simon-of-the-desert",
+      "directorLink": ""
     },
     {
       "title": "Stalker",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132428-2f48cce66d41c9b9c3cbc3d3a7be1fe2/Film_888_Stalker_original.jpg",
       "director": "Andrei Tarkovsky",
-      "spine": "888"
+      "criterionUrl": "https://www.criterion.com/films/28150-stalker",
+      "directorLink": ""
     },
     {
       "title": "Teorema",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/13f12c502b9b3a78a32f609eacccbec7.jpeg",
       "director": "Pier Paolo Pasolini",
-      "spine": "1013"
+      "criterionUrl": "https://www.criterion.com/films/28660-teorema",
+      "directorLink": ""
     },
     {
       "title": "Through a Glass Darkly",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6483-4245f4d3c3792aa1a6736eedf3493466/Film_209w_ThroughGlass_original.jpg",
       "director": "Ingmar Bergman",
-      "spine": "209"
+      "criterionUrl": "https://www.criterion.com/films/568-through-a-glass-darkly",
+      "directorLink": ""
     },
     {
       "title": "The Virgin Spring",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129769-9c1dbe3897e67ce929f6864cc4d37a81/Film_321w_VirginSpring_original.jpg",
       "director": "Ingmar Bergman",
-      "spine": "321"
+      "criterionUrl": "https://www.criterion.com/films/372-the-virgin-spring",
+      "directorLink": ""
     },
     {
       "title": "Viridiana",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129857-953051f7ba7e721a2146632e300167b4/P-VIRIDIANA_original.jpg",
       "director": "Luis Buñuel",
-      "spine": "332"
+      "criterionUrl": "https://www.criterion.com/films/373-viridiana",
+      "directorLink": ""
     },
     {
       "title": "Wings of Desire",
       "image": "https://s3.amazonaws.com/criterion-production/stills/34676-9821ceac4831c39d0adf723c46bf2ebb/Film_490w_WingsDesire_original.jpg",
       "director": "Wim Wenders",
-      "spine": "490"
+      "criterionUrl": "https://www.criterion.com/films/200-wings-of-desire",
+      "directorLink": ""
     },
     {
       "title": "Winter Light",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6491-9464b6b208ccc03f704062f3c623fa14/Film_210w_WinterLight_original.jpg",
       "director": "Ingmar Bergman",
-      "spine": "210"
+      "criterionUrl": "https://www.criterion.com/films/569-winter-light",
+      "directorLink": ""
     },
     {
       "title": "Wise Blood",
       "image": "https://s3.amazonaws.com/criterion-production/stills/13483-24b44f7a38c4a3470014ea7905f1914d/470_Film_original.jpg",
       "director": "John Huston",
-      "spine": "470"
+      "criterionUrl": "https://www.criterion.com/films/1424-wise-blood",
+      "directorLink": ""
     }
   ]
 }

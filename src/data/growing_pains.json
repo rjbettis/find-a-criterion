@@ -4,425 +4,484 @@
       "title": "The 400 Blows",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130473-32d6b5e7a721ba3f04d11e9dc8ac0995/Film_05w_400Blows_A_original.jpg",
       "director": "François Truffaut",
-      "spine": "5"
+      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows",
+      "directorLink": ""
     },
     {
       "title": "Aparajito",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132320-c7a2e71e08165244169e25c862b82b77/Film_784_Aparajito_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/28443-aparajito",
+      "criterionUrl": "https://www.criterion.com/films/28443-aparajito",
       "director": "Satyajit Ray",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/28443-aparajito"
+      "director_url": "https://www.criterion.com/films/28443-aparajito"
     },
     {
       "title": "Au revoir les enfants",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5111-cfde6effa80009e49f3a59bfa692bc1c/AuRevoirEnfants_original.jpg",
       "director": "Louis Malle",
-      "spine": "330"
+      "criterionUrl": "https://www.criterion.com/films/549-au-revoir-les-enfants",
+      "directorLink": ""
     },
     {
       "title": "Bicycle Thieves",
       "image": "https://s3.amazonaws.com/criterion-production/stills/2694-e6f8fe40fe6ec9544b50c22f3f212120/P_original.jpg",
       "director": "Vittorio De Sica",
-      "spine": "374"
+      "criterionUrl": "https://www.criterion.com/films/210-bicycle-thieves",
+      "directorLink": ""
     },
     {
       "title": "Blue Is the Warmest Color",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132215-ce0ff40b7536c12bc8769f024a6efe52/Film_695_BlueIsWarmestColor_original.jpg",
       "director": "Abdellatif Kechiche",
-      "spine": "695"
+      "criterionUrl": "https://www.criterion.com/films/28603-blue-is-the-warmest-color",
+      "directorLink": ""
     },
     {
       "title": "Boyhood",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132344-c837ccb6a1be57f49f0a2bcc0cdac8e4/Film_806_Boyhood_original.jpg",
       "director": "Richard Linklater",
-      "spine": "839"
+      "criterionUrl": "https://www.criterion.com/films/28820-boyhood",
+      "directorLink": ""
     },
     {
       "title": "Brand upon the Brain!",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10383-3ad667756902800ec441c7e8a66aebd6/Brand_w_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/746-brand-upon-the-brain",
+      "criterionUrl": "https://www.criterion.com/films/746-brand-upon-the-brain",
       "director": "Guy Maddin",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/746-brand-upon-the-brain"
+      "director_url": "https://www.criterion.com/films/746-brand-upon-the-brain"
     },
     {
       "title": "The Breakfast Club",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/baf24a5f2d9a3f50d141fcafc3a91def.jpeg",
       "director": "John Hughes",
-      "spine": "905"
+      "criterionUrl": "https://www.criterion.com/films/29272-the-breakfast-club",
+      "directorLink": ""
     },
     {
       "title": "A Brighter Summer Day",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132341-a152fbd320d8b89ee96b51a30c0c1858/Film_804_BrighterSummerDay_original.jpg",
       "director": "Edward Yang",
-      "spine": "804"
+      "criterionUrl": "https://www.criterion.com/films/28596-a-brighter-summer-day",
+      "directorLink": ""
     },
     {
       "title": "The Children Are Watching Us",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6047-d7569555c37e04d3a9b9c9677fd628ed/Film_323w_ChildrenWatchingUs_original.jpg",
       "director": "Vittorio De Sica",
-      "spine": "323"
+      "criterionUrl": "https://www.criterion.com/films/772-the-children-are-watching-us",
+      "directorLink": ""
     },
     {
       "title": "Closely Watched Trains",
       "image": "https://s3.amazonaws.com/criterion-production/stills/2734-858b383cef6e3228e07df2f2b0e1a088/P_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/212-closely-watched-trains",
+      "criterionUrl": "https://www.criterion.com/films/212-closely-watched-trains",
       "director": "Jiří Menzel",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/212-closely-watched-trains"
+      "director_url": "https://www.criterion.com/films/212-closely-watched-trains"
     },
     {
       "title": "Cold Water",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/e6be665e10294b71e1a5c19fd1cb754c.jpeg",
       "director": "Olivier Assayas",
-      "spine": "944"
+      "criterionUrl": "https://www.criterion.com/films/29385-cold-water",
+      "directorLink": ""
     },
     {
       "title": "Come On Children",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129649-64fbe9e9e0d0a236323c44788608db1e/King_Filmw_ComeOnChildren_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27516-come-on-children",
+      "criterionUrl": "https://www.criterion.com/films/27516-come-on-children",
       "director": "Allan King",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27516-come-on-children"
+      "director_url": "https://www.criterion.com/films/27516-come-on-children"
     },
     {
-      "title": "Cría cuervos . . .",
+      "title": "Cría cuervos...",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132005-1227dedb298711bf425ef22bc80ecf2a/Film_403w_CriaCuervos_x_original.jpg",
       "director": "Carlos Saura",
-      "spine": "403"
+      "criterionUrl": "https://www.criterion.com/films/519-cr-a-cuervos",
+      "directorLink": ""
     },
     {
       "title": "Dazed and Confused",
       "image": "https://s3.amazonaws.com/criterion-production/stills/3596-50d14ecc0419369b997df9d92f006fbd/P2_original.jpg",
       "director": "Richard Linklater",
-      "spine": "336"
+      "criterionUrl": "https://www.criterion.com/films/314-dazed-and-confused",
+      "directorLink": ""
     },
     {
       "title": "The Fallen Idol",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10705-05b7fcabb801f12a370b8f660ea41303/Fallen_w_cleaned_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/346-the-fallen-idol",
+      "criterionUrl": "https://www.criterion.com/films/346-the-fallen-idol",
       "director": "Carol Reed",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/346-the-fallen-idol"
+      "director_url": "https://www.criterion.com/films/346-the-fallen-idol"
     },
     {
       "title": "Fanny and Alexander: Theatrical Version",
       "image": "https://s3.amazonaws.com/criterion-production/stills/57991-a60baf0ef0310b42e733b18451219754/FANNY_ALEXANDER_xmas_filmstill_2_original.jpg",
       "director": "Ingmar Bergman",
-      "spine": "263"
+      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version",
+      "directorLink": ""
     },
     {
       "title": "Fat Girl",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130825-a1c7823687a351915107a7ef91cedca7/Film_259w_FatGirl_original.jpg",
       "director": "Catherine Breillat",
-      "spine": "259"
+      "criterionUrl": "https://www.criterion.com/films/548-fat-girl",
+      "directorLink": ""
     },
     {
       "title": "Fighting Elegy",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9807-7533ef74a88c500225d988793ebd7f90/FightinElegyw_original.jpg",
       "director": "Seijun Suzuki",
-      "spine": "269"
+      "criterionUrl": "https://www.criterion.com/films/945-fighting-elegy",
+      "directorLink": ""
     },
     {
       "title": "Fish Tank",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130449-7d9729dc4cc094e4004d8621ab447890/Film_553w_FishTank_original.jpg",
       "director": "Andrea Arnold",
-      "spine": "553"
+      "criterionUrl": "https://www.criterion.com/films/27541-fish-tank",
+      "directorLink": ""
     },
     {
       "title": "Forbidden Games",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10183-2925ca82732da79ddce9c61e7e4d5ce4/Forbidden-Games_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/350-forbidden-games",
+      "criterionUrl": "https://www.criterion.com/films/350-forbidden-games",
       "director": "René Clément",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/350-forbidden-games"
+      "director_url": "https://www.criterion.com/films/350-forbidden-games"
     },
     {
       "title": "The Forgiveness of Blood",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132012-4ac3e33a121d4e4d1e0e293175121ac7/Film_628w_ForgivenessBlood_original.jpg",
       "director": "Joshua Marston",
-      "spine": "628"
+      "criterionUrl": "https://www.criterion.com/films/28379-the-forgiveness-of-blood",
+      "directorLink": ""
     },
     {
       "title": "A Generation",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6719-768317a4e2b870eaf9d6abf2661d32ce/Film_283w_Generation_original.jpg",
       "director": "Andrzej Wajda",
-      "spine": "283"
+      "criterionUrl": "https://www.criterion.com/films/921-a-generation",
+      "directorLink": ""
     },
     {
       "title": "George Washington",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9709-ec49ee86aecd5db3503a16091be70a97/GeorgeWashigntonw_original.jpg",
       "director": "David Gordon Green",
-      "spine": "152"
+      "criterionUrl": "https://www.criterion.com/films/691-george-washington",
+      "directorLink": ""
     },
     {
       "title": "Germany Year Zero",
       "image": "https://s3.amazonaws.com/criterion-production/stills/47935-c43fda766423277692c8249da8504cab/Film_499w_GermanyYearZero_original.jpg",
       "director": "Roberto Rossellini",
-      "spine": "499"
+      "criterionUrl": "https://www.criterion.com/films/297-germany-year-zero",
+      "directorLink": ""
     },
     {
       "title": "Ghost World",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/edbbba99dd572feacca115f132a789af.jpeg",
       "director": "Terry Zwigoff",
-      "spine": "872"
+      "criterionUrl": "https://www.criterion.com/films/28687-ghost-world",
+      "directorLink": ""
     },
     {
       "title": "Good Morning",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Good_Morning.jpg",
       "director": "Yasujiro Ozu",
-      "spine": "84"
+      "criterionUrl": "https://www.criterion.com/films/624-good-morning",
+      "directorLink": ""
     },
     {
       "title": "Great Expectations",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129881-07cec7913565e8df8a5d89e1065a04e1/Film_31w_GreatExpectations_bw_new_original.jpg",
       "director": "David Lean",
-      "spine": "31"
+      "criterionUrl": "https://www.criterion.com/films/566-great-expectations",
+      "directorLink": ""
     },
     {
       "title": "Harold and Maude",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131849-8196733720405f4d1f36f66768ac69db/Film_608w_HaroldAndMaude_original.jpg",
       "director": "Hal Ashby",
-      "spine": "608"
+      "criterionUrl": "https://www.criterion.com/films/27896-harold-and-maude",
+      "directorLink": ""
     },
     {
       "title": "Here Is Your Life",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132296-c4c59661d20a4d2a53f93503152efb56/Film_766_HereIsYourLife_original.jpg",
       "director": "Jan Troell",
-      "spine": "766"
+      "criterionUrl": "https://www.criterion.com/films/28552-here-is-your-life",
+      "directorLink": ""
     },
     {
       "title": "Hoop Dreams",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6753-3129295a97c7a7307e8fb6bd968fa135/Film_289w_HoopDreams_original.jpg",
       "director": "Steve James",
-      "spine": "289"
+      "criterionUrl": "https://www.criterion.com/films/906-hoop-dreams",
+      "directorLink": ""
     },
     {
       "title": "The Ice Storm",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5735-1060eba32a6a7df48ee7166cd26f0ef7/Film_426w_IceStorm_original.jpg",
       "director": "Ang Lee",
-      "spine": "426"
+      "criterionUrl": "https://www.criterion.com/films/336-the-ice-storm",
+      "directorLink": ""
     },
     {
       "title": "If....",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7557-f9240c6837bc576d73366c0642d935c4/Film_391w_If_original.jpg",
       "director": "Lindsay Anderson",
-      "spine": "391"
+      "criterionUrl": "https://www.criterion.com/films/825-if",
+      "directorLink": ""
     },
     {
       "title": "Ivan’s Childhood",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7517-321092def482c86e44286741350d378d/Film_397w_IvansChildhood_original.jpg",
       "director": "Andrei Tarkovsky",
-      "spine": "397"
+      "criterionUrl": "https://www.criterion.com/films/830-ivan-s-childhood",
+      "directorLink": ""
     },
     {
       "title": "Kes",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130785-e47df9bafe2ac5ad4edd1a70328028af/Film_561w_Kes_original.jpg",
       "director": "Ken Loach",
-      "spine": "561"
+      "criterionUrl": "https://www.criterion.com/films/27560-kes",
+      "directorLink": ""
     },
     {
       "title": "King of the Hill",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132218-a0efb7ce16a3ab20c869e2a31dbe7135/Film_698w_KingOfTheHill_original.jpg",
       "director": "Steven Soderbergh",
-      "spine": "698"
+      "criterionUrl": "https://www.criterion.com/films/27965-king-of-the-hill",
+      "directorLink": ""
     },
     {
       "title": "L’enfance nue",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129601-d14d802e94b61aba4a02b8d4b956edba/Film_534w_Lenfance_original.jpg",
       "director": "Maurice Pialat",
-      "spine": "534"
+      "criterionUrl": "https://www.criterion.com/films/2337-l-enfance-nue",
+      "directorLink": ""
     },
     {
       "title": "Lacombe, Lucien",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132065-be001b038627819ff53b6b3e1a5c005c/Film_329w_LacombeLucien_original.jpg",
       "director": "Louis Malle",
-      "spine": "329"
+      "criterionUrl": "https://www.criterion.com/films/776-lacombe-lucien",
+      "directorLink": ""
     },
     {
       "title": "The Last Picture Show",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130321-d596960e0ddcfdf220a0a2605c713f14/Film_549w_LastPicture_original.jpg",
       "director": "Peter Bogdanovich",
-      "spine": "549"
+      "criterionUrl": "https://www.criterion.com/films/27533-the-last-picture-show",
+      "directorLink": ""
     },
     {
       "title": "The Long Day Closes",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132213-ded979b004565ed61507779c9a5e229b/Film_694w_LongDayCloses_original.jpg",
       "director": "Terence Davies",
-      "spine": "694"
+      "criterionUrl": "https://www.criterion.com/films/27984-the-long-day-closes",
+      "directorLink": ""
     },
     {
       "title": "Lord of the Flies",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132140-f05cc963bedad5bd7d483d97a847199d/Film_43w_LordOfFlies_original.jpg",
       "director": "Peter Brook",
-      "spine": "43"
+      "criterionUrl": "https://www.criterion.com/films/563-lord-of-the-flies",
+      "directorLink": ""
     },
     {
       "title": "Mon oncle Antoine",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5613-cb1eadad1706fa35460b3a3d5d39c851/Film_438w_MonOncleAntoine_original.jpg",
       "director": "Claude Jutra",
-      "spine": "438"
+      "criterionUrl": "https://www.criterion.com/films/590-mon-oncle-antoine",
+      "directorLink": ""
     },
     {
       "title": "Moonrise Kingdom",
       "image": "https://s3.amazonaws.com/criterion-production/carousel-files/6910ecda415669250f2031c432acc27e.jpeg",
       "director": "Wes Anderson",
-      "spine": "776"
+      "criterionUrl": "https://www.criterion.com/films/28757-moonrise-kingdom",
+      "directorLink": ""
     },
     {
       "title": "Mouchette",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10239-a08df3da04887e85ec27dda8170251b6/mouchette_original.jpg",
       "director": "Robert Bresson",
-      "spine": "363"
+      "criterionUrl": "https://www.criterion.com/films/456-mouchette",
+      "directorLink": ""
     },
     {
       "title": "Murmur of the Heart",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131967-a7a14fc535c0d70d853d989da273bba7/Film_328w_MurmurOfHeart_original.jpg",
       "director": "Louis Malle",
-      "spine": "328"
+      "criterionUrl": "https://www.criterion.com/films/775-murmur-of-the-heart",
+      "directorLink": ""
     },
     {
       "title": "My Life as a Dog",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7877-38f0c36239f137ab61dac4aaab6b2655/Film_178w_MyLifeDog_original.jpg",
       "director": "Lasse Hallström",
-      "spine": "178"
+      "criterionUrl": "https://www.criterion.com/films/727-my-life-as-a-dog",
+      "directorLink": ""
     },
     {
       "title": "À nos amours",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5989-8410d08978a7c9f779d333bf5d9ddb34/Film_337w_ANosAmours_original.jpg",
       "director": "Maurice Pialat",
-      "spine": "337"
+      "criterionUrl": "https://www.criterion.com/films/779--nos-amours",
+      "directorLink": ""
     },
     {
       "title": "Oliver Twist",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129889-76c3e447bb200edbf6a2f02588067a84/Film_32w_OliverTwist_bw_new_original.jpg",
       "director": "David Lean",
-      "spine": "32"
+      "criterionUrl": "https://www.criterion.com/films/567-oliver-twist",
+      "directorLink": ""
     },
     {
       "title": "Il posto",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130209-f27bab4e347cfab0c66bb207b2c7b4e8/Il_posto_film_still_original.jpg",
       "director": "Ermanno Olmi",
-      "spine": "194"
+      "criterionUrl": "https://www.criterion.com/films/364-il-posto",
+      "directorLink": ""
     },
     {
       "title": "La promesse",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131971-ceb0c52b45856601535051ddf728bf5f/Film_620w_Promesse_b_original.jpg",
       "director": "Luc Dardenne…",
-      "spine": "620"
+      "criterionUrl": "https://www.criterion.com/films/28073-la-promesse",
+      "directorLink": ""
     },
     {
       "title": "Ratcatcher",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9741-94361836f7acb2b4adc0fe84751c2e5d/Ratcatcherw_original.jpg",
       "director": "Lynne Ramsay",
-      "spine": "162"
+      "criterionUrl": "https://www.criterion.com/films/716-ratcatcher",
+      "directorLink": ""
     },
     {
       "title": "The River",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10505-018c2090501507160aac2e8a18f1e90f/Film_276w_River_original.jpg",
       "director": "Jean Renoir",
-      "spine": "276"
+      "criterionUrl": "https://www.criterion.com/films/679-the-river",
+      "directorLink": ""
     },
     {
       "title": "Rumble Fish",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/69736e07f32429e339ba93e3c166ab30.jpeg",
       "director": "Francis Ford Coppola",
-      "spine": "869"
+      "criterionUrl": "https://www.criterion.com/films/28993-rumble-fish",
+      "directorLink": ""
     },
     {
       "title": "Rushmore",
       "image": "https://s3.amazonaws.com/criterion-production/stills/3604-b4e2e1a0cf72d417ed56651e2c381025/P_original.jpg",
       "director": "Wes Anderson",
-      "spine": "65"
+      "criterionUrl": "https://www.criterion.com/films/333-rushmore",
+      "directorLink": ""
     },
     {
       "title": "The Spirit of the Beehive",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5103-6b1aea84f0609c35525918878f302db5/SpiritBeehive_original.jpg",
       "director": "Víctor Erice",
-      "spine": "351"
+      "criterionUrl": "https://www.criterion.com/films/367-the-spirit-of-the-beehive",
+      "directorLink": ""
     },
     {
       "title": "Summer Interlude",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131980-07210d40e76cdb3724c183f2056ccc4f/Film_613w_SummerInterlude_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27782-summer-interlude",
+      "criterionUrl": "https://www.criterion.com/films/27782-summer-interlude",
       "director": "Ingmar Bergman",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27782-summer-interlude"
+      "director_url": "https://www.criterion.com/films/27782-summer-interlude"
     },
     {
       "title": "El Sur",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/7710d75d8cfa3cf707dea7984a174c28.jpeg",
       "director": "Víctor Erice",
-      "spine": "927"
+      "criterionUrl": "https://www.criterion.com/films/27745-el-sur",
+      "directorLink": ""
     },
     {
       "title": "A Taste of Honey",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132370-39bd4c36176b559bc760543c4656894c/Film_829_TasteOfHoney_original.jpg",
       "director": "Tony Richardson",
-      "spine": "829"
+      "criterionUrl": "https://www.criterion.com/films/28734-a-taste-of-honey",
+      "directorLink": ""
     },
     {
       "title": "Tess",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132219-ba4de40bd576228b636ddb15bead6e76/Film_697w_Tess_original.jpg",
       "director": "Roman Polanski",
-      "spine": "697"
+      "criterionUrl": "https://www.criterion.com/films/28594-tess",
+      "directorLink": ""
     },
     {
       "title": "The Tin Drum",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_original.jpg",
       "director": "Volker Schlöndorff",
-      "spine": "234"
+      "criterionUrl": "https://www.criterion.com/films/789-the-tin-drum",
+      "directorLink": ""
     },
     {
       "title": "Tiny Furniture",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131569-9942be4ff50495929c675992dcf4b4cb/Film_597w_Tiny_Furniture_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/28317-tiny-furniture",
+      "criterionUrl": "https://www.criterion.com/films/28317-tiny-furniture",
       "director": "Lena Dunham",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/28317-tiny-furniture"
+      "director_url": "https://www.criterion.com/films/28317-tiny-furniture"
     },
     {
       "title": "Valerie and Her Week of Wonders",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132291-5dbb547af90df1dc979557332f337b74/Film_761_ValerieWeekWonders_original.jpg",
       "director": "Jaromil Jireš",
-      "spine": "761"
+      "criterionUrl": "https://www.criterion.com/films/27860-valerie-and-her-week-of-wonders",
+      "directorLink": ""
     },
     {
       "title": "The Virgin Suicides",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b7fd1b01487044ff2fa0657a735e6ed3.jpeg",
       "director": "Sofia Coppola",
-      "spine": "920"
+      "criterionUrl": "https://www.criterion.com/films/29336-the-virgin-suicides",
+      "directorLink": ""
     },
     {
       "title": "Walkabout",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5215-5a81befd49facf84ff308f48bd6d4902/Film_10_Walkabout_original.jpg",
       "director": "Nicolas Roeg",
-      "spine": "10"
+      "criterionUrl": "https://www.criterion.com/films/522-walkabout",
+      "directorLink": ""
     },
     {
       "title": "Warrendale",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129633-9f9ba7405d00157966d669db65e1bd88/King_Filmw_Warrendale_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27514-warrendale",
+      "criterionUrl": "https://www.criterion.com/films/27514-warrendale",
       "director": "Allan King",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27514-warrendale"
+      "director_url": "https://www.criterion.com/films/27514-warrendale"
     },
     {
       "title": "Where Is the Friend’s House?",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/2d9f5847aea09c2dc90dfa1d0d8ff2f7.jpeg",
       "director": "Abbas Kiarostami",
-      "spine": "990"
+      "criterionUrl": "https://www.criterion.com/films/28638-where-is-the-friend-s-house",
+      "directorLink": ""
     },
     {
       "title": "Yi Yi",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130689-746d371e79ed4ab7037a1331a13d2011/Film_339w_YiYi_B_original.jpg",
       "director": "Edward Yang",
-      "spine": "339"
+      "criterionUrl": "https://www.criterion.com/films/781-yi-yi",
+      "directorLink": ""
     },
     {
       "title": "Young Törless",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130233-fac3f89e1083829447672647ce2fabcd/Film_279w_YoungTorless_bw_original.jpg",
       "director": "Volker Schlöndorff",
-      "spine": "279"
+      "criterionUrl": "https://www.criterion.com/films/926-young-t-rless",
+      "directorLink": ""
     },
     {
       "title": "Zéro de conduite",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131089-cb5678ec69f8b83423911fcfd64f15e5/Film_578w_ZeroDeConduite_original.jpg",
-      "image_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27757-zero-de-conduite",
+      "criterionUrl": "https://www.criterion.com/films/27757-zero-de-conduite",
       "director": "Jean Vigo",
-      "director_url": "https://web.archive.org/web/20170711155156/https://www.criterion.com/films/27757-zero-de-conduite"
+      "director_url": "https://www.criterion.com/films/27757-zero-de-conduite"
     }
   ]
 }

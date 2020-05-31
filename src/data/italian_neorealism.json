@@ -4,58 +4,64 @@
       "title": "Bicycle Thieves",
       "image": "https://s3.amazonaws.com/criterion-production/stills/2694-e6f8fe40fe6ec9544b50c22f3f212120/P_original.jpg",
       "director": "Vittorio De Sica",
-      "spine": "374"
+      "criterionUrl": "https://www.criterion.com/films/210-bicycle-thieves",
+      "directorLink": ""
     },
     {
       "title": "Bitter Rice",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132330-59f4556647fb5da96fcab008fd44e744/Film_792_BitterRice_original.jpg",
       "director": "Giuseppe De Santis",
-      "spine": "792"
+      "criterionUrl": "https://www.criterion.com/films/27805-bitter-rice",
+      "directorLink": ""
     },
     {
       "title": "The Children Are Watching Us",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6047-d7569555c37e04d3a9b9c9677fd628ed/Film_323w_ChildrenWatchingUs_original.jpg",
       "director": "Vittorio De Sica",
-      "spine": "323"
+      "criterionUrl": "https://www.criterion.com/films/772-the-children-are-watching-us",
+      "directorLink": ""
     },
     {
       "title": "The Flowers of St. Francis",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6785-e54f7fc637ee856a449fd0d8b523e25c/Film_293w_FlowersFrancis_original.jpg",
       "director": "Roberto Rossellini",
-      "spine": "293"
+      "criterionUrl": "https://www.criterion.com/films/874-the-flowers-of-st-francis",
+      "directorLink": ""
     },
     {
       "title": "Germany Year Zero",
       "image": "https://s3.amazonaws.com/criterion-production/stills/47935-c43fda766423277692c8249da8504cab/Film_499w_GermanyYearZero_original.jpg",
-      "image_url": "https://web.archive.org/web/20170706154040/https://www.criterion.com/films/297-germany-year-zero",
+      "criterionUrl": "https://www.criterion.com/films/297-germany-year-zero",
       "director": "Roberto Rossellini",
-      "director_url": "https://web.archive.org/web/20170706154040/https://www.criterion.com/films/297-germany-year-zero"
+      "director_url": "https://www.criterion.com/films/297-germany-year-zero"
     },
     {
       "title": "Paisan",
       "image": "https://s3.amazonaws.com/criterion-production/stills/47927-516db7acce12b4d13549dd3ab7ca152c/Film_498w_Paisan_original.jpg",
-      "image_url": "https://web.archive.org/web/20170706154040/https://www.criterion.com/films/2415-paisan",
+      "criterionUrl": "https://www.criterion.com/films/2415-paisan",
       "director": "Roberto Rossellini",
-      "director_url": "https://web.archive.org/web/20170706154040/https://www.criterion.com/films/2415-paisan"
+      "director_url": "https://www.criterion.com/films/2415-paisan"
     },
     {
       "title": "Rome Open City",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129817-e37b7f4303884cbe126e5c98f6cd2fa1/Film_497w_RomeOpenCity_original.jpg",
-      "image_url": "https://web.archive.org/web/20170706154040/https://www.criterion.com/films/975-rome-open-city",
+      "criterionUrl": "https://www.criterion.com/films/975-rome-open-city",
       "director": "Roberto Rossellini",
-      "director_url": "https://web.archive.org/web/20170706154040/https://www.criterion.com/films/975-rome-open-city"
+      "director_url": "https://www.criterion.com/films/975-rome-open-city"
     },
     {
       "title": "I vitelloni",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130129-40091f25c642e173aec2a75c0ca7fd7f/Film_246w_Vitelloni_bw_original.jpg",
       "director": "Federico Fellini",
-      "spine": "246"
+      "criterionUrl": "https://www.criterion.com/films/966-i-vitelloni",
+      "directorLink": ""
     },
     {
       "title": "Umberto D.",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132000-42786a035e680b9d9f6942a32c240d46/Film_201w_UmbertoD_original.jpg",
       "director": "Vittorio De Sica",
-      "spine": "201"
+      "criterionUrl": "https://www.criterion.com/films/371-umberto-d",
+      "directorLink": ""
     }
   ]
 }

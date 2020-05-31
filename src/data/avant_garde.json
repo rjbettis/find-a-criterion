@@ -4,85 +4,99 @@
       "title": "Antonio Gaudí",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5695-285e6091218dfc4c50a2811014401b64/Film_426w_AntonioGaudi_original.jpg",
       "director": "Hiroshi Teshigahara",
-      "spine": "425"
+      "criterionUrl": "https://www.criterion.com/films/536-antonio-gaud",
+      "directorLink": ""
     },
     {
       "title": "The Blood of a Poet",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5447-301395ff137d45eccba190995ac3e0f7/Film_67w_BloodPoet_original.jpg",
       "director": "Jean Cocteau",
-      "spine": "67"
+      "criterionUrl": "https://www.criterion.com/films/609-the-blood-of-a-poet",
+      "directorLink": ""
     },
     {
       "title": "Borderline",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9249-28a5e0d49366106690d2d30a219a1cbb/Borderlinew_original.jpg",
       "director": "Stan Brakhage",
-      "spine": ""
+      "criterionUrl": "https://www.criterion.com/films/810-borderline",
+      "directorLink": ""
     },
     {
       "title": "By Brakhage: An Anthology, Volume One",
       "image": "https://s3.amazonaws.com/criterion-production/stills/84583-6bc1d719a1d7908bad3478e67184f586/Film_184w_ByBrakhage_original.jpg",
       "director": "Stan Brakhage",
-      "spine": "184"
+      "criterionUrl": "https://www.criterion.com/films/731-by-brakhage-an-anthology-volume-one",
+      "directorLink": ""
     },
     {
       "title": "By Brakhage: An Anthology, Volume Two",
       "image": "https://s3.amazonaws.com/criterion-production/stills/71389-565b2f3834450d4d4651adfd334239f4/517_Filmw_BrakhageV2_original.jpg",
       "director": "Stan Brakhage",
-      "spine": "517"
+      "criterionUrl": "https://www.criterion.com/films/23953-by-brakhage-an-anthology-volume-two",
+      "directorLink": ""
     },
     {
       "title": "La chambre",
       "image": "https://s3.amazonaws.com/criterion-production/stills/47959-99c623128fc0ab859e708b49ce78a9bf/Film_Akerman_Chambre_original.jpg",
       "director": "Chantal Akerman",
-      "spine": ""
+      "criterionUrl": "https://www.criterion.com/films/20976-la-chambre",
+      "directorLink": ""
     },
     {
       "title": "A Hollis Frampton Odyssey",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131958-20550aff921b0bdb88075122849b134e/Hollis_Frampton_Current_Still_original.jpg",
       "director": "Hollis Frampton",
-      "spine": "607"
+      "criterionUrl": "https://www.criterion.com/films/27945-a-hollis-frampton-odyssey",
+      "directorLink": ""
     },
     {
       "title": "Hotel Monterey",
       "image": "https://s3.amazonaws.com/criterion-production/stills/47967-88ab61d3665e83be8da951f31b3b3f13/Film_Akerman_Hotel_original.jpg",
       "director": "Chantal Akerman",
-      "spine": ""
+      "criterionUrl": "https://www.criterion.com/films/20977-hotel-monterey",
+      "directorLink": ""
     },
     {
       "title": "Innocence Unprotected",
       "image": "https://s3.amazonaws.com/criterion-production/stills/34652-06323b4a524aba1efb33dcc1e23e04e6/Film_Innocence_w_original.jpg",
       "director": "Dušan Makavejev",
-      "spine": ""
+      "criterionUrl": "https://www.criterion.com/films/1073-innocence-unprotected",
+      "directorLink": ""
     },
     {
       "title": "Limite",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Limite.jpg",
       "director": "Chantal Akerman",
-      "spine": ""
+      "criterionUrl": "https://www.criterion.com/films/28407-limite",
+      "directorLink": ""
     },
     {
       "title": "News from Home",
       "image": "https://web.archive.org/web/20160925040353im_/https://s3.amazonaws.com/criterion-production/stills/47975-f8f46f52650358927ef97b17ee7e477a/Film_Akerman_News_original.jpg",
       "director": "Mário Peixoto",
-      "spine": "877"
+      "criterionUrl": "https://www.criterion.com/films/20978-news-from-home",
+      "directorLink": ""
     },
     {
       "title": "Science Is Fiction: 23 Films by Jean Painlevé",
       "image": "https://web.archive.org/web/20160603231623im_/https://s3.amazonaws.com/criterion-production/stills/19167-5d9fd5dfce45ba72e7c2080dbf885370/painleve_octopus_still_original.jpg",
       "director": "Jean Painlevé",
-      "spine": "468"
+      "criterionUrl": "https://www.criterion.com/films/1286-science-is-fiction-23-films-by-jean-painlev",
+      "directorLink": ""
     },
     {
       "title": "Testament of Orpheus",
       "image": "https://web.archive.org/web/20160805031714im_/https://s3.amazonaws.com/criterion-production/stills/9167-c1c7841476be85725e99499b7308fe54/Testamentw_original.jpg",
       "director": "Jean Cocteau",
-      "spine": "69"
+      "criterionUrl": "https://www.criterion.com/films/611-testament-of-orpheus",
+      "directorLink": ""
     },
     {
       "title": "WR: Mysteries of the Organism",
       "image": "https://web.archive.org/web/20170327084615im_/https://s3.amazonaws.com/criterion-production/stills/7565-7bf1b4c8315b068da539385fffb45508/Film_389w_WR_original.jpg",
       "director": "Dušan Makavejev",
-      "spine": "389"
+      "criterionUrl": "https://www.criterion.com/films/824-wr-mysteries-of-the-organism",
+      "directorLink": ""
     }
   ]
 }

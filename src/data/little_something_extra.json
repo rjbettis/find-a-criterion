@@ -4,648 +4,738 @@
       "title": "4 by Agnès Varda",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/89820a253b2e7c803a1cde387daf3b35.jpeg",
       "director": "Agnès Varda",
-      "spine": "418"
+      "criterionUrl": "https://www.criterion.com/boxsets/8-4-by-agn-s-varda",
+      "directorLink": ""
     },
     {
       "title": "The 400 Blows",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130473-32d6b5e7a721ba3f04d11e9dc8ac0995/Film_05w_400Blows_A_original.jpg",
       "director": "François Truffaut",
-      "spine": "5"
+      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows",
+      "directorLink": ""
     },
     {
       "title": "49th Parallel",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10633-98057579d11345c6860a849dcab9d5dc/49thParallel_2w_original.jpg",
       "director": "Michael Powell",
-      "spine": "376"
+      "criterionUrl": "https://www.criterion.com/films/520-49th-parallel",
+      "directorLink": ""
     },
     {
       "title": "¡Alambrista!",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131841-4edc008a643b1323763611e32635d051/Film_609w_Alambrista_original.jpg",
       "director": "Robert M. Young",
-      "spine": "609"
+      "criterionUrl": "https://www.criterion.com/films/28101--alambrista",
+      "directorLink": ""
     },
     {
       "title": "Ali: Fear Eats the Soul",
       "image": "https://s3.amazonaws.com/criterion-production/stills/2004-02be8557983f2d5a03e927b48471de85/P_original.jpg",
       "director": "Rainer Werner Fassbinder",
-      "spine": "198"
+      "criterionUrl": "https://www.criterion.com/films/152-ali-fear-eats-the-soul",
+      "directorLink": ""
     },
     {
       "title": "Alice in the Cities",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132353-276677f8a33e078e5abec1bce0dfd524/Film_814_AliceInCities_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/27717-alice-in-the-cities",
+      "criterionUrl": "https://www.criterion.com/films/27717-alice-in-the-cities",
       "director": "Wim Wenders",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/27717-alice-in-the-cities"
+      "director_url": "https://www.criterion.com/films/27717-alice-in-the-cities"
     },
     {
       "title": "Antonio Gaudí",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5695-285e6091218dfc4c50a2811014401b64/Film_426w_AntonioGaudi_original.jpg",
       "director": "Hiroshi Teshigahara",
-      "spine": "425"
+      "criterionUrl": "https://www.criterion.com/films/536-antonio-gaud",
+      "directorLink": ""
     },
     {
       "title": "The Bakery Girl of Monceau",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130097-afa2363873a95913ae9ec273d82602b7/Film_343w_BakeryGirlofMonceau_bw_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/786-the-bakery-girl-of-monceau",
+      "criterionUrl": "https://www.criterion.com/films/786-the-bakery-girl-of-monceau",
       "director": "Eric Rohmer",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/786-the-bakery-girl-of-monceau"
+      "director_url": "https://www.criterion.com/films/786-the-bakery-girl-of-monceau"
     },
     {
       "title": "Band of Outsiders",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132082-cf0a5f3e2e043c4360e350d0b722d762/Film_174w_BandOutsiders_original.jpg",
       "director": "Jean-Luc Godard",
-      "spine": "174"
+      "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders",
+      "directorLink": ""
     },
     {
       "title": "Black Girl",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132397-4fb47a9fb9fb4f3522112596498fbb2e/Film_852_BlackGirl_original.jpg",
       "director": "Ousmane Sembène",
-      "spine": "852"
+      "criterionUrl": "https://www.criterion.com/films/28849-black-girl",
+      "directorLink": ""
     },
     {
       "title": "The Black Stallion",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132295-c1b848626e1ae5a1b2aed20d5cddcbd7/Film_765_BlackStallion_original.jpg",
       "director": "Carroll Ballard",
-      "spine": "765"
+      "criterionUrl": "https://www.criterion.com/films/28685-the-black-stallion",
+      "directorLink": ""
     },
     {
       "title": "Les Blank: Always for Pleasure",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5119-3a6281229a6ccb7e5ddf22bdf1bbc5d2/burdenofdreams_original.jpg",
       "director": "Les Blank",
-      "spine": "737"
+      "criterionUrl": "https://www.criterion.com/films/28658-les-blank-always-for-pleasure",
+      "directorLink": ""
     },
     {
       "title": "Le bonheur",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5207-220ca0019e1eadb075d841fe89e21e86/509_053_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/525-le-bonheur",
+      "criterionUrl": "https://www.criterion.com/films/525-le-bonheur",
       "director": "Agnès Varda",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/525-le-bonheur"
+      "director_url": "https://www.criterion.com/films/525-le-bonheur"
     },
     {
       "title": "Bottle Rocket",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5581-900b5fcf683a66fd68c09f9e2c5a7e54/Film_450w_BottleRocket_original.jpg",
       "director": "Wes Anderson",
-      "spine": "450"
+      "criterionUrl": "https://www.criterion.com/films/594-bottle-rocket",
+      "directorLink": ""
     },
     {
       "title": "Brand upon the Brain!",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10383-3ad667756902800ec441c7e8a66aebd6/Brand_w_original.jpg",
       "director": "Guy Maddin",
-      "spine": "440"
+      "criterionUrl": "https://www.criterion.com/films/746-brand-upon-the-brain",
+      "directorLink": ""
     },
     {
       "title": "Breathless",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129729-dc88df1de0ad117daa77079692b0706d/Film_408w_Breathless_original.jpg",
       "director": "Jean-Luc Godard",
-      "spine": "408"
+      "criterionUrl": "https://www.criterion.com/films/268-breathless",
+      "directorLink": ""
     },
     {
       "title": "Burden of Dreams",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5119-3a6281229a6ccb7e5ddf22bdf1bbc5d2/burdenofdreams_original.jpg",
       "director": "Les Blank",
-      "spine": "287"
+      "criterionUrl": "https://www.criterion.com/films/546-burden-of-dreams",
+      "directorLink": ""
     },
     {
       "title": "Cameraperson",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132398-7499be902f9f61a3dae5a4191fd89a99/Film_853_Cameraperson_original.jpg",
       "director": "Kirsten Johnson",
-      "spine": "853"
+      "criterionUrl": "https://www.criterion.com/films/29003-cameraperson",
+      "directorLink": ""
     },
     {
       "title": "A Canterbury Tale",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5953-7513b85aa16917afa36aef07ae375825/Film_341w_ACanterburyTale_original.jpg",
       "director": "Michael Powell…",
-      "spine": "341"
+      "criterionUrl": "https://www.criterion.com/films/28106-the-canterbury-tales",
+      "directorLink": ""
     },
     {
       "title": "La Ciénaga",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132270-8e9250eef1127ce6ff0d859488bf70c8/Film_743_Cienaga_original.jpg",
       "director": "Lucrecia Martel",
-      "spine": "743"
+      "criterionUrl": "https://www.criterion.com/films/28113-la-ci-naga",
+      "directorLink": ""
     },
     {
       "title": "Claire’s Knee",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5911-a1fedcf2149ecdcfefb311600d37ce42/Film_347w_ClairesKnees_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/793-claire-s-knee",
+      "criterionUrl": "https://www.criterion.com/films/793-claire-s-knee",
       "director": "Eric Rohmer",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/793-claire-s-knee"
+      "director_url": "https://www.criterion.com/films/793-claire-s-knee"
     },
     {
       "title": "Cléo from 5 to 7",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132066-1cc363045048e5f4406b0811484b5e68/Film_73w_CleoFrom5to7_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/244-cleo-from-5-to-7",
+      "criterionUrl": "https://www.criterion.com/films/244-cleo-from-5-to-7",
       "director": "Agnès Varda",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/244-cleo-from-5-to-7"
+      "director_url": "https://www.criterion.com/films/244-cleo-from-5-to-7"
     },
     {
       "title": "La collectionneuse",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5919-2c35f091f70646e5e02ad45b839dd59f/Film_346w_Collectionneuse_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/792-la-collectionneuse",
+      "criterionUrl": "https://www.criterion.com/films/792-la-collectionneuse",
       "director": "Eric Rohmer",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/792-la-collectionneuse"
+      "director_url": "https://www.criterion.com/films/792-la-collectionneuse"
     },
     {
       "title": "Cronos",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130337-46ee8317eba36ec0efa64bdbfee4681e/CRONOS_spotlight_scarab_original.jpg",
       "director": "Guillermo del Toro",
-      "spine": "551"
+      "criterionUrl": "https://www.criterion.com/films/27534-cronos",
+      "directorLink": ""
     },
     {
       "title": "The Darjeeling Limited",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130025-29d0a05e9ee1e2dedbcd904521cbe8ad/Film_540w_DarjeelingLimited_original.jpg",
       "director": "Wes Anderson",
-      "spine": "540"
+      "criterionUrl": "https://www.criterion.com/films/27520-the-darjeeling-limited",
+      "directorLink": ""
     },
     {
       "title": "Death by Hanging",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132335-1471f6e5abecfb432ecf60721a5bf02e/Film_798_DeathByHanging_original.jpg",
       "director": "Nagisa Oshima",
-      "spine": "798"
+      "criterionUrl": "https://www.criterion.com/films/28360-death-by-hanging",
+      "directorLink": ""
     },
     {
       "title": "Dekalog",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132376-93b3f0e31662cf9b4af6ca69e72bfa25/Film_837_Dekalog_original.jpg",
       "director": "Krzysztof Kieślowski",
-      "spine": "837"
+      "criterionUrl": "https://www.criterion.com/films/28661-dekalog",
+      "directorLink": ""
     },
     {
       "title": "The Double Life of Véronique",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130801-482ebb878f283507a13fa391dc511cd8/Film_359w_DoubleLifeVeronique_original.jpg",
       "director": "Krzysztof Kieślowski",
-      "spine": "359"
+      "criterionUrl": "https://www.criterion.com/films/214-the-double-life-of-v-ronique",
+      "directorLink": ""
     },
     {
       "title": "Eating Raoul",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131997-79b6a6dc5cc652544a69cf028fe93fda/Film_625w_EatingRaoul_original.jpg",
       "director": "Paul Bartel",
-      "spine": "625"
+      "criterionUrl": "https://www.criterion.com/films/27767-eating-raoul",
+      "directorLink": ""
     },
     {
       "title": "Election",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132446-aff08b7172f712107b73d98b1c6cc895/Film_904_Election_original.jpg",
       "director": "Alexander Payne",
-      "spine": "904"
+      "criterionUrl": "https://www.criterion.com/films/29335-election",
+      "directorLink": ""
     },
     {
       "title": "Eraserhead",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132248-f0bff110c944d5916b7c5619a604f10f/Film_725w_Eraserhead_b_original.jpg",
       "director": "David Lynch",
-      "spine": "725"
+      "criterionUrl": "https://www.criterion.com/films/28382-eraserhead",
+      "directorLink": ""
     },
     {
       "title": "The Essential Jacques Demy",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8e14505442b85c558a23f957ee62f504.jpeg",
-      "spine": "713"
+      "criterionUrl": "https://www.criterion.com/boxsets/1055-the-essential-jacques-demy",
+      "directorLink": ""
     },
     {
       "title": "Eyes Without a Face",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6619-0a82bb4545e6e0bbee7a68db779a4864/Film_260w_EyesWithoutFace_original.jpg",
       "director": "Georges Franju",
-      "spine": "260"
+      "criterionUrl": "https://www.criterion.com/films/950-eyes-without-a-face",
+      "directorLink": ""
     },
     {
       "title": "Fantastic Planet",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132359-f817877867d4b2a6514f9fc3f7b7faba/Film_820_FantasticPlanet_original.jpg",
       "director": "René Laloux",
-      "spine": "820"
+      "criterionUrl": "https://www.criterion.com/films/28636-fantastic-planet",
+      "directorLink": ""
     },
     {
       "title": "Fish Tank",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130449-7d9729dc4cc094e4004d8621ab447890/Film_553w_FishTank_original.jpg",
       "director": "Andrea Arnold",
-      "spine": "553"
+      "criterionUrl": "https://www.criterion.com/films/27541-fish-tank",
+      "directorLink": ""
     },
     {
       "title": "Following",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132046-fe7f8ca316684ca3aea915522c2c702c/Film_638w_Following_original.jpg",
       "director": "Christopher Nolan",
-      "spine": "638"
+      "criterionUrl": "https://www.criterion.com/films/28030-following",
+      "directorLink": ""
     },
     {
       "title": "The Freshman",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132223-b1908d5a632b10403e4c6ccd78344ca4/Film_703w_Freshman_original.jpg",
       "director": "Sam Taylor…",
-      "spine": "703"
+      "criterionUrl": "https://www.criterion.com/films/28510-the-freshman",
+      "directorLink": ""
     },
     {
       "title": "George Washington",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9709-ec49ee86aecd5db3503a16091be70a97/GeorgeWashigntonw_original.jpg",
       "director": "David Gordon Green",
-      "spine": "152"
+      "criterionUrl": "https://www.criterion.com/films/691-george-washington",
+      "directorLink": ""
     },
     {
       "title": "Hard Boiled",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132033-5c2b04068d262a4774fd5a6c654bcd20/Film_7w_HardBoiled_original.jpg",
       "director": "John Woo",
-      "spine": "9"
+      "criterionUrl": "https://www.criterion.com/films/523-hard-boiled",
+      "directorLink": ""
     },
     {
       "title": "A Hard Day’s Night",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132232-153f967980de94944d71e4e70399728b/Film_711w_HardDaysNight_original.jpg",
       "director": "Richard Lester",
-      "spine": "711"
+      "criterionUrl": "https://www.criterion.com/films/28547-a-hard-day-s-night",
+      "directorLink": ""
     },
     {
       "title": "Here Is Your Life",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132296-c4c59661d20a4d2a53f93503152efb56/Film_766_HereIsYourLife_original.jpg",
       "director": "Jan Troell",
-      "spine": "766"
+      "criterionUrl": "https://www.criterion.com/films/28552-here-is-your-life",
+      "directorLink": ""
     },
     {
       "title": "His Girl Friday",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/His_Girl_Friday.jpg",
       "director": "Howard Hawks",
-      "spine": "849"
+      "criterionUrl": "https://www.criterion.com/films/27903-his-girl-friday",
+      "directorLink": ""
     },
     {
       "title": "The Horse’s Mouth",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129897-a031d7af350fe9d365a81b55916d7886/Film_154w_HorsesMouth_new_original.jpg",
       "director": "Ronald Neame",
-      "spine": "154"
+      "criterionUrl": "https://www.criterion.com/films/695-the-horse-s-mouth",
+      "directorLink": ""
     },
     {
       "title": "House",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130177-5b40dbf6b529a3b5ae3f8862c27945d1/Film_539w_House_original.jpg",
       "director": "Nobuhiko Obayashi",
-      "spine": "539"
+      "criterionUrl": "https://www.criterion.com/films/27523-house",
+      "directorLink": ""
     },
     {
       "title": "If....",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7557-f9240c6837bc576d73366c0642d935c4/Film_391w_If_original.jpg",
       "director": "Lindsay Anderson",
-      "spine": "391"
+      "criterionUrl": "https://www.criterion.com/films/12521-sanshiro-sugata",
+      "directorLink": ""
     },
     {
       "title": "In the Mood for Love",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10151-693edff36b0482c71267e0f91dfc503e/Film_147w_InMoodLove_original.jpg",
       "director": "Wong Kar-wai",
-      "spine": "147"
+      "criterionUrl": "https://www.criterion.com/films/198-in-the-mood-for-love",
+      "directorLink": ""
     },
     {
       "title": "Insomnia",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132048-b5c852f9b0185fdb25973bd0c20aabfc/Insomnia_Film_Page_original.jpg",
       "director": "Erik Skjoldbjærg",
-      "spine": "47"
+      "criterionUrl": "https://www.criterion.com/films/585-insomnia",
+      "directorLink": ""
     },
     {
       "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
       "image": "https://s3.amazonaws.com/criterion-production/stills/41479-fb5f59ceeb1ff5e7a81f3d8f6e5ff1b4/JEANNE_DIELMAN_video_still_original.jpg",
       "director": "Chantal Akerman",
-      "spine": "484"
+      "criterionUrl": "https://www.criterion.com/films/302-jeanne-dielman-23-quai-du-commerce-1080-bruxelles",
+      "directorLink": ""
     },
     {
       "title": "Kes",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130785-e47df9bafe2ac5ad4edd1a70328028af/Film_561w_Kes_original.jpg",
       "director": "Ken Loach",
-      "spine": "561"
+      "criterionUrl": "https://www.criterion.com/films/27560-kes",
+      "directorLink": ""
     },
     {
       "title": "Kicking and Screaming",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5895-3e3ecb893ec851844a8456c491d1ac86/Film_349w_KickingScreaming_original.jpg",
       "director": "Noah Baumbach",
-      "spine": "349"
+      "criterionUrl": "https://www.criterion.com/films/795-kicking-and-screaming",
+      "directorLink": ""
     },
     {
       "title": "The Kid",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132334-64f4bfa87bfa5c21b593f439029ff71b/Film_799_TheKid_original.jpg",
       "director": "Charlie Chaplin",
-      "spine": "799"
+      "criterionUrl": "https://www.criterion.com/films/27566-the-kid",
+      "directorLink": ""
     },
     {
       "title": "The Killers",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10391-c2a19aec97b5b7a62f0d46f6ffeaaac4/Killers46_original.jpg",
-      "spine": "176"
+      "criterionUrl": "https://www.criterion.com/boxsets/334-the-killers",
+      "directorLink": ""
     },
     {
       "title": "Knife in the Water",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10215-f608a374ba9e37e81017c25ecf7d4baa/knifewater_original.jpg",
       "director": "Roman Polanski",
-      "spine": "215"
+      "criterionUrl": "https://www.criterion.com/films/219-knife-in-the-water",
+      "directorLink": ""
     },
     {
       "title": "L’enfance nue",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129601-d14d802e94b61aba4a02b8d4b956edba/Film_534w_Lenfance_original.jpg",
       "director": "Maurice Pialat",
-      "spine": "534"
+      "criterionUrl": "https://www.criterion.com/films/2337-l-enfance-nue",
+      "directorLink": ""
     },
     {
       "title": "The Last Metro",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_original.jpg",
       "director": "François Truffaut",
-      "spine": "462"
+      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro",
+      "directorLink": ""
     },
     {
       "title": "Last Year at Marienbad",
       "image": "https://s3.amazonaws.com/criterion-production/stills/14309-a2318b87d3124d41413e3b1f788cd6c3/Film_478_LastYearMarienbad_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/1517-last-year-at-marienbad",
+      "criterionUrl": "https://www.criterion.com/films/1517-last-year-at-marienbad",
       "director": "Alain Resnais",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/1517-last-year-at-marienbad"
+      "director_url": "https://www.criterion.com/films/1517-last-year-at-marienbad"
     },
     {
       "title": "Letters from Fontainhas: Three Films by Pedro Costa",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/8b87b1d0d6700569c25458f6eef40039.jpeg",
-      "spine": "508"
+      "criterionUrl": "https://www.criterion.com/boxsets/704-letters-from-fontainhas-three-films-by-pedro-costa",
+      "directorLink": ""
     },
     {
       "title": "Limelight",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132288-fb628ebdf8a0b6cc5b614f23943bd0c6/Film_756_Limelight_original.jpg",
       "director": "Charles Chaplin",
-      "spine": "756"
+      "criterionUrl": "https://www.criterion.com/films/27557-limelight",
+      "directorLink": ""
     },
     {
       "title": "The Lodger: A Story of the London Fog",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Lodger_A_Story_of_the_London_Fog.jpg",
       "director": "Alfred Hitchcock",
-      "spine": "885"
+      "criterionUrl": "https://www.criterion.com/films/28001-the-lodger-a-story-of-the-london-fog",
+      "directorLink": ""
     },
     {
       "title": "Lone Wolf and Cub",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Lone_Wolf_and_Cub.jpg",
-      "spine": "841"
+      "criterionUrl": "https://www.criterion.com/boxsets/1217-lone-wolf-and-cub",
+      "directorLink": ""
     },
     {
       "title": "Love in the Afternoon",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5903-24a00a3b54652f1f0b8034b305249671/Film_348w_LoveAfternoon_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/794-love-in-the-afternoon",
+      "criterionUrl": "https://www.criterion.com/films/794-love-in-the-afternoon",
       "director": "Eric Rohmer",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/794-love-in-the-afternoon"
+      "director_url": "https://www.criterion.com/films/794-love-in-the-afternoon"
     },
     {
       "title": "The Lure",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132439-b3a8b7079a0a9cd02871c706b843a0b2/Film_896_Lure_original.jpg",
       "director": "Agnieszka Smoczyńska",
-      "spine": "896"
+      "criterionUrl": "https://www.criterion.com/films/29061-the-lure",
+      "directorLink": ""
     },
     {
       "title": "Man Bites Dog",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10231-3e2b81eb65f995c950c1741fac85773a/ManBitesDog_original.jpg",
       "director": "Rémy Belvaux…",
-      "spine": "165"
+      "criterionUrl": "https://www.criterion.com/films/718-man-bites-dog",
+      "directorLink": ""
     },
     {
       "title": "Modern Times",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130257-dfcf4573a3dcfe2d68527acb35bef7aa/Film_543w_ModernTimes_original.jpg",
       "director": "Charles Chaplin",
-      "spine": "543"
+      "criterionUrl": "https://www.criterion.com/films/27526-modern-times",
+      "directorLink": ""
     },
     {
       "title": "Mon oncle Antoine",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5613-cb1eadad1706fa35460b3a3d5d39c851/Film_438w_MonOncleAntoine_original.jpg",
       "director": "Claude Jutra",
-      "spine": "438"
+      "criterionUrl": "https://www.criterion.com/films/590-mon-oncle-antoine",
+      "directorLink": ""
     },
     {
       "title": "Monsieur Hulot’s Holiday",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130761-5f5252a6eb8972a6f3bc1a5d5e2b4342/Film_110w_MHulotHoliday_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
+      "criterionUrl": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
       "director": "Jacques Tati",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/360-monsieur-hulot-s-holiday"
+      "director_url": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday"
     },
     {
       "title": "Monsoon Wedding",
       "image": "https://s3.amazonaws.com/criterion-production/stills/34668-aaffa6236ea1859d17f21491c55a0f9b/Film_489w_MonsoonWedding_original.jpg",
       "director": "Mira Nair",
-      "spine": "489"
+      "criterionUrl": "https://www.criterion.com/films/2364-monsoon-wedding",
+      "directorLink": ""
     },
     {
       "title": "Monterey Pop",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7933-68a8a434189d26a3b530728b2252af5c/Film_167_MontereyPop_original.jpg",
       "director": "D. A. Pennebaker",
-      "spine": "168"
+      "criterionUrl": "https://www.criterion.com/films/720-monterey-pop",
+      "directorLink": ""
     },
     {
       "title": "My Life as a Dog",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7877-38f0c36239f137ab61dac4aaab6b2655/Film_178w_MyLifeDog_original.jpg",
       "director": "Lasse Hallström",
-      "spine": "178"
+      "criterionUrl": "https://www.criterion.com/films/727-my-life-as-a-dog",
+      "directorLink": ""
     },
     {
       "title": "My Night at Maud’s",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5927-c96bc9d1b542453686c4b3b1fc88f820/Film_345w_MyNightMauds_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/791-my-night-at-maud-s",
+      "criterionUrl": "https://www.criterion.com/films/791-my-night-at-maud-s",
       "director": "Eric Rohmer",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/791-my-night-at-maud-s"
+      "director_url": "https://www.criterion.com/films/791-my-night-at-maud-s"
     },
     {
       "title": "My Winnipeg",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132268-c758bc756ebb751b6b6ebb7f4c0669be/Film_741_MyWinnipeg_original.jpg",
       "director": "Guy Maddin",
-      "spine": "741"
+      "criterionUrl": "https://www.criterion.com/films/27969-my-winnipeg",
+      "directorLink": ""
     },
     {
       "title": "El Norte",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9947-b4c11fa0c87d590ed5d5a861c6922973/Nortew_original.jpg",
       "director": "Gregory Nava",
-      "spine": "458"
+      "criterionUrl": "https://www.criterion.com/films/972-el-norte",
+      "directorLink": ""
     },
     {
       "title": "À nous la liberté",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7957-3f18eccf5b0919adc49d6dcfae08e6a9/Film_160w_ANosLiberte_original.jpg",
       "director": "René Clair",
-      "spine": "160"
+      "criterionUrl": "https://www.criterion.com/films/714--nous-la-libert",
+      "directorLink": ""
     },
     {
       "title": "Othello",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Othello.jpg",
       "director": "Orson Welles",
-      "spine": "870"
+      "criterionUrl": "https://www.criterion.com/films/28621-othello",
+      "directorLink": ""
     },
     {
       "title": "Overlord",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5167-5c379b42ddbae3f9832ac30097cb477c/Overlord_original.jpg",
       "director": "Stuart Cooper",
-      "spine": "382"
+      "criterionUrl": "https://www.criterion.com/films/550-overlord",
+      "directorLink": ""
     },
     {
       "title": "Paris Belongs to Us",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132342-705ee02afea4c19b9340a99e50062ed3/Film_802_ParisBelongsToUs_original.jpg",
       "director": "Jacques Rivette",
-      "spine": "802"
+      "criterionUrl": "https://www.criterion.com/films/27724-paris-belongs-to-us",
+      "directorLink": ""
     },
     {
       "title": "People on Sunday",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131185-c2c84f43b91ead4c5fe8dbe15ac54361/People_on_Sunday_Still_original.jpg",
       "director": "Robert Siodmak…",
-      "spine": "569"
+      "criterionUrl": "https://www.criterion.com/films/27625-people-on-sunday",
+      "directorLink": ""
     },
     {
       "title": "PlayTime",
       "image": "https://s3.amazonaws.com/criterion-production/stills/108433-48e1836010cb38ee55d62266d4c032e3/Film_112w_PlayTime_original.jpg",
       "director": "Jacques Tati",
-      "spine": "112"
+      "criterionUrl": "https://www.criterion.com/films/651-playtime",
+      "directorLink": ""
     },
     {
       "title": "A Poem Is a Naked Person",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132343-d016fcd92908d2f20606ff17ec7b28bc/Film_805_PoemNakedPerson_original.jpg",
       "director": "Les Blank",
-      "spine": "805"
+      "criterionUrl": "https://www.criterion.com/films/28755-a-poem-is-a-naked-person",
+      "directorLink": ""
     },
     {
       "title": "Punch-Drunk Love",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132388-d7de02fc9636458712537f7e4b6f09a0/Film_844_PunchDrunkLove_original.jpg",
       "director": "Paul Thomas Anderson",
-      "spine": "843"
+      "criterionUrl": "https://www.criterion.com/films/27916-punch-drunk-love",
+      "directorLink": ""
     },
     {
       "title": "Ratcatcher",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9741-94361836f7acb2b4adc0fe84751c2e5d/Ratcatcherw_original.jpg",
       "director": "Lynne Ramsay",
-      "spine": "162"
+      "criterionUrl": "https://www.criterion.com/films/716-ratcatcher",
+      "directorLink": ""
     },
     {
       "title": "Red Desert",
       "image": "https://s3.amazonaws.com/criterion-production/stills/113705-d273fb94d264031d875a73f135c0f54f/522_Filmw_RedDesert_original.jpg",
       "director": "Michelangelo Antonioni",
-      "spine": "522"
+      "criterionUrl": "https://www.criterion.com/films/1454-red-desert",
+      "directorLink": ""
     },
     {
       "title": "Revanche",
       "image": "https://s3.amazonaws.com/criterion-production/stills/52407-95102fc32ea5986e70880c06da2146e6/502_Filmw_Revanche_original.jpg",
       "director": "Götz Spielmann",
-      "spine": "502"
+      "criterionUrl": "https://www.criterion.com/films/85-revanche",
+      "directorLink": ""
     },
     {
       "title": "Safety Last!",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132112-be9748d79b404e16d6b281c7621cd782/Film_662w_SafetyLast_original.jpg",
       "director": "Fred Newmeyer…",
-      "spine": "662"
+      "criterionUrl": "https://www.criterion.com/films/28446-safety-last",
+      "directorLink": ""
     },
     {
       "title": "Sundays and Cybèle",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132251-0d217b8c5d0647ca1cbb2a0d38c4daa3/Film_728w_SundaysAndCybele_original.jpg",
       "director": "Serge Bourguignon",
-      "spine": "728"
+      "criterionUrl": "https://www.criterion.com/films/27912-sundays-and-cyb-le",
+      "directorLink": ""
     },
     {
       "title": "Suzanne’s Career",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130105-c4077aa98b511a272a98358d6fc07c65/Film_344w_SuzannesCareer_bw_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/787-suzanne-s-career",
+      "criterionUrl": "https://www.criterion.com/films/787-suzanne-s-career",
       "director": "Eric Rohmer",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/787-suzanne-s-career"
+      "director_url": "https://www.criterion.com/films/787-suzanne-s-career"
     },
     {
       "title": "Sweetie",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5879-03c89d963a56fdba81a79c0949285fad/Film_356w_Sweetie_original.jpg",
       "director": "Jane Campion",
-      "spine": "356"
+      "criterionUrl": "https://www.criterion.com/films/749-sweetie",
+      "directorLink": ""
     },
     {
       "title": "The Tales of Hoffmann",
       "image": "https://s3.amazonaws.com/criterion-production/stills/29116-83b35705bee0d3097d61e484c14cf922/460_original.png",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/748-the-tales-of-hoffmann",
+      "criterionUrl": "https://www.criterion.com/films/748-the-tales-of-hoffmann",
       "director": "Michael Powell and Emeric Pressburger",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/748-the-tales-of-hoffmann"
+      "director_url": "https://www.criterion.com/films/748-the-tales-of-hoffmann"
     },
     {
       "title": "Tampopo",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132411-21185cef8e9290879d7696f85874f7be/Film_868_Tampopo_original.jpg",
       "director": "Juzo Itami",
-      "spine": "868"
+      "criterionUrl": "https://www.criterion.com/films/28880-tampopo",
+      "directorLink": ""
     },
     {
       "title": "A Taste of Honey",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132370-39bd4c36176b559bc760543c4656894c/Film_829_TasteOfHoney_original.jpg",
       "director": "Tony Richardson",
-      "spine": "829"
+      "criterionUrl": "https://www.criterion.com/films/28734-a-taste-of-honey",
+      "directorLink": ""
     },
     {
       "title": "This Sporting Life",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6395-4a8361acda90cc03f1f958210ec076ef/Film_417w_ThisSportingLife_original.jpg",
       "director": "Lindsay Anderson",
-      "spine": "417"
+      "criterionUrl": "https://www.criterion.com/films/853-this-sporting-life",
+      "directorLink": ""
     },
     {
       "title": "Three Colors: Blue",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131329-bfbe9160d2c382f422b355caf9de44ea/Film_588w_Blue_original.jpg",
-      "spine": ""
+      "criterionUrl": "https://www.criterion.com/films/27731-three-colors-blue",
+      "directorLink": ""
     },
     {
       "title": "Three Colors: White",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131337-731090c448162fd336e1d6dd18ad2f3e/Film_589w_White_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/27732-three-colors-white",
+      "criterionUrl": "https://www.criterion.com/films/27732-three-colors-white",
       "director": "Krzysztof Kieślowski",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/27732-three-colors-white"
+      "director_url": "https://www.criterion.com/films/27732-three-colors-white"
     },
     {
       "title": "Tiny Furniture",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131569-9942be4ff50495929c675992dcf4b4cb/Film_597w_Tiny_Furniture_original.jpg",
       "director": "Lena Dunham",
-      "spine": "597"
+      "criterionUrl": "https://www.criterion.com/films/28317-tiny-furniture",
+      "directorLink": ""
     },
     {
       "title": "To Be or Not to Be",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132143-a9a49eb6ee0c2ac582a561c8d9266af5/Film_670w_ToBeNotToBe_original.jpg",
       "director": "Ernst Lubitsch",
-      "spine": "670"
+      "criterionUrl": "https://www.criterion.com/films/12521-sanshiro-sugata",
+      "directorLink": ""
     },
     {
       "title": "Topsy-Turvy",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130745-2b559a4ae2490e5390be86db90b6c854/Film_558w_TopsyTurvy_original.jpg",
       "director": "Mike Leigh",
-      "spine": "558"
+      "criterionUrl": "https://www.criterion.com/films/27550-topsy-turvy",
+      "directorLink": ""
     },
     {
       "title": "Total Balalaika Show",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131257-2152de6ed9421bcca32875ae0e3ec273/Kaurismaki_Filmw_TotalBalalaikaShow_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/27795-total-balalaika-show",
+      "criterionUrl": "https://www.criterion.com/films/27795-total-balalaika-show",
       "director": "Aki Kaurismäki",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/27795-total-balalaika-show"
+      "director_url": "https://www.criterion.com/films/27795-total-balalaika-show"
     },
     {
       "title": "Trouble in Paradise",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130329-9ea9bfe9bd422c409621d1b9ab3659b8/Troublew_bw_original.jpg",
       "director": "Ernst Lubitsch",
-      "spine": "170"
+      "criterionUrl": "https://www.criterion.com/films/723-trouble-in-paradise",
+      "directorLink": ""
     },
     {
       "title": "The Two of Us",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5847-fa14965434a745217a314a4512f90bff/Film_388w_TwoOfUs_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/757-the-two-of-us",
+      "criterionUrl": "https://www.criterion.com/films/757-the-two-of-us",
       "director": "Claude Berri",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/757-the-two-of-us"
+      "director_url": "https://www.criterion.com/films/757-the-two-of-us"
     },
     {
       "title": "Under the Roofs of Paris",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7949-8fd95d81bad3e19d4f138dbce6060c0b/Film_161w_Underroofs_original.jpg",
       "director": "René Clair",
-      "spine": "161"
+      "criterionUrl": "https://www.criterion.com/films/715-under-the-roofs-of-paris",
+      "directorLink": ""
     },
     {
       "title": "Valerie and Her Week of Wonders",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132291-5dbb547af90df1dc979557332f337b74/Film_761_ValerieWeekWonders_original.jpg",
       "director": "Jaromil Jireš",
-      "spine": "761"
+      "criterionUrl": "https://www.criterion.com/films/27860-valerie-and-her-week-of-wonders",
+      "directorLink": ""
     },
     {
       "title": "W. C. Fields—Six Short Films",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9183-61a70ff2c995b56694a37aa25b933aa4/WCFieldsw_original.jpg",
-      "image_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/618-w-c-fields-six-short-films",
+      "criterionUrl": "https://www.criterion.com/films/618-w-c-fields-six-short-films",
       "director": "Monte Brice, Clyde Bruckman, Edwin Middleton…",
-      "director_url": "https://web.archive.org/web/20180121014133/https://www.criterion.com/films/618-w-c-fields-six-short-films"
+      "director_url": "https://www.criterion.com/films/618-w-c-fields-six-short-films"
     },
     {
       "title": "Weekend",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132041-638447b3339222f3e072ec2f1d5bd148/Weekend_Film_Current_original.jpg",
       "director": "Andrew Haigh",
-      "spine": "622"
+      "criterionUrl": "https://www.criterion.com/films/27783-weekend",
+      "directorLink": ""
     },
     {
       "title": "Woman in the Dunes",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131689-faf2fbbd6d073174a3821127713ecfaf/Film_394w_WomanDunes_bw_original.jpg",
       "director": "Hiroshi Teshigahara",
-      "spine": "394"
+      "criterionUrl": "https://www.criterion.com/films/826-woman-in-the-dunes",
+      "directorLink": ""
     },
     {
       "title": "WR: Mysteries of the Organism",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7565-7bf1b4c8315b068da539385fffb45508/Film_389w_WR_original.jpg",
       "director": "Dušan Makavejev",
-      "spine": "389"
+      "criterionUrl": "https://www.criterion.com/films/824-wr-mysteries-of-the-organism",
+      "directorLink": ""
     },
     {
       "title": "Y tu mamá también",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132244-1316f2e30aae8623a6954544c7d40e46/Film_723w_YTuMamaTambien_original.jpg",
       "director": "Alfonso Cuarón",
-      "spine": "723"
+      "criterionUrl": "https://www.criterion.com/films/28005-y-tu-mam-tambi-n",
+      "directorLink": ""
     }
   ]
 }

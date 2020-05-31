@@ -4,136 +4,153 @@
       "title": "12 Angry Men",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131377-82fc422dc6b49177f9360e4365ae5753/Film_591w_12AngryMen_original.jpg",
       "director": "Sidney Lumet",
-      "spine": "591"
+      "criterionUrl": "https://www.criterion.com/films/27871-12-angry-men",
+      "directorLink": ""
     },
     {
       "title": "The Age of Innocence",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Age_of_Innocence.jpg",
       "director": "Martin Scorsese",
-      "spine": "913"
+      "criterionUrl": "https://www.criterion.com/films/28834-the-age-of-innocence",
+      "directorLink": ""
     },
     {
       "title": "All That Jazz",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132243-69de9e679d2a31f73410b441dae88e98/Film_724w_AllThatJazz_original.jpg",
       "director": "Bob Fosse",
-      "spine": "724"
+      "criterionUrl": "https://www.criterion.com/films/28561-all-that-jazz",
+      "directorLink": ""
     },
     {
       "title": "Blast of Silence",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130137-6ad61473a9e2db02798baba8c3d14119/Film_42bw_BlastOfSilence_bw_original.jpg",
       "director": "Allen Baron",
-      "spine": "428"
+      "criterionUrl": "https://www.criterion.com/films/538-blast-of-silence",
+      "directorLink": ""
     },
     {
       "title": "Chafed Elbows",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131932-37f1a58d5f2aa8d3d93dc30de40a3ac2/Downey_Filmw_ChafedElbows_original.jpg",
-      "image_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/27939-chafed-elbows",
+      "criterionUrl": "https://www.criterion.com/films/27939-chafed-elbows",
       "director": "Robert Downey Sr.",
-      "director_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/27939-chafed-elbows"
+      "director_url": "https://www.criterion.com/films/27939-chafed-elbows"
     },
     {
       "title": "Do the Right Thing",
       "image": "https://s3.amazonaws.com/criterion-production/stills/3338-d822d2ac691327db8294651dc8a7a5fc/P_original.jpg",
       "director": "Spike Lee",
-      "spine": "97"
+      "criterionUrl": "https://www.criterion.com/films/286-do-the-right-thing",
+      "directorLink": ""
     },
     {
       "title": "The Docks of New York",
       "image": "https://s3.amazonaws.com/criterion-production/stills/129561-bd1b8bf536453605a064e67b8a343cce/Film_531w_DocksNewYork_original.jpg",
-      "image_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/1942-the-docks-of-new-york",
+      "criterionUrl": "https://www.criterion.com/films/1942-the-docks-of-new-york",
       "director": "Josef von Sternberg",
-      "director_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/1942-the-docks-of-new-york"
+      "director_url": "https://www.criterion.com/films/1942-the-docks-of-new-york"
     },
     {
       "title": "Dressed to Kill",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132306-637361f7e5d13580cd879fd865506ab9/Film_770_DressedToKill_original.jpg",
       "director": "Brian De Palma",
-      "spine": "770"
+      "criterionUrl": "https://www.criterion.com/films/28686-dressed-to-kill",
+      "directorLink": ""
     },
     {
       "title": "The Fisher King",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132292-01bf7615ce961fba6018447e9052e94d/Film_764_FisherKing_original.jpg",
       "director": "Terry Gilliam",
-      "spine": "764"
+      "criterionUrl": "https://www.criterion.com/films/28719-the-fisher-king",
+      "directorLink": ""
     },
     {
       "title": "Frances Ha",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132197-a6978b10ff709087dbe7a77468fc5130/Film_681_FrancesHa_original.jpg",
       "director": "Noah Baumbach",
-      "spine": "681"
+      "criterionUrl": "https://www.criterion.com/films/28560-frances-ha",
+      "directorLink": ""
     },
     {
       "title": "The Heiress",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
       "director": "William Wyler",
-      "spine": "974"
+      "criterionUrl": "https://www.criterion.com/films/28986-the-heiress",
+      "directorLink": ""
     },
     {
       "title": "Hotel Monterey",
       "image": "https://s3.amazonaws.com/criterion-production/stills/47967-88ab61d3665e83be8da951f31b3b3f13/Film_Akerman_Hotel_original.jpg",
-      "image_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/20977-hotel-monterey",
+      "criterionUrl": "https://www.criterion.com/films/20977-hotel-monterey",
       "director": "Chantal Akerman",
-      "director_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/20977-hotel-monterey"
+      "director_url": "https://www.criterion.com/films/20977-hotel-monterey"
     },
     {
       "title": "I Wanna Hold Your Hand",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a4a643bde027085aec0df222c8d2dec5.jpeg",
       "director": "Robert Zemeckis",
-      "spine": "967"
+      "criterionUrl": "https://www.criterion.com/films/29000-i-wanna-hold-your-hand",
+      "directorLink": ""
     },
     {
       "title": "Inside Llewyn Davis",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132332-bd5034d13b69c7cd3584df3de950e6b2/Film_794_InsideLlewynDavis_original.jpg",
       "director": "Joel Coen…",
-      "spine": "794"
+      "criterionUrl": "https://www.criterion.com/films/28721-inside-llewyn-davis",
+      "directorLink": ""
     },
     {
       "title": "Insignificance",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130897-ce5893970324c6abd85cecda083643c2/Film_566w_Insignificance_original.jpg",
       "director": "Nicolas Roeg",
-      "spine": "566"
+      "criterionUrl": "https://www.criterion.com/films/27618-insignificance",
+      "directorLink": ""
     },
     {
       "title": "Jane Austen in Manhattan",
       "image": "https://s3.amazonaws.com/criterion-production/stills/14807-07e3c2dbcb0a6de5d5dadcec533881ba/JaneAusten_FilmStill_original.jpg",
-      "image_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/1551-jane-austen-in-manhattan",
+      "criterionUrl": "https://www.criterion.com/films/1551-jane-austen-in-manhattan",
       "director": "James Ivory",
-      "director_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/1551-jane-austen-in-manhattan"
+      "director_url": "https://www.criterion.com/films/1551-jane-austen-in-manhattan"
     },
     {
       "title": "Klute",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Klute.jpg",
       "director": "Alan J. Pakula",
-      "spine": "987"
+      "criterionUrl": "https://www.criterion.com/films/28708-klute",
+      "directorLink": ""
     },
     {
       "title": "The Last Days of Disco",
       "image": "https://s3.amazonaws.com/criterion-production/stills/25612-fc9c1dafc8a278c97dc3d580844072bb/485_Film_LastDaysDisco_original.jpg",
       "director": "Whit Stillman",
-      "spine": "485"
+      "criterionUrl": "https://www.criterion.com/films/2954-the-last-days-of-disco",
+      "directorLink": ""
     },
     {
       "title": "Lonesome",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132044-62526716193e1cca13c3c0c3810e83f8/Lonesome_Film_original.jpg",
       "director": "Paul Fejos",
-      "spine": "623"
+      "criterionUrl": "https://www.criterion.com/films/28212-lonesome",
+      "directorLink": ""
     },
     {
       "title": "Make Way for Tomorrow",
       "image": "https://s3.amazonaws.com/criterion-production/stills/76047-78b0d15ae71c0bcae8bb1f2c169fb6b0/MAKEWAYFORTOMORROW_filmstill_new_original.jpg",
       "director": "Leo McCarey",
-      "spine": "505"
+      "criterionUrl": "https://www.criterion.com/films/2350-make-way-for-tomorrow",
+      "directorLink": ""
     },
     {
       "title": "Metropolitan",
       "image": "https://s3.amazonaws.com/criterion-production/stills/6031-b844a95b57a9d14b588ec5256b0c2371/Film_326w_Metropolis_original.jpg",
       "director": "Whit Stillman",
-      "spine": "326"
+      "criterionUrl": "https://www.criterion.com/films/774-metropolitan",
+      "directorLink": ""
     },
     {
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/915dfa995a662b8d5f113cb512494ba3.jpeg",
       "title": "Midnight Cowboy",
-      "title_url": "https://www.criterion.com/films/29369-midnight-cowboy",
+      "criterionUrl": "https://www.criterion.com/films/29369-midnight-cowboy",
       "director": "John Schlesinger",
       "country": "United States,",
       "year": "1969",
@@ -143,129 +160,148 @@
       "title": "My Dinner with André",
       "image": "https://s3.amazonaws.com/criterion-production/stills/14299-bd01c9fc958af08a6a0f535dc5d96fc6/Film_479_MyDinnerAndre_original.jpg",
       "director": "Louis Malle",
-      "spine": "479"
+      "criterionUrl": "https://www.criterion.com/films/1093-my-dinner-with-andr",
+      "directorLink": ""
     },
     {
       "title": "My Man Godfrey",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130113-5cbbf54c7aa7db447a260164376164a8/Godfreyw_bw_original.jpg",
       "director": "Gregory La Cava",
-      "spine": "114"
+      "criterionUrl": "https://www.criterion.com/films/653-my-man-godfrey",
+      "directorLink": ""
     },
     {
       "title": "The Naked City",
       "image": "https://s3.amazonaws.com/criterion-production/stills/7591-3943aa6984b1888630c88e362065080b/Film_380w_NakedCity_original.jpg",
       "director": "Jules Dassin",
-      "spine": "380"
+      "criterionUrl": "https://www.criterion.com/films/818-the-naked-city",
+      "directorLink": ""
     },
     {
       "title": "News from Home",
       "image": "https://s3.amazonaws.com/criterion-production/stills/47975-f8f46f52650358927ef97b17ee7e477a/Film_Akerman_News_original.jpg",
-      "image_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/20978-news-from-home",
+      "criterionUrl": "https://www.criterion.com/films/20978-news-from-home",
       "director": "Chantal Akerman",
-      "director_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/20978-news-from-home"
+      "director_url": "https://www.criterion.com/films/20978-news-from-home"
     },
     {
       "title": "Night on Earth",
       "image": "https://s3.amazonaws.com/criterion-production/stills/2896-81e537b58ffbd04a5dd6fb8d052aa5c5/P_original.jpg",
       "director": "Jim Jarmusch",
-      "spine": "401"
+      "criterionUrl": "https://www.criterion.com/films/227-night-on-earth",
+      "directorLink": ""
     },
     {
       "title": "On the Waterfront",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132068-0a427f4f7bfa6825bce99038d5eccb82/Film_647w_OnWaterfront_original.jpg",
       "director": "Elia Kazan",
-      "spine": "647"
+      "criterionUrl": "https://www.criterion.com/films/27899-on-the-waterfront",
+      "directorLink": ""
     },
     {
       "title": "Paris Is Burning",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
-      "spine": "1018"
+      "criterionUrl": "https://www.criterion.com/films/29647-paris-is-burning",
+      "directorLink": ""
     },
     {
       "title": "Pickup on South Street",
       "image": "https://s3.amazonaws.com/criterion-production/stills/10271-c7dfda8f0c7683354c7b8500bd6a67e2/Film_224w_PickupSouthStreet_original.jpg",
       "director": "Samuel Fuller",
-      "spine": "224"
+      "criterionUrl": "https://www.criterion.com/films/446-pickup-on-south-street",
+      "directorLink": ""
     },
     {
       "title": "Putney Swope",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131928-3e1cc73877ccaf1c6c19529c5013837e/Downey_Filmw_PutneySwope_original.jpg",
-      "image_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/28358-putney-swope",
+      "criterionUrl": "https://www.criterion.com/films/28358-putney-swope",
       "director": "Robert Downey Sr.",
-      "director_url": "https://web.archive.org/web/20180407023311/https://www.criterion.com/films/28358-putney-swope"
+      "director_url": "https://www.criterion.com/films/28358-putney-swope"
     },
     {
       "title": "Rosemary’s Baby",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132021-3bf1cbc5974ba205fb5f93e4567d9ad1/Film_634w_RosemarysBaby_original.jpg",
       "director": "Roman Polanski",
-      "spine": "630"
+      "criterionUrl": "https://www.criterion.com/films/27927-rosemary-s-baby",
+      "directorLink": ""
     },
     {
       "title": "The Royal Tenenbaums",
       "image": "https://s3.amazonaws.com/criterion-production/stills/2872-9995e0355c1874e5b574195f6177c06d/P_original.jpg",
       "director": "Wes Anderson",
-      "spine": "157"
+      "criterionUrl": "https://www.criterion.com/films/230-the-royal-tenenbaums",
+      "directorLink": ""
     },
     {
       "title": "Scorsese Shorts",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Scorsese_Shorts.jpg",
       "director": "Martin Scorsese",
-      "spine": "1030"
+      "criterionUrl": "https://www.criterion.com/films/30616-scorsese-shorts",
+      "directorLink": ""
     },
     {
       "title": "Shadows",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130145-11d2052d72a4cc36ac18e35de9be189c/Film_251w_Shadows_original.jpg",
       "director": "John Cassavetes",
-      "spine": "251"
+      "criterionUrl": "https://www.criterion.com/films/500-shadows",
+      "directorLink": ""
     },
     {
       "title": "Sid & Nancy",
       "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d8be7d29c2f272ef4ff550cb57a245b9.jpeg",
       "director": "Alex Cox",
-      "spine": "20"
+      "criterionUrl": "https://www.criterion.com/films/535-sid-nancy",
+      "directorLink": ""
     },
     {
       "title": "Something Wild",
       "image": "https://criterion-production.s3.amazonaws.com/carousel-files/926103ac8e59f96d2974fa39225c4e5e.jpeg",
       "director": "Jack Garfein",
-      "spine": "850"
+      "criterionUrl": "https://www.criterion.com/films/28777-something-wild",
+      "directorLink": ""
     },
     {
       "title": "Speedy",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132325-5532127273d48f8e20590b0ef1efe582/Film_788_Speedy_original.jpg",
       "director": "Ted Wilde",
-      "spine": "788"
+      "criterionUrl": "https://www.criterion.com/films/28497-speedy",
+      "directorLink": ""
     },
     {
       "title": "Sweet Smell of Success",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130457-6c12786786bd51e5b8797e44cdae916f/Film_555w_SweetSmell_original.jpg",
       "director": "Alexander Mackendrick",
-      "spine": "555"
+      "criterionUrl": "https://www.criterion.com/films/27542-sweet-smell-of-success",
+      "directorLink": ""
     },
     {
       "title": "Symbiopsychotaxiplasm",
       "image": "https://s3.amazonaws.com/criterion-production/stills/5871-715b9051ea7b53ccfe5a170c2e1d2633/Film_360w_Symbiopsychotaxiplasm_original.jpg",
       "director": "William Greaves",
-      "spine": "360"
+      "criterionUrl": "https://www.criterion.com/films/751-symbiopsychotaxiplasm",
+      "directorLink": ""
     },
     {
       "title": "Tiny Furniture",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131569-9942be4ff50495929c675992dcf4b4cb/Film_597w_Tiny_Furniture_original.jpg",
       "director": "Lena Dunham",
-      "spine": "597"
+      "criterionUrl": "https://www.criterion.com/films/28317-tiny-furniture",
+      "directorLink": ""
     },
     {
       "title": "Tootsie",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132260-19aa2ae1adc5afe4c77a08e56c9c9a70/Film_738_Tootse_original.jpg",
       "director": "Sydney Pollack",
-      "spine": "738"
+      "criterionUrl": "https://www.criterion.com/films/28609-tootsie",
+      "directorLink": ""
     },
     {
       "title": "Vanya on 42nd Street",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131585-7d28675b1fe1dbe431979179b8c63c9a/Film_599w_VanyayOn42_original.jpg",
       "director": "Louis Malle",
-      "spine": "599"
+      "criterionUrl": "https://www.criterion.com/films/28022-vanya-on-42nd-street",
+      "directorLink": ""
     }
   ]
 }

@@ -4,55 +4,64 @@
       "title": "The Circus",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Circus.jpg",
       "director": "Charles Chaplin",
-      "spine": "996"
+      "criterionUrl": "https://www.criterion.com/films/27563-the-circus",
+      "directorLink": ""
     },
     {
       "title": "City Lights",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132198-bcd27eb4d2f6015adf5dda776658a3c2/Film_680_CityLights_original.jpg",
       "director": "Charles Chaplin",
-      "spine": "680"
+      "criterionUrl": "https://www.criterion.com/films/27558-city-lights",
+      "directorLink": ""
     },
     {
       "title": "The Freshman",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132223-b1908d5a632b10403e4c6ccd78344ca4/Film_703w_Freshman_original.jpg",
       "director": "Sam Taylor…",
-      "spine": "703"
+      "criterionUrl": "https://www.criterion.com/films/28510-the-freshman",
+      "directorLink": ""
     },
     {
       "title": "The Gold Rush",
       "image": "https://s3.amazonaws.com/criterion-production/stills/131948-13a817f12db2ad0138806381dbc713ef/Film_615w_GoldRush_original.jpg",
       "director": "Charles Chaplin",
-      "spine": "615"
+      "criterionUrl": "https://www.criterion.com/films/27565-the-gold-rush",
+      "directorLink": ""
     },
     {
       "title": "The Kid",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132334-64f4bfa87bfa5c21b593f439029ff71b/Film_799_TheKid_original.jpg",
       "director": "Charlie Chaplin",
-      "spine": "799"
+      "criterionUrl": "https://www.criterion.com/films/27566-the-kid",
+      "directorLink": ""
     },
     {
       "title": "The Kid Brother",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Kid_Brother.jpg",
       "director": "Ted Wilde",
-      "spine": "964"
+      "criterionUrl": "https://www.criterion.com/films/28499-the-kid-brother",
+      "directorLink": ""
     },
     {
       "title": "Modern Times",
       "image": "https://s3.amazonaws.com/criterion-production/stills/130257-dfcf4573a3dcfe2d68527acb35bef7aa/Film_543w_ModernTimes_original.jpg",
       "director": "Charles Chaplin",
-      "spine": "543"
+      "criterionUrl": "https://www.criterion.com/films/27526-modern-times",
+      "directorLink": ""
     },
     {
       "title": "Safety Last!",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Safety_Last.jpg",
       "director": "Fred Newmeyer…",
-      "spine": "662"
+      "criterionUrl": "https://www.criterion.com/films/28446-safety-last",
+      "directorLink": ""
     },
     {
       "title": "Speedy",
       "image": "https://s3.amazonaws.com/criterion-production/stills/132325-5532127273d48f8e20590b0ef1efe582/Film_788_Speedy_original.jpg",
       "director": "Ted Wilde",
-      "spine": "788"
+      "criterionUrl": "https://www.criterion.com/films/28497-speedy",
+      "directorLink": ""
     }
   ]
 }

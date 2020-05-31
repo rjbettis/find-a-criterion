@@ -4,18 +4,20 @@
       "title": "Band of Outsiders",
       "image": "http://s3.amazonaws.com/criterion-production/stills/132082-cf0a5f3e2e043c4360e350d0b722d762/Film_174w_BandOutsiders_original.jpg",
       "director": "Jean-Luc Godard",
-      "spine": "174"
+      "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders",
+      "directorLink": ""
     },
     {
       "title": "Big Deal on Madonna Street",
       "image": "http://s3.amazonaws.com/criterion-production/stills/130169-dd5e1c4af56306e3d40643a42f7caab9/Film_113w_BigDealMadonna_bw_original.jpg",
       "director": "Mario Monicelli",
-      "spine": "113"
+      "criterionUrl": "https://www.criterion.com/films/652-big-deal-on-madonna-street",
+      "directorLink": ""
     },
     {
       "title": "Bob le flambeur",
       "image": "http://s3.amazonaws.com/criterion-production/stills/130161-b67937fa647623df78ba039f15f9a0c4/Film_150w_BobFlambeur_bw_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/690-bob-le-flambeur",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/690-bob-le-flambeur",
       "director": "Jean-Pierre Melville",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/690-bob-le-flambeur"
     },
@@ -23,25 +25,27 @@
       "title": "Bottle Rocket",
       "image": "http://s3.amazonaws.com/criterion-production/stills/5581-900b5fcf683a66fd68c09f9e2c5a7e54/Film_450w_BottleRocket_original.jpg",
       "director": "Wes Anderson",
-      "spine": "450"
+      "criterionUrl": "https://www.criterion.com/films/594-bottle-rocket",
+      "directorLink": ""
     },
     {
       "title": "Classe tous risques",
       "image": "http://s3.amazonaws.com/criterion-production/stills/5637-a5a80642b0c4475ce5beffe2926747e6/Film_434w_ClasseTous_original.jpg",
       "director": "Claude Sautet",
-      "spine": "434"
+      "criterionUrl": "https://www.criterion.com/films/591-classe-tous-risques",
+      "directorLink": ""
     },
     {
       "title": "Le cercle rouge",
       "image": "http://s3.amazonaws.com/criterion-production/stills/130769-e0f1a74e4d1276e2e3f77fd6cb208eee/Film_218w_CercleRouge_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/628-le-cercle-rouge",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/628-le-cercle-rouge",
       "director": "Jean-Pierre Melville",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/628-le-cercle-rouge"
     },
     {
       "title": "Cruel Gun Story",
       "image": "http://s3.amazonaws.com/criterion-production/stills/25620-5e87d4e8d0356df5b69ebf86cf8db921/XXX_Film_cruelgunstory1_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/2958-cruel-gun-story",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/2958-cruel-gun-story",
       "director": "Takumi Furukawa",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/2958-cruel-gun-story"
     },
@@ -49,12 +53,13 @@
       "title": "Le deuxième souffle",
       "image": "http://s3.amazonaws.com/criterion-production/stills/9905-99ea885a90c2933a6e73252c6695db07/DiexSouffleW_original.jpg",
       "director": "Jean-Pierre Melville",
-      "spine": "448"
+      "criterionUrl": "https://www.criterion.com/films/760-le-deuxi-me-souffle",
+      "directorLink": ""
     },
     {
       "title": "Le doulos",
       "image": "http://s3.amazonaws.com/criterion-production/stills/9897-88f3ccb0a0c0ce823bc1520e15432915/Doulosw_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/759-le-doulos",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/759-le-doulos",
       "director": "Jean-Pierre Melville",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/759-le-doulos"
     },
@@ -62,25 +67,27 @@
       "title": "Fantastic Mr. Fox",
       "image": "http://s3.amazonaws.com/criterion-production/stills/132216-41dc81dab5923314b908d1c3a7e037aa/Film_700w_FantasticFox_original.jpg",
       "director": "Wes Anderson",
-      "spine": "700"
+      "criterionUrl": "https://www.criterion.com/films/28565-fantastic-mr-fox",
+      "directorLink": ""
     },
     {
       "title": "The Friends of Eddie Coyle",
       "image": "http://s3.amazonaws.com/criterion-production/stills/13475-7dbb53e9dfd45d2d37e084bb06e84571/475_Film_original.jpg",
       "director": "Peter Yates",
-      "spine": "475"
+      "criterionUrl": "https://www.criterion.com/films/1426-the-friends-of-eddie-coyle",
+      "directorLink": ""
     },
     {
       "title": "Intimidation",
       "image": "http://s3.amazonaws.com/criterion-production/stills/131113-1392627a22579a8f3d13a388165a8e0d/Kurahara_Filmw_Intimidation_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/27759-intimidation",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/27759-intimidation",
       "director": "Koreyoshi Kurahara",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/27759-intimidation"
     },
     {
       "title": "The Killers",
       "image": "http://s3.amazonaws.com/criterion-production/stills/10391-c2a19aec97b5b7a62f0d46f6ffeaaac4/Killers46_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/724-the-killers",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/724-the-killers",
       "director": "Robert Siodmak",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/724-the-killers"
     },
@@ -88,12 +95,13 @@
       "title": "The Killing",
       "image": "http://s3.amazonaws.com/criterion-production/stills/131097-4f1691447c25e6d13f0792b2dc4fac40/Film_575w_TheKilling_original.jpg",
       "director": "Stanley Kubrick",
-      "spine": "575"
+      "criterionUrl": "https://www.criterion.com/films/27751-the-killing",
+      "directorLink": ""
     },
     {
       "title": "The League of Gentlemen",
       "image": "http://s3.amazonaws.com/criterion-production/stills/130425-3da87f4d0214a420ef9f5911738968d8/Deardon_Filmw_LeagueGentlemen_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/27537-the-league-of-gentlemen",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/27537-the-league-of-gentlemen",
       "director": "Basil Dearden",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/27537-the-league-of-gentlemen"
     },
@@ -101,18 +109,20 @@
       "title": "Rififi",
       "image": "http://s3.amazonaws.com/criterion-production/stills/132224-df37d23d7ed92dbcc02c29bfb3da3850/Film_115w_Rififi_original.jpg",
       "director": "Jules Dassin",
-      "spine": "115"
+      "criterionUrl": "https://www.criterion.com/films/654-rififi",
+      "directorLink": ""
     },
     {
       "title": "Thief",
       "image": "http://s3.amazonaws.com/criterion-production/stills/132211-6ca6c3b348becd0919f363acf04c7fed/Film_691w_Thief_original.jpg",
       "director": "Michael Mann",
-      "spine": "691"
+      "criterionUrl": "https://www.criterion.com/films/28024-thief",
+      "directorLink": ""
     },
     {
       "title": "Touchez pas au grisbiJacques Becker",
       "image": "https://web.archive.org/web/20150627055318im_/http://s3.amazonaws.com/criterion-production/stills/6653-e7cc1ab78374b659bf7ccdc7651084a1/Film_271w_TouchezPas_original.jpg",
-      "image_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/941-touchez-pas-au-grisbi",
+      "criterionUrl": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/941-touchez-pas-au-grisbi",
       "director": "Jacques Becker",
       "director_url": "https://web.archive.org/web/20150627055318/http://www.criterion.com/films/941-touchez-pas-au-grisbi"
     }
