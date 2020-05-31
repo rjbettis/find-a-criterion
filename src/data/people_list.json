@@ -1,0 +1,64 @@
+{
+  "people": [
+    {
+      "name": "Ingmar Bergman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Ingmar_Bergman.jpg",
+      "link": "IngmarBergman",
+      "summary": "The Swedish auteur began his artistic career in the theater but eventually navigated toward film—“the great adventure,” as he called it—initially as a screenwriter and then as a director. Simply put, in the fifties and sixties, the name Ingmar Bergman was synonymous with European art cinema. Yet his incredible run of successes in that era—including The Seventh Seal, Wild Strawberries, and The Virgin Spring, haunting black-and-white elegies on the nature of God and death—merely paved the way for a long and continuously dazzling career that would take him from the daring “Silence of God” trilogy (Through a Glass Darkly, Winter Light, The Silence) to the existential terrors of Cries and Whispers to the family epic Fanny and Alexander, with which he “retired” from the cinema. Bergman died in July 2007, leaving behind one of the richest bodies of work in the history of cinema."
+    },
+    {
+      "name": "Robert Bresson",
+      "image": "",
+      "link": "RobertBresson",
+      "summary": "summary"
+    },
+    {
+      "name": "Luis Buñuel",
+      "image": "",
+      "link": "LuisBunuel",
+      "summary": "summary"
+    },
+    {
+      "name": "Henri-Georges Clouzot",
+      "image": "",
+      "link": "HenriGeorgesClouzot",
+      "summary": "summary"
+    },
+    {
+      "name": "Federico Fellini",
+      "image": "",
+      "link": "FedericoFellini",
+      "summary": "summary"
+    },
+    {
+      "name": "Jean-Luc Godard",
+      "image": "",
+      "link": "JeanLucGodard",
+      "summary": "summary"
+    },
+    {
+      "name": "Akira Kurosawa",
+      "image": "",
+      "link": "AkiraKurosawa",
+      "summary": "summary"
+    },
+    {
+      "name": "Michael Powell",
+      "image": "",
+      "link": "Michael Powell",
+      "summary": "summary"
+    },
+    {
+      "name": "Jean Renoir",
+      "image": "",
+      "link": "JeanRenoir",
+      "summary": "summary"
+    },
+    {
+      "name": "François Truffaut",
+      "image": "",
+      "link": "FrancoisTruffaut",
+      "summary": "summary"
+    }
+  ]
+}

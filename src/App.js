@@ -8,6 +8,7 @@ import Top10 from './components/pages/Top10';
 import Themes from './components/pages/Themes';
 import People from './components/pages/People';
 import GetTheme from './components/GetTheme';
+import GetPerson from './components/GetPerson';
 
 class App extends Component {
   state = {
@@ -24,6 +25,7 @@ class App extends Component {
           <Route exact path="/explore/themes" component={Themes} />
           <Route exact path="/explore/people" component={People} />
           <Route exact path="/explore/themes/:theme" component={GetTheme} />
+          <Route exact path="/explore/people/:person" component={GetPerson} />
         </Container>
       </Router>
     );

@@ -25,7 +25,7 @@ export class Themes extends Component {
     return (
       <Container>
         <Breadcrumb>
-          <Breadcrumb.Item href="/Explore">Explore</Breadcrumb.Item>
+          <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item active>Themes</Breadcrumb.Item>
         </Breadcrumb>
 

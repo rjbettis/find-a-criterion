@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import combinedJson from './Combined';
+import combinedJson from './CombinedPeople';
 import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
-import ThemeList from '../data/theme_list.json';
+import PeopleList from '../data/people_list.json';
 
-export class GetTheme extends Component {
+export class GetPerson extends Component {
   state = {
     films: [],
     data: combinedJson,
@@ -19,12 +19,13 @@ export class GetTheme extends Component {
 
     var i;
     for (i in keys) {
-      if (this.props.match.params.theme === keys[i]) {
+      console.log(this.props.match.params.person + ' = ' + keys[i]);
+      if (this.props.match.params.person === keys[i]) {
         this.setState({
           films: combinedJson[keys[i]],
-          currentTheme: ThemeList.themes[i].title,
-          currentSummary: ThemeList.themes[i].summary,
-          currentImage: ThemeList.themes[i].image,
+          currentPerson: PeopleList.people[i].name,
+          currentSummary: PeopleList.people[i].summary,
+          currentImage: PeopleList.people[i].image,
         });
       }
     }
@@ -33,7 +34,7 @@ export class GetTheme extends Component {
   }
 
   render() {
-    const currentTheme = this.state.currentTheme;
+    const currentPerson = this.state.currentPerson;
     const currentSummary = this.state.currentSummary;
     const currentImage = this.state.currentImage;
 
@@ -41,12 +42,12 @@ export class GetTheme extends Component {
       <Container>
         <Breadcrumb>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
-          <Breadcrumb.Item href="/explore/themes">Themes</Breadcrumb.Item>
-          <Breadcrumb.Item active>{currentTheme}</Breadcrumb.Item>
+          <Breadcrumb.Item href="/explore/people">People</Breadcrumb.Item>
+          <Breadcrumb.Item active>{currentPerson}</Breadcrumb.Item>
         </Breadcrumb>
 
         <Col className={'heading-style'}>
-          <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif" />
+          <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif" />
         </Col>
 
         <Col lg={12}>
@@ -65,7 +66,7 @@ export class GetTheme extends Component {
               <Card className={'theme-card-style'}>
                 <Card.Body className={'movie-card-text '}>
                   <h4>
-                    <strong>{currentTheme}</strong>
+                    <strong>{currentPerson}</strong>
                   </h4>
                   {currentSummary}
                 </Card.Body>
@@ -77,7 +78,6 @@ export class GetTheme extends Component {
         <Row>
           {this.state.films.map((film) => {
             var criterionUrl = film.criterionUrl;
-            console.log(film.director);
             return (
               <Col lg={4} key={film.title + 'Col'}>
                 <Card className={'card-style my-3'} key={film.title}>
@@ -87,7 +87,7 @@ export class GetTheme extends Component {
                       <a href={criterionUrl}>{film.title}</a>
                     </Card.Title>
                     <Card.Text className={'movie-director'}>
-                      {film.director}
+                      {film.year}
                     </Card.Text>
                   </Card.Body>
                 </Card>
@@ -100,4 +100,4 @@ export class GetTheme extends Component {
   }
 }
 
-export default GetTheme;
+export default GetPerson;
