@@ -15,8 +15,14 @@ export class GetPerson extends Component {
   };
 
   componentDidMount() {
+    // Creates an array of keys from the json files in CombinedPeople.js
     var keys = Object.keys(this.state.data);
 
+    /* 
+    Checks the dynamic react router param from the URL against the keys array. If it matches one of the keys 
+    then the required data to render the page (currentPerson, currentSummary, currentImage) are set to states.
+    An array of films that match the key are set to the 'films' state.
+    */
     var i;
     for (i in keys) {
       console.log(this.props.match.params.person + ' = ' + keys[i]);
@@ -34,22 +40,21 @@ export class GetPerson extends Component {
   }
 
   render() {
-    const currentPerson = this.state.currentPerson;
-    const currentSummary = this.state.currentSummary;
-    const currentImage = this.state.currentImage;
-
     return (
       <Container>
+        {/* Navigation component */}
         <Breadcrumb>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item href="/explore/people">People</Breadcrumb.Item>
-          <Breadcrumb.Item active>{currentPerson}</Breadcrumb.Item>
+          <Breadcrumb.Item active>{this.state.currentPerson}</Breadcrumb.Item>
         </Breadcrumb>
 
+        {/* Theme image */}
         <Col className={'heading-style'}>
           <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif" />
         </Col>
 
+        {/* Displays person image, name and summary in a card */}
         <Col lg={12}>
           <Row>
             <Col className={'theme-card-style my-3'}>
@@ -58,7 +63,7 @@ export class GetPerson extends Component {
                   width={448}
                   height="auto"
                   className={'theme-card-style my-4 mx-1'}
-                  src={currentImage}
+                  src={this.state.currentImage}
                 />
               </Card>
             </Col>
@@ -66,25 +71,25 @@ export class GetPerson extends Component {
               <Card className={'theme-card-style'}>
                 <Card.Body className={'movie-card-text '}>
                   <h4>
-                    <strong>{currentPerson}</strong>
+                    <strong>{this.state.currentPerson}</strong>
                   </h4>
-                  {currentSummary}
+                  {this.state.currentSummary}
                 </Card.Body>
               </Card>
             </Col>
           </Row>
         </Col>
 
+        {/* Maps through 'films' state to display data in cards. */}
         <Row>
           {this.state.films.map((film) => {
-            var criterionUrl = film.criterionUrl;
             return (
               <Col lg={4} key={film.title + 'Col'}>
                 <Card className={'card-style my-3'} key={film.title}>
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
                     <Card.Title className={'movie-title'}>
-                      <a href={criterionUrl}>{film.title}</a>
+                      <a href={film.criterionUrl}>{film.title}</a>
                     </Card.Title>
                     <Card.Text className={'movie-director'}>
                       {film.year}

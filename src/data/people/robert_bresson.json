@@ -1,0 +1,46 @@
+{
+  "RobertBresson": [
+    {
+      "title": "Au hasard Balthazar",
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Au_hasard_Balthazar.jpg",
+      "criterionUrl": "https://www.criterion.com/films/455-au-hasard-balthazar"
+    },
+    {
+      "title": "Les dames du Bois de Boulogne",
+      "year": "1945",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/dames_du_Bois_de_Boulogne.jpg",
+      "criterionUrl": "https://www.criterion.com/films/451-les-dames-du-bois-de-boulogne"
+    },
+    {
+      "title": "Diary of a Country Priest",
+      "year": "1951",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Diary_of_a_Country_Priest.jpg",
+      "criterionUrl": "https://www.criterion.com/films/452-diary-of-a-country-priest"
+    },
+    {
+      "title": "L’argent",
+      "year": "1983",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Largent.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27588-l-argent"
+    },
+    {
+      "title": "A Man Escaped",
+      "year": "1956",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Man_Escaped.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27848-a-man-escaped"
+    },
+    {
+      "title": "Mouchette",
+      "year": "1967",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mouchette.jpg",
+      "criterionUrl": "https://www.criterion.com/films/456-mouchette"
+    },
+    {
+      "title": "Pickpocket",
+      "year": "1959",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Pickpocket.jpg",
+      "criterionUrl": "https://www.criterion.com/films/229-pickpocket"
+    }
+  ]
+}

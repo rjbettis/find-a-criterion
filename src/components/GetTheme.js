@@ -15,8 +15,14 @@ export class GetTheme extends Component {
   };
 
   componentDidMount() {
+    // Creates an array of keys from the json files in Combined.js
     var keys = Object.keys(this.state.data);
 
+    /* 
+    Checks the dynamic react router param from the URL against the keys array. If it matches one of the keys 
+    then the required data to render the page (currentTheme, CurrentSummary, CurrentImage) are set to states.
+    An array of films that match the key are set to the 'films' state.
+    */
     var i;
     for (i in keys) {
       if (this.props.match.params.theme === keys[i]) {
@@ -33,22 +39,21 @@ export class GetTheme extends Component {
   }
 
   render() {
-    const currentTheme = this.state.currentTheme;
-    const currentSummary = this.state.currentSummary;
-    const currentImage = this.state.currentImage;
-
     return (
       <Container>
+        {/* Navigation component */}
         <Breadcrumb>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item href="/explore/themes">Themes</Breadcrumb.Item>
-          <Breadcrumb.Item active>{currentTheme}</Breadcrumb.Item>
+          <Breadcrumb.Item active>{this.state.currentTheme}</Breadcrumb.Item>
         </Breadcrumb>
 
+        {/* Theme image */}
         <Col className={'heading-style'}>
           <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif" />
         </Col>
 
+        {/* Displays theme image, title and summary in a card */}
         <Col lg={12}>
           <Row>
             <Col className={'theme-card-style my-3'}>
@@ -57,7 +62,7 @@ export class GetTheme extends Component {
                   width={448}
                   height="auto"
                   className={'theme-card-style my-4 mx-1'}
-                  src={currentImage}
+                  src={this.state.currentImage}
                 />
               </Card>
             </Col>
@@ -65,26 +70,25 @@ export class GetTheme extends Component {
               <Card className={'theme-card-style'}>
                 <Card.Body className={'movie-card-text '}>
                   <h4>
-                    <strong>{currentTheme}</strong>
+                    <strong>{this.state.currentTheme}</strong>
                   </h4>
-                  {currentSummary}
+                  {this.state.currentSummary}
                 </Card.Body>
               </Card>
             </Col>
           </Row>
         </Col>
 
+        {/* Maps through 'films' state to display data in cards. */}
         <Row>
           {this.state.films.map((film) => {
-            var criterionUrl = film.criterionUrl;
-            console.log(film.director);
             return (
               <Col lg={4} key={film.title + 'Col'}>
                 <Card className={'card-style my-3'} key={film.title}>
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
                     <Card.Title className={'movie-title'}>
-                      <a href={criterionUrl}>{film.title}</a>
+                      <a href={film.criterionUrl}>{film.title}</a>
                     </Card.Title>
                     <Card.Text className={'movie-director'}>
                       {film.director}

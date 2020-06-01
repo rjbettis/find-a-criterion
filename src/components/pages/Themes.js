@@ -18,21 +18,25 @@ export class Themes extends Component {
   }
 
   componentDidMount() {
+    //Sets themes state to theme_list json object 'themes'
     this.setState({ themes: ThemeList.themes });
   }
 
   render() {
     return (
       <Container>
+        {/* Navigation component */}
         <Breadcrumb>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item active>Themes</Breadcrumb.Item>
         </Breadcrumb>
 
+        {/* Theme image */}
         <Col className={'heading-style'}>
           <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif" />
         </Col>
 
+        {/* Maps through 'themes' state to display data in cards. */}
         <Row>
           {this.state.themes.map((theme) => {
             return (
@@ -45,6 +49,7 @@ export class Themes extends Component {
                   />
                   <Card.Body>
                     <Card.Title className={'theme-card-title'}>
+                      {/* When router link is clicked, it creates a dynamic route and passes relevant theme data to GetTheme */}
                       <Link
                         to={{
                           pathname: `/explore/themes/${theme.link}`,

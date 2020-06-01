@@ -2,111 +2,165 @@
   "IngmarBergman": [
     {
       "title": "Autumn Sonata",
-      "year": "1978"
+      "year": "1978",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Autumn_Sonata.jpg",
+      "criterionUrl": "https://www.criterion.com/films/605-autumn-sonata"
     },
     {
       "title": "Bergman Island",
-      "year": "2006"
+      "year": "2006",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Bergman_Island.jpg",
+      "criterionUrl": "https://www.criterion.com/films/556-bergman-island"
     },
     {
       "title": "Cries and Whispers",
-      "year": "1972"
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Cries_and_Whispers.jpg",
+      "criterionUrl": "https://www.criterion.com/films/237-cries-and-whispers"
     },
     {
       "title": "Crisis",
-      "year": "1946"
+      "year": "1946",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Crisis.jpg",
+      "criterionUrl": "https://www.criterion.com/films/642-crisis"
     },
     {
       "title": "Fanny and Alexander: Television Version",
-      "year": "1983"
+      "year": "1983",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Fanny_and_Alexander_Television_Version.jpg",
+      "criterionUrl": "https://www.criterion.com/films/626-fanny-and-alexander-television-version"
     },
     {
       "title": "Fanny and Alexander: Theatrical Version",
-      "year": "1982"
+      "year": "1982",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Fanny_and_Alexander_Theatrical_Version.jpg",
+      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version"
     },
     {
       "title": "Ingmar Bergman Makes a Movie",
-      "year": "1962"
+      "year": "1962",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Ingmar_Bergman_Makes_a_Movie.jpg",
+      "criterionUrl": "https://www.criterion.com/films/608-ingmar-bergman-makes-a-movie"
     },
     {
       "title": "The Magic Flute",
-      "year": "1975"
+      "year": "1975",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Magic_Flute.jpg",
+      "criterionUrl": "https://www.criterion.com/films/613-the-magic-flute"
     },
     {
       "title": "The Magician",
-      "year": "1958"
+      "year": "1958",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Magician.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27521-the-magician"
     },
     {
       "title": "The Making of Fanny and Alexander",
-      "year": "1982"
+      "year": "1982",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Making_of_Fanny_and_Alexander.jpg",
+      "criterionUrl": "https://www.criterion.com/films/627-the-making-of-fanny-and-alexander"
     },
     {
       "title": "Persona",
-      "year": "1966"
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Persona.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28491-persona"
     },
     {
       "title": "Port of Call",
-      "year": "1948"
+      "year": "1948",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Port_of_Call.jpg",
+      "criterionUrl": "https://www.criterion.com/films/643-port-of-call"
     },
     {
       "title": "Sawdust and Tinsel",
-      "year": "1953"
+      "year": "1953",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Sawdust_and_Tinsel.jpg",
+      "criterionUrl": "https://www.criterion.com/films/842-sawdust-and-tinsel"
     },
     {
       "title": "Scenes from a Marriage",
-      "year": "1973"
+      "year": "1973",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Scenes_from_a_Marriage.jpg",
+      "criterionUrl": "https://www.criterion.com/films/710-scenes-from-a-marriage"
     },
     {
       "title": "The Seventh Seal",
-      "year": "1957"
+      "year": "1957",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Seventh_Seal.jpg",
+      "criterionUrl": "https://www.criterion.com/films/173-the-seventh-seal"
     },
     {
       "title": "Shame",
-      "year": "1968"
+      "year": "1968",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Shame.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28877-shame"
     },
     {
       "title": "The Silence",
-      "year": "1963"
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Silence.jpg",
+      "criterionUrl": "https://www.criterion.com/films/570-the-silence"
     },
     {
       "title": "Smiles of a Summer Night",
-      "year": "1955"
+      "year": "1955",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Smiles_of_a_Summer_Night.jpg",
+      "criterionUrl": "https://www.criterion.com/films/849-smiles-of-a-summer-night"
     },
     {
       "title": "Summer Interlude",
-      "year": "1951"
+      "year": "1951",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Summer_Interlude.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27782-summer-interlude"
     },
     {
       "title": "Summer with Monika",
-      "year": "1953"
+      "year": "1953",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Summer_with_Monika.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27638-summer-with-monika"
     },
     {
       "title": "Thirst",
-      "year": "1949"
+      "year": "1949",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Thirst.jpg",
+      "criterionUrl": "https://www.criterion.com/films/644-thirst"
     },
     {
       "title": "Through a Glass Darkly",
-      "year": "1961"
+      "year": "1961",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Through_a_Glass_Darkly.jpg",
+      "criterionUrl": "https://www.criterion.com/films/568-through-a-glass-darkly"
     },
     {
       "title": "To Joy",
-      "year": "1950"
+      "year": "1950",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/To_Joy.jpg",
+      "criterionUrl": "https://www.criterion.com/films/645-to-joy"
     },
     {
       "title": "Torment",
-      "year": "1944"
+      "year": "1944",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Torment.jpg",
+      "criterionUrl": "https://www.criterion.com/films/641-torment"
     },
     {
       "title": "The Virgin Spring",
-      "year": "1960"
+      "year": "1960",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Virgin_Spring.jpg",
+      "criterionUrl": "https://www.criterion.com/films/372-the-virgin-spring"
     },
     {
       "title": "Wild Strawberries",
-      "year": "1957"
+      "year": "1957",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Wild_Strawberries.jpg",
+      "criterionUrl": "https://www.criterion.com/films/175-wild-strawberries"
     },
     {
       "title": "Winter Light",
-      "year": "1963"
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Winter_Light.jpg",
+      "criterionUrl": "https://www.criterion.com/films/569-winter-light"
     }
   ]
 }
