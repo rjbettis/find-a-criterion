@@ -260,17 +260,18 @@
       "directorLink": ""
     },
     {
-      "title": "The Lower Depths",
+      "title": "The Lower Depths (1936)",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9963-ed630259321216b3170c33ef905e1fdb/LowerDepthRw_original.jpg",
+      "director": "Jean Renoir",
       "criterionUrl": "https://www.criterion.com/films/870-the-lower-depths",
-      "director": "Jean Renoir"
+      "directorLink": ""
     },
     {
-      "title": "The Lower Depths",
+      "title": "The Lower Depths (1957)",
       "image": "https://s3.amazonaws.com/criterion-production/stills/9955-de800ad3b9890ee15e995180160a3d58/LowerDepthsKw_original.jpg",
-      "criterionUrl": "https://www.criterion.com/films/857-the-lower-depths",
       "director": "Akira Kurosawa",
-      "director_url": "https://www.criterion.com/films/857-the-lower-depths"
+      "criterionUrl": "https://www.criterion.com/films/857-the-lower-depths",
+      "directorLink": ""
     },
     {
       "title": "The Magnificent Ambersons",
