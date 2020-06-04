@@ -1,0 +1,34 @@
+{
+  "HenriGeorgesClouzot": [
+    {
+      "title": "Le Corbeau",
+      "year": "1943",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Corbeau.jpg",
+      "criterionUrl": "https://www.criterion.com/films/684-le-corbeau"
+    },
+    {
+      "title": "Diabolique",
+      "year": "1955",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Diabolique.jpg",
+      "criterionUrl": "https://www.criterion.com/films/575-diabolique"
+    },
+    {
+      "title": "Panique",
+      "year": "1946",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Panique.jpg",
+      "criterionUrl": "https://www.criterion.com/films/29510-panique"
+    },
+    {
+      "title": "Quai des Orfèvres",
+      "year": "1947",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Quai+des+Orfevres.jpg",
+      "criterionUrl": "https://www.criterion.com/films/738-quai-des-orfevres"
+    },
+    {
+      "title": "The Wages of Fear",
+      "year": "1953",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Wages+of+Fear.jpg",
+      "criterionUrl": "https://www.criterion.com/films/370-the-wages-of-fear"
+    }
+  ]
+}
