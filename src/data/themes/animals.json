@@ -2,119 +2,119 @@
   "Animals": [
     {
       "title": "Androcles and the Lion",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/51975-930de8a6d4fa87d85f0587e6b92a0988/Shaw_box_film_Andronocles_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Androcles+and+the+Lion.jpg",
       "director": "Chester Erskine",
       "criterionUrl": "https://www.criterion.com/films/6225-androcles-and-the-lion",
       "directorLink": ""
     },
     {
       "title": "Au hasard Balthazar",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132109-e5f697b6ea822a3b41660e2cdb6b0308/Au_hasard_Balthazar_Film_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Au+hasard+Balthazar.jpg",
       "director": "Robert Bresson",
       "criterionUrl": "https://www.criterion.com/films/455-au-hasard-balthazar",
       "directorLink": ""
     },
     {
       "title": "The Black Stallion",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132295-c1b848626e1ae5a1b2aed20d5cddcbd7/Film_765_BlackStallion_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Black+Stallion.jpg",
       "director": "Carroll Ballard",
       "criterionUrl": "https://www.criterion.com/films/28685-the-black-stallion",
       "directorLink": ""
     },
     {
       "title": "Cat People",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132373-d8ea520d0f738526cd5d5ed50ac32f0c/Film_833_CatPeople_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cat+People.jpg",
       "director": "Jacques Tourneur",
       "criterionUrl": "https://www.criterion.com/films/28696-cat-people",
       "directorLink": ""
     },
     {
       "title": "Elephant Boy",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131353-62aead523027a634e8fa656e170aeab4/Sabu_Filmw_ElephantBoy_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Elephant+Boy.jpg",
       "director": "Robert Flaherty and Zoltán Korda",
       "criterionUrl": "https://www.criterion.com/films/27564-elephant-boy",
       "directorLink": ""
     },
     {
       "title": "Fantastic Mr. Fox",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132216-41dc81dab5923314b908d1c3a7e037aa/Film_700w_FantasticFox_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fantastic+Mr.+Fox.jpg",
       "director": "Wes Anderson",
       "criterionUrl": "https://www.criterion.com/films/28565-fantastic-mr-fox",
       "directorLink": ""
     },
     {
       "title": "Heart of a Dog",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d0300ccd38470d97c444c098150428d3.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Heart+of+a+Dog.jpg",
       "director": "Laurie Anderson",
       "criterionUrl": "https://www.criterion.com/films/28909-heart-of-a-dog",
       "directorLink": ""
     },
     {
       "title": "House",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130177-5b40dbf6b529a3b5ae3f8862c27945d1/Film_539w_House_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/House.jpg",
       "director": "Nobuhiko Obayashi",
       "criterionUrl": "https://www.criterion.com/films/27523-house",
       "directorLink": ""
     },
     {
       "title": "Junlge Book",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131369-cad64bff99ff80038d5c2d9593434ef4/Sabu_Filmw_JungleBook_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Jungle+Book.jpg",
       "director": "Zoltán Korda",
       "criterionUrl": "https://www.criterion.com/films/27649-jungle-book",
       "directorLink": ""
     },
     {
       "title": "Kes",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130785-e47df9bafe2ac5ad4edd1a70328028af/Film_561w_Kes_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kes.jpg",
       "director": "Ken Loach",
       "criterionUrl": "https://www.criterion.com/films/27560-kes",
       "directorLink": ""
     },
     {
       "title": "Koko: A Talking Gorilla",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5961-e5fe0ed77a48d6ffe16ecac83d997807/Film_340w_KoKo_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Koko+A+Talking+Gorilla.jpg",
       "director": "Barbet Schroeder",
       "criterionUrl": "https://www.criterion.com/films/782-koko-a-talking-gorilla",
       "directorLink": ""
     },
     {
       "title": "Pigs and Battleships",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Pigs_and_Battleships_Animals.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pigs+and+Battleships.jpg",
       "director": "Shohei Imamura",
       "criterionUrl": "https://www.criterion.com/films/1428-pigs-and-battleships",
       "directorLink": ""
     },
     {
       "title": "Robinson Crusoe on Mars",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7493-93c9127ab036460b7515aee64f31585b/Film_404w_RobinsonCrusoe_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Robinson+Crusoe+on+Mars.jpg",
       "director": "Byron Haskin",
       "criterionUrl": "https://www.criterion.com/films/821-robinson-crusoe-on-mars",
       "directorLink": ""
     },
     {
-      "title": "Science Is Fiction: 23 Films by Jean Painlevé",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/19167-5d9fd5dfce45ba72e7c2080dbf885370/painleve_octopus_still_original.jpg",
+      "title": "Science is Fiction: 23 Films by Jean Painlevé",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Science+is+Fiction.jpg",
       "director": "Jean Painlevé",
       "criterionUrl": "https://www.criterion.com/films/1286-science-is-fiction-23-films-by-jean-painlev",
       "directorLink": ""
     },
     {
       "title": "Watership Down",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132275-8237ae69709293121319d521854cc70f/Film_748w_WatershipDown_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Watership+Down.jpg",
       "director": "Martin Rosen",
       "criterionUrl": "https://www.criterion.com/films/28620-watership-down",
       "directorLink": ""
     },
     {
       "title": "White Dog",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/9913-790f71c1048a9e18ca7b5034f3c74a79/WhiteDogw_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/White+Dog.jpg",
       "director": "Samuel Fuller",
       "criterionUrl": "https://www.criterion.com/films/861-white-dog",
       "directorLink": ""
     },
     {
       "title": "White Mane",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/White_Mane.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/White+Mane.jpg",
       "director": "Albert Lamorisse",
       "criterionUrl": "https://www.criterion.com/films/943-white-mane",
       "directorLink": ""
