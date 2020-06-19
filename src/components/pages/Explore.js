@@ -17,6 +17,7 @@ export class Explore extends Component {
     return (
       <Container>
         <Breadcrumb>
+          <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
           <Breadcrumb.Item active>Explore</Breadcrumb.Item>
         </Breadcrumb>
         <Row>
@@ -58,7 +59,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  <Link to="/explore/top10">{'Explore Top 10 lists'}</Link>
+                  {'Explore Top 10 lists'}
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Every month, we ask a friend—a filmmaker, a programmer, a
@@ -69,6 +70,7 @@ export class Explore extends Component {
                   surprising, and always entertaining.
                 </Card.Text>
               </Card.Body>
+              <Link to="/explore/top10" className="stretched-link"></Link>
             </Card>
           </Col>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
@@ -80,7 +82,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  <Link to="/explore/people">{'Explore People'}</Link>
+                  {'Explore People'}
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Robert Bresson, Federico Fellini, Jean-Luc Godard, Akira
@@ -90,6 +92,7 @@ export class Explore extends Component {
                   who make possible the classic films in our catalog.
                 </Card.Text>
               </Card.Body>
+              <Link to="/explore/people" className="stretched-link"></Link>
             </Card>
           </Col>
           <Col xs={6} sm={5} md={4} lg={4} xl={4}>
@@ -101,7 +104,7 @@ export class Explore extends Component {
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  <Link to="explore/themes">{'Explore Themes'}</Link>
+                  {'Explore Themes'}
                 </Card.Title>
                 <Card.Text className={'card-text'}>
                   Ever wonder just what is meant by "poetic realism," "New
@@ -112,6 +115,7 @@ export class Explore extends Component {
                   essential film movements and categories.
                 </Card.Text>
               </Card.Body>
+              <Link to="/explore/themes" className="stretched-link"></Link>
             </Card>
           </Col>
         </Row>

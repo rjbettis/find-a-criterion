@@ -4,9 +4,9 @@ import Nav from 'react-bootstrap/Nav';
 
 function Navigation() {
   return (
-    <Navbar bg="dark" variant="dark">
+    <Navbar className="custom-nav" variant="dark">
       <Navbar.Brand href="/">Find a Criterion</Navbar.Brand>
-      <Nav className="mr-auto">
+      <Nav>
         <Nav.Link href="/explore">Explore</Nav.Link>
         <Nav.Link href="/browse">Browse</Nav.Link>
       </Nav>

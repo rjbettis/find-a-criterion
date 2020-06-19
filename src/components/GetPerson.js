@@ -44,6 +44,7 @@ export class GetPerson extends Component {
       <Container>
         {/* Navigation component */}
         <Breadcrumb>
+          <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item href="/explore/people">People</Breadcrumb.Item>
           <Breadcrumb.Item active>{this.state.currentPerson}</Breadcrumb.Item>
@@ -85,16 +86,19 @@ export class GetPerson extends Component {
           {this.state.films.map((film, index) => {
             return (
               <Col lg={4} key={film.title + 'Col'}>
-                <Card className={'card-style my-3'} key={index}>
+                <Card className={'card-style-blue-text my-3'} key={index}>
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
                     <Card.Title className={'movie-title'}>
-                      <a href={film.criterionUrl}>{film.title}</a>
+                      {film.title}
                     </Card.Title>
                     <Card.Text className={'movie-director'}>
                       {film.year}
                     </Card.Text>
                   </Card.Body>
+                  <a href={film.criterionUrl} className="stretched-link">
+                    {' '}
+                  </a>
                 </Card>
               </Col>
             );

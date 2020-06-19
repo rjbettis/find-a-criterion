@@ -27,6 +27,7 @@ export class Themes extends Component {
       <Container>
         {/* Navigation component */}
         <Breadcrumb>
+          <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item active>Themes</Breadcrumb.Item>
         </Breadcrumb>
@@ -41,7 +42,7 @@ export class Themes extends Component {
           {this.state.themes.map((theme) => {
             return (
               <Col xs={6} sm={5} md={4} lg={4} xl={4} key={theme.title + 'Col'}>
-                <Card className={'card-style my-3'} key={theme.title}>
+                <Card className={'card-style-blue-text my-3'} key={theme.title}>
                   <Card.Img
                     className={'card-style'}
                     variant="top"
@@ -50,20 +51,21 @@ export class Themes extends Component {
                   <Card.Body>
                     <Card.Title className={'theme-card-title'}>
                       {/* When router link is clicked, it creates a dynamic route and passes relevant theme data to GetTheme */}
-                      <Link
-                        to={{
-                          pathname: `/explore/themes/${theme.link}`,
-                          state: {
-                            themeTitle: theme.title,
-                            themeImage: theme.image,
-                            themeLink: theme.link,
-                          },
-                        }}
-                      >
-                        {theme.title}
-                      </Link>
+
+                      {theme.title}
                     </Card.Title>
                   </Card.Body>
+                  <Link
+                    to={{
+                      pathname: `/explore/themes/${theme.link}`,
+                      state: {
+                        themeTitle: theme.title,
+                        themeImage: theme.image,
+                        themeLink: theme.link,
+                      },
+                    }}
+                    className="stretched-link"
+                  ></Link>
                 </Card>
               </Col>
             );

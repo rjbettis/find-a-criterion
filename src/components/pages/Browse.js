@@ -2,19 +2,20 @@ import React, { Component } from 'react';
 import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 
-export class Top10 extends Component {
+export class Browse extends Component {
+  state = { Browse: [] };
+
   render() {
     return (
       <Container>
         <Breadcrumb>
           <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
-          <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item active>Browse</Breadcrumb.Item>
         </Breadcrumb>
-        Top 10
+        Not yet implemented.
       </Container>
     );
   }
 }
 
-export default Top10;
+export default Browse;

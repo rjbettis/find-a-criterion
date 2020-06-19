@@ -25,6 +25,7 @@ export class People extends Component {
     return (
       <Container>
         <Breadcrumb>
+          <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
           <Breadcrumb.Item active>People</Breadcrumb.Item>
         </Breadcrumb>
@@ -37,7 +38,7 @@ export class People extends Component {
           {this.state.people.map((person) => {
             return (
               <Col xs={6} sm={5} md={4} lg={4} xl={4} key={person.name + 'Col'}>
-                <Card className={'card-style my-3'} key={person.name}>
+                <Card className={'card-style-blue-text my-3'} key={person.name}>
                   <Card.Img
                     className={'card-style'}
                     variant="top"
@@ -45,20 +46,20 @@ export class People extends Component {
                   />
                   <Card.Body>
                     <Card.Title className={'theme-card-title'}>
-                      <Link
-                        to={{
-                          pathname: `/explore/people/${person.link}`,
-                          state: {
-                            personName: person.name,
-                            personImage: person.image,
-                            personLink: person.link,
-                          },
-                        }}
-                      >
-                        {person.name}
-                      </Link>
+                      {person.name}
                     </Card.Title>
                   </Card.Body>
+                  <Link
+                    to={{
+                      pathname: `/explore/people/${person.link}`,
+                      state: {
+                        personName: person.name,
+                        personImage: person.image,
+                        personLink: person.link,
+                      },
+                    }}
+                    className="stretched-link"
+                  ></Link>
                 </Card>
               </Col>
             );

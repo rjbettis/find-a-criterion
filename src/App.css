@@ -1,3 +1,7 @@
+.nav {
+  color: white;
+}
+
 .container {
   width: 54%;
 }
@@ -52,6 +56,27 @@
   border: none;
 }
 
+.card-style:hover {
+  background: #343434;
+  color: white;
+  border-radius: 0;
+  border: none;
+}
+
+.card-style-blue-text {
+  background: #cecdcd;
+  border-radius: 0;
+  border: none;
+  color: #2f7da6;
+}
+
+.card-style-blue-text:hover {
+  background: #343434;
+  border-radius: 0;
+  border: none;
+  color: white;
+}
+
 .heading-style {
   background: #ebebeb;
 }
@@ -66,10 +91,41 @@ body {
   border-radius: 0;
 }
 
-a {
+.intro-card {
+  background-color: #ebebeb;
+  border-radius: 0;
+  font-size: 13px;
+}
+
+.custom-nav {
+  background-color: #525252;
+}
+
+.link {
   color: #2f7da6 !important;
 }
 
-a:hover {
+.link:hover {
   color: #335870 !important;
+}
+
+.zero-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.zero-margin {
+  margin-bottom: 0 !important;
+}
+
+.breadcrumb > .active {
+  color: #6c757d;
+}
+
+.breadcrumb li a {
+  color: #2f7da6;
+}
+
+.breadcrumb li a:hover {
+  color: #335870;
 }
