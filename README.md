@@ -2,7 +2,7 @@
 
 ## Project Description
 
-I made this project with the intention to sharpen my styling skills and data retrieval skills. I attempted to make as close to a 1:1 recreation of the "Explore" section on the old criterion.com website. This section of the website was nuked when they redesigned everything so there is now way to browse through it unless you use archive.org. I had always missed browsing through it, so I figured I would kill two birds with one stone.
+I made this react application with the intention to sharpen my styling skills and data retrieval skills. I attempted to make as close to a 1:1 recreation of the "Explore" section on the old criterion.com website. This section of the website was nuked when they redesigned everything so there is no way to browse through it unless you use archive.org. I had always missed browsing through it, so I figured I would kill two birds with one stone.
 
 ### Technologies Utilized
 
@@ -13,8 +13,6 @@ I made this project with the intention to sharpen my styling skills and data ret
 5. AWS CloudFront
 6. AWS Route 53
 
-The front-end is a react application with the following pages and components:
-
 ### Pages
 
 1. Home
@@ -22,7 +20,7 @@ The front-end is a react application with the following pages and components:
 2. Explore
    - Describes and links to the available sections of the website: Themes, People, Top 10.
 3. Themes
-   - Maps through an object imported from a JSON file to populate theme cards.
+   - Maps through an object imported from the theme_list JSON file to populate theme cards.
    - Routes to the GetTheme component which determines the correct theme to render.
 4. People
    - Maps through an object imported from a JSON file to populate people cards.
@@ -33,7 +31,7 @@ The front-end is a react application with the following pages and components:
 ### Components
 
 1. GetTheme
-   - When browsing and clicking on a theme this component determines which theme to render based on react router match props. Theme data is located in theme_list JSON file.
+   - When browsing and clicking on a theme this component determines which theme to render based on react router match props. Film data is located in theme JSON files.
 2. GetPerson
    - Same as the GetTheme component except it uses the people_list JSON file
 3. Navigation
