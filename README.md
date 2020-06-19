@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Legacy "Explore" feature from the old Criterion Collection website.](https://findacriterion.com)
 
-## Available Scripts
+## Project Description
 
-In the project directory, you can run:
+I made this project with the intention to sharpen my styling skills and data retrieval skills. I attempted to make as close to a 1:1 recreation of the "Explore" section on the old criterion.com website. This section of the website was nuked when they redesigned everything so there is now way to browse through it unless you use archive.org. I had always missed browsing through it, so I figured I would kill two birds with one stone.
 
-### `yarn start`
+### `Technologies Utilized`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Create React App
+2. React Router
+3. React Bootstrap front-end framework
+4. AWS S3
+5. AWS CloudFront
+6. AWS Route 53
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The front-end is a react application with the following pages and components:
 
-### `yarn test`
+### `Pages`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Home
+   - Describes what the site is and links to the Explore page
+2. Explore
+   - Describes and links to the available sections of the website: Themes, People, Top 10.
+3. Themes
+   - Maps through an object imported from a JSON file to populate theme cards.
+   - Routes to the GetTheme component which determines the correct theme to render.
+4. People
+   - Maps through an object imported from a JSON file to populate people cards.
+   - Routes to the GetPerson component which determines the correct person to render.
+5. Top 10
+   - Undecided what to do with this page because it is the only part of the legacy explore feature on the new site. Might just link directly to it.
 
-### `yarn build`
+### `Components`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. GetTheme
+   - When browsing and clicking on a theme this component determines which theme to render based on react router match props. Theme data is located in theme_list JSON file.
+2. GetPerson
+   - Same as the GetTheme component except it uses the people_list JSON file
+3. Navigation
+   - Renders the top navigation component
+4. Combined/CombinedPeople
+   - Imports the many JSON files.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### `Todo`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [x] Host on AWS
+- [ ] Double check all "Themes" data and images
+- [ ] Finish "People" JSON files (7/54)
+- [ ] Minimize number of JSON files to 1
+- [ ] Create "Film" component for when a film is selected (right now just linking to criterion.com film page)
+- [ ] Host all image files in bucket
+- [ ] Make decision about the Top 10 page
