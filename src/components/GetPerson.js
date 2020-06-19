@@ -81,6 +81,33 @@ export class GetPerson extends Component {
           </Row>
         </Col>
 
+        <Col lg={12}>
+          <Row>
+            <Col className={'theme-card-style-small mt-3'}>
+              <Card className={'theme-card-style-small'}>
+                <Card.Img
+                  width={448}
+                  height="auto"
+                  className={'theme-card-style-small my-4 mx-1'}
+                  src={this.state.currentImage}
+                />
+              </Card>
+            </Col>
+          </Row>
+          <Row>
+            <Col className={'theme-card-style-small'}>
+              <Card className={'theme-card-style-small'}>
+                <Card.Body className={'movie-card-text '}>
+                  <h4>
+                    <strong>{this.state.currentPerson}</strong>
+                  </h4>
+                  {this.state.currentSummary}
+                </Card.Body>
+              </Card>
+            </Col>
+          </Row>
+        </Col>
+
         {/* Maps through 'films' state to display data in cards. */}
         <Row>
           {this.state.films.map((film, index) => {
@@ -89,7 +116,7 @@ export class GetPerson extends Component {
                 xs={12}
                 sm={12}
                 md={12}
-                lg={12}
+                lg={6}
                 xl={4}
                 key={film.title + 'Col'}
               >

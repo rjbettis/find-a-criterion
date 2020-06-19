@@ -37,6 +37,12 @@
   border: none;
 }
 
+.theme-card-style-small {
+  background: #cecdcd;
+  border-radius: 0;
+  border: none;
+}
+
 .movie-title {
   font-size: 14px;
   font-weight: bold;
@@ -128,4 +134,22 @@ body {
 
 .breadcrumb li a:hover {
   color: #335870;
+}
+
+@media (max-width: 768px) {
+  .container {
+    min-width: 100%;
+  }
+}
+
+@media (max-width: 1199.99px) {
+  .theme-card-style {
+    display: none;
+  }
+}
+
+@media (min-width: 1200px) {
+  .theme-card-style-small {
+    display: none;
+  }
 }

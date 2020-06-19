@@ -54,7 +54,10 @@ export class GetTheme extends Component {
           <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif" />
         </Col>
 
-        {/* Displays theme image, title and summary in a card */}
+        {/*
+         * Displays theme image, title and summary in a card
+         * Displays large card
+         */}
         <Col lg={12}>
           <Row>
             <Col className={'theme-card-style my-3'}>
@@ -80,6 +83,37 @@ export class GetTheme extends Component {
           </Row>
         </Col>
 
+        {/*
+         * Displays theme image, title and summary in a card
+         * Displays small card
+         */}
+        <Col lg={12}>
+          <Row>
+            <Col className={'theme-card-style-small mt-3'}>
+              <Card className={'theme-card-style-small'}>
+                <Card.Img
+                  width={448}
+                  height="auto"
+                  className={'theme-card-style-small my-4 mx-1'}
+                  src={this.state.currentImage}
+                />
+              </Card>
+            </Col>
+          </Row>
+          <Row>
+            <Col className={'theme-card-style-small'}>
+              <Card className={'theme-card-style-small'}>
+                <Card.Body className={'movie-card-text '}>
+                  <h4>
+                    <strong>{this.state.currentTheme}</strong>
+                  </h4>
+                  {this.state.currentSummary}
+                </Card.Body>
+              </Card>
+            </Col>
+          </Row>
+        </Col>
+
         {/* Maps through 'films' state to display data in cards. */}
         <Row>
           {this.state.films.map((film, index) => {
@@ -88,7 +122,7 @@ export class GetTheme extends Component {
                 xs={12}
                 sm={12}
                 md={12}
-                lg={12}
+                lg={6}
                 xl={4}
                 key={film.title + 'Col'}
               >
