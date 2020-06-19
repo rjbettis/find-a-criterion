@@ -82,10 +82,10 @@ export class GetPerson extends Component {
 
         {/* Maps through 'films' state to display data in cards. */}
         <Row>
-          {this.state.films.map((film) => {
+          {this.state.films.map((film, index) => {
             return (
               <Col lg={4} key={film.title + 'Col'}>
-                <Card className={'card-style my-3'} key={film.title}>
+                <Card className={'card-style my-3'} key={index}>
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
                     <Card.Title className={'movie-title'}>

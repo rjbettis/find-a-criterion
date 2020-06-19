@@ -259,7 +259,7 @@
     },
     {
       "image": "http://s3.amazonaws.com/criterion-production/stills/132071-0cb3901b24ebd0e77661f8c2700d5e33/Goke_Film_page_original.jpg",
-      "title": "Goke, Body Snatcher From Hell",
+      "title": "Goke, Body Snatcher from Hell",
       "director": "Hajime Sato",
       "criterionUrl": "https://www.criterion.com/films/27720-goke-body-snatcher-from-hell"
     },
@@ -267,7 +267,7 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Grey_Gardens.jpg",
       "title": "Grey Gardens",
       "criterionUrl": "https://www.criterion.com/films/664-grey-gardens",
-      "director": "David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer"
+      "director": "David Maysles, Albert Maysles, Ellen Hovde, and Muffie Meyer"
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/stills/131849-8196733720405f4d1f36f66768ac69db/Film_608w_HaroldAndMaude_original.jpg",
@@ -423,7 +423,7 @@
       "image": "https://s3.amazonaws.com/criterion-production/stills/10231-3e2b81eb65f995c950c1741fac85773a/ManBitesDog_original.jpg",
       "title": "Man Bites Dog",
       "criterionUrl": "https://www.criterion.com/films/718-man-bites-dog",
-      "director": "Rémy Belvaux, André Bonzel and Benoit Poelvoorde"
+      "director": "Rémy Belvaux, André Bonzel, and Benoit Poelvoorde"
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/stills/6181-e890dc2aac37196997adf63ad2eb7abf/Film_304w_ManWhoFellEarth_original.jpg",
@@ -445,7 +445,7 @@
     },
     {
       "image": "https://s3.amazonaws.com/criterion-production/stills/130585-80d4f68f2ba5b79e9959cb7a62fe1b4c/Film_61w_LifeBrian_original.jpg",
-      "title": "Monty Python's Life of Brian",
+      "title": "Monty Python’s Life of Brian",
       "director": "Terry Jones",
       "criterionUrl": "https://www.criterion.com/films/606-monty-python-s-life-of-brian"
     },
