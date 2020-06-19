@@ -4,7 +4,7 @@
 
 I made this project with the intention to sharpen my styling skills and data retrieval skills. I attempted to make as close to a 1:1 recreation of the "Explore" section on the old criterion.com website. This section of the website was nuked when they redesigned everything so there is now way to browse through it unless you use archive.org. I had always missed browsing through it, so I figured I would kill two birds with one stone.
 
-### `Technologies Utilized`
+### Technologies Utilized
 
 1. Create React App
 2. React Router
@@ -15,7 +15,7 @@ I made this project with the intention to sharpen my styling skills and data ret
 
 The front-end is a react application with the following pages and components:
 
-### `Pages`
+### Pages
 
 1. Home
    - Describes what the site is and links to the Explore page
@@ -30,7 +30,7 @@ The front-end is a react application with the following pages and components:
 5. Top 10
    - Undecided what to do with this page because it is the only part of the legacy explore feature on the new site. Might just link directly to it.
 
-### `Components`
+### Components
 
 1. GetTheme
    - When browsing and clicking on a theme this component determines which theme to render based on react router match props. Theme data is located in theme_list JSON file.
@@ -41,7 +41,7 @@ The front-end is a react application with the following pages and components:
 4. Combined/CombinedPeople
    - Imports the many JSON files.
 
-### `Todo`
+### Todo
 
 - [x] Host on AWS
 - [ ] Double check all "Themes" data and images
