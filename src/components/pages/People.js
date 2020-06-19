@@ -37,7 +37,14 @@ export class People extends Component {
         <Row>
           {this.state.people.map((person) => {
             return (
-              <Col xs={6} sm={5} md={4} lg={4} xl={4} key={person.name + 'Col'}>
+              <Col
+                xs={12}
+                sm={12}
+                md={12}
+                lg={12}
+                xl={4}
+                key={person.name + 'Col'}
+              >
                 <Card className={'card-style-blue-text my-3'} key={person.name}>
                   <Card.Img
                     className={'card-style'}

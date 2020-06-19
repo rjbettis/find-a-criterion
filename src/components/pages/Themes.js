@@ -41,7 +41,14 @@ export class Themes extends Component {
         <Row>
           {this.state.themes.map((theme) => {
             return (
-              <Col xs={6} sm={5} md={4} lg={4} xl={4} key={theme.title + 'Col'}>
+              <Col
+                xs={12}
+                sm={12}
+                md={12}
+                lg={12}
+                xl={4}
+                key={theme.title + 'Col'}
+              >
                 <Card className={'card-style-blue-text my-3'} key={theme.title}>
                   <Card.Img
                     className={'card-style'}

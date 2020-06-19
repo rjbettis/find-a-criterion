@@ -21,7 +21,7 @@ export class Explore extends Component {
           <Breadcrumb.Item active>Explore</Breadcrumb.Item>
         </Breadcrumb>
         <Row>
-          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+          <Col xs={12} sm={12} md={12} lg={12} xl={4}>
             <Card className={'explore-imgtitle-style'}>
               <Card.Img
                 className={'explore-image-resize'}
@@ -29,28 +29,6 @@ export class Explore extends Component {
                 src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_top10s-7488ae81b11d7a6be9cb710b12ac1c61.gif"
               />
             </Card>
-          </Col>
-          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card className={'explore-imgtitle-style'}>
-              <Card.Img
-                className={'explore-image-resize'}
-                variant="top"
-                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif"
-              />
-            </Card>
-          </Col>
-          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
-            <Card className={'explore-imgtitle-style'}>
-              <Card.Img
-                className={'explore-image-resize'}
-                variant="top"
-                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif"
-              />
-            </Card>
-          </Col>
-        </Row>
-        <Row>
-          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
@@ -73,7 +51,14 @@ export class Explore extends Component {
               <Link to="/explore/top10" className="stretched-link"></Link>
             </Card>
           </Col>
-          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+          <Col xs={12} sm={12} md={12} lg={12} xl={4}>
+            <Card className={'explore-imgtitle-style'}>
+              <Card.Img
+                className={'explore-image-resize'}
+                variant="top"
+                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif"
+              />
+            </Card>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
@@ -95,7 +80,14 @@ export class Explore extends Component {
               <Link to="/explore/people" className="stretched-link"></Link>
             </Card>
           </Col>
-          <Col xs={6} sm={5} md={4} lg={4} xl={4}>
+          <Col xs={12} sm={12} md={12} lg={12} xl={4}>
+            <Card className={'explore-imgtitle-style'}>
+              <Card.Img
+                className={'explore-image-resize'}
+                variant="top"
+                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif"
+              />
+            </Card>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}

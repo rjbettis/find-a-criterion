@@ -85,7 +85,14 @@ export class GetPerson extends Component {
         <Row>
           {this.state.films.map((film, index) => {
             return (
-              <Col lg={4} key={film.title + 'Col'}>
+              <Col
+                xs={12}
+                sm={12}
+                md={12}
+                lg={12}
+                xl={4}
+                key={film.title + 'Col'}
+              >
                 <Card className={'card-style-blue-text my-3'} key={index}>
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
