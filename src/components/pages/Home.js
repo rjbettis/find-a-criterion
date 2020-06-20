@@ -67,6 +67,7 @@ export class Home extends Component {
               lists they belong to. I might end up linking the "Top 10" link to
               the actual Criterion website because it has it's own section on
               the site and is still useful.
+              {/* My plan for the future of this site is to expand it to include any type of film, not just Criterion published films, while maintaining*/}
             </Card.Text>
           </Card.Body>
           <Link to="/explore" className="stretched-link"></Link>

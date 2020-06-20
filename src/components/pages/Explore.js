@@ -26,29 +26,29 @@ export class Explore extends Component {
               <Card.Img
                 className={'explore-image-resize'}
                 variant="top"
-                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_top10s-7488ae81b11d7a6be9cb710b12ac1c61.gif"
+                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif"
               />
             </Card>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
-                src="https://s3.amazonaws.com/criterion-production/explore_images/621-b9ca8a52d4a3fbae59a2183fe92c8d11/wexler_topten_original.jpg"
+                src="https://s3.amazonaws.com/criterion-production/explore_images/460-96fadaa8da02f8f673e15fd2531b28e2/explore586_137_original.jpg"
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  {'Explore Top 10 lists'}
+                  {'Explore Themes'}
                 </Card.Title>
                 <Card.Text className={'card-text'}>
-                  Every month, we ask a friend—a filmmaker, a programmer, a
-                  writer, an actor, an artist—to select their ten favorite
-                  movies available from the Criterion Collection and jot down
-                  their thoughts about them. The entries (from people like Jane
-                  Campion, Jonathan Lethem, and Sonic Youth) are often
-                  surprising, and always entertaining.
+                  Ever wonder just what is meant by "poetic realism," "New
+                  German Cinema," or "neorealism"? Or how many cult movies,
+                  documentaries, or Oscar winners you can find in the Criterion
+                  Collection? Dig into our extensive catalog of titles by
+                  category or genre to find out a little bit more about these
+                  essential film movements and categories.
                 </Card.Text>
               </Card.Body>
-              <Link to="/explore/top10" className="stretched-link"></Link>
+              <Link to="/explore/themes" className="stretched-link"></Link>
             </Card>
           </Col>
           <Col xs={12} sm={12} md={12} lg={12} xl={4}>
@@ -85,29 +85,29 @@ export class Explore extends Component {
               <Card.Img
                 className={'explore-image-resize'}
                 variant="top"
-                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif"
+                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_top10s-7488ae81b11d7a6be9cb710b12ac1c61.gif"
               />
             </Card>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
-                src="https://s3.amazonaws.com/criterion-production/explore_images/460-96fadaa8da02f8f673e15fd2531b28e2/explore586_137_original.jpg"
+                src="https://s3.amazonaws.com/criterion-production/explore_images/621-b9ca8a52d4a3fbae59a2183fe92c8d11/wexler_topten_original.jpg"
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
-                  {'Explore Themes'}
+                  {'Explore Top 10 lists'}
                 </Card.Title>
                 <Card.Text className={'card-text'}>
-                  Ever wonder just what is meant by "poetic realism," "New
-                  German Cinema," or "neorealism"? Or how many cult movies,
-                  documentaries, or Oscar winners you can find in the Criterion
-                  Collection? Dig into our extensive catalog of titles by
-                  category or genre to find out a little bit more about these
-                  essential film movements and categories.
+                  Every month, we ask a friend—a filmmaker, a programmer, a
+                  writer, an actor, an artist—to select their ten favorite
+                  movies available from the Criterion Collection and jot down
+                  their thoughts about them. The entries (from people like Jane
+                  Campion, Jonathan Lethem, and Sonic Youth) are often
+                  surprising, and always entertaining.
                 </Card.Text>
               </Card.Body>
-              <Link to="/explore/themes" className="stretched-link"></Link>
+              <Link to="/explore/top10" className="stretched-link"></Link>
             </Card>
           </Col>
         </Row>
