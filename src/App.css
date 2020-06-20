@@ -136,19 +136,13 @@ body {
   color: #335870;
 }
 
-@media (max-width: 768px) {
-  .container {
-    min-width: 100%;
-  }
-}
-
-@media (max-width: 1199.99px) {
+@media (max-width: 991.99px) {
   .theme-card-style {
     display: none;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   .theme-card-style-small {
     display: none;
   }

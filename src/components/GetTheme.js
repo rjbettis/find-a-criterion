@@ -58,7 +58,7 @@ export class GetTheme extends Component {
          * Displays theme image, title and summary in a card
          * Displays large card
          */}
-        <Col lg={12}>
+        <Col>
           <Row>
             <Col className={'theme-card-style my-3'}>
               <Card className={'theme-card-style'}>
@@ -87,7 +87,7 @@ export class GetTheme extends Component {
          * Displays theme image, title and summary in a card
          * Displays small card
          */}
-        <Col lg={12}>
+        <Col>
           <Row>
             <Col className={'theme-card-style-small mt-3'}>
               <Card className={'theme-card-style-small'}>
@@ -121,8 +121,8 @@ export class GetTheme extends Component {
               <Col
                 xs={12}
                 sm={12}
-                md={12}
-                lg={6}
+                md={6}
+                lg={4}
                 xl={4}
                 key={film.title + 'Col'}
               >
