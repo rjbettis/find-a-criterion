@@ -51,7 +51,7 @@
     },
     {
       "title": "Blue Velvet",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blue_Velvet.jpg",
       "director": "David Lynch",
       "criterionUrl": "https://www.criterion.com/films/29144-blue-velvet",
       "directorLink": ""
@@ -72,7 +72,7 @@
     },
     {
       "title": "Buena Vista Social Club",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132409-dc504f0e1fbe9e5387221de801cfac6d/Film_866_BuenaVistaSocialClub_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Burden_of_Dreams.jpg",
       "director": "Wim Wenders",
       "criterionUrl": "https://www.criterion.com/films/28792-buena-vista-social-club",
       "directorLink": ""
@@ -156,7 +156,7 @@
     },
     {
       "title": "Dont Look Back",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dont_Look_Back.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Dont_Look_Back.jpg",
       "director": "D. A. Pennebaker",
       "criterionUrl": "https://www.criterion.com/films/28655-dont-look-back",
       "directorLink": ""
@@ -191,7 +191,7 @@
     },
     {
       "title": "Festival",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Festival.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Festival.jpg",
       "director": "Murray Lerner",
       "criterionUrl": "https://www.criterion.com/films/28889-festival",
       "directorLink": ""
@@ -296,7 +296,7 @@
     },
     {
       "title": "King of Jazz",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/King_of_Jazz.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/King_of_Jazz.jpg",
       "director": "John Murray Anderson",
       "criterionUrl": "https://www.criterion.com/films/29389-king-of-jazz",
       "directorLink": ""
@@ -345,7 +345,7 @@
     },
     {
       "title": "Monterey Pop",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Monterey_Pop.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Monterey_Pop.jpg",
       "director": "D. A. Pennebaker",
       "criterionUrl": "https://www.criterion.com/films/720-monterey-pop",
       "directorLink": ""
@@ -485,7 +485,7 @@
     },
     {
       "title": "Swing Time",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Swing_Time.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Swing_Time.jpg",
       "director": "George Stevens",
       "criterionUrl": "https://www.criterion.com/films/29037-swing-time",
       "directorLink": ""
@@ -555,7 +555,7 @@
     },
     {
       "title": "The Young Girls of Rochefort",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Young_Girls_of_Rochefort.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Young_Girls_of_Rochefort.jpg",
       "director": "Jacques Demy",
       "criterionUrl": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort",
       "directorLink": ""

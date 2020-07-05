@@ -2,7 +2,7 @@
   "Melodrama": [
     {
       "title": "An Actor’s Revenge",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/An_Actors_Revenge.jpeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Actors_Revenge.jpeg",
       "director": "Kon Ichikawa",
       "criterionUrl": "https://www.criterion.com/films/28899-an-actor-s-revenge",
       "directorLink": ""
@@ -16,7 +16,7 @@
     },
     {
       "title": "All About My Mother",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_My_Mother.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/All_About_My_Mother.jpg",
       "director": "Pedro Almodóvar",
       "criterionUrl": "https://www.criterion.com/films/29569-all-about-my-mother",
       "directorLink": ""
@@ -29,7 +29,7 @@
       "directorLink": ""
     },
     {
-      "title": "Apart from YouMikio Naruse",
+      "title": "Apart from You",
       "image": "http://s3.amazonaws.com/criterion-production/stills/130945-f031ea1bc59d8f2162b89f8fe2957ca0/Naruse_Filmw_ApartFromYou_original.jpg",
       "criterionUrl": "http://www.criterion.com/films/27546-apart-from-you",
       "director": "Mikio Naruse",
@@ -44,14 +44,14 @@
     },
     {
       "title": "The Bitter Tears of Petra von Kant",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Bitter_Tears_of_Petra_von_Kant.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bitter_Tears_of_Petra_von_Kant.jpg",
       "director": "Rainer Werner Fassbinder",
       "criterionUrl": "https://www.criterion.com/films/27953-the-bitter-tears-of-petra-von-kant",
       "directorLink": ""
     },
     {
       "title": "Blue Velvet",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blue_Velvet.jpg",
       "director": "David Lynch",
       "criterionUrl": "https://www.criterion.com/films/29144-blue-velvet",
       "directorLink": ""
@@ -72,7 +72,7 @@
     },
     {
       "title": "The Cloud-Capped Star",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Cloud_Capped_Star.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cloud_Capped_Star.jpg",
       "director": "Ritwik Ghatak",
       "criterionUrl": "https://www.criterion.com/films/29059-the-cloud-capped-star",
       "directorLink": ""
@@ -93,7 +93,7 @@
     },
     {
       "title": "Eight Hours Don’t Make a Day",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Eight_Hours_Dont_Make_a_Day.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Eight_Hours_Dont_Make_a_Day.jpg",
       "director": "Rainer Werner Fassbinder",
       "criterionUrl": "https://www.criterion.com/films/29400-eight-hours-don-t-make-a-day",
       "directorLink": ""
@@ -114,7 +114,7 @@
     },
     {
       "title": "In a Lonely Place",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/In_a_Lonely_Place.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/In_a_Lonely_Place.jpg",
       "director": "Nicholas Ray",
       "criterionUrl": "https://www.criterion.com/films/27908-in-a-lonely-place",
       "directorLink": ""
@@ -155,14 +155,14 @@
       "directorLink": ""
     },
     {
-      "title": "The Man in GreyLeslie Arliss",
+      "title": "The Man in Grey",
       "image": "http://s3.amazonaws.com/criterion-production/stills/132010-85a504453fc20f15b9cf6fe4e94c63a0/Gainsborough_Filmw_ManInGrey_original.jpg",
       "criterionUrl": "http://www.criterion.com/films/28018-the-man-in-grey",
       "director": "Leslie Arliss",
       "director_url": "http://www.criterion.com/films/28018-the-man-in-grey"
     },
     {
-      "title": "The Marriage of Maria BraunRainer Werner Fassbinder",
+      "title": "The Marriage of Maria Braun",
       "image": "http://s3.amazonaws.com/criterion-production/stills/108713-651a8670db3ef99333465171603cd1cf/Film_204w_MariaBraun_original.jpg",
       "criterionUrl": "http://www.criterion.com/films/592-the-marriage-of-maria-braun",
       "director": "Rainer Werner Fassbinder",
@@ -170,7 +170,7 @@
     },
     {
       "title": "Mildred Pierce",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mildred_Pierce.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mildred_Pierce.jpg",
       "director": "Michael Curtiz",
       "criterionUrl": "https://www.criterion.com/films/29025-mildred-pierce",
       "directorLink": ""
@@ -198,7 +198,7 @@
     },
     {
       "title": "Now, Voyager",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Now_Voyager.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Now_Voyager.jpg",
       "director": "Irving Rapper",
       "criterionUrl": "https://www.criterion.com/films/29026-now-voyager",
       "directorLink": ""
@@ -219,21 +219,21 @@
     },
     {
       "title": "A Story from Chikamatsu",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_from_Chikamatsu.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Story_from_Chikamatsu.jpg",
       "director": "Kenji Mizoguchi",
       "criterionUrl": "https://www.criterion.com/films/28160-a-story-from-chikamatsu",
       "directorLink": ""
     },
     {
       "title": "The Story of Temple Drake",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_of_Temple_Drake.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Story_of_Temple_Drake.jpg",
       "director": "Stephen Roberts",
       "criterionUrl": "https://www.criterion.com/films/28575-the-story-of-temple-drake",
       "directorLink": ""
     },
     {
       "title": "The Story of the Last Chrysanthemum",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_of_the_Last_Chrysanthemum.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Story_of_the_Last_Chrysanthemum.jpg",
       "director": "Kenji Mizoguchi",
       "criterionUrl": "https://www.criterion.com/films/27729-the-story-of-the-last-chrysanthemum",
       "directorLink": ""

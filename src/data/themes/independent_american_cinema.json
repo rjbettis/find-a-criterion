@@ -44,7 +44,7 @@
     },
     {
       "title": "Les Blank: Always for Pleasure",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132259-9bd9c24472d6b20d402b8b3cedac576d/Film_737w_LesBlankBox_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blank_Always_for_Pleasure.jpg",
       "director": "Les Blank",
       "criterionUrl": "https://www.criterion.com/films/28658-les-blank-always-for-pleasure",
       "directorLink": ""
@@ -387,7 +387,7 @@
     },
     {
       "title": "Night of the Living Dead",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Night_of_the_Living_Dead.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Night_of_the_Living_Dead.jpg",
       "director": "George A. Romero",
       "criterionUrl": "https://www.criterion.com/films/29331-night-of-the-living-dead",
       "directorLink": ""
@@ -415,7 +415,7 @@
     },
     {
       "title": "Paris Is Burning",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Paris_Is_Burning.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
       "criterionUrl": "",
       "directorLink": ""
@@ -457,7 +457,7 @@
     },
     {
       "title": "Scorsese Shorts",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Scorsese_Shorts.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Scorsese_Shorts.jpg",
       "director": "Martin Scorsese",
       "criterionUrl": "https://www.criterion.com/films/30616-scorsese-shorts",
       "directorLink": ""

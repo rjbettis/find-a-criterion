@@ -16,21 +16,21 @@
     },
     {
       "title": "The Age of Innocence",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Age_of_Innocence.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Age_of_Innocence.jpg",
       "director": "Martin Scorsese",
       "criterionUrl": "https://www.criterion.com/films/28834-the-age-of-innocence",
       "directorLink": ""
     },
     {
       "title": "All About Eve",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_Eve.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/All_About_Eve.jpg",
       "director": "Joseph L. Mankiewicz",
       "criterionUrl": "https://www.criterion.com/films/29596-all-about-eve",
       "directorLink": ""
     },
     {
       "title": "All About My Mother",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/All_About_My_Mother.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/All_About_My_Mother.jpg",
       "director": "Pedro Almodóvar",
       "criterionUrl": "https://www.criterion.com/films/29569-all-about-my-mother",
       "directorLink": ""
@@ -205,7 +205,7 @@
     },
     {
       "title": "The Grand Budapest Hotel",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Grand_Budapest_Hotel.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Grand_Budapest_Hotel.jpg",
       "director": "Wes Anderson",
       "criterionUrl": "https://www.criterion.com/films/29601-the-grand-budapest-hotel",
       "directorLink": ""
@@ -247,7 +247,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Heiress.jpg",
       "director": "William Wyler",
       "criterionUrl": "https://www.criterion.com/films/28986-the-heiress",
       "directorLink": ""
@@ -289,14 +289,14 @@
     },
     {
       "title": "King of Jazz",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/King_of_Jazz.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/King_of_Jazz.jpg",
       "director": "John Murray Anderson",
       "criterionUrl": "https://www.criterion.com/films/29389-king-of-jazz",
       "directorLink": ""
     },
     {
       "title": "Klute",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Klute.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Klute.jpg",
       "director": "Alan J. Pakula",
       "criterionUrl": "https://www.criterion.com/films/28708-klute",
       "directorLink": ""
@@ -331,7 +331,7 @@
     },
     {
       "title": "Mildred Pierce",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Mildred_Pierce.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mildred_Pierce.jpg",
       "director": "Michael Curtiz",
       "criterionUrl": "https://www.criterion.com/films/29025-mildred-pierce",
       "directorLink": ""
@@ -373,7 +373,7 @@
     },
     {
       "title": "Now, Voyager",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Now_Voyager.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Now_Voyager.jpg",
       "director": "Irving Rapper",
       "criterionUrl": "https://www.criterion.com/films/29026-now-voyager",
       "directorLink": ""
@@ -394,7 +394,7 @@
     },
     {
       "title": "The Philadelphia Story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Philadelphia_Story.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Philadelphia_Story.jpg",
       "director": "George Cukor",
       "criterionUrl": "https://www.criterion.com/films/29029-the-philadelphia-story",
       "directorLink": ""
@@ -457,7 +457,7 @@
     },
     {
       "title": "Roma",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Roma.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Roma.jpg",
       "director": "Alfonso Cuarón",
       "criterionUrl": "https://www.criterion.com/films/30124-roma",
       "directorLink": ""
@@ -492,7 +492,7 @@
     },
     {
       "title": "Shanghai Express",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Shanghai_Express.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Shanghai_Express.jpg",
       "director": "Josef von Sternberg",
       "criterionUrl": "https://www.criterion.com/films/28166-shanghai-express",
       "directorLink": ""
@@ -555,7 +555,7 @@
     },
     {
       "title": "Swing Time",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Swing_Time.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Swing_Time.jpg",
       "director": "George Stevens",
       "criterionUrl": "https://www.criterion.com/films/29037-swing-time",
       "directorLink": ""
@@ -653,7 +653,7 @@
     },
     {
       "title": "War and Peace",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/War_and_Peace.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/War_and_Peace.jpg",
       "director": "Sergei Bondarchuk",
       "criterionUrl": "https://www.criterion.com/films/28891-war-and-peace",
       "directorLink": ""

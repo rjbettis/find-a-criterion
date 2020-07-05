@@ -58,7 +58,7 @@
     },
     {
       "title": "Blue Velvet",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Blue_Velvet.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blue_Velvet.jpg",
       "director": "David Lynch",
       "criterionUrl": "https://www.criterion.com/films/29144-blue-velvet",
       "directorLink": ""
@@ -72,7 +72,7 @@
     },
     {
       "title": "The Breaking Point",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Breaking_Point.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Breaking_Point.jpg",
       "director": "Michael Curtiz",
       "criterionUrl": "https://www.criterion.com/films/28695-the-breaking-point",
       "directorLink": ""
@@ -128,7 +128,7 @@
     },
     {
       "title": "Detour",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Detour.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Detour.jpg",
       "director": "Edgar G. Ulmer",
       "criterionUrl": "https://www.criterion.com/films/29614-detour",
       "directorLink": ""
@@ -205,7 +205,7 @@
     },
     {
       "title": "Gilda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Gilda.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gilda.jpg",
       "director": "Charles Vidor",
       "criterionUrl": "https://s3.amazonaws.com/criterion-production/films/e0c0a1f3f913ba739a2363189c9bab1a/EoeG9o1Jck1XlNhkr6IR8l9PIby9u1_original.jpg",
       "directorLink": ""
@@ -310,7 +310,7 @@
     },
     {
       "title": "Leave Her to Heaven",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Leave_Her_to_Heaven.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Leave_Her_to_Heaven.jpg",
       "director": "John M. Stahl",
       "criterionUrl": "https://www.criterion.com/films/29602-leave-her-to-heaven",
       "directorLink": ""
@@ -345,7 +345,7 @@
     },
     {
       "title": "Moonrise",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Moonrise.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Moonrise.jpg",
       "director": "Frank Borzage",
       "criterionUrl": "https://www.criterion.com/films/28550-moonrise",
       "directorLink": ""
@@ -387,7 +387,7 @@
     },
     {
       "title": "Panique",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Panique.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Panique.jpg",
       "director": "Julien Duvivier",
       "criterionUrl": "https://www.criterion.com/films/29510-panique",
       "directorLink": ""

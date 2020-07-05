@@ -9,7 +9,7 @@
     },
     {
       "title": "The Age of Innocence",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Age_of_Innocence.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Age_of_Innocence.jpg",
       "director": "Martin Scorsese",
       "criterionUrl": "https://www.criterion.com/films/28834-the-age-of-innocence",
       "directorLink": ""
@@ -72,7 +72,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Heiress.jpg",
       "director": "William Wyler",
       "criterionUrl": "https://www.criterion.com/films/28986-the-heiress",
       "directorLink": ""
@@ -114,7 +114,7 @@
     },
     {
       "title": "Klute",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Klute.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Klute.jpg",
       "director": "Alan J. Pakula",
       "criterionUrl": "https://www.criterion.com/films/28708-klute",
       "directorLink": ""
@@ -200,7 +200,7 @@
     },
     {
       "title": "Paris Is Burning",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Paris_Is_Burning.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
       "criterionUrl": "https://www.criterion.com/films/29647-paris-is-burning",
       "directorLink": ""
@@ -235,7 +235,7 @@
     },
     {
       "title": "Scorsese Shorts",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Scorsese_Shorts.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Scorsese_Shorts.jpg",
       "director": "Martin Scorsese",
       "criterionUrl": "https://www.criterion.com/films/30616-scorsese-shorts",
       "directorLink": ""

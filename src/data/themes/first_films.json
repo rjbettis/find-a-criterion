@@ -439,7 +439,7 @@
     },
     {
       "title": "Night of the Living Dead",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Night_of_the_Living_Dead.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Night_of_the_Living_Dead.jpg",
       "director": "George A. Romero",
       "criterionUrl": "https://www.criterion.com/films/29331-night-of-the-living-dead",
       "directorLink": ""
@@ -453,7 +453,7 @@
     },
     {
       "title": "Paris Is Burning",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Paris_Is_Burning.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
       "criterionUrl": "https://www.criterion.com/films/29647-paris-is-burning",
       "directorLink": ""
@@ -629,7 +629,7 @@
     },
     {
       "title": "La vie de Jésus",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/La_vie_de_Jesus.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Vie_de_Jesus.jpg",
       "director": "Bruno Dumont",
       "criterionUrl": "https://www.criterion.com/films/28075-la-vie-de-j-sus",
       "directorLink": ""

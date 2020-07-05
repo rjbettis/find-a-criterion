@@ -44,7 +44,7 @@
     },
     {
       "title": "Dance, Girl, Dance",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Dance_Girl_Dance.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Dance_Girl_Dance.jpg",
       "director": "Dorothy Arzner",
       "criterionUrl": "https://www.criterion.com/films/29633-dance-girl-dance",
       "directorLink": ""
@@ -65,7 +65,7 @@
     },
     {
       "title": "Festival",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Festival.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Festival.jpg",
       "director": "Murray Lerner",
       "criterionUrl": "https://www.criterion.com/films/28889-festival",
       "directorLink": ""
@@ -128,7 +128,7 @@
     },
     {
       "title": "Monterey Pop",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Monterey_Pop.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Monterey_Pop.jpg",
       "criterionUrl": "https://www.criterion.com/films/720-monterey-pop",
       "director": "D. A. Pennebaker",
       "director_url": "https://www.criterion.com/films/720-monterey-pop"
@@ -219,7 +219,7 @@
     },
     {
       "title": "The Young Girls of Rochefort",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Young_Girls_of_Rochefort.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Young_Girls_of_Rochefort.jpg",
       "director": "Jacques Demy",
       "criterionUrl": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort",
       "directorLink": ""

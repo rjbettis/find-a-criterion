@@ -44,7 +44,7 @@
     },
     {
       "title": "Antonio Gaudí",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5695-285e6091218dfc4c50a2811014401b64/Film_426w_AntonioGaudi_original.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Antonio_Gaudi.jpg",
       "director": "Hiroshi Teshigahara",
       "criterionUrl": "https://www.criterion.com/films/536-antonio-gaud",
       "directorLink": ""
@@ -288,7 +288,7 @@
     },
     {
       "title": "His Girl Friday",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/His_Girl_Friday.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/His_Girl_Friday.jpg",
       "director": "Howard Hawks",
       "criterionUrl": "https://www.criterion.com/films/27903-his-girl-friday",
       "directorLink": ""
@@ -405,14 +405,14 @@
     },
     {
       "title": "The Lodger: A Story of the London Fog",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Lodger_A_Story_of_the_London_Fog.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lodger_A_Story_of_the_London_Fog.jpg",
       "director": "Alfred Hitchcock",
       "criterionUrl": "https://www.criterion.com/films/28001-the-lodger-a-story-of-the-london-fog",
       "directorLink": ""
     },
     {
       "title": "Lone Wolf and Cub",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Lone_Wolf_and_Cub.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lone_Wolf_and_Cub.jpg",
       "criterionUrl": "https://www.criterion.com/boxsets/1217-lone-wolf-and-cub",
       "directorLink": ""
     },
@@ -509,7 +509,7 @@
     },
     {
       "title": "Othello",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Othello.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Othello.jpg",
       "director": "Orson Welles",
       "criterionUrl": "https://www.criterion.com/films/28621-othello",
       "directorLink": ""

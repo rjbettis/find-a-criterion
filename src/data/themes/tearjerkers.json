@@ -275,7 +275,7 @@
     },
     {
       "title": "Roma",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Roma.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Roma.jpg",
       "director": "Alfonso Cuarón",
       "criterionUrl": "https://www.criterion.com/films/30124-roma",
       "directorLink": ""
@@ -310,7 +310,7 @@
     },
     {
       "title": "A Story from Chikamatsu",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Story_from_Chikamatsu.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Story_from_Chikamatsu.jpg",
       "director": "Kenji Mizoguchi",
       "criterionUrl": "https://www.criterion.com/films/28160-a-story-from-chikamatsu",
       "directorLink": ""

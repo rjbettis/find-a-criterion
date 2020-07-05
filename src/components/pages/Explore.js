@@ -21,7 +21,7 @@ export class Explore extends Component {
           <Breadcrumb.Item active>Explore</Breadcrumb.Item>
         </Breadcrumb>
         <Row>
-          <Col xs={12} sm={12} md={12} lg={12} xl={4}>
+          <Col xs={12} sm={12} md={6} lg={4} xl={4}>
             <Card className={'explore-imgtitle-style'}>
               <Card.Img
                 className={'explore-image-resize'}
@@ -51,7 +51,7 @@ export class Explore extends Component {
               <Link to="/explore/themes" className="stretched-link"></Link>
             </Card>
           </Col>
-          <Col xs={12} sm={12} md={12} lg={12} xl={4}>
+          <Col xs={12} sm={12} md={6} lg={4} xl={4}>
             <Card className={'explore-imgtitle-style'}>
               <Card.Img
                 className={'explore-image-resize'}
@@ -80,7 +80,7 @@ export class Explore extends Component {
               <Link to="/explore/people" className="stretched-link"></Link>
             </Card>
           </Col>
-          <Col xs={12} sm={12} md={12} lg={12} xl={4}>
+          <Col xs={12} sm={12} md={6} lg={4} xl={4}>
             <Card className={'explore-imgtitle-style'}>
               <Card.Img
                 className={'explore-image-resize'}

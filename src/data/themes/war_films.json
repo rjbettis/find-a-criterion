@@ -121,7 +121,7 @@
     },
     {
       "title": "The Great Escape",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Great_Escape.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Great_Escape.jpg",
       "director": "John Sturges",
       "criterionUrl": "https://www.criterion.com/films/29149-the-great-escape",
       "directorLink": ""
@@ -219,7 +219,7 @@
     },
     {
       "title": "Le petit soldat",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Le_petit_soldat.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Petit_soldat.jpg",
       "director": "Jean-Luc Godard",
       "criterionUrl": "https://www.criterion.com/films/28093-le-petit-soldat",
       "directorLink": ""
@@ -282,14 +282,14 @@
     },
     {
       "title": "War and Peace",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/War_and_Peace.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/War_and_Peace.jpg",
       "director": "Sergei Bondarchuk",
       "criterionUrl": "https://www.criterion.com/films/28891-war-and-peace",
       "directorLink": ""
     },
     {
       "title": "Westfront 1918",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Westfront_1918.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Westfront_1918.jpg",
       "director": "G. W. Pabst",
       "criterionUrl": "https://www.criterion.com/films/28137-westfront-1918",
       "directorLink": ""

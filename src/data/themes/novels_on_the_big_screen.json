@@ -9,7 +9,7 @@
     },
     {
       "title": "The Age of Innocence",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Age_of_Innocence.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Age_of_Innocence.jpg",
       "director": "Martin Scorsese",
       "criterionUrl": "https://www.criterion.com/films/28834-the-age-of-innocence",
       "directorLink": ""
@@ -72,7 +72,7 @@
     },
     {
       "title": "The Breaking Point",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Breaking_Point.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Breaking_Point.jpg",
       "director": "Michael Curtiz",
       "criterionUrl": "https://www.criterion.com/films/28695-the-breaking-point",
       "directorLink": ""
@@ -100,7 +100,7 @@
     },
     {
       "title": "Death in Venice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Death_in_Venice.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Death_in_Venice.jpg",
       "director": "Luchino Visconti",
       "criterionUrl": "https://www.criterion.com/films/28699-death-in-venice",
       "directorLink": ""
@@ -114,7 +114,7 @@
     },
     {
       "title": "Election",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Election.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Election.jpg",
       "director": "Alexander Payne",
       "criterionUrl": "https://www.criterion.com/films/29335-election",
       "directorLink": ""
@@ -191,7 +191,7 @@
     },
     {
       "title": "The Heiress",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Heiress.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Heiress.jpg",
       "director": "William Wyler",
       "criterionUrl": "https://www.criterion.com/films/28986-the-heiress",
       "directorLink": ""
@@ -275,7 +275,7 @@
     },
     {
       "title": "The Magnificent Ambersons",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Magnificent_Ambersons.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Magnificent_Ambersons.jpg",
       "director": "Orson Welles",
       "criterionUrl": "https://www.criterion.com/films/28711-the-magnificent-ambersons",
       "directorLink": ""
@@ -492,7 +492,7 @@
     },
     {
       "title": "Stalker",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Stalker.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Stalker.jpg",
       "director": "Andrei Tarkovsky",
       "criterionUrl": "https://www.criterion.com/films/28150-stalker",
       "directorLink": ""
@@ -576,7 +576,7 @@
     },
     {
       "title": "War and Peace",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/War_and_Peace.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/War_and_Peace.jpg",
       "director": "Sergei Bondarchuk",
       "criterionUrl": "https://www.criterion.com/films/28891-war-and-peace",
       "directorLink": ""
