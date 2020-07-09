@@ -42,10 +42,10 @@ I made this react application with the intention to sharpen my styling skills an
 ### Todo
 
 - [x] Host on AWS
+- [x] Host all image files in bucket
+- [x] Fix top theme card to look good on small screen sizes
 - [ ] Double check all "Themes" data and images
 - [ ] Finish "People" JSON files (7/54)
 - [ ] Minimize number of JSON files to 1
 - [ ] Create "Film" component for when a film is selected (right now just linking to criterion.com film page)
-- [ ] Host all image files in bucket
-- [ ] Fix top theme card to look good on small screen sizes
 - [ ] Make decision about the Top 10 page
