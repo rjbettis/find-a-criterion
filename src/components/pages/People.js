@@ -31,7 +31,7 @@ export class People extends Component {
         </Breadcrumb>
 
         <Col className={'heading-style'}>
-          <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif" />
+          <Image src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/People_Font.gif" />
         </Col>
 
         <Row>

@@ -2,302 +2,302 @@
   "WarFilms": [
     {
       "title": "49th Parallel",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10633-98057579d11345c6860a849dcab9d5dc/49thParallel_2w_original.jpg",
       "director": "Michael Powell",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/49th_Parallel.jpg",
       "criterionUrl": "https://www.criterion.com/films/520-49th-parallel",
       "directorLink": ""
     },
     {
       "title": "Alexander Nevsky",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10247-f27d331e973f8d8a5e1b62b71da1f932/Nevsky_original.jpg",
       "director": "Sergei Eisenstein",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Alexander_Nevsky.jpg",
       "criterionUrl": "https://www.criterion.com/films/341-alexander-nevsky",
       "directorLink": ""
     },
     {
       "title": "The Ascent",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8189-1b4f0ce0e4ef9ae602efda8bc665de94/Ascent_003_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/561-the-ascent",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ascent.jpg",
       "director": "Larisa Shepitko",
       "director_url": "https://www.criterion.com/films/561-the-ascent"
     },
     {
       "title": "Army of Shadows",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132110-451d0c07505951308d579cbb7bb9374f/Film_385_ArmyOfShadows_original.jpg",
       "director": "Jean-Pierre Melville",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Army_of_Shadows.jpg",
       "criterionUrl": "https://www.criterion.com/films/153-army-of-shadows",
       "directorLink": ""
     },
     {
       "title": "Ashes and Diamonds",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/3902-5ec7f9090963f968aceb27302865a105/P_original.jpg",
       "director": "Andrzej Wajda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ashes_and_Diamonds.jpg",
       "criterionUrl": "https://www.criterion.com/films/342-ashes-and-diamonds",
       "directorLink": ""
     },
     {
       "title": "Ballad of a Soldier",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130081-72cf5b5f95c2f428385ecce416649e4c/balladsoldier_bw_original.jpg",
       "director": "Grigori Chukhrai",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ballad_of_a_Soldier.jpg",
       "criterionUrl": "https://www.criterion.com/films/343-ballad-of-a-soldier",
       "directorLink": ""
     },
     {
       "title": "The Battle of Algiers",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10127-0408a291f8dcd84624f92f65c6878a9d/batllealgiers_original.jpg",
       "director": "Gillo Pontecorvo",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Battle_of_Algiers.jpg",
       "criterionUrl": "https://www.criterion.com/films/248-the-battle-of-algiers",
       "directorLink": ""
     },
     {
       "title": "Before the Rain",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6387-576e10d767572df40fd9a0bd884fcd49/Film_436w_BeforeRain_original.jpg",
       "director": "Milcho Manchevski",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Before_the_Rain.jpg",
       "criterionUrl": "https://www.criterion.com/films/858-before-the-rain",
       "directorLink": ""
     },
     {
       "title": "The Bridge",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132293-b66df9927a467e8a30e3898476b64442/Film_763_Bridge_original.jpg",
       "director": "Bernhard Wicki",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bridge.jpg",
       "criterionUrl": "https://www.criterion.com/films/27972-the-bridge",
       "directorLink": ""
     },
     {
       "title": "The Burmese Harp",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129785-94fd8a81539abd163ee0cb2aaf0a83e7/Film_379w_BurmeseHarp_original.jpg",
       "director": "Kon Ichikawa",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Burmese_Harp.jpg",
       "criterionUrl": "https://www.criterion.com/films/817-the-burmese-harp",
       "directorLink": ""
     },
     {
       "title": "Che",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/47951-19c31990da077717883f5abcf8f67344/Film_496w_Che_original.jpg",
       "director": "Steven Soderbergh",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Che.jpg",
       "criterionUrl": "https://www.criterion.com/films/20987-che",
       "directorLink": ""
     },
     {
       "title": "The Cranes Are Flying",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132141-7a618069dfdc0e7e568fb642f748db71/Film_146w_CranesAreFlying_original.jpg",
       "director": "Mikhail Kalatozov",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cranes_Are_Flying.jpg",
       "criterionUrl": "https://www.criterion.com/films/547-the-cranes-are-flying",
       "directorLink": ""
     },
     {
       "title": "Fail Safe",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/c8b2a4ece655f691329b5ad9d3f46551.jpeg",
       "director": "Sidney Lumet",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fail_Safe.jpg",
       "criterionUrl": "https://www.criterion.com/films/28825-fail-safe",
       "directorLink": ""
     },
     {
       "title": "Fires on the Plain",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129937-0a037b83bc8af376b5a31517f3a19afb/firesplain_bw_original.jpg",
       "director": "Kon Ichikawa",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fires_on_the_Plain.jpg",
       "criterionUrl": "https://www.criterion.com/films/347-fires-on-the-plain",
       "directorLink": ""
     },
     {
       "title": "Forbidden Games",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10183-2925ca82732da79ddce9c61e7e4d5ce4/Forbidden-Games_original.jpg",
       "director": "René Clément",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Forbidden_Games.jpg",
       "criterionUrl": "https://www.criterion.com/films/350-forbidden-games",
       "directorLink": ""
     },
     {
       "title": "A Generation",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6719-768317a4e2b870eaf9d6abf2661d32ce/Film_283w_Generation_original.jpg",
       "director": "Andrzej Wajda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Generation.jpg",
       "criterionUrl": "https://www.criterion.com/films/921-a-generation",
       "directorLink": ""
     },
     {
       "title": "Grand Illusion",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129921-e9da918149e8edae9cd256fd96857b04/P_GRAND_ILLUSION_bw_original.jpg",
       "director": "Jean Renoir",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Grand_Illusion.jpg",
       "criterionUrl": "https://www.criterion.com/films/351-grand-illusion",
       "directorLink": ""
     },
     {
       "title": "The Great Escape",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Great_Escape.jpg",
       "director": "John Sturges",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Great_Escape.jpg",
       "criterionUrl": "https://www.criterion.com/films/29149-the-great-escape",
       "directorLink": ""
     },
     {
       "title": "Hearts and Minds",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/9725-a41fec2d98b80463bbf4fea83bcbbc96/Film_156w_HeartsAndMinds_original.jpg",
       "director": "Peter Davis",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hearts_and_Minds.jpg",
       "criterionUrl": "https://www.criterion.com/films/711-hearts-and-minds",
       "directorLink": ""
     },
     {
       "title": "Henry V",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131984-505ab0b45faf11ca0c7db3910c4321d4/Film_41w_HenryV_original.jpg",
       "director": "Laurence Olivier",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Henry_V.jpg",
       "criterionUrl": "https://www.criterion.com/films/579-henry-v",
       "directorLink": ""
     },
     {
       "title": "The Human Condition",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/18145-02e88363c6d2e169de7cdf3eb5c10bd5/480_Film_HumanCondition_original.jpg",
       "director": "Masaki Kobayashi",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Human_Condition.jpg",
       "criterionUrl": "https://www.criterion.com/films/2106-the-human-condition",
       "directorLink": ""
     },
     {
       "title": "In Which We Serve",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131649-919cea762195a63d6b1b8e9b253c5256/Film_604w_InWhichWeServe_original.jpg",
       "director": "David Lean…",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/In_Which_We_Serve.jpg",
       "criterionUrl": "https://www.criterion.com/films/28185-in-which-we-serve",
       "directorLink": ""
     },
     {
       "title": "Ivan’s Childhood",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7517-321092def482c86e44286741350d378d/Film_397w_IvansChildhood_original.jpg",
       "director": "Andrei Tarkovsky",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ivans_Childhood.jpg",
       "criterionUrl": "https://www.criterion.com/films/830-ivan-s-childhood",
       "directorLink": ""
     },
     {
       "title": "Kanal",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6729-14e34077886b9669e0fd4c6adc70e5e3/Film_284w_Kanal_original.jpg",
       "director": "Andrzej Wajda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kanal.jpg",
       "criterionUrl": "https://www.criterion.com/films/916-kanal",
       "directorLink": ""
     },
     {
       "title": "Lacombe, Lucien",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132065-be001b038627819ff53b6b3e1a5c005c/Film_329w_LacombeLucien_original.jpg",
       "director": "Louis Malle",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lacombe_Lucien.jpg",
       "criterionUrl": "https://www.criterion.com/films/776-lacombe-lucien",
       "directorLink": ""
     },
     {
       "title": "The Life and Death of Colonel Blimp",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132052-423922ccf717403c9f83d093af0ac21c/Blimp_Film_Page_original.jpg",
       "director": "Michael Powell…",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Life_and_Death_of_Colonel_Blimp.jpg",
       "criterionUrl": "https://www.criterion.com/films/359-the-life-and-death-of-colonel-blimp",
       "directorLink": ""
     },
     {
       "title": "Merry Christmas Mr. Lawrence",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129617-6e3d1f9deaa69bbbfd567568bbb9f829/Film_535w_MerryXmasLawrence_original.jpg",
       "director": "Nagisa Oshima",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Merry_Christmas_Mr_Lawrence.jpg",
       "criterionUrl": "https://www.criterion.com/films/27512-merry-christmas-mr-lawrence",
       "directorLink": ""
     },
     {
       "title": "Night and Fog",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/2808-b60f85a571c25de9cdf48ff9a5bd7caa/Film_197_NightAndFog_original.jpg",
       "director": "Alain Resnais",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Night_and_Fog.jpg",
       "criterionUrl": "https://www.criterion.com/films/238-night-and-fog",
       "directorLink": ""
     },
     {
       "title": "Night Train to Munich",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/89079-95cdd4406fea0e25e1de40261b20ea43/523_Filmw_NightTrain_original.jpg",
       "director": "Carol Reed",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Night_Train_to_Munich.jpg",
       "criterionUrl": "https://www.criterion.com/films/25039-night-train-to-munich",
       "directorLink": ""
     },
     {
       "title": "Overlord",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5167-5c379b42ddbae3f9832ac30097cb477c/Overlord_original.jpg",
       "director": "Stuart Cooper",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Overlord.jpg",
       "criterionUrl": "https://www.criterion.com/films/550-overlord",
       "directorLink": ""
     },
     {
       "title": "Paths of Glory",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130057-0b84035d0fbefb2bcfef95fbcd65b194/Film_538w_PathsGlory_original.jpg",
       "director": "Stanley Kubrick",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paths_of_Glory.jpg",
       "criterionUrl": "https://www.criterion.com/films/27522-paths-of-glory",
       "directorLink": ""
     },
     {
       "title": "Le petit soldat",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Petit_soldat.jpg",
       "director": "Jean-Luc Godard",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Petit_soldat.jpg",
       "criterionUrl": "https://www.criterion.com/films/28093-le-petit-soldat",
       "directorLink": ""
     },
     {
       "title": "Ride with the Devil",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131994-a137ca7b693b2d6d8ae88b609094a76a/514_Filmw_RideWithDevil_original.jpg",
       "director": "Ang Lee",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ride_with_the_Devil.jpg",
       "criterionUrl": "https://www.criterion.com/films/17282-ride-with-the-devil",
       "directorLink": ""
     },
     {
       "title": "Rome Open City",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129817-e37b7f4303884cbe126e5c98f6cd2fa1/Film_497w_RomeOpenCity_original.jpg",
       "director": "Roberto Rossellini",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rome_Open_City.jpg",
       "criterionUrl": "https://www.criterion.com/films/975-rome-open-city",
       "directorLink": ""
     },
     {
       "title": "The Shop on Main Street",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129905-455aafccb1e0edcc76d14b52b16f35c0/ShopMainw_bw_new_original.jpg",
       "director": "Ján Kadár…",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Shop_on_Main_Street.jpg",
       "criterionUrl": "https://www.criterion.com/films/669-the-shop-on-main-street",
       "directorLink": ""
     },
     {
       "title": "The Spy Who Came in from the Cold",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6371-1ddb8cc70cc22b23cebe9b35e852b9db/Film_452w_SpyCold_original.jpg",
       "director": "Martin Ritt",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Spy_Who_Came_in_from_the_Cold.jpg",
       "criterionUrl": "https://www.criterion.com/films/860-the-spy-who-came-in-from-the-cold",
       "directorLink": ""
     },
     {
       "title": "The Steel Helmet",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8285-77ab373dc68cbdd6136c25acd9580858/SteelHelmet1_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/445-the-steel-helmet",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Steel_Helmet.jpg",
       "director": "Samuel Fuller",
       "director_url": "https://www.criterion.com/films/445-the-steel-helmet"
     },
     {
       "title": "The Thin Red Line",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131745-1984ff51f97de09d2859ee6e3f29ee5c/Film_536w_ThinRedLine_B_original.jpg",
       "director": "Terrence Malick",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Thin_Red_Line.jpg",
       "criterionUrl": "https://www.criterion.com/films/27513-the-thin-red-line",
       "directorLink": ""
     },
     {
       "title": "The Tin Drum",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_original.jpg",
       "director": "Volker Schlöndorff",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Tin_Drum.jpg",
       "criterionUrl": "https://www.criterion.com/films/789-the-tin-drum",
       "directorLink": ""
     },
     {
       "title": "Walker",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5711-a68daf55ce4e2eb8e27ce884824dcc7f/Film_423w_Walker_original.jpg",
       "director": "Alex Cox",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Walker.jpg",
       "criterionUrl": "https://www.criterion.com/films/526-walker",
       "directorLink": ""
     },
     {
       "title": "War and Peace",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/War_and_Peace.jpg",
       "director": "Sergei Bondarchuk",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/War_and_Peace.jpg",
       "criterionUrl": "https://www.criterion.com/films/28891-war-and-peace",
       "directorLink": ""
     },
     {
       "title": "Westfront 1918",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Westfront_1918.jpg",
       "director": "G. W. Pabst",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Westfront_1918.jpg",
       "criterionUrl": "https://www.criterion.com/films/28137-westfront-1918",
       "directorLink": ""
     },
     {
       "title": "Wooden Crosses",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8277-a02ae1bb226c9fcf98ea63e83d7195c0/woodencrosses_2_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/880-wooden-crosses",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Wooden_Crosses.jpg",
       "director": "Raymond Bernard",
       "director_url": "https://www.criterion.com/films/880-wooden-crosses"
     }

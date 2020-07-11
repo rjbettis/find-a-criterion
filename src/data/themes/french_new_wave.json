@@ -1,8 +1,8 @@
 {
   "FrenchNewWave": [
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130473-32d6b5e7a721ba3f04d11e9dc8ac0995/Film_05w_400Blows_A_original.jpg",
       "title": "The 400 Blows",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/400_Blows.jpg",
       "criterionUrl": "https://www.criterion.com/films/151-the-400-blows",
       "director": "François Truffaut",
       "country": "France,",
@@ -10,20 +10,20 @@
       "spine": "5"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/2718-602febe279f55af42ce57c7326419780/P_original.jpg",
       "title": "Alphaville",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Alphaville.jpg",
       "director": "Jean-Luc Godard",
       "criterionUrl": "https://www.criterion.com/films/207-alphaville"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130097-afa2363873a95913ae9ec273d82602b7/Film_343w_BakeryGirlofMonceau_bw_original.jpg",
       "title": "The Bakery Girl of Monceau",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bakery_Girl_of_Monceau.jpg",
       "director": "Eric Rohmer",
       "criterionUrl": "https://www.criterion.com/films/786-the-bakery-girl-of-monceau"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132082-cf0a5f3e2e043c4360e350d0b722d762/Film_174w_BandOutsiders_original.jpg",
       "title": "Band of Outsiders",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Band_of_Outsiders.jpg",
       "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders",
       "director": "Jean-Luc Godard",
       "country": "France,",
@@ -31,8 +31,8 @@
       "spine": "174"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132238-d6ee5b913923c593d9b6ae3023428c4f/Film_715_BayOfAngels_original.jpg",
       "title": "Bay of Angels",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bay_of_Angels.jpg",
       "criterionUrl": "https://www.criterion.com/films/27935-bay-of-angels",
       "director": "Jacques Demy",
       "country": "France,",
@@ -40,8 +40,8 @@
       "spine": "715"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131209-01e1c2f20b2ff9f57fbe1045e034df9c/Film_580w_LeBeauSerge_original.jpg",
       "title": "Le beau Serge",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Beau_Serge.jpg",
       "criterionUrl": "https://www.criterion.com/films/27817-le-beau-serge",
       "director": "Claude Chabrol",
       "country": "France,",
@@ -49,8 +49,8 @@
       "spine": "580"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5207-220ca0019e1eadb075d841fe89e21e86/509_053_original.jpg",
       "title": "Le bonheur",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bonheur.jpg",
       "criterionUrl": "https://www.criterion.com/films/525-le-bonheur",
       "director": "Agnès Varda",
       "country": "France,",
@@ -58,8 +58,8 @@
       "spine": "420"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129729-dc88df1de0ad117daa77079692b0706d/Film_408w_Breathless_original.jpg",
       "title": "Breathless",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Breathless.jpg",
       "criterionUrl": "https://www.criterion.com/films/268-breathless",
       "director": "Jean-Luc Godard",
       "country": "France,",
@@ -67,8 +67,8 @@
       "spine": "408"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132070-91d60b65f47dcb738a7d88f4a822cf50/Film_648w_ChronicleOfSummer_original.jpg",
       "title": "Chronicle of a Summer",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Chronicle_of_a_Summer.jpg",
       "criterionUrl": "https://www.criterion.com/films/28394-chronicle-of-a-summer",
       "director": "Jean Rouch…",
       "country": "France,",
@@ -76,8 +76,8 @@
       "spine": "648"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132066-1cc363045048e5f4406b0811484b5e68/Film_73w_CleoFrom5to7_original.jpg",
       "title": "Cléo from 5 to 7",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cleo_from_5_to_7.jpg",
       "criterionUrl": "https://www.criterion.com/films/244-cl-o-from-5-to-7",
       "director": "Agnès Varda",
       "country": "France,",
@@ -85,14 +85,14 @@
       "spine": "73"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10135-cb81af2b1a58d1d34ae7f0a9f9256080/contempt_original.jpg",
       "title": "Contempt",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Contempt.jpg",
       "director": "Jean-Luc Godard",
       "criterionUrl": "https://www.criterion.com/films/239-contempt"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131217-d096ea3c20b579aba91076a831ab59fe/Film_581w_LesCousins_original.jpg",
       "title": "Les cousins",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cousins.jpg",
       "criterionUrl": "https://www.criterion.com/films/27816-les-cousins",
       "director": "Claude Chabrol",
       "country": "France,",
@@ -100,8 +100,8 @@
       "spine": "581"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5661-1875d1ff426fe8b78a392b1896b06cf5/Film_430w_FiresWithin_original.jpg",
       "title": "The Fire Within",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fire_Within.jpg",
       "criterionUrl": "https://www.criterion.com/films/540-the-fire-within",
       "director": "Louis Malle",
       "country": "France,",
@@ -109,8 +109,8 @@
       "spine": "430"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129873-e652f0dfe89ba299eaab45e6b4336cf2/hiroshima_bw_new_original.jpg",
       "title": "Hiroshima mon amour",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hiroshima_mon_amour.jpg",
       "criterionUrl": "https://www.criterion.com/films/217-hiroshima-mon-amour",
       "director": "Alain Resnais",
       "country": "France,",
@@ -118,8 +118,8 @@
       "spine": "196"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/2726-e9e384f93f844c95919db09fd1dd0ca5/P_original.jpg",
       "title": "Jules and Jim",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Jules_and_Jim.jpg",
       "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim",
       "director": "François Truffaut",
       "country": "France,",
@@ -127,8 +127,8 @@
       "spine": "281"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/14309-a2318b87d3124d41413e3b1f788cd6c3/Film_478_LastYearMarienbad_original.jpg",
       "title": "Last Year at Marienbad",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Last_Year_at_Marienbad.jpg",
       "criterionUrl": "https://www.criterion.com/films/1517-last-year-at-marienbad",
       "director": "Alain Resnais",
       "country": "France,",
@@ -136,8 +136,8 @@
       "spine": "478"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132237-e5b979036350af1c698ca7b441da4f78/Film_714_Lola_original.jpg",
       "title": "Lola",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lola.jpg",
       "criterionUrl": "https://www.criterion.com/films/27932-lola",
       "director": "Jacques Demy",
       "country": "France,",
@@ -145,8 +145,8 @@
       "spine": "714"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129993-6c875f2a67de9f27b8df1437a61c068f/Film_308w_MasculinFeminin_bw_original.jpg",
       "title": "Masculin féminin",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Masculin_feminin.jpg",
       "criterionUrl": "https://www.criterion.com/films/508-masculin-f-minin",
       "director": "Jean-Luc Godard",
       "country": "France,",
@@ -154,8 +154,8 @@
       "spine": "308"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132363-b9303ffa1bfddfffd86c4fdc7c8ef3e6/Film_824_Muriel_original.jpg",
       "title": "Muriel, or The Time of Return",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Muriel_or_The_Time_of_Return.jpg",
       "criterionUrl": "https://www.criterion.com/films/28635-muriel-or-the-time-of-return",
       "director": "Alain Resnais",
       "country": "France,",
@@ -163,8 +163,8 @@
       "spine": "824"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132342-705ee02afea4c19b9340a99e50062ed3/Film_802_ParisBelongsToUs_original.jpg",
       "title": "Paris Belongs to Us",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paris_Belongs_to_Us.jpg",
       "criterionUrl": "https://www.criterion.com/films/27724-paris-belongs-to-us",
       "director": "Jacques Rivette",
       "country": "France,",
@@ -172,14 +172,14 @@
       "spine": "802"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/54719-3b392858493eaab5819c6eac331341f2/Film_421w_PierrotLeFou_original.jpg",
       "title": "Pierrot le fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pierrot_le_fou.jpg",
       "director": "Jean-Luc Godard",
       "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131721-1d8203dc5e6e87af75a25138de5c7c01/Film_315w_ShootPianoPlayer_bw_original.jpg",
       "title": "Shoot the Piano Player",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Shoot_the_Piano_Player.jpg",
       "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player",
       "director": "François Truffaut",
       "country": "France,",
@@ -187,8 +187,8 @@
       "spine": "315"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132277-199dd2f244611f85bc841cf7017080c5/Film_749w_SoftSkin_original.jpg",
       "title": "The Soft Skin",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Soft_Skin.jpg",
       "criterionUrl": "https://www.criterion.com/films/27640-the-soft-skin",
       "director": "François Truffaut",
       "country": "France,",
@@ -196,14 +196,14 @@
       "spine": "749"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130105-c4077aa98b511a272a98358d6fc07c65/Film_344w_SuzannesCareer_bw_original.jpg",
       "title": "Suzanne's Career",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Suzannes_Career.jpg",
       "director": "Eric Rohmer",
       "criterionUrl": "https://www.criterion.com/films/787-suzanne-s-career"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132239-18ca14a1b5b085e2f5a16f383efe0a54/Film_716_Umbrellas_original.jpg",
       "title": "The Umbrellas of Cherbourg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Umbrellas_of_Cherbourg.jpg",
       "criterionUrl": "https://www.criterion.com/films/27933-the-umbrellas-of-cherbourg",
       "director": "Jacques Demy",
       "country": "France,",
@@ -211,8 +211,8 @@
       "spine": "716"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/60451-8d5e74b3f22bf0c87a9b2a2b1ef2295f/512_Filmw_VivreSaVie_original.jpg",
       "title": "Vivre sa vie",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Vivre_sa_vie.jpg",
       "criterionUrl": "https://www.criterion.com/films/3060-vivre-sa-vie",
       "director": "Jean-Luc Godard",
       "country": "France,",
@@ -220,8 +220,8 @@
       "spine": "512"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132022-7d877a9a25e4a5e479bc57ff9ff8bb3a/Film_635w_Weekend_original.jpg",
       "title": "Weekend",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Weekend.jpg",
       "criterionUrl": "https://www.criterion.com/films/28441-weekend",
       "director": "Jean-Luc Godard",
       "country": "France,",
@@ -229,20 +229,20 @@
       "spine": "635"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8029-bb8e9f84ee1574568e1782345441c691/PollyMagoo_2_original.jpg",
       "title": "Who Are You, Polly Maggoo?",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Who_Are_You_Polly_Maggoo.jpg",
       "director": "William Klein",
       "criterionUrl": "https://www.criterion.com/films/902-who-are-you-polly-maggoo"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129953-9372fd8ea0d44db484e9fd3e96707748/Film_238w_WomanIsWoman_bw_original.jpg",
       "title": "A Woman is a Woman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Woman_is_a_Woman.jpg",
       "director": "Jean-Luc Godard",
       "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132240-2e24f07fb918aa86e6d1ef66951dab45/Film_717_YoungGirlsRochefort_original.jpg",
       "title": "The Young Girls of Rochefort",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Young_Girls_of_Rochefort.jpg",
       "criterionUrl": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort",
       "director": "Jacques Demy",
       "country": "France,",

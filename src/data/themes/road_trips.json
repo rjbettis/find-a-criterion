@@ -2,281 +2,281 @@
   "RoadTrips": [
     {
       "title": "Alice in the Cities",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132353-276677f8a33e078e5abec1bce0dfd524/Film_814_AliceInCities_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27717-alice-in-the-cities",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Alice_in_the_Cities.jpg",
       "director": "Wim Wenders",
       "director_url": "https://www.criterion.com/films/27717-alice-in-the-cities"
     },
     {
       "title": "Ariel",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8133-8857224683c389b440d17a476b8c6800/ariel_16_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/959-ariel",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ariel.jpg",
       "director": "Aki Kaurismäki",
       "director_url": "https://www.criterion.com/films/959-ariel"
     },
     {
       "title": "And Life Goes On",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/651a34be4c7c69155ac45456f7671387.jpeg",
       "director": "Abbas Kiarostami",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/And_Life_Goes_On.jpg",
       "criterionUrl": "https://www.criterion.com/films/28639-and-life-goes-on",
       "directorLink": ""
     },
     {
       "title": "Border Radio",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7699-6220a56911cd4faad4756435b4f69ea3/Film_362w_BorderRadio_original.jpg",
       "director": "Allison Anders, Dean Lent, and Kurt Voss",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Border_Radio.jpg",
       "criterionUrl": "https://www.criterion.com/films/802-border-radio",
       "directorLink": ""
     },
     {
       "title": "Bottle Rocket",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5581-900b5fcf683a66fd68c09f9e2c5a7e54/Film_450w_BottleRocket_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/594-bottle-rocket",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bottle_Rocket.jpg",
       "director": "Wes Anderson",
       "director_url": "https://www.criterion.com/films/594-bottle-rocket"
     },
     {
       "title": "Clean, Shaven",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5135-e9bc2e12dd47b5c0c0c68d0f51443639/CleanShaven_original.jpg",
       "director": "Lodge Kerrigan",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Clean_Shaven.jpg",
       "criterionUrl": "https://www.criterion.com/films/551-clean-shaven",
       "directorLink": ""
     },
     {
       "title": "The Daytrippers",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/1a9ac30684db8601c3c49ba8e4b8134f.jpeg",
       "director": "Greg Mottola",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Daytrippers.jpg",
       "criterionUrl": "https://www.criterion.com/films/29464-the-daytrippers",
       "directorLink": ""
     },
     {
       "title": "Down by Law",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132103-a7a62f1def18be3871931aae9b2ad68b/Film_166w_DownByLaw_original.jpg",
       "director": "Jim Jarmusch",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Down_by_Law.jpg",
       "criterionUrl": "https://www.criterion.com/films/719-down-by-law",
       "directorLink": ""
     },
     {
       "title": "Easy Rider",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130345-d710c2512002232b69b747a51d590605/Film_545_EasyRider_original.jpg",
       "director": "Dennis Hopper",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Easy_Rider.jpg",
       "criterionUrl": "https://www.criterion.com/films/27528-easy-rider",
       "directorLink": ""
     },
     {
       "title": "Fear and Loathing in Las Vegas",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7909-fde72a57c6d1c0e5fbdfff6b6a38121a/Film_175w_FearLoathing_original.jpg",
       "director": "Terry Gilliam",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fear_and_Loathing_in_Las_Vegas.jpg",
       "criterionUrl": "https://www.criterion.com/films/215-fear-and-loathing-in-las-vegas",
       "directorLink": ""
     },
     {
       "title": "Five Easy Pieces",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130281-ca5804de592eab5b83ab5b7e06d784c3/Film_546w_FiveEasyPieces_original.jpg",
       "director": "Bob Rafelson",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Five_Easy_Pieces.jpg",
       "criterionUrl": "https://www.criterion.com/films/27529-five-easy-pieces",
       "directorLink": ""
     },
     {
       "title": "The Hit",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/21590-aecd7e04d2a4fa3f1f21ff0c84a5b659/THE_HIT_clip_still_resized_original.jpg",
       "director": "Stephen Frears",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hit.jpg",
       "criterionUrl": "https://www.criterion.com/films/28120-beyond-the-valley-of-the-dolls",
       "directorLink": ""
     },
     {
       "title": "It Happened One Night",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132256-db891045304b082be26b573fc30d6ee1/Film_736w_ItHappenedOneNight_original.jpg",
       "director": "Frank Capra",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/It_Happened_One_Night.jpg",
       "criterionUrl": "https://www.criterion.com/films/27900-it-happened-one-night",
       "directorLink": ""
     },
     {
       "title": "It’s a Mad, Mad, Mad, Mad World",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132212-187227916f1185dfc5b30012bc6273cc/Film_692w_ItsMadMadWorld_original.jpg",
       "director": "Stanley Kramer",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Its_a_Mad_Mad_Mad_Mad_World.jpg",
       "criterionUrl": "https://www.criterion.com/films/28579-it-s-a-mad-mad-mad-mad-world",
       "directorLink": ""
     },
     {
       "title": "Je tu il elle",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/47983-cbd61d60be96b7d331a284531564c856/Film_Akerman_JeTuIlElle_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/20962-je-tu-il-elle",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Je_tu_il_elle.jpg",
       "director": "Chantal Akerman",
       "director_url": "https://www.criterion.com/films/20962-je-tu-il-elle"
     },
     {
       "title": "Kings of the Road",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132355-42a89ab039b2587d9a39ad7e60ef775a/Film_816_KingsOfRoad_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/28762-kings-of-the-road",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kings_of_the_Road.jpg",
       "director": "Wim Wenders",
       "director_url": "https://www.criterion.com/films/28762-kings-of-the-road"
     },
     {
       "title": "Leningrad Cowboys Go America",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131249-9e7ae17d4588f9071065f7b03e0d02d3/Kaurismaki_Filmw_LeningradMoses_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27793-leningrad-cowboys-go-america",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Leningrad_Cowboys_Go_America.jpg",
       "director": "Aki Kaurismäki",
       "director_url": "https://www.criterion.com/films/27793-leningrad-cowboys-go-america"
     },
     {
       "title": "Mr. Thank You",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10889-fb7a6a4f814a5ccd9373f8d784ea30f4/Mr-Thank-You_42_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/1087-mr-thank-you",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mr_Thank_You.jpg",
       "director": "Hiroshi Shimizu",
       "director_url": "https://www.criterion.com/films/1087-mr-thank-you"
     },
     {
       "title": "My Own Private Idaho",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/3170-3c76a858a80e2a98614d19ca92ed5faa/P_original.jpg",
       "director": "Gus Van Sant",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/My_Own_Private_Idaho.jpg",
       "criterionUrl": "https://www.criterion.com/films/249-my-own-private-idaho",
       "directorLink": ""
     },
     {
       "title": "Mystery Train",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132101-62457f746e09459dc07ef5bc344ca76d/Film_521w_MysteryTrain_original.jpg",
       "director": "Jim Jarmusch",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mystery_Train.jpg",
       "criterionUrl": "https://www.criterion.com/films/2057-mystery-train",
       "directorLink": ""
     },
     {
       "title": "Old Joy",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/cca96d5bcb3db04b7704b15819c280c9.jpeg",
       "director": "Kelly Reichardt",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Old_Joy.jpg",
       "criterionUrl": "https://www.criterion.com/films/29062-old-joy",
       "directorLink": ""
     },
     {
       "title": "Paris, Texas",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/47943-3babd9e999462a6ef176192b5db4e73e/Film_501w_ParisTexas_original.jpg",
       "director": "Wim Wenders",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paris_Texas.jpg",
       "criterionUrl": "https://www.criterion.com/films/1502-paris-texas",
       "directorLink": ""
     },
     {
       "title": "Pierrot le fou",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/54719-3b392858493eaab5819c6eac331341f2/Film_421w_PierrotLeFou_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pierrot_le_fou.jpg",
       "director": "Jean-Luc Godard",
       "director_url": "https://www.criterion.com/films/149-pierrot-le-fou"
     },
     {
       "title": "Les rendez-vous d’Anna",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/47991-f99e84fad0e23495f95f0921426ab119/Film_Akerman_Anna_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/20204-les-rendez-vous-d-anna",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rendez_vous_dAnna.jpg",
       "director": "Chantal Akerman",
       "director_url": "https://www.criterion.com/films/20204-les-rendez-vous-d-anna"
     },
     {
       "title": "Something Wild",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130841-b8c34623aeae121c45c08082ca1d3d66/Film_563w_SomethingWild_original.jpg",
       "director": "Jonathan Demme",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Something_Wild.jpg",
       "criterionUrl": "https://www.criterion.com/films/28777-something-wild",
       "directorLink": ""
     },
     {
       "title": "Il sorpasso",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132228-f5a0be5dcc28c97daec0cab35a1dab33/Film_707w_Sorpasso_original.jpg",
       "director": "Dino Risi",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sorpasso.jpg",
       "criterionUrl": "https://www.criterion.com/films/28429-il-sorpasso",
       "directorLink": ""
     },
     {
       "title": "La strada",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130009-74684c9b5d01299ad8f56b0d570ff8f3/strada_bw_original.jpg",
       "director": "Federico Fellini",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Strada.jpg",
       "criterionUrl": "https://www.criterion.com/films/185-la-strada",
       "directorLink": ""
     },
     {
       "title": "Stranger Than Paradise",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/60384fcfb94f1d19491dd9fd16d9d4d3.jpeg",
       "director": "Jim Jarmusch",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Stranger_Than_Paradise.jpg",
       "criterionUrl": "https://www.criterion.com/films/252-stranger-than-paradise",
       "directorLink": ""
     },
     {
       "title": "Sullivan’s Travels",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/9345-7df190402f3717915587e8ea50d0e0f7/Sullivanw_original.jpg",
       "director": "Preston Sturges",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sullivans_Travels.jpg",
       "criterionUrl": "https://www.criterion.com/films/657-sullivan-s-travels",
       "directorLink": ""
     },
     {
       "title": "Taste of Cherry",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130561-5b5ae2ee0eb61c135a218c6f8a9a1c5b/Film_45w_TasteOfCherry_original.jpg",
       "director": "Abbas Kiarostami",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Taste_of_Cherry.jpg",
       "criterionUrl": "https://www.criterion.com/films/242-taste-of-cherry",
       "directorLink": ""
     },
     {
       "title": "Touki bouki",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132202-2c3f5af8ccdf963faed3cee8f23b70ae/WCP_Film_ToukiBouki_original.jpg",
       "director": "Djibril Diop Mambéty",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Touki_bouki.jpg",
       "criterionUrl": "https://www.criterion.com/films/28412-touki-bouki",
       "directorLink": ""
     },
     {
       "title": "True Stories",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/b642b0d93772aba6b2515c87ee532711.jpeg",
       "director": "David Byrne",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/True_Stories.jpg",
       "criterionUrl": "https://www.criterion.com/films/29038-true-stories",
       "directorLink": ""
     },
     {
       "title": "Two-Lane Blacktop",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10497-abd8f9dbeb215f33364e351918908cae/Twolane_w_original.jpg",
       "director": "Monte Hellman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Two_Lane_Blacktop.jpg",
       "criterionUrl": "https://www.criterion.com/films/847-two-lane-blacktop",
       "directorLink": ""
     },
     {
       "title": "Until the End of the World",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/401505bd5511a4b4d4bbaf1f785df7ae.jpeg",
       "director": "Wim Wenders",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Until_the_End_of_the_World.jpg",
       "criterionUrl": "https://www.criterion.com/films/28767-until-the-end-of-the-world",
       "directorLink": ""
     },
     {
       "title": "Vagabond",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131988-9ec6e2cb39f7b80352a7ad70f38e9009/Film_74w_Vagabond_original.jpg",
       "director": "Agnès Varda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Vagabond.jpg",
       "criterionUrl": "https://www.criterion.com/films/245-vagabond",
       "directorLink": ""
     },
     {
       "title": "The Wages of Fear",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129825-79c64f221071cf65feb46fed0d01a176/Film_36w_WagesFear_original.jpg",
       "director": "Henri-Georges Clouzot",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Wages_of_Fear.jpg",
       "criterionUrl": "https://www.criterion.com/films/370-the-wages-of-fear",
       "directorLink": ""
     },
     {
       "title": "Weekend",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132022-7d877a9a25e4a5e479bc57ff9ff8bb3a/Film_635w_Weekend_original.jpg",
       "director": "Jean-Luc Godard",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Weekend.jpg",
       "criterionUrl": "https://www.criterion.com/films/27783-weekend",
       "directorLink": ""
     },
     {
       "title": "Wild Strawberries",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132122-f0c3df50bcaa8a836dc5cf01388a744f/wild-strawberries_w_new_original.jpg",
       "director": "Ingmar Bergman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Wild_Strawberries.jpg",
       "criterionUrl": "https://www.criterion.com/films/175-wild-strawberries",
       "directorLink": ""
     },
     {
       "title": "Wrong Move",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132354-40eccd63ed770b5ca9331c87e7ff1a89/Film_815_WrongMove_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/28768-wrong-move",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Wrong_Move.jpg",
       "director": "Wim Wenders",
       "director_url": "https://www.criterion.com/films/28768-wrong-move"
     },
     {
       "title": "Y tu mamá también",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132244-1316f2e30aae8623a6954544c7d40e46/Film_723w_YTuMamaTambien_original.jpg",
       "director": "Alfonso Cuarón",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Y_tu_mama_tambien.jpg",
       "criterionUrl": "https://www.criterion.com/films/28005-y-tu-mam-tambi-n",
       "directorLink": ""
     }

@@ -2,176 +2,176 @@
   "NewAmericanCinema": [
     {
       "title": "3 Women",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131193-5f1edd478489dc8e9be4f82675670e15/Film_230w_3Women_original.jpg",
       "director": "Robert Altman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/3_Women.jpg",
       "criterionUrl": "https://www.criterion.com/films/712-3-women",
       "directorLink": ""
     },
     {
       "title": "Badlands",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132073-35031bcf6031410b08a603c69c5d2119/Film_651w_Badlands_original.jpg",
       "director": "Terrence Malick",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Badlands.jpg",
       "criterionUrl": "https://www.criterion.com/films/28406-badlands",
       "directorLink": ""
     },
     {
       "title": "Being There",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132408-4081a570ffa8fc1190de43054f6bac9a/Film_864_BeingThere_original.jpg",
       "director": "Hal Ashby",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Being_There.jpg",
       "criterionUrl": "https://www.criterion.com/films/29009-being-there",
       "directorLink": ""
     },
     {
       "title": "Days of Heaven",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/2678-ff745e43527c935905e668116e838304/P_original.jpg",
       "director": "Terrence Malick",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Days_of_Heaven.jpg",
       "criterionUrl": "https://www.criterion.com/films/213-days-of-heaven",
       "directorLink": ""
     },
     {
       "title": "Downhill Racer",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/39175-75ddf9805e93f0815f2ca5b2181a8ab0/film_downhillracer_original.jpg",
       "director": "Michael Ritchie",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Downhill_Racer.jpg",
       "criterionUrl": "https://www.criterion.com/films/20391-downhill-racer",
       "directorLink": ""
     },
     {
       "title": "Drive, He Said",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130289-1d4ba33a1c9b6fe7fb1657539e4ff81e/Film_547w_DriveHeSaid_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27530-drive-he-said",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Drive_He_Said.jpg",
       "director": "Jack Nicholson",
       "director_url": "https://www.criterion.com/films/27530-drive-he-said"
     },
     {
       "title": "Easy Rider",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130345-d710c2512002232b69b747a51d590605/Film_545_EasyRider_original.jpg",
       "director": "Dennis Hopper",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Easy_Rider.jpg",
       "criterionUrl": "https://www.criterion.com/films/27528-easy-rider",
       "directorLink": ""
     },
     {
       "title": "Faces",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6571-8cb40530e9893dd1651302d765f9779b/Film_252w_Faces_original.jpg",
       "director": "John Cassavetes",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Faces.jpg",
       "criterionUrl": "https://www.criterion.com/films/915-faces",
       "directorLink": ""
     },
     {
       "title": "Five Easy Pieces",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130281-ca5804de592eab5b83ab5b7e06d784c3/Film_546w_FiveEasyPieces_original.jpg",
       "director": "Bob Rafelson",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Five_Easy_Pieces.jpg",
       "criterionUrl": "https://www.criterion.com/films/27529-five-easy-pieces",
       "directorLink": ""
     },
     {
       "title": "The Friends of Eddie Coyle",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/13475-7dbb53e9dfd45d2d37e084bb06e84571/475_Film_original.jpg",
       "director": "Peter Yates",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Friends_of_Eddie_Coyle.jpg",
       "criterionUrl": "https://www.criterion.com/films/1426-the-friends-of-eddie-coyle",
       "directorLink": ""
     },
     {
       "title": "Head",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130265-6df2502dd6a480a6ffc848a8a88e4cd2/Film_544w_Head_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27527-head",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Head.jpg",
       "director": "Bob Rafelson",
       "director_url": "https://www.criterion.com/films/27527-head"
     },
     {
       "title": "Hearts and Minds",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/9725-a41fec2d98b80463bbf4fea83bcbbc96/Film_156w_HeartsAndMinds_original.jpg",
       "director": "Peter Davis",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hearts_and_Minds.jpg",
       "criterionUrl": "https://www.criterion.com/films/711-hearts-and-minds",
       "directorLink": ""
     },
     {
       "title": "The Killing of a Chinese Bookie",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6579-951e2f8e518544694e96bc3f41d275d4/Film_254w_KillignBookie_original.jpg",
       "director": "John Cassavetes",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Killing_of_a_Chinese_Bookie.jpg",
       "criterionUrl": "https://www.criterion.com/films/958-the-killing-of-a-chinese-bookie",
       "directorLink": ""
     },
     {
       "title": "The King of Marvin Gardens",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130313-24176ea4f0acd55c371df7be5756fc14/Film_550w_KingMarvin_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27532-the-king-of-marvin-gardens",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/King_of_Marvin_Gardens.jpg",
       "director": "Bob Rafelson",
       "director_url": "https://www.criterion.com/films/27532-the-king-of-marvin-gardens"
     },
     {
       "title": "The Last Picture Show",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130321-d596960e0ddcfdf220a0a2605c713f14/Film_549w_LastPicture_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27533-the-last-picture-show",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Last_Picture_Show.jpg",
       "director": "Peter Bogdanovich",
       "director_url": "https://www.criterion.com/films/27533-the-last-picture-show"
     },
     {
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132366-2b636e32630d5d7e004da5636728cd8d/Film_827_McCabeMiller_original.jpg",
       "title": "McCabe & Mrs. Miller",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/McCabe_and_Mrs_Miller.jpg",
       "director": "Robert Altman",
       "criterionUrl": "https://www.criterion.com/films/28712-mccabe-mrs-miller",
       "directorLink": ""
     },
     {
       "title": "Medium Cool",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132106-e322ccd0e05800e57f6cea096a2701ae/Film_658w_MediumCool_original.jpg",
       "director": "Haskell Wexler",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Medium_Cool.jpg",
       "criterionUrl": "https://www.criterion.com/films/28426-medium-cool",
       "directorLink": ""
     },
     {
       "title": "Nashville",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132207-b28903dbff606a4db462405222c212be/Film_683w_Nashville_original.jpg",
       "director": "Robert Altman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Nashville.jpg",
       "criterionUrl": "https://www.criterion.com/films/28427-nashville",
       "directorLink": ""
     },
     {
       "title": "Rosemary’s Baby",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132021-3bf1cbc5974ba205fb5f93e4567d9ad1/Film_634w_RosemarysBaby_original.jpg",
       "director": "Roman Polanski",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rosemarys_Baby.jpg",
       "criterionUrl": "https://www.criterion.com/films/27927-rosemary-s-baby",
       "directorLink": ""
     },
     {
       "title": "Shampoo",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/a314d2b4aed1a7c61c2bcc7874f82f8f.jpeg",
       "director": "Hal Ashby",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Shampoo.jpg",
       "criterionUrl": "https://www.criterion.com/films/28821-shampoo",
       "directorLink": ""
     },
     {
       "title": "Sisters",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130609-d5da345c8c245b168025cf623591ded5/Film_89w_SistersD_original.jpg",
       "director": "Brian De Palma",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sisters.jpg",
       "criterionUrl": "https://www.criterion.com/films/377-sisters",
       "directorLink": ""
     },
     {
       "title": "Straw Dogs",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7853-e7ce5a6f34bec4de49bcaebcdf49882c/Film_182_StrawDogs_original.jpg",
       "director": "Sam Peckinpah",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Straw_Dogs.jpg",
       "criterionUrl": "https://www.criterion.com/films/730-straw-dogs",
       "directorLink": ""
     },
     {
       "title": "Symbiopsychotaxiplasm",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5871-715b9051ea7b53ccfe5a170c2e1d2633/Film_360w_Symbiopsychotaxiplasm_original.jpg",
       "director": "William Greaves",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Symbiopsychotaxiplasm.jpg",
       "criterionUrl": "https://www.criterion.com/films/751-symbiopsychotaxiplasm",
       "directorLink": ""
     },
     {
       "title": "Two-Lane Blacktop",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10497-abd8f9dbeb215f33364e351918908cae/Twolane_w_original.jpg",
       "director": "Monte Hellman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Two_Lane_Blacktop.jpg",
       "criterionUrl": "https://www.criterion.com/films/847-two-lane-blacktop",
       "directorLink": ""
     },
     {
       "title": "A Woman Under the Influence",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132099-b3f675db45fd437264c6430e6f32ca22/Film_253w_WomanUnderInfluence_original.jpg",
       "director": "John Cassavetes",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Woman_Under_the_Influence.jpg",
       "criterionUrl": "https://www.criterion.com/films/510-a-woman-under-the-influence",
       "directorLink": ""
     }

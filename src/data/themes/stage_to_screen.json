@@ -2,358 +2,358 @@
   "StageToScreen": [
     {
       "title": "El amor brujo",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8325-6bb9298d4a4b5a79667d88a2d43b620d/Amor_Brujo_image1_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/885-el-amor-brujo",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Amor_brujo.jpg",
       "director": "Carlos Saura",
       "director_url": "https://www.criterion.com/films/885-el-amor-brujo"
     },
     {
       "title": "Androcles and the Lion",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/51975-930de8a6d4fa87d85f0587e6b92a0988/Shaw_box_film_Andronocles_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/6225-androcles-and-the-lion",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Androcles_and_the_Lion.jpg",
       "director": "Chester Erskine",
       "director_url": "https://www.criterion.com/films/6225-androcles-and-the-lion"
     },
     {
       "title": "The Bitter Tears of Petra von Kant",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132267-17643d674c8e5a80d805afd7363a1dd9/Film_740_BitterTears_original.jpg",
       "director": "Rainer Werner Fassbinder",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bitter_Tears_of_Petra_von_Kant.jpg",
       "criterionUrl": "https://www.criterion.com/films/27953-the-bitter-tears-of-petra-von-kant",
       "directorLink": ""
     },
     {
       "title": "Blithe Spirit",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131665-603eb8a5692f88b7f2e29a21ed162787/Film_606w_BlitheSpirit_original.jpg",
       "director": "David Lean",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blithe_Spirit.jpg",
       "criterionUrl": "https://www.criterion.com/films/28156-blithe-spirit",
       "directorLink": ""
     },
     {
       "title": "Blood Wedding",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8309-932eee6c6870dc46793aef16cd67e15c/Blood_Wedding_image1_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/883-blood-wedding",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blood_Wedding.jpg",
       "director": "Carlos Saura",
       "director_url": "https://www.criterion.com/films/883-blood-wedding"
     },
     {
       "title": "Boudu Saved from Drowning",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6171-ad27a2ffe6645d7618b8f40a7bea97a3/Film_306w_BouduSaved_original.jpg",
       "director": "Jean Renoir",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Boudu_Saved_from_Drowning.jpg",
       "criterionUrl": "https://www.criterion.com/films/756-boudu-saved-from-drowning",
       "directorLink": ""
     },
     {
       "title": "Breaker Morant",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132310-9ddf2e20e8b7496c9a4d2629c1ea61e7/Film_773_BreakerMorant_original.jpg",
       "director": "Bruce Beresford",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Breaker_Morant.jpg",
       "criterionUrl": "https://www.criterion.com/films/27766-breaker-morant",
       "directorLink": ""
     },
     {
       "title": "Brief Encounter",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10721-7ee0b76873fa57ac0195b93e1dc5049b/BriefEncounter_w_original.jpg",
       "director": "David Lean",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Brief_Encounter.jpg",
       "criterionUrl": "https://www.criterion.com/films/345-brief-encounter",
       "directorLink": ""
     },
     {
       "title": "The Browning Version",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129761-2cd2f23232ca7a82930fa840d3f883e7/Film_294w_BrowningVersion_bw_new_original.jpg",
       "director": "Anthony Asquith",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Browning_Version.jpg",
       "criterionUrl": "https://www.criterion.com/films/873-the-browning-version",
       "directorLink": ""
     },
     {
       "title": "Caesar and Cleopatra",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/51983-8663e40f93fccf5ebe25171be62d573b/Shaw_box_film_Caesar_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/11334-caesar-and-cleopatra",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Caesar_and_Cleopatra.jpg",
       "director": "Gabriel Pascal",
       "director_url": "https://www.criterion.com/films/11334-caesar-and-cleopatra"
     },
     {
       "title": "Carmen",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8317-7b4d826e0ee4586726754b0a573feb2b/Carmen_image2_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/884-carmen",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Carmen.jpg",
       "director": "Carlos Saura",
       "director_url": "https://www.criterion.com/films/884-carmen"
     },
     {
       "title": "Chimes at Midnight",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132368-3862fc2001ac51c28acbb243c134661b/Film_830_ChimesMidnight_original.jpg",
       "director": "Orson Welles",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Chimes_at_Midnight.jpg",
       "criterionUrl": "https://www.criterion.com/films/28756-chimes-at-midnight",
       "directorLink": ""
     },
     {
       "title": "Danton",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/4919-cd64e14b8cd3533ca7c62dbed411d247/Film_464w_Danton_original.jpg",
       "director": "Andrzej Wajda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Danton.jpg",
       "criterionUrl": "https://www.criterion.com/films/555-danton",
       "directorLink": ""
     },
     {
       "title": "Désiré",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/109121-3275a94f685023c822062dffe0eb7867/Guitry_Film_Desire_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/26184-desire",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Desire.jpg",
       "director": "Sacha Guitry",
       "director_url": "https://www.criterion.com/films/26184-desire"
     },
     {
       "title": "The Emperor Jones",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10529-c56b54406a55a5a53294241ca14bdb51/Film_370w_EmperorJones_original.jpg",
       "director": "Dudley Murphy",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Emperor_Jones.jpg",
       "criterionUrl": "https://www.criterion.com/films/807-the-emperor-jones",
       "directorLink": ""
     },
     {
       "title": "An Enemy of the People",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132209-23dcae9773d98d57449f3e1360370541/Eclipse_Ray_EnemyPeople_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27680-an-enemy-of-the-people",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Enemy_of_the_People.jpg",
       "director": "Satyajit Ray",
       "director_url": "https://www.criterion.com/films/27680-an-enemy-of-the-people"
     },
     {
       "title": "The Fugitive Kind",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131992-fc3d7022c24073a585999bc6660af32f/Film_515w_FugitiveKind_original.jpg",
       "director": "Sidney Lumet",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fugitive_Kind.jpg",
       "criterionUrl": "https://www.criterion.com/films/17998-the-fugitive-kind",
       "directorLink": ""
     },
     {
       "title": "Gertrud",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10439-33f897665d53a2a41016a8e4485884d8/gertrud_w_original.jpg",
       "director": "Carl Th. Dreyer",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gertrud.jpg",
       "criterionUrl": "https://www.criterion.com/films/443-gertrud",
       "directorLink": ""
     },
     {
       "title": "The Golden Coach",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6531-d694ca683771b659e8caa588b09ca8c7/Film_242w_GoldenCoach_original.jpg",
       "director": "Jean Renoir",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Golden_Coach.jpg",
       "criterionUrl": "https://www.criterion.com/films/889-the-golden-coach",
       "directorLink": ""
     },
     {
       "title": "Gray’s Anatomy",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132081-937c48970fcbbf8726d3e81c0d9cffce/Film_618w_GraysAnatomy_original.jpeg",
       "director": "Steven Soderbergh",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Grays_Anatomy.jpeg",
       "criterionUrl": "https://www.criterion.com/films/28351-gray-s-anatomy",
       "directorLink": ""
     },
     {
       "title": "Hamlet",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132058-c5dd6a2e94d0584969225400f6ede48b/Film_82w_Hamlet_original.jpg",
       "director": "Laurence Olivier",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hamlet.jpg",
       "criterionUrl": "https://www.criterion.com/films/621-hamlet",
       "directorLink": ""
     },
     {
       "title": "Hedwig and the Angry Inch",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/2ad82060feef56e2ef45603b22d74bab.jpeg",
       "director": "John Cameron Mitchell",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hedwig_and_the_Angry_Inch.jpg",
       "criterionUrl": "https://www.criterion.com/films/29018-hedwig-and-the-angry-inch",
       "directorLink": ""
     },
     {
       "title": "The Heiress",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Heiress.jpg",
       "director": "William Wyler",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Heiress.jpg",
       "criterionUrl": "https://www.criterion.com/films/28986-the-heiress",
       "directorLink": ""
     },
     {
       "title": "Henry V",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131984-505ab0b45faf11ca0c7db3910c4321d4/Film_41w_HenryV_original.jpg",
       "director": "Laurence Olivier",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Henry_V.jpg",
       "criterionUrl": "https://www.criterion.com/films/579-henry-v",
       "directorLink": ""
     },
     {
       "title": "The Importance of Being Earnest",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10207-6c555d2fbc5f2068480e68bd44143c6e/importanceearnest_original.jpg",
       "director": "Anthony Asquith",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Importance_of_Being_Earnest.jpg",
       "criterionUrl": "https://www.criterion.com/films/355-the-importance-of-being-earnest",
       "directorLink": ""
     },
     {
       "title": "Insignificance",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130897-ce5893970324c6abd85cecda083643c2/Film_566w_Insignificance_original.jpg",
       "director": "Nicolas Roeg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Insignificance.jpg",
       "criterionUrl": "https://www.criterion.com/films/27618-insignificance",
       "directorLink": ""
     },
     {
       "title": "Katzelmacher",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132147-c5511df949c72ed454d06446f5f8149d/Fassbinder_Film_Katzelmacher_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/28591-katzelmacher",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Katzelmacher.jpg",
       "director": "Rainer Werner Fassbinder",
       "director_url": "https://www.criterion.com/films/28591-katzelmacher"
     },
     {
       "title": "Love Streams",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132246-7bc4316136de96cc16541094d494a228/Film_721w_LoveStreams_original.jpg",
       "director": "John Cassavetes",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Love_Streams.jpg",
       "criterionUrl": "https://www.criterion.com/films/28032-love-streams",
       "directorLink": ""
     },
     {
       "title": "The Lower Depths",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/9963-ed630259321216b3170c33ef905e1fdb/LowerDepthRw_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/870-the-lower-depths",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lower_Depths_(1936).jpg",
       "director": "Jean Renoir",
       "director_url": "https://www.criterion.com/films/870-the-lower-depths"
     },
     {
       "title": "Macbeth",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132250-d690eee9ce48ca4b2d39038d6c35fe93/Film_726w_Macbeth_original.jpg",
       "director": "Roman Polanski",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Macbeth.jpg",
       "criterionUrl": "https://www.criterion.com/films/28020-macbeth",
       "directorLink": ""
     },
     {
       "title": "The Magic Flute",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131987-3fac369bb5356ea8c80475c286a9aab6/Film_71w_MagicFlute_original.jpg",
       "director": "Ingmar Bergman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Magic_Flute.jpg",
       "criterionUrl": "https://www.criterion.com/films/613-the-magic-flute",
       "directorLink": ""
     },
     {
       "title": "Major Barbara",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/129801-bcbe2d776a801c80c430ab192a6fe066/Shaw_box_film_MajorB_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/9904-major-barbara",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Major_Barbara.jpg",
       "director": "Gabriel Pascal",
       "director_url": "https://www.criterion.com/films/9904-major-barbara"
     },
     {
       "title": "Marius",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Marius.jpg",
       "director": "Alexander Korda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Marius.jpg",
       "criterionUrl": "https://www.criterion.com/films/28857-marius",
       "directorLink": ""
     },
     {
       "title": "A Master Builder",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132294-120b564ec1c0e07116d044eb91b6d392/Film_762_MasterBuilder_original.jpg",
       "director": "Jonathan Demme",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Master_Builder.jpg",
       "criterionUrl": "https://www.criterion.com/films/28646-a-master-builder",
       "directorLink": ""
     },
     {
       "title": "Master of the House",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132227-6f1b3f2dd0b95ac369a53e871ee46a34/Film_706w_MasterOfHouse_original.jpg",
       "director": "Carl Th. Dreyer",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Master_of_the_House.jpg",
       "criterionUrl": "https://www.criterion.com/films/27804-master-of-the-house",
       "directorLink": ""
     },
     {
       "title": "The Mikado",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130753-2b5c20e12bf1cdc8f285c6cd20af32e7/Film_559w_Mikado_original.jpg",
       "director": "Victor Schertzinger",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mikado.jpg",
       "criterionUrl": "https://www.criterion.com/films/27551-the-mikado",
       "directorLink": ""
     },
     {
       "title": "Miss Julie",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6403-c38edcb3aceb201904446f09d9b5ad35/Film_416w_MissJulieA_original.jpg",
       "director": "Alf Sjöberg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Miss_Julie.jpg",
       "criterionUrl": "https://www.criterion.com/films/361-miss-julie",
       "directorLink": ""
     },
     {
       "title": "Othello",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132414-43619c6b103753972a8030164c7f4a39/Film__870_Othello_original.jpg",
       "director": "Orson Welles",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Othello.jpg",
       "criterionUrl": "https://www.criterion.com/films/28621-othello",
       "directorLink": ""
     },
     {
       "title": "Pandora’s Box",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7707-7e684fba5d4efb10058f1a44a0862e32/Film_358w_PandorasBox_original.jpg",
       "director": "G. W. Pabst",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pandoras_Box.jpg",
       "criterionUrl": "https://www.criterion.com/films/362-pandora-s-box",
       "directorLink": ""
     },
     {
       "title": "The Philadelphia Story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Philadelphia_Story.jpg",
       "director": "George Cukor",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Philadelphia_Story.jpg",
       "criterionUrl": "https://www.criterion.com/films/29029-the-philadelphia-story",
       "directorLink": ""
     },
     {
       "title": "Pygmalion",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/3958-6098aa50c9b2a12264b7bc5a8714d5d4/P_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/365-pygmalion",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pygmalion.jpg",
       "director": "Anthony Asquith and Leslie Howard",
       "director_url": "https://www.criterion.com/films/365-pygmalion"
     },
     {
       "title": "Quadrille",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/109137-7b5814cf6f1dd5ba0029351f2265d2fb/Guitry_Film_Quadrille_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/26185-quadrille",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Quadrille.jpg",
       "director": "Sacha Guitry",
       "director_url": "https://www.criterion.com/films/26185-quadrille"
     },
     {
       "title": "Richard III",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132089-e0b7a5ac11e114dc831e866a4552644d/Film_213w_RichardIII_original.jpg",
       "director": "Laurence Olivier",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Richard_III.jpg",
       "criterionUrl": "https://www.criterion.com/boxsets/577-olivier-s-shakespeare",
       "directorLink": ""
     },
     {
       "title": "La ronde",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5605-40bac7a132c4fc647b3742da7a26ad7c/Film_443w_Ronde_original.jpg",
       "director": "Max Ophuls",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ronde.jpg",
       "criterionUrl": "https://www.criterion.com/films/573-la-ronde",
       "directorLink": ""
     },
     {
       "title": "The Ruling Class",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10311-a6ded05872e468b8eb087af32e1ae98b/RULING-CLASS-007_original.jpg",
       "director": "Peter Medak",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ruling_Class.jpg",
       "criterionUrl": "https://www.criterion.com/films/678-the-ruling-class",
       "directorLink": ""
     },
     {
       "title": "A Story from Chikamatsu",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Story_from_Chikamatsu.jpg",
       "director": "Kenji Mizoguchi",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Story_from_Chikamatsu.jpg",
       "criterionUrl": "https://www.criterion.com/films/28160-a-story-from-chikamatsu",
       "directorLink": ""
     },
     {
       "title": "The Tales of Hoffmann",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/29116-83b35705bee0d3097d61e484c14cf922/460_original.png",
       "criterionUrl": "https://www.criterion.com/films/748-the-tales-of-hoffmann",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Tales_of_Hoffmann.jpg",
       "director": "Michael Powell and Emeric Pressburger",
       "director_url": "https://www.criterion.com/films/748-the-tales-of-hoffmann"
     },
     {
       "title": "A Taste of Honey",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132370-39bd4c36176b559bc760543c4656894c/Film_829_TasteOfHoney_original.jpg",
       "director": "Tony Richardson",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Taste_of_Honey.jpg",
       "criterionUrl": "https://www.criterion.com/films/28734-a-taste-of-honey",
       "directorLink": ""
     },
     {
       "title": "This Happy Breed",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131657-18a82ef5fa19a1cbb03bb4d7a2d3d250/Film_605w_ThisHappyBreed_original.jpg",
       "director": "David Lean",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/This_Happy_Breed.jpg",
       "criterionUrl": "https://www.criterion.com/films/28144-this-happy-breed",
       "directorLink": ""
     },
     {
       "title": "The Threepenny Opera",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7485-7bd2ad0b62f447b25a7bd1860f82f380/Film_405w_3penny_original.jpg",
       "director": "G. W. Pabst",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Threepenny_Opera.jpg",
       "criterionUrl": "https://www.criterion.com/films/834-the-threepenny-opera",
       "directorLink": ""
     },
     {
       "title": "Vanya on 42nd Street",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131585-7d28675b1fe1dbe431979179b8c63c9a/Film_599w_VanyayOn42_original.jpg",
       "director": "Louis Malle",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Vanya_on_42nd_Street.jpg",
       "criterionUrl": "https://www.criterion.com/films/28022-vanya-on-42nd-street",
       "directorLink": ""
     }

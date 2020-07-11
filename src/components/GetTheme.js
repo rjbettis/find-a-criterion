@@ -51,7 +51,7 @@ export class GetTheme extends Component {
 
         {/* Theme image */}
         <Col className={'heading-style'}>
-          <Image src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif" />
+          <Image src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/Themes_Font.gif" />
         </Col>
 
         {/*

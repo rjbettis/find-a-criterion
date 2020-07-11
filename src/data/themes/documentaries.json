@@ -262,8 +262,8 @@
     },
     {
       "title": "Ingmar Bergman Makes a Movie",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/10577-1f857447eeed6b70a8be9ca6b4c17f6d/BergmanMakesmovie_w_original.jpg",
       "director": "Vilgot Sjöman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ingmar_Bergman_Makes_a_Movie.jpg",
       "criterionUrl": "https://www.criterion.com/films/608-ingmar-bergman-makes-a-movie",
       "directorLink": ""
     },

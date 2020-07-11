@@ -26,14 +26,14 @@ export class Explore extends Component {
               <Card.Img
                 className={'explore-image-resize'}
                 variant="top"
-                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_themes-013678553972c91e850a42072f55022a.gif"
+                src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/Themes_Font.gif"
               />
             </Card>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
-                src="https://s3.amazonaws.com/criterion-production/explore_images/460-96fadaa8da02f8f673e15fd2531b28e2/explore586_137_original.jpg"
+                src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/Themes_Image.jpg"
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
@@ -56,14 +56,14 @@ export class Explore extends Component {
               <Card.Img
                 className={'explore-image-resize'}
                 variant="top"
-                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_people-a039ab3dcdfd52763be7bf6d5cae7957.gif"
+                src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/People_Font.gif"
               />
             </Card>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
-                src="https://s3.amazonaws.com/criterion-production/explore_images/373-b812db5dfea2032c59bf4fe39ac494b8/explore_hans_dreier_docks_of_new_york_1086_036_original.jpg"
+                src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/People_Image.jpg"
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>
@@ -85,14 +85,14 @@ export class Explore extends Component {
               <Card.Img
                 className={'explore-image-resize'}
                 variant="top"
-                src="https://d2ffltj98nrzzh.cloudfront.net/assets/explore/explore_top10s-7488ae81b11d7a6be9cb710b12ac1c61.gif"
+                src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/Top10_Font.gif"
               />
             </Card>
             <Card className={'card-style my-3'}>
               <Card.Img
                 className={'card-style'}
                 variant="top"
-                src="https://s3.amazonaws.com/criterion-production/explore_images/621-b9ca8a52d4a3fbae59a2183fe92c8d11/wexler_topten_original.jpg"
+                src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/Top10_Image.jpg"
               />
               <Card.Body>
                 <Card.Title className={'explore-card-title'}>

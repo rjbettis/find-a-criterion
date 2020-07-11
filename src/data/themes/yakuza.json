@@ -2,57 +2,57 @@
   "Yakuza": [
     {
       "title": "Black River",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132092-82b283d1426dd1ad05133e3ca0837b04/Film_Kobayashi_BlackRiver_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/28235-black-river",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Black_River.jpg",
       "director": "Masaki Kobayashi",
       "director_url": "https://www.criterion.com/films/28235-black-river"
     },
     {
       "title": "Branded to Kill",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131529-032cd2b22e9d24e03541b89e8c07491f/Film_38w_BrandedToKill_original.jpg",
       "director": "Seijun Suzuki",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Branded_to_Kill.jpg",
       "criterionUrl": "https://www.criterion.com/films/576-branded-to-kill",
       "directorLink": ""
     },
     {
       "title": "A Colt Is My Passport",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/25564-30e0c648deba612d12fcd7c9ae263cb9/XXX_Film_coltismypassport_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/2959-a-colt-is-my-passport",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Colt_Is_My_Passport.jpg",
       "director": "Takashi Nomura",
       "director_url": "https://www.criterion.com/films/2959-a-colt-is-my-passport"
     },
     {
       "title": "Cruel Gun Story",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/25620-5e87d4e8d0356df5b69ebf86cf8db921/XXX_Film_cruelgunstory1_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/2958-cruel-gun-story",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cruel_Gun_Story.jpg",
       "director": "Takumi Furukawa",
       "director_url": "https://www.criterion.com/films/2958-cruel-gun-story"
     },
     {
       "title": "Drunken Angel",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/6427-1bec4238ccf94bc56cfd5815eef72397/Film_413w_DrunkenAngel_original.jpg",
       "director": "Akira Kurosawa",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Drunken_Angel.jpg",
       "criterionUrl": "https://www.criterion.com/films/845-drunken-angel",
       "directorLink": ""
     },
     {
       "title": "I Am Waiting",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/25580-0d6e89f8cc832243c3eb60bfc69883d2/XXX_Film_iamwaiting_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/2955-i-am-waiting",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/I_Am_Waiting.jpg",
       "director": "Koreyoshi Kurahara",
       "director_url": "https://www.criterion.com/films/2955-i-am-waiting"
     },
     {
       "title": "Japanese Summer: Double Suicide",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/71421-c61328791ea591316d9d954731e7fc10/Oshima_Film_japanesesummerdoublesuicide_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/23955-japanese-summer-double-suicide",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Japanese_Summer_Double_Suicide.jpg",
       "director": "Nagisa Oshima",
       "director_url": "https://www.criterion.com/films/23955-japanese-summer-double-suicide"
     },
     {
       "title": "Pale Flower",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130849-25a48ea01bbf3db56da18fe1386d8001/Film_564w_PaleFlower_original.jpg",
       "director": "Masahiro Shinoda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pale_Flower.jpg",
       "criterionUrl": "https://www.criterion.com/films/27604-pale-flower",
       "directorLink": ""
     },
@@ -65,29 +65,29 @@
     },
     {
       "title": "Rusty Knife",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/25628-56ee8125afdd5c9317973a1841605482/XXX_Film_rustyknife1_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/2956-rusty-knife",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rusty_Knife.jpg",
       "director": "Toshio Masuda",
       "director_url": "https://www.criterion.com/films/2956-rusty-knife"
     },
     {
       "title": "Take Aim at the Police Van",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/25572-e53228bffff60b7c8c6ca117af9426ba/XXX_Film_takeaim_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/2957-take-aim-at-the-police-van",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Take_Aim_at_the_Police_Van.jpg",
       "director": "Seijun Suzuki",
       "director_url": "https://www.criterion.com/films/2957-take-aim-at-the-police-van"
     },
     {
       "title": "Tokyo Drifter",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131985-6f45a7dbab5e7778974155f52c84e7cf/Film_39w_TokyoDrifter_original.jpg",
       "director": "Seijun Suzuki",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Tokyo_Drifter.jpg",
       "criterionUrl": "https://www.criterion.com/films/577-tokyo-drifter",
       "directorLink": ""
     },
     {
       "title": "Youth of the Beast",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7747-11660c64d6ba5da5672b5b842254528f/Film_268w_YouthBeast_original.jpg",
       "director": "Seijun Suzuki",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Youth_of_the_Beast.jpg",
       "criterionUrl": "https://www.criterion.com/films/946-youth-of-the-beast",
       "directorLink": ""
     }

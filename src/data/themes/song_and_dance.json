@@ -2,225 +2,225 @@
   "SongAndDance": [
     {
       "title": "All That Jazz",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132243-69de9e679d2a31f73410b441dae88e98/Film_724w_AllThatJazz_original.jpg",
       "director": "Bob Fosse",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/All_That_Jazz.jpg",
       "criterionUrl": "https://www.criterion.com/films/28561-all-that-jazz",
       "directorLink": ""
     },
     {
       "title": "El amor brujo",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8325-6bb9298d4a4b5a79667d88a2d43b620d/Amor_Brujo_image1_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/885-el-amor-brujo",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Amor_brujo.jpg",
       "director": "Carlos Saura",
       "director_url": "https://www.criterion.com/films/885-el-amor-brujo"
     },
     {
       "title": "Beyond the Valley of the Dolls",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132374-96da5721c7d4ba50d00242dc53ee83c2/Film_836_BeyondValleyDolls_original.jpg",
       "director": "Russ Meyer",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Beyond_the_Valley_of_the_Dolls.jpg",
       "criterionUrl": "https://www.criterion.com/films/28120-beyond-the-valley-of-the-dolls",
       "directorLink": ""
     },
     {
       "title": "Blood Wedding",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8309-932eee6c6870dc46793aef16cd67e15c/Blood_Wedding_image1_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/883-blood-wedding",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blood_Wedding.jpg",
       "director": "Carlos Saura",
       "director_url": "https://www.criterion.com/films/883-blood-wedding"
     },
     {
       "title": "Carmen",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8317-7b4d826e0ee4586726754b0a573feb2b/Carmen_image2_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/884-carmen",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Carmen.jpg",
       "director": "Carlos Saura",
       "director_url": "https://www.criterion.com/films/884-carmen"
     },
     {
       "title": "Une chambre en ville",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/e2b19eb6b4e11668b385ae8a14f5caee.jpeg",
       "director": "Jacques Demy",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Chambre_en_ville.jpg",
       "criterionUrl": "https://www.criterion.com/films/27936-une-chambre-en-ville",
       "directorLink": ""
     },
     {
       "title": "Dance, Girl, Dance",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Dance_Girl_Dance.jpg",
       "director": "Dorothy Arzner",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Dance_Girl_Dance.jpg",
       "criterionUrl": "https://www.criterion.com/films/29633-dance-girl-dance",
       "directorLink": ""
     },
     {
       "title": "Donkey Skin",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/644b329ec9ebad2a991d5f19b9fb67be.jpeg",
       "director": "Jacques Demy",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Donkey_Skin.jpg",
       "criterionUrl": "https://www.criterion.com/films/28605-donkey-skin",
       "directorLink": ""
     },
     {
       "title": "Dont Look Back",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132322-5cb18d78a0b977b1a0f656386fb0ba22/Film_786_DontLookBack_original.jpg",
       "director": "D. A. Pennebaker",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Dont_Look_Back.jpg",
       "criterionUrl": "https://www.criterion.com/films/28655-dont-look-back",
       "directorLink": ""
     },
     {
       "title": "Festival",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Festival.jpg",
       "director": "Murray Lerner",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Festival.jpg",
       "criterionUrl": "https://www.criterion.com/films/28889-festival",
       "directorLink": ""
     },
     {
       "title": "Gimme Shelter",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/55887-61b763c9cafdceaf2cf184d0d20b4ae2/GIMME_SHELTER_mick_film_still_original.jpg",
       "director": "David Maysles…",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gimme_Shelter.jpg",
       "criterionUrl": "https://www.criterion.com/films/637-gimme-shelter",
       "directorLink": ""
     },
     {
       "title": "A Hard Day’s Night",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132232-153f967980de94944d71e4e70399728b/Film_711w_HardDaysNight_original.jpg",
       "director": "Richard Lester",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hard_Days_Night.jpg",
       "criterionUrl": "https://www.criterion.com/films/28547-a-hard-day-s-night",
       "directorLink": ""
     },
     {
       "title": "Inside Llewyn Davis",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132332-bd5034d13b69c7cd3584df3de950e6b2/Film_794_InsideLlewynDavis_original.jpg",
       "director": "Joel Coen…",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Inside_Llewyn_Davis.jpg",
       "criterionUrl": "https://www.criterion.com/films/28721-inside-llewyn-davis",
       "directorLink": ""
     },
     {
       "title": "Jimi Plays Monterey & Shake! Otis at Monterey",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7925-ce798b536515649414445a393709bfd6/Film_169w_JimiPlays_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/722-jimi-plays-monterey-shake-otis-at-monterey",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Jimi_Plays_Monterey_Shake_Otis_at_Monterey.jpg",
       "director": "D. A. Pennebaker and Chris Hegedus",
       "director_url": "https://www.criterion.com/films/722-jimi-plays-monterey-shake-otis-at-monterey"
     },
     {
       "title": "The Lure",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132439-b3a8b7079a0a9cd02871c706b843a0b2/Film_896_Lure_original.jpg",
       "director": "Agnieszka Smoczyńska",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lure.jpg",
       "criterionUrl": "https://www.criterion.com/films/29061-the-lure",
       "directorLink": ""
     },
     {
       "title": "The Magic Flute",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131987-3fac369bb5356ea8c80475c286a9aab6/Film_71w_MagicFlute_original.jpg",
       "director": "Ingmar Bergman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Magic_Flute.jpg",
       "criterionUrl": "https://www.criterion.com/films/613-the-magic-flute",
       "directorLink": ""
     },
     {
       "title": "Martha Graham: Dance on Film",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7477-afbc54ac0b9c3c4da8595d6028b992df/Film_406w_MarthaG_original.jpg",
       "director": "Nathan Kroll",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Martha_Graham_Dance_on_Film.jpg",
       "criterionUrl": "https://www.criterion.com/films/835-martha-graham-dance-on-film",
       "directorLink": ""
     },
     {
       "title": "The Mikado",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130753-2b5c20e12bf1cdc8f285c6cd20af32e7/Film_559w_Mikado_original.jpg",
       "director": "Victor Schertzinger",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mikado.jpg",
       "criterionUrl": "https://www.criterion.com/films/27551-the-mikado",
       "directorLink": ""
     },
     {
       "title": "Monterey Pop",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Monterey_Pop.jpg",
       "criterionUrl": "https://www.criterion.com/films/720-monterey-pop",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Monterey_Pop.jpg",
       "director": "D. A. Pennebaker",
       "director_url": "https://www.criterion.com/films/720-monterey-pop"
     },
     {
       "title": "Nashville",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132207-b28903dbff606a4db462405222c212be/Film_683w_Nashville_original.jpg",
       "director": "Robert Altman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Nashville.jpg",
       "criterionUrl": "https://www.criterion.com/films/28427-nashville",
       "directorLink": ""
     },
     {
       "title": "Pina",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132064-97775286c5a039d4a17849a2de484724/Film_644_Pina_b_original.jpg",
       "director": "Wim Wenders",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pina.jpg",
       "criterionUrl": "https://www.criterion.com/films/28404-pina",
       "directorLink": ""
     },
     {
       "title": "A Poem Is a Naked Person",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132343-d016fcd92908d2f20606ff17ec7b28bc/Film_805_PoemNakedPerson_original.jpg",
       "director": "Les Blank",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Poem_Is_a_Naked_Person.jpg",
       "criterionUrl": "https://www.criterion.com/films/28755-a-poem-is-a-naked-person",
       "directorLink": ""
     },
     {
       "title": "The Red Shoes",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130553-f029170c5b4ddf3e7025dd486b731875/THE_RED_SHOES_moira_original.jpg",
       "director": "Michael Powell…",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Red_Shoes.jpg",
       "criterionUrl": "https://www.criterion.com/films/233-the-red-shoes",
       "directorLink": ""
     },
     {
       "title": "The Rose",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132289-8ebafcd7371b8c83715f5a27b5bd09ff/Film_757_Rose_original.jpg",
       "director": "Mark Rydell",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rose.jpg",
       "criterionUrl": "https://www.criterion.com/films/28572-the-rose",
       "directorLink": ""
     },
     {
       "title": "Sid & Nancy",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/d8be7d29c2f272ef4ff550cb57a245b9.jpeg",
       "director": "Alex Cox",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sid_and_Nancy.jpg",
       "criterionUrl": "https://www.criterion.com/films/535-sid-nancy",
       "directorLink": ""
     },
     {
       "title": "The Tales of Hoffmann",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/29116-83b35705bee0d3097d61e484c14cf922/460_original.png",
       "criterionUrl": "https://www.criterion.com/films/748-the-tales-of-hoffmann",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Tales_of_Hoffmann.jpg",
       "director": "Michael Powell and Emeric Pressburger",
       "director_url": "https://www.criterion.com/films/748-the-tales-of-hoffmann"
     },
     {
       "title": "This Is Spinal Tap",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/3572-3dd89121b3232f731ed6f574520532a9/P_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/317-this-is-spinal-tap",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/This_Is_Spinal_Tap.jpg",
       "director": "Rob Reiner",
       "director_url": "https://www.criterion.com/films/317-this-is-spinal-tap"
     },
     {
       "title": "Topsy-Turvy",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130745-2b559a4ae2490e5390be86db90b6c854/Film_558w_TopsyTurvy_original.jpg",
       "director": "Mike Leigh",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Topsy_Turvy.jpg",
       "criterionUrl": "https://www.criterion.com/films/27550-topsy-turvy",
       "directorLink": ""
     },
     {
       "title": "Total Balalaika Show",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131257-2152de6ed9421bcca32875ae0e3ec273/Kaurismaki_Filmw_TotalBalalaikaShow_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27795-total-balalaika-show",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Total_Balalaika_Show.jpg",
       "director": "Aki Kaurismäki",
       "director_url": "https://www.criterion.com/films/27795-total-balalaika-show"
     },
     {
       "title": "Trances",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132204-9e21e1058e8ebf64d916fa0d623bbe95/WCP_Film_Trances_original.jpg",
       "director": "Ahmed El Maânouni",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Trances.jpg",
       "criterionUrl": "https://www.criterion.com/films/28413-trances",
       "directorLink": ""
     },
     {
       "title": "The Umbrellas of Cherbourg",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/1526cfb8f320fadf729ed006a32c11d8.jpeg",
       "director": "Jacques Demy",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Umbrellas_of_Cherbourg.jpg",
       "criterionUrl": "https://www.criterion.com/films/27933-the-umbrellas-of-cherbourg",
       "directorLink": ""
     },
     {
       "title": "The Young Girls of Rochefort",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Young_Girls_of_Rochefort.jpg",
       "director": "Jacques Demy",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Young_Girls_of_Rochefort.jpg",
       "criterionUrl": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort",
       "directorLink": ""
     }

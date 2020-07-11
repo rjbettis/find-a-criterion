@@ -2,120 +2,120 @@
   "Westerns": [
     {
       "title": "3:10 to Yuma",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132105-e5ef33e164399d5e7f878b350fe37242/Film_657w_310Yuma_original.jpg",
       "director": "Delmer Daves",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/310_to_Yuma.jpg",
       "criterionUrl": "https://www.criterion.com/films/27910-3-10-to-yuma",
       "directorLink": ""
     },
     {
       "title": "The Ballad of Gregorio Cortez",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/33f25039a30401a581920d5ac49327a0.jpeg",
       "director": "Robert M. Young",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ballad_of_Gregorio_Cortez.jpg",
       "criterionUrl": "https://www.criterion.com/films/29142-the-ballad-of-gregorio-cortez",
       "directorLink": ""
     },
     {
       "title": "Dead Man",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/31326f0264c579fff84eae46af3f1474.jpeg",
       "director": "Jim Jarmusch",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Dead_Man.jpg",
       "criterionUrl": "https://www.criterion.com/films/29064-dead-man",
       "directorLink": ""
     },
     {
       "title": "Destry Rides Again",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Destry_Rides_Again.jpg",
       "director": "George Marshall",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Destry_Rides_Again.jpg",
       "criterionUrl": "https://www.criterion.com/films/29002-destry-rides-again",
       "directorLink": ""
     },
     {
       "title": "Forty Guns",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Forty_Guns.jpg",
       "director": "Samuel Fuller",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Forty_Guns.jpg",
       "criterionUrl": "https://www.criterion.com/films/28567-forty-guns",
       "directorLink": ""
     },
     {
       "title": "The Furies",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132158-4d9277cbf2ec1ff7063f04e981d29d9a/Film_Furies_original.jpg",
       "director": "Anthony Mann",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Furies.jpg",
       "criterionUrl": "https://www.criterion.com/films/596-the-furies",
       "directorLink": ""
     },
     {
       "title": "Heaven’s Gate",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132028-10fe9dc4639a2a5a049781915f266d70/Film_636w_HeavensGate_original.jpg",
       "director": "Michael Cimino",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gates_of_Heaven.jpg",
       "criterionUrl": "https://www.criterion.com/films/28036-heaven-s-gate",
       "directorLink": ""
     },
     {
       "title": "I Shot Jesse James",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/8301-09a545277af5c0f163aad62fed03dbaf/jessejames1_original.jpg",
       "criterionUrl": "http://www.criterion.com/films/882-i-shot-jesse-james",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/I_Shot_Jesse_James.jpg",
       "director": "Samuel Fuller",
       "director_url": "http://www.criterion.com/films/882-i-shot-jesse-james"
     },
     {
       "title": "Jubal",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132104-cbd59abc0c6ab500e2b7ea9e1dc3945c/Film_656w_Jubal_original.jpg",
       "director": "Delmer Daves",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Jubal.jpg",
       "criterionUrl": "https://www.criterion.com/films/28492-jubal",
       "directorLink": ""
     },
     {
       "title": "McCabe & Mrs. Miller",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/McCabe_and_Mrs_Miller.jpg",
       "director": "Robert Altman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/McCabe_and_Mrs_Miller.jpg",
       "criterionUrl": "https://www.criterion.com/films/28712-mccabe-mrs-miller",
       "directorLink": ""
     },
     {
       "title": "My Darling Clementine",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132255-6bfa59dacabc63836b5644d80f02b47a/Film_732w_MyDarlingClementine_original.jpg",
       "director": "John Ford",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/My_Darling_Clementine.jpg",
       "criterionUrl": "https://www.criterion.com/films/28570-my-darling-clementine",
       "directorLink": ""
     },
     {
       "title": "One-Eyed Jacks",
-      "image": "https://s3.amazonaws.com/criterion-production/carousel-files/1105f4827c1546237181f133e32a18c8.jpeg",
       "director": "Marlon Brando",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/One_Eyed_Jacks.jpg",
       "criterionUrl": "https://www.criterion.com/films/28979-one-eyed-jacks",
       "directorLink": ""
     },
     {
       "title": "Red River",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132229-37d27a70fe57baff957611e55cbb64d0/Film_709w_RedRiver_original.jpg",
       "director": "Howard Hawks",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Red_River.jpg",
       "criterionUrl": "https://www.criterion.com/films/28046-red-river",
       "directorLink": ""
     },
     {
       "title": "Ride in the Whirlwind",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132258-28d32204b02c4d4217173ed3f68ab835/Film_735_RideWhirlwind_original.jpg",
       "director": "Monte Hellman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ride_in_the_Whirlwind.jpg",
       "criterionUrl": "https://www.criterion.com/films/28581-ride-in-the-whirlwind",
       "directorLink": ""
     },
     {
       "title": "The Shooting",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132257-e8cdac8fcd7283cb19a74acb75dfff84/Film_734_Shooting_original.jpg",
       "director": "Monte Hellman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Shooting.jpg",
       "criterionUrl": "https://www.criterion.com/films/28580-the-shooting",
       "directorLink": ""
     },
     {
       "title": "Stagecoach",
-      "image": "http://s3.amazonaws.com/criterion-production/stills/132002-67915c002b2bbf85a644b1ee83e620a5/Film_516w_Stagecoach_original.jpg",
       "director": "John Ford",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Stagecoach.jpg",
       "criterionUrl": "https://www.criterion.com/films/980-stagecoach",
       "directorLink": ""
     },
     {
       "title": "Walker",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/533f93089714c4c1009fc2ea26461411.jpeg",
       "director": "Alex Cox",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Walker.jpg",
       "criterionUrl": "https://www.criterion.com/films/526-walker",
       "directorLink": ""
     }

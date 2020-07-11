@@ -2,183 +2,183 @@
   "OutAtCriterion": [
     {
       "title": "The Bitter Tears of Petra von Kant",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132267-17643d674c8e5a80d805afd7363a1dd9/Film_740_BitterTears_original.jpg",
       "director": "Rainer Werner Fassbinder",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bitter_Tears_of_Petra_von_Kant.jpg",
       "criterionUrl": "https://www.criterion.com/films/27953-the-bitter-tears-of-petra-von-kant",
       "directorLink": ""
     },
     {
       "title": "Blue Is the Warmest Color",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132215-ce0ff40b7536c12bc8769f024a6efe52/Film_695_BlueIsWarmestColor_original.jpg",
       "director": "Abdellatif Kechiche",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blue_Is_the_Warmest_Color.jpg",
       "criterionUrl": "https://www.criterion.com/films/28603-blue-is-the-warmest-color",
       "directorLink": ""
     },
     {
       "title": "Burroughs: The Movie",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132326-25fc9fbec8a9a6e097bdb6a84151abd9/Film_789_Burroughs_original.jpg",
       "director": "Howard Brookner",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Burroughs_The_Movie.jpg",
       "criterionUrl": "https://www.criterion.com/films/28657-burroughs-the-movie",
       "directorLink": ""
     },
     {
       "title": "La Cage aux Folles",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132162-cad76523597ec8ec4a6279a2066f3ac7/Film_671w_CageAuxFolles_original.jpg",
       "director": "Edouard Molinaro",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cage_aux_Folles.jpg",
       "criterionUrl": "https://www.criterion.com/films/28045-la-cage-aux-folles",
       "directorLink": ""
     },
     {
       "title": "Chasing Amy",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132036-860cb06e7d1a2050217ec5f8751e75bc/Amy_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/615-chasing-amy",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Chasing_Amy.jpg",
       "director": "Kevin Smith",
       "director_url": "https://www.criterion.com/films/615-chasing-amy"
     },
     {
       "title": "Death in Venice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Death_in_Venice.jpg",
       "director": "Luchino Visconti",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Death_in_Venice.jpg",
       "criterionUrl": "https://www.criterion.com/films/28699-death-in-venice",
       "directorLink": ""
     },
     {
       "title": "Desert Hearts",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132443-a80fc024470f4c74f07fb485507baed7/Film_902_DesertHearts_original.jpg",
       "director": "Donna Deitch",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Desert_Hearts.jpg",
       "criterionUrl": "https://www.criterion.com/films/29139-desert-hearts",
       "directorLink": ""
     },
     {
       "title": "Female Trouble",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/43790a724475ec9256edeebbf4a636e6.jpeg",
       "director": "John Waters",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Female_Trouble.jpg",
       "criterionUrl": "https://www.criterion.com/films/28704-female-trouble",
       "directorLink": ""
     },
     {
       "title": "Fox and His Friends",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132395-4c9307717719b983617daa601bc1f044/Film_851_FoxandHisFriends_original.jpg",
       "director": "Rainer Werner Fassbinder",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fox_and_His_Friends.jpg",
       "criterionUrl": "https://www.criterion.com/films/27957-fox-and-his-friends",
       "directorLink": ""
     },
     {
       "title": "Hedwig and the Angry Inch",
-      "image": "https://criterion-production.s3.amazonaws.com/carousel-files/2ad82060feef56e2ef45603b22d74bab.jpeg",
       "director": "John Cameron Mitchell",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hedwig_and_the_Angry_Inch.jpg",
       "criterionUrl": "https://www.criterion.com/films/29018-hedwig-and-the-angry-inch",
       "directorLink": ""
     },
     {
       "title": "Je tu il elle",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/47983-cbd61d60be96b7d331a284531564c856/Film_Akerman_JeTuIlElle_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/20962-je-tu-il-elle",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Je_tu_il_elle.jpg",
       "director": "Chantal Akerman",
       "director_url": "https://www.criterion.com/films/20962-je-tu-il-elle"
     },
     {
       "title": "Jubilee",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/7787-08750abc8e1d0b26a2a898e5be0c3d21/Film_191w_Jubilee_original.jpg",
       "director": "Derek Jarman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Jubilee.jpg",
       "criterionUrl": "https://www.criterion.com/films/736-jubilee",
       "directorLink": ""
     },
     {
       "title": "The Long Day Closes",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132213-ded979b004565ed61507779c9a5e229b/Film_694w_LongDayCloses_original.jpg",
       "director": "Terence Davies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Long_Day_Closes.jpg",
       "criterionUrl": "https://www.criterion.com/films/27984-the-long-day-closes",
       "directorLink": ""
     },
     {
       "title": "Mala Noche",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/3096-459b7fb99acbc7509b097b0a2eadcc80/P_original.jpg",
       "director": "Gus Van Sant",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mala_Noche.jpg",
       "criterionUrl": "https://www.criterion.com/films/253-mala-noche",
       "directorLink": ""
     },
     {
       "title": "Maurice",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/14731-33510d4cb6a3fa0e32a185b7202d479d/Maurice_FilmStill_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/1516-maurice",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Maurice.jpg",
       "director": "James Ivory",
       "director_url": "https://www.criterion.com/films/1516-maurice"
     },
     {
       "title": "Mishima: A Life in Four Chapters",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5653-295ee73ae13834ae394947889bbd5a4d/Film_432w_Mishima_original.jpg",
       "director": "Paul Schrader",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mishima_A_Life_in_Four_Chapters.jpg",
       "criterionUrl": "https://www.criterion.com/films/588-mishima-a-life-in-four-chapters",
       "directorLink": ""
     },
     {
       "title": "Mulholland Dr.",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132313-6bb6d7a01f14e7306ffdb9aad8f39d40/Film_779_MulhollandDr_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/28050-mulholland-dr",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mulholland_Dr.jpg",
       "director": "David Lynch",
       "director_url": "https://www.criterion.com/films/28050-mulholland-dr"
     },
     {
       "title": "My Beautiful Laundrette",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132298-31aef6712794ce99eac44ce313682d7f/Film_767_MyBeautifulLaundrette_original.jpg",
       "director": "Stephen Frears",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/My_Beautiful_Laundrette.jpg",
       "criterionUrl": "https://www.criterion.com/films/28044-my-beautiful-laundrette",
       "directorLink": ""
     },
     {
       "title": "My Own Private Idaho",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/3170-3c76a858a80e2a98614d19ca92ed5faa/P_original.jpg",
       "director": "Gus Van Sant",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/My_Own_Private_Idaho.jpg",
       "criterionUrl": "https://www.criterion.com/films/249-my-own-private-idaho",
       "directorLink": ""
     },
     {
       "title": "Naked Lunch",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/9775-b04019c6782f688d5a62518050d11432/NakedLunchw_original.jpg",
       "director": "David Cronenberg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Naked_Lunch.jpg",
       "criterionUrl": "https://www.criterion.com/films/634-naked-lunch",
       "directorLink": ""
     },
     {
       "title": "Paris Is Burning",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paris_Is_Burning.jpg",
       "director": "Jennie Livingston",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Paris_Is_Burning.jpg",
       "criterionUrl": "https://www.criterion.com/films/29647-paris-is-burning",
       "directorLink": ""
     },
     {
       "title": "A Special Day",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132312-649310e940256740bd5bb1be490e0c77/Film_778_SpecialDay_original.jpg",
       "director": "Ettore Scola",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Special_Day.jpg",
       "criterionUrl": "https://www.criterion.com/films/28659-a-special-day",
       "directorLink": ""
     },
     {
       "title": "Sunday Bloody Sunday",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132017-10202848dd6a93bf854b758aaa7c1593/Film_629w_SundayBloodySunday_original.jpg",
       "director": "John Schlesinger",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sunday_Bloody_Sunday.jpg",
       "criterionUrl": "https://www.criterion.com/films/28025-sunday-bloody-sunday",
       "directorLink": ""
     },
     {
       "title": "The Times of Harvey Milk",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130737-c2e108ddcbf92407c6e1ed0dc5a36196/Film_557w_TimesHarveyMilk_original.jpg",
       "director": "Robert Epstein",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Times_of_Harvey_Milk.jpg",
       "criterionUrl": "https://www.criterion.com/films/27549-the-times-of-harvey-milk",
       "directorLink": ""
     },
     {
       "title": "Victim",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130409-710b768f763f6c07995d3260aed868d5/495_134_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27538-victim",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Victim.jpg",
       "director": "Basil Dearden",
       "director_url": "https://www.criterion.com/films/27538-victim"
     },
     {
       "title": "Weekend",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132041-638447b3339222f3e072ec2f1d5bd148/Weekend_Film_Current_original.jpg",
       "director": "Andrew Haigh",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Weekend.jpg",
       "criterionUrl": "https://www.criterion.com/films/27783-weekend",
       "directorLink": ""
     }

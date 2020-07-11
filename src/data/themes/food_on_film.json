@@ -2,114 +2,114 @@
   "FoodOnFilm": [
     {
       "title": "Babette’s Feast",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132136-7cf9cbe634a809ebc8427f9f05aa3a39/Film_665w_BabettesFeast_original.jpg",
       "director": "Gabriel Axel",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Babettes_Feast.jpg",
       "criterionUrl": "https://www.criterion.com/films/27894-babette-s-feast",
       "directorLink": ""
     },
     {
       "title": "Les Blank: Always for Pleasure",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blank_Always_for_Pleasure.jpg",
       "director": "Les Blank",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blank_Always_for_Pleasure.jpg",
       "criterionUrl": "https://www.criterion.com/films/28658-les-blank-always-for-pleasure",
       "directorLink": ""
     },
     {
       "title": "The Bakery Girl of Monceau",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130097-afa2363873a95913ae9ec273d82602b7/Film_343w_BakeryGirlofMonceau_bw_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/786-the-bakery-girl-of-monceau",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bakery_Girl_of_Monceau.jpg",
       "director": "Eric Rohmer"
     },
     {
       "title": "Daisies",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/131959-7322853fa6db0843d94f1c0a92b96203/Film_Eclipse_Daisies_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/27854-daisies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Daisies.jpg",
       "director": "Věra Chytilová"
     },
     {
       "title": "The Discreet Charm of the Bourgeoisie",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/8389-6fb342c208cf6063c3709fd6a6186d20/Film_102w_DiscreetCharm_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Discreet_Charm_of_the_Bourgeoisie.jpg",
       "director": "Luis Buñuel"
     },
     {
       "title": "Fanny and Alexander: Theatrical Version",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/57991-a60baf0ef0310b42e733b18451219754/FANNY_ALEXANDER_xmas_filmstill_2_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-the-theatrical-version",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Fanny_and_Alexander_Theatrical_Version.jpg",
       "director": "Ingmar Bergman"
     },
     {
       "title": "The Gleaners and I",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gleaners_and_I.jpg",
       "director": "Agnès Varda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gleaners_and_I.jpg",
       "criterionUrl": "https://www.criterion.com/films/30368-the-gleaners-and-i",
       "directorLink": ""
     },
     {
       "title": "The Gleaners and I: Two Years Later",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gleaners_and_I_Two_Years_Later.jpg",
       "director": "Agnès Varda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gleaners_and_I_Two_Years_Later.jpg",
       "criterionUrl": "https://www.criterion.com/films/30564-the-gleaners-and-i-two-years-later",
       "directorLink": ""
     },
     {
       "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/41479-fb5f59ceeb1ff5e7a81f3d8f6e5ff1b4/JEANNE_DIELMAN_video_still_original.jpg",
       "director": "Chantal Akerman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Jeanne_Dielman.jpg",
       "criterionUrl": "https://www.criterion.com/films/302-jeanne-dielman-23-quai-du-commerce-1080-bruxelles",
       "directorLink": ""
     },
     {
       "title": "Love Affair, or the Case of the Missing Switchboard Operator",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/34644-f4db64c8ab4b4bca48a2e812c069d30f/Film_Switch_w_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/3985-love-affair-or-the-case-of-the-missing-switchboard-operator",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Love_Affair.jpg",
       "director": "Dušan Makavejev"
     },
     {
       "title": "My Dinner with André",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/14299-bd01c9fc958af08a6a0f535dc5d96fc6/Film_479_MyDinnerAndre_original.jpg",
       "director": "Louis Malle",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/My_Dinner_with_Andre.jpg",
       "criterionUrl": "https://www.criterion.com/films/1093-my-dinner-with-andr",
       "directorLink": ""
     },
     {
       "title": "The Private Life of Henry VIII",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/13515-37960aaa6b25a7b6e47eb4a18c79226f/Henry_Film_original.jpg",
       "criterionUrl": "https://www.criterion.com/films/1433-the-private-life-of-henry-viii",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Private_Life_of_Henry_VIII.jpg",
       "director": "Alexander Korda"
     },
     {
       "title": "The Secret of the Grain",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/109073-17ed3a1de4c4c5cd7500840480162ad7/Film_526w_SecretGrain_original.jpg",
       "director": "Abdellatif Kechiche",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Secret_of_the_Grain.jpg",
       "criterionUrl": "https://www.criterion.com/films/1344-the-secret-of-the-grain",
       "directorLink": ""
     },
     {
       "title": "Still Walking",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/130441-71bec623da696b66b9a3fe97c8668d70/Film_554w_StillWalking_original.jpg",
       "director": "Hirokazu Kore-eda",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Still_Walking.jpg",
       "criterionUrl": "https://www.criterion.com/films/27540-still-walking",
       "directorLink": ""
     },
     {
       "title": "Sweet Movie",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/5055-4a8f6a1df69fddd626732924523529dc/SweetMovie_original.jpg",
       "director": "Dušan Makavejev",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sweet_Movie.jpg",
       "criterionUrl": "https://www.criterion.com/films/552-sweet-movie",
       "directorLink": ""
     },
     {
       "title": "The Taking of Power by Louis XIV",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/9921-72e9ef349dc1f35cc48226f8f199e5fa/TakingPowerw_original.jpg",
       "director": "Roberto Rossellini",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Taking_of_Power_by_Louis_XIV.jpg",
       "criterionUrl": "https://www.criterion.com/films/971-the-taking-of-power-by-louis-xiv",
       "directorLink": ""
     },
     {
       "title": "Tampopo",
-      "image": "https://s3.amazonaws.com/criterion-production/stills/132411-21185cef8e9290879d7696f85874f7be/Film_868_Tampopo_original.jpg",
       "director": "Juzo Itami",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Tampopo.jpg",
       "criterionUrl": "https://www.criterion.com/films/28880-tampopo",
       "directorLink": ""
     }
