@@ -1,0 +1,46 @@
+{
+  "WesAnderson": [
+    {
+      "title": "Bottle Rocket",
+      "year": "1996",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg",
+      "criterionUrl": "https://www.criterion.com/films/594-bottle-rocket"
+    },
+    {
+      "title": "Rushmore",
+      "year": "1998",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rushmore.jpg",
+      "criterionUrl": "https://www.criterion.com/films/333-rushmore"
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "year": "2001",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg",
+      "criterionUrl": "https://www.criterion.com/films/230-the-royal-tenenbaums"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": "2004",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Aquatic_with_Steve_Zissou.jpg",
+      "criterionUrl": "https://www.criterion.com/films/741-the-life-aquatic-with-steve-zissou"
+    },
+    {
+      "title": "The Darjeeling Limited",
+      "year": "2007",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Darjeeling_Limited.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27520-the-darjeeling-limited"
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "year": "2009",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fantastic_Mr_Fox.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28565-fantastic-mr-fox"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "year": "2012",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28757-moonrise-kingdom"
+    }
+  ]
+}

@@ -1,88 +1,88 @@
 {
- "JeanLucGodard": [
-  {
-   "title": "2 or 3 Things I Know About Her",
-   "year": "1967",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/2+or+3+Things+I+Know+About+Her.jpg",
-   "criterionUrl": "https://www.criterion.com/films/1333-2-or-3-things-i-know-about-her"
-  },
-  {
-   "title": "Alphaville",
-   "year": "1965",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Alphaville.jpg",
-   "criterionUrl": "https://www.criterion.com/films/207-alphaville"
-  },
-  {
-   "title": "Band of Outsiders",
-   "year": "1964",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Band+of+Outsiders.jpg",
-   "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders"
-  },
-  {
-   "title": "Breathless",
-   "year": "1960",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Breathless.jpg",
-   "criterionUrl": "https://www.criterion.com/films/268-breathless"
-  },
-  {
-   "title": "Contempt",
-   "year": "1963",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Contempt.jpg",
-   "criterionUrl": "https://www.criterion.com/films/239-contempt"
-  },
-  {
-   "title": "Every Man for Himself",
-   "year": "1980",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Every+Man+for+Himself.jpg",
-   "criterionUrl": "https://www.criterion.com/films/28549-every-man-for-himself"
-  },
-  {
-   "title": "Made in U.S.A.",
-   "year": "1966",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Made+in+U.S.A..jpg",
-   "criterionUrl": "https://www.criterion.com/films/2109-made-in-u-s-a"
-  },
-  {
-   "title": "Masculin féminin",
-   "year": "1966",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Masculin+feminin.jpg",
-   "criterionUrl": "https://www.criterion.com/films/508-masculin-feminin"
-  },
-  {
-   "title": "Le petit soldat",
-   "year": "1963",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/petit+soldat.jpg",
-   "criterionUrl": ""
-  },
-  {
-   "title": "Pierrot le fou",
-   "year": "1965",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Pierrot+le+fou.jpg",
-   "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
-  },
-  {
-   "title": "Tout va bien",
-   "year": "1972",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Tout+va+bien.jpg",
-   "criterionUrl": "https://www.criterion.com/films/929-tout-va-bien"
-  },
-  {
-   "title": "Vivre sa vie",
-   "year": "1962",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Vivre+sa+vie.jpg",
-   "criterionUrl": "https://www.criterion.com/films/3060-vivre-sa-vie"
-  },
-  {
-   "title": "Weekend",
-   "year": "1967",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Weekend.jpg",
-   "criterionUrl": "https://www.criterion.com/films/28441-weekend"
-  },
-  {
-   "title": "A Woman is a Woman",
-   "year": "1961",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/people-images/Woman+is+a+Woman.jpg",
-   "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
-  }
- ]
+  "JeanLucGodard": [
+    {
+      "title": "Breathless",
+      "year": "1960",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg",
+      "criterionUrl": "https://www.criterion.com/films/268-breathless"
+    },
+    {
+      "title": "A Woman is a Woman",
+      "year": "1961",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_is_a_Woman.jpg",
+      "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
+    },
+    {
+      "title": "Vivre sa vie",
+      "year": "1962",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vivre_sa_vie.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3060-vivre-sa-vie"
+    },
+    {
+      "title": "Le petit soldat",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Petit_soldat.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Contempt",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Contempt.jpg",
+      "criterionUrl": "https://www.criterion.com/films/239-contempt"
+    },
+    {
+      "title": "Band of Outsiders",
+      "year": "1964",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg",
+      "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders"
+    },
+    {
+      "title": "Alphaville",
+      "year": "1965",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg",
+      "criterionUrl": "https://www.criterion.com/films/207-alphaville"
+    },
+    {
+      "title": "Pierrot le fou",
+      "year": "1965",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg",
+      "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
+    },
+    {
+      "title": "Masculin féminin",
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Masculin_feminin.jpg",
+      "criterionUrl": "https://www.criterion.com/films/508-masculin-feminin"
+    },
+    {
+      "title": "Made in U.S.A.",
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Made_in_the_USA.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2109-made-in-u-s-a"
+    },
+    {
+      "title": "2 or 3 Things I Know About Her",
+      "year": "1967",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/2_or_3_Things_I_Know_About_Her.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1333-2-or-3-things-i-know-about-her"
+    },
+    {
+      "title": "Weekend",
+      "year": "1967",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28441-weekend"
+    },
+    {
+      "title": "Tout va bien",
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tout_va_bien.jpg",
+      "criterionUrl": "https://www.criterion.com/films/929-tout-va-bien"
+    },
+    {
+      "title": "Every Man for Himself",
+      "year": "1980",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Every_Man_for_Himself.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28549-every-man-for-himself"
+    }
+  ]
 }
