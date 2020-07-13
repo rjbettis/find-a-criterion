@@ -1,6 +1,18 @@
 {
   "people": [
     {
+      "name": "Chantal Akerman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Chantal_Akerman.jpg",
+      "link": "ChantalAkerman",
+      "summary": "One of the boldest cinematic visionaries of the past quarter century, the film-school dropout Chantal Akerman takes a profoundly personal and aesthetically idiosyncratic approach to the form, using it to investigate geography and identity, space and time, sexuality and religion. Influenced by the structural cinema she was exposed to when she came to New York from her native Belgium in 1970, at age twenty (work by artists like Michael Snow, Yvonne Rainer, and Andy Warhol), Akerman made her mark in the decade that followed, playing with long takes and formal repetition in her films, which include the architectural meditation Hotel Monterey (1972), the obsessive portrait of estrangement Je tu il elle (1975), the autobiographical New York elegy News from Home (1976), and the austere antiromance Les rendez-vous d’Anna (1978). Her greatest achievement to date, however, is her epic 1975 experiment Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, a hypnotic study of a middle-aged widow’s stifling routine widely considered one of the great feminist films. Such recent Akerman films as the Proust adaptation La captive (2000) and the documentary on Mexican-to-U.S. immigration From the Other Side (2002) prove that she retains her daring, vital voice."
+    },
+    {
+      "name": "Robert Altman",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Chantal_Akerman.jpg",
+      "link": "ChantalAkerman",
+      "summary": "One of the boldest cinematic visionaries of the past quarter century, the film-school dropout Chantal Akerman takes a profoundly personal and aesthetically idiosyncratic approach to the form, using it to investigate geography and identity, space and time, sexuality and religion. Influenced by the structural cinema she was exposed to when she came to New York from her native Belgium in 1970, at age twenty (work by artists like Michael Snow, Yvonne Rainer, and Andy Warhol), Akerman made her mark in the decade that followed, playing with long takes and formal repetition in her films, which include the architectural meditation Hotel Monterey (1972), the obsessive portrait of estrangement Je tu il elle (1975), the autobiographical New York elegy News from Home (1976), and the austere antiromance Les rendez-vous d’Anna (1978). Her greatest achievement to date, however, is her epic 1975 experiment Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, a hypnotic study of a middle-aged widow’s stifling routine widely considered one of the great feminist films. Such recent Akerman films as the Proust adaptation La captive (2000) and the documentary on Mexican-to-U.S. immigration From the Other Side (2002) prove that she retains her daring, vital voice."
+    },
+    {
       "name": "Ingmar Bergman",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/Ingmar_Bergman.jpg",
       "link": "IngmarBergman",

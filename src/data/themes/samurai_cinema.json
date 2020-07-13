@@ -3,124 +3,124 @@
     {
       "title": "Harakiri",
       "director": "Masaki Kobayashi",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Harakiri.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harakiri.jpg",
       "criterionUrl": "https://www.criterion.com/films/743-harakiri",
       "directorLink": ""
     },
     {
       "title": "The Hidden Fortress",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hidden_Fortress.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hidden_Fortress.jpg",
       "criterionUrl": "https://www.criterion.com/films/655-the-hidden-fortress",
       "directorLink": ""
     },
     {
       "title": "Kagemusha",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kagemusha.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kagemusha.jpg",
       "criterionUrl": "https://www.criterion.com/films/948-kagemusha",
       "directorLink": ""
     },
     {
       "title": "Kill!",
       "director": "Kihachi Okamoto",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kill.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kill.jpg",
       "criterionUrl": "https://www.criterion.com/films/763-kill",
       "directorLink": ""
     },
     {
       "title": "Kuroneko",
       "director": "Kaneto Shindo",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kuroneko.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kuroneko.jpg",
       "criterionUrl": "https://www.criterion.com/films/27628-kuroneko",
       "directorLink": ""
     },
     {
       "title": "Kwaidan",
       "criterionUrl": "https://www.criterion.com/films/629-kwaidan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kwaidan.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kwaidan.jpg",
       "director": "Masaki Kobayashi",
       "director_url": "https://www.criterion.com/films/629-kwaidan"
     },
     {
       "title": "Lone Wolf and Cub",
       "criterionUrl": "https://www.criterion.com/boxsets/1217-lone-wolf-and-cub",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lone_Wolf_and_Cub.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lone_Wolf_and_Cub.jpg",
       "directorLink": ""
     },
     {
       "title": "Onibaba",
       "director": "Kaneto Shindo",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Onibaba.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Onibaba.jpg",
       "criterionUrl": "https://www.criterion.com/films/665-onibaba",
       "directorLink": ""
     },
     {
       "title": "Ran",
       "criterionUrl": "https://www.criterion.com/films/754-ran",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ran.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ran.jpg",
       "director": "Akira Kurosawa",
       "director_url": "https://www.criterion.com/films/754-ran"
     },
     {
       "title": "Rashomon",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rashomon.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rashomon.jpg",
       "criterionUrl": "https://www.criterion.com/films/307-rashomon",
       "directorLink": ""
     },
     {
       "title": "Samurai I: Musashi Miyamoto",
       "criterionUrl": "https://www.criterion.com/films/529-samurai-i-musashi-miyamoto",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Samurai_I_Musashi_Miyamoto.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_I_Musashi_Miyamoto.jpg",
       "director": "Hiroshi Inagaki",
       "director_url": "https://www.criterion.com/films/529-samurai-i-musashi-miyamoto"
     },
     {
       "title": "Samurai II: Duel at Ichijoji Temple",
       "criterionUrl": "https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Samurai_II_Duel_at_Ichijoji_Temple.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_II_Duel_at_Ichijoji_Temple.jpg",
       "director": "Hiroshi Inagaki",
       "director_url": "https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple"
     },
     {
       "title": "Samurai III: Duel at Ganryu Island",
       "criterionUrl": "https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Samurai_III_Duel_at_Ganryu_Island.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_III_Duel_at_Ganryu_Island.jpg",
       "director": "Hiroshi Inagaki",
       "director_url": "https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island"
     },
     {
       "title": "Samurai Rebellion",
       "director": "Masaki Kobayashi",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Samurai_Rebellion.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_Rebellion.jpg",
       "criterionUrl": "https://www.criterion.com/films/753-samurai-rebellion",
       "directorLink": ""
     },
     {
       "title": "Samurai Spy",
       "director": "Masahiro Shinoda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Samurai_Spy.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_Spy.jpg",
       "criterionUrl": "https://www.criterion.com/films/762-samurai-spy",
       "directorLink": ""
     },
     {
       "title": "Sanjuro",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sanjuro.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanjuro.jpg",
       "criterionUrl": "https://www.criterion.com/films/598-sanjuro",
       "directorLink": ""
     },
     {
       "title": "Sanshiro Sugata",
       "criterionUrl": "https://www.criterion.com/films/12521-sanshiro-sugata",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sanshiro_Sugata.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata.jpg",
       "director": "Akira Kurosawa",
       "director_url": "https://www.criterion.com/films/12521-sanshiro-sugata"
     },
     {
       "title": "Sanshiro Sugata, Part Two",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sanshiro_Sugata_Part_Two.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata_Part_Two.jpg",
       "criterionUrl": "https://www.criterion.com/films/12522-sanshiro-sugata-part-two",
       "director": "Akira Kurosawa",
       "director_url": "https://www.criterion.com/films/12522-sanshiro-sugata-part-two"
@@ -128,49 +128,49 @@
     {
       "title": "Seven Samurai",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Seven_Samurai.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seven_Samurai.jpg",
       "criterionUrl": "https://www.criterion.com/films/165-seven-samurai",
       "directorLink": ""
     },
     {
       "title": "The Sword of Doom",
       "director": "Kihachi Okamoto",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sword_of_Doom.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sword_of_Doom.jpg",
       "criterionUrl": "https://www.criterion.com/films/925-the-sword-of-doom",
       "directorLink": ""
     },
     {
       "title": "Sword of the Beast",
       "director": "Hideo Gosha",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sword_of_the_Beast.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sword_of_the_Beast.jpg",
       "criterionUrl": "https://www.criterion.com/films/761-sword-of-the-beast",
       "directorLink": ""
     },
     {
       "title": "Three Outlaw Samurai",
       "director": "Hideo Gosha",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Three_Outlaw_Samurai.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Outlaw_Samurai.jpg",
       "criterionUrl": "https://www.criterion.com/films/27734-three-outlaw-samurai",
       "directorLink": ""
     },
     {
       "title": "Throne of Blood",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Throne_of_Blood.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Throne_of_Blood.jpg",
       "criterionUrl": "https://www.criterion.com/films/735-throne-of-blood",
       "directorLink": ""
     },
     {
       "title": "Yojimbo",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Yojimbo.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Yojimbo.jpg",
       "criterionUrl": "https://www.criterion.com/films/597-yojimbo",
       "directorLink": ""
     },
     {
       "title": "Zatoichi: The Blind Swordsman",
       "criterionUrl": "https://www.criterion.com/boxsets/1012-zatoichi-the-blind-swordsman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Zatoichi_The_Blind_Swordsman.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Zatoichi_The_Blind_Swordsman.jpg",
       "directorLink": ""
     }
   ]

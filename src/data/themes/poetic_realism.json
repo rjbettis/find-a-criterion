@@ -3,70 +3,70 @@
     {
       "title": "La bête humaine",
       "director": "Jean Renoir",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bete_humaine.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bete_humaine.jpg",
       "criterionUrl": "https://www.criterion.com/films/773-la-b-te-humaine",
       "directorLink": ""
     },
     {
       "title": "Children of Paradise",
       "director": "Marcel Carné",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Children_of_Paradise.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_of_Paradise.jpg",
       "criterionUrl": "https://www.criterion.com/films/683-children-of-paradise",
       "directorLink": ""
     },
     {
       "title": "Grand Illusion",
       "criterionUrl": "https://www.criterion.com/films/351-grand-illusion",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Grand_Illusion.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grand_Illusion.jpg",
       "director": "Jean Renoir",
       "director_url": "https://www.criterion.com/films/351-grand-illusion"
     },
     {
       "title": "Le jour se lève",
       "criterionUrl": "https://www.criterion.com/films/356-le-jour-se-leve",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Jour_se_leve.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jour_se_leve.jpg",
       "director": "Marcel Carné",
       "director_url": "https://www.criterion.com/films/356-le-jour-se-leve"
     },
     {
       "title": "The Lower Depths",
       "criterionUrl": "https://www.criterion.com/films/870-the-lower-depths",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lower_Depths_(1936).jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lower_Depths_(1936).jpg",
       "director": "Jean Renoir",
       "director_url": "https://www.criterion.com/films/870-the-lower-depths"
     },
     {
       "title": "Lumière d’été",
       "criterionUrl": "https://www.criterion.com/films/28125-lumiere-d-ete",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Lumiere_dete.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lumiere_dete.jpg",
       "director": "Jean Grémillon",
       "director_url": "https://www.criterion.com/films/28125-lumiere-d-ete"
     },
     {
       "title": "Pépé le moko",
       "director": "Julien Duvivier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pepe_le_moko.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pepe_le_moko.jpg",
       "criterionUrl": "https://www.criterion.com/films/363-p-p-le-moko",
       "directorLink": ""
     },
     {
       "title": "Port of Shadows",
       "criterionUrl": "https://www.criterion.com/films/947-port-of-shadows",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Port_of_Shadows.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Port_of_Shadows.jpg",
       "director": "Marcel Carné",
       "director_url": "https://www.criterion.com/films/947-port-of-shadows"
     },
     {
       "title": "Remorques",
       "criterionUrl": "https://www.criterion.com/films/27677-remorques",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Remorques.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Remorques.jpg",
       "director": "Jean Grémillon",
       "director_url": "https://www.criterion.com/films/27677-remorques"
     },
     {
       "title": "The Rules of the Game",
       "director": "Jean Renoir",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rules_of_the_Game.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rules_of_the_Game.jpg",
       "criterionUrl": "https://www.criterion.com/films/295-the-rules-of-the-game",
       "directorLink": ""
     }

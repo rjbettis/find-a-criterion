@@ -3,62 +3,62 @@
     {
       "title": "All Night Long",
       "criterionUrl": "https://www.criterion.com/films/27539-all-night-long",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/All_Night_Long.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_Night_Long.jpg",
       "director": "Basil Dearden",
       "director_url": "https://www.criterion.com/films/27539-all-night-long"
     },
     {
       "title": "Alphaville",
       "criterionUrl": "https://www.criterion.com/films/207-alphaville",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Alphaville.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg",
       "director": "Jean-Luc Godard",
       "director_url": "https://www.criterion.com/films/207-alphaville"
     },
     {
       "title": "The American Friend",
       "director": "Wim Wenders",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/American_Friend.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Friend.jpg",
       "criterionUrl": "https://www.criterion.com/films/28763-the-american-friend",
       "directorLink": ""
     },
     {
       "title": "The American Soldier",
       "criterionUrl": "https://www.criterion.com/films/27951-the-american-soldier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/American_Soldier.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Soldier.jpg",
       "director": "Rainer Werner Fassbinder",
       "director_url": "https://www.criterion.com/films/27951-the-american-soldier"
     },
     {
       "title": "Army of Shadows",
       "criterionUrl": "https://www.criterion.com/films/153-army-of-shadows",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Army_of_Shadows.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Army_of_Shadows.jpg",
       "director": "Jean-Pierre Melville",
       "director_url": "https://www.criterion.com/films/153-army-of-shadows"
     },
     {
       "title": "The Asphalt Jungle",
       "director": "John Huston",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Asphalt_Jungle.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Asphalt_Jungle.jpg",
       "criterionUrl": "https://www.criterion.com/films/28690-the-asphalt-jungle",
       "directorLink": ""
     },
     {
       "title": "The Bad Sleep Well",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Bad_Sleep_Well.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Sleep_Well.jpg",
       "criterionUrl": "https://www.criterion.com/films/765-the-bad-sleep-well",
       "directorLink": ""
     },
     {
       "title": "Blast of Silence",
       "director": "Allen Baron",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blast_of_Silence.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blast_of_Silence.jpg",
       "criterionUrl": "https://www.criterion.com/films/538-blast-of-silence",
       "directorLink": ""
     },
     {
       "title": "Blue Velvet",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Blue_Velvet.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Velvet.jpg",
       "director": "David Lynch",
       "criterionUrl": "https://www.criterion.com/films/29144-blue-velvet",
       "directorLink": ""
@@ -66,462 +66,462 @@
     {
       "title": "Branded to Kill",
       "director": "Seijun Suzuki",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Branded_to_Kill.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Branded_to_Kill.jpg",
       "criterionUrl": "https://www.criterion.com/films/576-branded-to-kill",
       "directorLink": ""
     },
     {
       "title": "The Breaking Point",
       "director": "Michael Curtiz",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Breaking_Point.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_Point.jpg",
       "criterionUrl": "https://www.criterion.com/films/28695-the-breaking-point",
       "directorLink": ""
     },
     {
       "title": "Breathless",
       "director": "Jean-Luc Godard",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Breathless.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg",
       "criterionUrl": "https://www.criterion.com/films/268-breathless",
       "directorLink": ""
     },
     {
       "title": "Brute Force",
       "director": "Jules Dassin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Brute_Force.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brute_Force.jpg",
       "criterionUrl": "https://www.criterion.com/films/820-brute-force",
       "directorLink": ""
     },
     {
       "title": "Le cercle rouge",
       "criterionUrl": "https://www.criterion.com/films/628-le-cercle-rouge",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cercle_rouge.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cercle_rouge.jpg",
       "director": "Jean-Pierre Melville",
       "director_url": "https://www.criterion.com/films/628-le-cercle-rouge"
     },
     {
       "title": "Classe tous risques",
       "director": "Claude Sautet",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Classe_tous_risques.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Classe_tous_risques.jpg",
       "criterionUrl": "https://www.criterion.com/films/591-classe-tous-risques",
       "directorLink": ""
     },
     {
       "title": "A Colt Is My Passport",
       "criterionUrl": "https://www.criterion.com/films/2959-a-colt-is-my-passport",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Colt_Is_My_Passport.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Colt_Is_My_Passport.jpg",
       "director": "Takashi Nomura",
       "director_url": "https://www.criterion.com/films/2959-a-colt-is-my-passport"
     },
     {
       "title": "Coup de torchon",
       "criterionUrl": "https://www.criterion.com/films/647-coup-de-torchon",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Coup_de_torchon.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Coup_de_torchon.jpg",
       "director": "Bertrand Tavernier",
       "director_url": "https://www.criterion.com/films/647-coup-de-torchon"
     },
     {
       "title": "Cruel Gun Story",
       "criterionUrl": "https://www.criterion.com/films/2958-cruel-gun-story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Cruel_Gun_Story.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cruel_Gun_Story.jpg",
       "director": "Takumi Furukawa",
       "director_url": "https://www.criterion.com/films/2958-cruel-gun-story"
     },
     {
       "title": "Detour",
       "director": "Edgar G. Ulmer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Detour.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Detour.jpg",
       "criterionUrl": "https://www.criterion.com/films/29614-detour",
       "directorLink": ""
     },
     {
       "title": "Le deuxième souffle",
       "director": "Jean-Pierre Melville",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Deuxieme_souffle.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Deuxieme_souffle.jpg",
       "criterionUrl": "https://www.criterion.com/films/760-le-deuxi-me-souffle",
       "directorLink": ""
     },
     {
       "title": "Diabolique",
       "director": "Henri-Georges Clouzot",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Diabolique.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diabolique.jpg",
       "criterionUrl": "https://www.criterion.com/films/575-diabolique",
       "directorLink": ""
     },
     {
       "title": "Le doulos",
       "criterionUrl": "https://www.criterion.com/films/759-le-doulos",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Doulos.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Doulos.jpg",
       "director": "Jean-Pierre Melville",
       "director_url": "https://www.criterion.com/films/759-le-doulos"
     },
     {
       "title": "Drunken Angel",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Drunken_Angel.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Drunken_Angel.jpg",
       "criterionUrl": "https://www.criterion.com/films/845-drunken-angel",
       "directorLink": ""
     },
     {
       "title": "The Element of Crime",
       "director": "Lars von Trier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Element_of_Crime.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Element_of_Crime.jpg",
       "criterionUrl": "https://www.criterion.com/films/619-the-element-of-crime",
       "directorLink": ""
     },
     {
       "title": "Elevator to the Gallows",
       "director": "Louis Malle",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Elevator_to_the_Gallows.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Elevator_to_the_Gallows.jpg",
       "criterionUrl": "https://www.criterion.com/films/778-elevator-to-the-gallows",
       "directorLink": ""
     },
     {
       "title": "Europa Europa",
       "director": "Lars von Trier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Europa_Europa.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Europa_Europa.jpg",
       "criterionUrl": "https://www.criterion.com/films/28040-europa-europa",
       "directorLink": ""
     },
     {
       "title": "Following",
       "director": "Christopher Nolan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Following.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Following.jpg",
       "criterionUrl": "https://www.criterion.com/films/28030-following",
       "directorLink": ""
     },
     {
       "title": "The Friends of Eddie Coyle",
       "director": "Peter Yates",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Friends_of_Eddie_Coyle.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Friends_of_Eddie_Coyle.jpg",
       "criterionUrl": "https://www.criterion.com/films/1426-the-friends-of-eddie-coyle",
       "directorLink": ""
     },
     {
       "title": "The Game",
       "director": "David Fincher",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Game.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Game.jpg",
       "criterionUrl": "https://www.criterion.com/films/28058-the-game",
       "directorLink": ""
     },
     {
       "title": "Gilda",
       "director": "Charles Vidor",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gilda.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gilda.jpg",
       "criterionUrl": "https://www.criterion.com/films/27909-gilda",
       "directorLink": ""
     },
     {
       "title": "Gods of the Plague",
       "criterionUrl": "https://www.criterion.com/films/27958-gods-of-the-plague",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Gods_of_the_Plague.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gods_of_the_Plague.jpg",
       "director": "Rainer Werner Fassbinder",
       "director_url": "https://www.criterion.com/films/27958-gods-of-the-plague"
     },
     {
       "title": "High and Low",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/High_and_Low.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/High_and_Low.jpg",
       "criterionUrl": "https://www.criterion.com/films/543-high-and-low",
       "directorLink": ""
     },
     {
       "title": "The Hit",
       "director": "Stephen Frears",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Hit.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hit.jpg",
       "criterionUrl": "https://www.criterion.com/films/1285-the-hit",
       "directorLink": ""
     },
     {
       "title": "Homicide",
       "director": "David Mamet",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Homicide.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Homicide.jpg",
       "criterionUrl": "https://www.criterion.com/films/3558-homicide",
       "directorLink": ""
     },
     {
       "title": "I Am Waiting",
       "criterionUrl": "https://www.criterion.com/films/2955-i-am-waiting",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/I_Am_Waiting.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Waiting.jpg",
       "director": "Koreyoshi Kurahara",
       "director_url": "https://www.criterion.com/films/2955-i-am-waiting"
     },
     {
       "title": "In a Lonely Place",
       "director": "Nicholas Ray",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/In_a_Lonely_Place.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg",
       "criterionUrl": "https://www.criterion.com/films/27908-in-a-lonely-place",
       "directorLink": ""
     },
     {
       "title": "Insomnia",
       "director": "Erik Skjoldbjærg",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Insomnia.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Insomnia.jpg",
       "criterionUrl": "https://www.criterion.com/films/585-insomnia",
       "directorLink": ""
     },
     {
       "title": "Intimidation",
       "criterionUrl": "https://www.criterion.com/films/27759-intimidation",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Intimidation.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Intimidation.jpg",
       "director": "Koreyoshi Kurahara",
       "director_url": "https://www.criterion.com/films/27759-intimidation"
     },
     {
       "title": "The Killers (1946)",
       "criterionUrl": "https://www.criterion.com/films/724-the-killers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Killers_(1946).jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg",
       "director": "Robert Siodmak",
       "director_url": "https://www.criterion.com/films/724-the-killers"
     },
     {
       "title": "The Killers (1964)",
       "criterionUrl": "https://www.criterion.com/films/725-the-killers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Killers_(1964).jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1964).jpg",
       "director": "Don Siegel",
       "director_url": "https://www.criterion.com/films/725-the-killers"
     },
     {
       "title": "The Killing",
       "director": "Stanley Kubrick",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Killing.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killing.jpg",
       "criterionUrl": "https://www.criterion.com/films/27751-the-killing",
       "directorLink": ""
     },
     {
       "title": "The Killing of a Chinese Bookie",
       "director": "John Cassavetes",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Killing_of_a_Chinese_Bookie.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killing_of_a_Chinese_Bookie.jpg",
       "criterionUrl": "https://www.criterion.com/films/958-the-killing-of-a-chinese-bookie",
       "directorLink": ""
     },
     {
       "title": "Kiss Me Deadly",
       "director": "Robert Aldrich",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Kiss_Me_Deadly.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kiss_Me_Deadly.jpg",
       "criterionUrl": "https://www.criterion.com/films/27620-kiss-me-deadly",
       "directorLink": ""
     },
     {
       "title": "The League of Gentlemen",
       "criterionUrl": "https://www.criterion.com/films/27537-the-league-of-gentlemen",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/League_of_Gentlemen.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/League_of_Gentlemen.jpg",
       "director": "Basil Dearden",
       "director_url": "https://www.criterion.com/films/27537-the-league-of-gentlemen"
     },
     {
       "title": "Leave Her to Heaven",
       "director": "John M. Stahl",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Leave_Her_to_Heaven.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leave_Her_to_Heaven.jpg",
       "criterionUrl": "https://www.criterion.com/films/29602-leave-her-to-heaven",
       "directorLink": ""
     },
     {
       "title": "The Long Good Friday",
       "criterionUrl": "https://www.criterion.com/films/559-the-long-good-friday",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Long_Good_Friday.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Long_Good_Friday.jpg",
       "director": "John Mackenzie",
       "director_url": "https://www.criterion.com/films/559-the-long-good-friday"
     },
     {
       "title": "Love Is Colder Than Death",
       "criterionUrl": "https://www.criterion.com/films/27959-love-is-colder-than-death",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Love_Is_Colder_Than_Death.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Is_Colder_Than_Death.jpg",
       "director": "Rainer Werner Fassbinder",
       "director_url": "https://www.criterion.com/films/27959-love-is-colder-than-death"
     },
     {
       "title": "Ministry of Fear",
       "director": "Fritz Lang",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ministry_of_Fear.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ministry_of_Fear.jpg",
       "criterionUrl": "https://www.criterion.com/films/28065-ministry-of-fear",
       "directorLink": ""
     },
     {
       "title": "Mona Lisa",
       "criterionUrl": "https://www.criterion.com/films/648-mona-lisa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Mona_Lisa.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mona_Lisa.jpg",
       "director": "Neil Jordan",
       "director_url": "https://www.criterion.com/films/648-mona-lisa"
     },
     {
       "title": "Moonrise",
       "director": "Frank Borzage",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Moonrise.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise.jpg",
       "criterionUrl": "https://www.criterion.com/films/28550-moonrise",
       "directorLink": ""
     },
     {
       "title": "The Naked City",
       "director": "Jules Dassin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Naked_City.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naked_City.jpg",
       "criterionUrl": "https://www.criterion.com/films/818-the-naked-city",
       "directorLink": ""
     },
     {
       "title": "The Naked Kiss",
       "director": "Samuel Fuller",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Naked_Kiss.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naked_Kiss.jpg",
       "criterionUrl": "https://www.criterion.com/films/533-the-naked-kiss",
       "directorLink": ""
     },
     {
       "title": "Night and the City",
       "director": "Jules Dassin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Night_and_the_City.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_and_the_City.jpg",
       "criterionUrl": "https://www.criterion.com/films/933-night-and-the-city",
       "directorLink": ""
     },
     {
       "title": "Odd Man Out",
       "director": "Carol Reed",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Odd_Man_Out.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Odd_Man_Out.jpg",
       "criterionUrl": "https://www.criterion.com/films/28173-odd-man-out",
       "directorLink": ""
     },
     {
       "title": "Pale Flower",
       "director": "Masahiro Shinoda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pale_Flower.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pale_Flower.jpg",
       "criterionUrl": "https://www.criterion.com/films/27604-pale-flower",
       "directorLink": ""
     },
     {
       "title": "Panique",
       "director": "Julien Duvivier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Panique.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Panique.jpg",
       "criterionUrl": "https://www.criterion.com/films/29510-panique",
       "directorLink": ""
     },
     {
       "title": "Pickup on South Street",
       "director": "Samuel Fuller",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Pickup_on_South_Street.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pickup_on_South_Street.jpg",
       "criterionUrl": "https://www.criterion.com/films/446-pickup-on-south-street",
       "directorLink": ""
     },
     {
       "title": "Ride the Pink Horse",
       "director": "Robert Montgomery",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Ride_the_Pink_Horse.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ride_the_Pink_Horse.jpg",
       "criterionUrl": "https://www.criterion.com/films/28066-ride-the-pink-horse",
       "directorLink": ""
     },
     {
       "title": "Rififi",
       "director": "Jules Dassin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rififi.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rififi.jpg",
       "criterionUrl": "https://www.criterion.com/films/654-rififi",
       "directorLink": ""
     },
     {
       "title": "Rusty Knife",
       "criterionUrl": "https://www.criterion.com/films/2956-rusty-knife",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Rusty_Knife.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rusty_Knife.jpg",
       "director": "Toshio Masuda",
       "director_url": "https://www.criterion.com/films/2956-rusty-knife"
     },
     {
       "title": "Sapphire",
       "criterionUrl": "https://www.criterion.com/films/27536-sapphire",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Sapphire.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sapphire.jpg",
       "director": "Basil Dearden",
       "director_url": "https://www.criterion.com/films/27536-sapphire"
     },
     {
       "title": "Le samouraï",
       "director": "Jean-Pierre Melville",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Samourai.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samourai.jpg",
       "criterionUrl": "https://www.criterion.com/films/184-le-samoura",
       "directorLink": ""
     },
     {
       "title": "Shoot the Piano Player",
       "director": "François Truffaut",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Shoot_the_Piano_Player.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoot_the_Piano_Player.jpg",
       "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player",
       "directorLink": ""
     },
     {
       "title": "Stray Dog",
       "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Stray_Dog.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stray_Dog.jpg",
       "criterionUrl": "https://www.criterion.com/films/788-stray-dog",
       "directorLink": ""
     },
     {
       "title": "Take Aim at the Police Van",
       "criterionUrl": "https://www.criterion.com/films/2957-take-aim-at-the-police-van",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Take_Aim_at_the_Police_Van.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Take_Aim_at_the_Police_Van.jpg",
       "director": "Seijun Suzuki",
       "director_url": "https://www.criterion.com/films/2957-take-aim-at-the-police-van"
     },
     {
       "title": "They Live by Night",
       "director": "Nicholas Ray",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/They_Live_by_Night.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/They_Live_by_Night.jpg",
       "criterionUrl": "https://www.criterion.com/films/28717-they-live-by-night",
       "directorLink": ""
     },
     {
       "title": "Thief",
       "director": "Michael Mann",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Thief.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thief.jpg",
       "criterionUrl": "https://www.criterion.com/films/28024-thief",
       "directorLink": ""
     },
     {
       "title": "Thieves’ Highway",
       "director": "Jules Dassin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Thieves_Highway.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thieves_Highway.jpg",
       "criterionUrl": "https://www.criterion.com/films/939-thieves-highway",
       "directorLink": ""
     },
     {
       "title": "The Third Man",
       "criterionUrl": "https://www.criterion.com/films/236-the-third-man",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Third_Man.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg",
       "director": "Carol Reed",
       "director_url": "https://www.criterion.com/films/236-the-third-man"
     },
     {
       "title": "Tokyo Drifter",
       "director": "Seijun Suzuki",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Tokyo_Drifter.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Drifter.jpg",
       "criterionUrl": "https://www.criterion.com/films/577-tokyo-drifter",
       "directorLink": ""
     },
     {
       "title": "Touchez pas au grisbi",
       "criterionUrl": "https://www.criterion.com/films/941-touchez-pas-au-grisbi",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Touchez_pas_au_grisbi.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Touchez_pas_au_grisbi.jpg",
       "director": "Jacques Becker",
       "director_url": "https://www.criterion.com/films/941-touchez-pas-au-grisbi"
     },
     {
       "title": "Le trou",
       "criterionUrl": "https://www.criterion.com/films/668-le-trou",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Trou.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trou.jpg",
       "director": "Jacques Becker",
       "director_url": "https://www.criterion.com/films/668-le-trou"
     },
     {
       "title": "Underworld",
       "criterionUrl": "https://www.criterion.com/films/21766-underworld",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Underworld.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg",
       "director": "Josef von Sternberg",
       "director_url": "https://www.criterion.com/films/21766-underworld"
     },
     {
       "title": "Vengeance is Mine",
       "director": "Shohei Imamura",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Vengeance_is_Mine.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vengeance_is_Mine.jpg",
       "criterionUrl": "https://www.criterion.com/films/822-vengeance-is-mine",
       "directorLink": ""
     },
     {
       "title": "Youth of the Beast",
       "director": "Seijun Suzuki",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/theme-images/Youth_of_the_Beast.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Youth_of_the_Beast.jpg",
       "criterionUrl": "https://www.criterion.com/films/946-youth-of-the-beast",
       "directorLink": ""
     }
