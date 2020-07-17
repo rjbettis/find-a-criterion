@@ -21,7 +21,7 @@ export class Home extends Component {
           <Card.Img
             className={'card-style'}
             variant="top"
-            src="https://find-a-criterion.s3-us-west-1.amazonaws.com/Images/intro_card.png"
+            src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/Intro_Card.png"
             a="/explore"
           />
           <Card.Body>

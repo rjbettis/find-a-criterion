@@ -1,0 +1,88 @@
+{
+  "GeorgesDelerue": [
+    {
+      "title": "Hiroshima mon amour",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129873-e652f0dfe89ba299eaab45e6b4336cf2/hiroshima_bw_new_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/217-hiroshima-mon-amour"
+    },
+    {
+      "title": "Shoot the Piano Player",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131721-1d8203dc5e6e87af75a25138de5c7c01/Film_315w_ShootPianoPlayer_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player"
+    },
+    {
+      "title": "Classe tous risques",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5637-a5a80642b0c4475ce5beffe2926747e6/Film_434w_ClasseTous_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/591-classe-tous-risques"
+    },
+    {
+      "title": "Jules and Jim",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2726-e9e384f93f844c95919db09fd1dd0ca5/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim"
+    },
+    {
+      "title": "Vive le Tour",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8053-6af5ebb7ebb621255728b4b528376fe8/viveletour_01_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/670-vive-le-tour"
+    },
+    {
+      "title": "Contempt",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10135-cb81af2b1a58d1d34ae7f0a9f9256080/contempt_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/239-contempt"
+    },
+    {
+      "title": "The Soft Skin",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132277-199dd2f244611f85bc841cf7017080c5/Film_749w_SoftSkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27640-the-soft-skin"
+    },
+    {
+      "title": "The Two of Us",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5847-fa14965434a745217a314a4512f90bff/Film_388w_TwoOfUs_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/757-the-two-of-us"
+    },
+    {
+      "title": "Day for Night",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132305-25d19685cbb6766fed527302b9bb24f9/Film_769_DayForNight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28698-day-for-night"
+    },
+    {
+      "title": "Love on the Run",
+      "year": "1979",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7811-8fbdf8b2bba8d61375a112b3b6d6e419/Film_188w_LoveOnRun_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/734-love-on-the-run"
+    },
+    {
+      "title": "Documenteur",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132300-66e1c211f66572529d3ebc2c38627dc9/Film_Eclipse43_Documenteur_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28630-documenteur"
+    },
+    {
+      "title": "The Last Metro",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro"
+    },
+    {
+      "title": "Mister Johnson",
+      "year": "1990",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132311-4e4a8e16dbac0841e09fea8b8355f97e/Film_774_BreakerMorant_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28102-mister-johnson"
+    },
+    {
+      "title": "Frances Ha",
+      "year": "2013",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132197-a6978b10ff709087dbe7a77468fc5130/Film_681_FrancesHa_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28560-frances-ha"
+    }
+  ]
+}

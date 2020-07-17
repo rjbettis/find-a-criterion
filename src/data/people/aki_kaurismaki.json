@@ -1,0 +1,52 @@
+{
+  "AkiKaurismaki": [
+    {
+      "title": "Shadows in Paradise",
+      "year": "1986",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8505-cef8cc4600aa394011e443e4199e6779/shadowsinparadise_66_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/960-shadows-in-paradise"
+    },
+    {
+      "title": "Ariel",
+      "year": "1988",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8133-8857224683c389b440d17a476b8c6800/ariel_16_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/959-ariel"
+    },
+    {
+      "title": "The Match Factory Girl",
+      "year": "1990",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8141-f79dbf5fc5973fd125342902899472a5/matchFactoryGirl_012_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/961-the-match-factory-girl"
+    },
+    {
+      "title": "Leningrad Cowboys Go America",
+      "year": "1989",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131489-fd7c6023fd4a138d8e204573d002e83f/Leningrad_Cowboys_Still_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27793-leningrad-cowboys-go-america"
+    },
+    {
+      "title": "La vie de bohème",
+      "year": "1992",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132214-ff3fb99a336f38054cf821539cfc3e0b/Film_693w_VieDeBoheme_w320.tif",
+      "criterionUrl": "https://www.criterion.com/films/28086-la-vie-de-boheme"
+    },
+    {
+      "title": "Leningrad Cowboys Meet Moses",
+      "year": "1994",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131249-9e7ae17d4588f9071065f7b03e0d02d3/Kaurismaki_Filmw_LeningradMoses_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27794-leningrad-cowboys-meet-moses"
+    },
+    {
+      "title": "Total Balalaika Show",
+      "year": "1994",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131257-2152de6ed9421bcca32875ae0e3ec273/Kaurismaki_Filmw_TotalBalalaikaShow_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27795-total-balalaika-show"
+    },
+    {
+      "title": "Le Havre",
+      "year": "2011",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131952-168a8141e27804a568308d15f38bc9b1/Film_xxxw_LeHavre_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28352-le-havre"
+    }
+  ]
+}

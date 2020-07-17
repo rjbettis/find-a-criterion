@@ -1,0 +1,46 @@
+{
+  "CatherineDeneuve": [
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132239-18ca14a1b5b085e2f5a16f383efe0a54/Film_716_Umbrellas_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27933-the-umbrellas-of-cherbourg"
+    },
+    {
+      "title": "Repulsion",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/18119-29222d36d2b7b91d5bd10f3347739492/483_Film_Repulsion_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/404-repulsion"
+    },
+    {
+      "title": "The Young Girls of Rochefort",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132240-2e24f07fb918aa86e6d1ef66951dab45/Film_717_YoungGirlsRochefort_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort"
+    },
+    {
+      "title": "Belle de jour",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131425-f0730a8c2312537cf4c2fbb0bffd9513/Film_593w_BelleDeJour_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27949-belle-de-jour"
+    },
+    {
+      "title": "Donkey Skin",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132241-177b29f21dab45fb63ac0d364a312192/Film_718_DonkeySkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28605-donkey-skin"
+    },
+    {
+      "title": "The Last Metro",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro"
+    },
+    {
+      "title": "A Christmas Tale",
+      "year": "2008",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/55335-489f8c27daf16f32472f9bc5dfd73b9e/A_CHRISTMAS_TALE_still_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/474-a-christmas-tale"
+    }
+  ]
+}
