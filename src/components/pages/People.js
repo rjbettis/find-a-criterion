@@ -55,6 +55,9 @@ export class People extends Component {
                     <Card.Title className={'theme-card-title'}>
                       {person.name}
                     </Card.Title>
+                    <Card.Text className={'movie-director'}>
+                      {person.job}
+                    </Card.Text>
                   </Card.Body>
                   <Link
                     to={{
