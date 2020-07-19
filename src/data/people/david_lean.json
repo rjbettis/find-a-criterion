@@ -1,0 +1,70 @@
+{
+  "DavidLean": [
+    {
+      "title": "Pygmalion",
+      "year": "1938",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3958-6098aa50c9b2a12264b7bc5a8714d5d4/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/365-pygmalion"
+    },
+    {
+      "title": "49th Parallel",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10633-98057579d11345c6860a849dcab9d5dc/49thParallel_2w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/520-49th-parallel"
+    },
+    {
+      "title": "Major Barbara",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129801-bcbe2d776a801c80c430ab192a6fe066/Shaw_box_film_MajorB_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/9904-major-barbara"
+    },
+    {
+      "title": "In Which We Serve",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131649-919cea762195a63d6b1b8e9b253c5256/Film_604w_InWhichWeServe_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28185-in-which-we-serve"
+    },
+    {
+      "title": "This Happy Breed",
+      "year": "1944",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131657-18a82ef5fa19a1cbb03bb4d7a2d3d250/Film_605w_ThisHappyBreed_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28144-this-happy-breed"
+    },
+    {
+      "title": "Blithe Spirit",
+      "year": "1945",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131665-603eb8a5692f88b7f2e29a21ed162787/Film_606w_BlitheSpirit_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28156-blithe-spirit"
+    },
+    {
+      "title": "Brief Encounter",
+      "year": "1945",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10721-7ee0b76873fa57ac0195b93e1dc5049b/BriefEncounter_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/345-brief-encounter"
+    },
+    {
+      "title": "Great Expectations",
+      "year": "1946",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129881-07cec7913565e8df8a5d89e1065a04e1/Film_31w_GreatExpectations_bw_new_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/566-great-expectations"
+    },
+    {
+      "title": "Oliver Twist",
+      "year": "1948",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129889-76c3e447bb200edbf6a2f02588067a84/Film_32w_OliverTwist_bw_new_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/567-oliver-twist"
+    },
+    {
+      "title": "Hobson’s Choice",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10617-bb56354b1381b7ecbc463cea95480478/Hobson_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1078-hobson-s-choice"
+    },
+    {
+      "title": "Summertime",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9119-76aec8a87fe20a63cd884c45f9c81584/Summertimew_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/368-summertime"
+    }
+  ]
+}

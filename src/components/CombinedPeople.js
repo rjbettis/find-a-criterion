@@ -24,6 +24,7 @@ import AnnaKarina from '../data/people/anna_karina.json';
 import AkiKaurismaki from '../data/people/aki_kaurismaki.json';
 import TheKordas from '../data/people/the_kordas.json';
 import AkiraKurosawa from '../data/people/akira_kurosawa.json';
+import DavidLean from '../data/people/david_lean.json';
 
 export default {
   ...ChantalAkerman,
@@ -52,4 +53,5 @@ export default {
   ...AkiKaurismaki,
   ...TheKordas,
   ...AkiraKurosawa,
+  ...DavidLean,
 };
