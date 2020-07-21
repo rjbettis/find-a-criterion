@@ -1,0 +1,46 @@
+{
+  "PierPaoloPasolini": [
+    {
+      "title": "Nights of Cabiria",
+      "year": "1957",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129849-81a5bda1e1121659dd1f63e658418a5e/P-NIGHTS_OF_CABIRIA_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/243-nights-of-cabiria"
+    },
+    {
+      "title": "La commare secca",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6661-a851bbba3753bdade8abfabc9cba9065/Film_272w_CommareSecca_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/940-la-commare-secca"
+    },
+    {
+      "title": "Mamma Roma",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4207-c0f7c44ec9fa210401ebe6e4fe7d3cc6/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/375-mamma-roma"
+    },
+    {
+      "title": "The Decameron",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132015-272f3efd20b751c30686cd6414d7e005/Film_631w_Decameron_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28105-the-decameron"
+    },
+    {
+      "title": "The Canterbury Tales",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132014-a4563b47ec1112050f7cbe0afa8b6cc5/Film_632w_CanterburyTales_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28106-the-canterbury-tales"
+    },
+    {
+      "title": "Arabian Nights",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132013-94372a23e86d3aa74b0e3e202a75d2d1/Film_633w_ArabianNights_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28374-arabian-nights"
+    },
+    {
+      "title": "Salò, or The 120 Days of Sodom",
+      "year": "1976",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130529-4b66cea75fcc8aa07904861fca9629e0/Film_17w_SaloC_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/532-salo-or-the-120-days-of-sodom"
+    }
+  ]
+}

@@ -36,6 +36,18 @@ import KenjiMizoguchi from '../data/people/kenji_mizoguchi.json';
 import JeanneMoreau from '../data/people/jeanne_moreau.json';
 import EnnioMorricone from '../data/people/ennio_morricone.json';
 import TatsuyaNakadai from '../data/people/tatsuya_nakadai.json';
+import SvenNykvist from '../data/people/sven_nykvist.json';
+import NagisaOshima from '../data/people/nagisa_oshima.json';
+import YasujiroOzu from '../data/people/yasujiro_ozu.json';
+import PierPaoloPasolini from '../data/people/pier_paolo_pasolini.json';
+import PowellAndPressburger from '../data/people/powell_and_pressburger.json';
+import JeanRenoir from '../data/people/jean_renoir.json';
+import RobertoRossellini from '../data/people/roberto_rossellini.json';
+import VolkerSchlondorff from '../data/people/volker_schlondorff.json';
+import DelphineSeyrig from '../data/people/delphine_seyrig.json';
+import SimoneSignoret from '../data/people/simone_signoret.json';
+import StevenSoderbergh from '../data/people/steven_soderbergh.json';
+import SeijunSuzuki from '../data/people/seijun_suzuki.json';
 
 export default {
   ...ChantalAkerman,
@@ -76,4 +88,16 @@ export default {
   ...JeanneMoreau,
   ...EnnioMorricone,
   ...TatsuyaNakadai,
+  ...SvenNykvist,
+  ...NagisaOshima,
+  ...YasujiroOzu,
+  ...PierPaoloPasolini,
+  ...PowellAndPressburger,
+  ...JeanRenoir,
+  ...RobertoRossellini,
+  ...VolkerSchlondorff,
+  ...DelphineSeyrig,
+  ...SimoneSignoret,
+  ...StevenSoderbergh,
+  ...SeijunSuzuki,
 };
