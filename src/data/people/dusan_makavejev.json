@@ -1,0 +1,34 @@
+{
+  "DusanMakavejev": [
+    {
+      "title": "Man Is Not a Bird",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34636-ab0bfbe41bbf9bfed0fc3ba66756823a/Film_Makavejev_Box_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3984-man-is-not-a-bird"
+    },
+    {
+      "title": "Love Affair, or the Case of the Missing Switchboard Operator",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34644-f4db64c8ab4b4bca48a2e812c069d30f/Film_Switch_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3985-love-affair-or-the-case-of-the-missing-switchboard-operator"
+    },
+    {
+      "title": "Innocence Unprotected",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34652-06323b4a524aba1efb33dcc1e23e04e6/Film_Innocence_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1073-innocence-unprotected"
+    },
+    {
+      "title": "WR: Mysteries of the Organism",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7565-7bf1b4c8315b068da539385fffb45508/Film_389w_WR_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/824-wr-mysteries-of-the-organism"
+    },
+    {
+      "title": "Sweet Movie",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5055-4a8f6a1df69fddd626732924523529dc/SweetMovie_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/552-sweet-movie"
+    }
+  ]
+}

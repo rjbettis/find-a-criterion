@@ -1,0 +1,58 @@
+{
+  "JeanPierreMelville": [
+    {
+      "title": "Le silence de la mer",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132282-bd3bd54d9ff885d32f0087702d42bb00/Film_755w_SilenceDeLaMer_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27979-le-silence-de-la-mer"
+    },
+    {
+      "title": "Les enfants terribles",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5831-230f103ea475074d1ccde9dd84acdf83/Film_398w_EnfantsTerribles_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/758-les-enfants-terribles"
+    },
+    {
+      "title": "Bob le flambeur",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130161-b67937fa647623df78ba039f15f9a0c4/Film_150w_BobFlambeur_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/690-bob-le-flambeur"
+    },
+    {
+      "title": "Léon Morin, Priest",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131049-bb0c64eaf5be4e581c6e0538f4c2a863/Film_572w_LeonMorin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27660-leon-morin-priest"
+    },
+    {
+      "title": "Le doulos",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9897-88f3ccb0a0c0ce823bc1520e15432915/Doulosw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/759-le-doulos"
+    },
+    {
+      "title": "Le deuxième souffle",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9905-99ea885a90c2933a6e73252c6695db07/DiexSouffleW_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/760-le-deuxieme-souffle"
+    },
+    {
+      "title": "Le samouraï",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131999-46f92bac2bfb301592a051ffd635d77d/Film_306_LeSamourai_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/184-le-samourai"
+    },
+    {
+      "title": "Army of Shadows",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132110-451d0c07505951308d579cbb7bb9374f/Film_385_ArmyOfShadows_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/153-army-of-shadows"
+    },
+    {
+      "title": "Le cercle rouge",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130769-e0f1a74e4d1276e2e3f77fd6cb208eee/Film_218w_CercleRouge_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/628-le-cercle-rouge"
+    }
+  ]
+}

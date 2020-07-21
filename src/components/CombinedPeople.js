@@ -25,6 +25,17 @@ import AkiKaurismaki from '../data/people/aki_kaurismaki.json';
 import TheKordas from '../data/people/the_kordas.json';
 import AkiraKurosawa from '../data/people/akira_kurosawa.json';
 import DavidLean from '../data/people/david_lean.json';
+import ErnstLubitsch from '../data/people/ernst_lubitsch.json';
+import DusanMakavejev from '../data/people/dusan_makavejev.json';
+import LouisMalle from '../data/people/louis_malle.json';
+import JeanPierreMelville from '../data/people/jean_pierre_melville.json';
+import MerchantAndIvory from '../data/people/merchant_and_ivory.json';
+import ToshiroMifune from '../data/people/toshiro_mifune.json';
+import VictorMilner from '../data/people/victor_milner.json';
+import KenjiMizoguchi from '../data/people/kenji_mizoguchi.json';
+import JeanneMoreau from '../data/people/jeanne_moreau.json';
+import EnnioMorricone from '../data/people/ennio_morricone.json';
+import TatsuyaNakadai from '../data/people/tatsuya_nakadai.json';
 
 export default {
   ...ChantalAkerman,
@@ -54,4 +65,15 @@ export default {
   ...TheKordas,
   ...AkiraKurosawa,
   ...DavidLean,
+  ...ErnstLubitsch,
+  ...DusanMakavejev,
+  ...LouisMalle,
+  ...JeanPierreMelville,
+  ...MerchantAndIvory,
+  ...ToshiroMifune,
+  ...VictorMilner,
+  ...KenjiMizoguchi,
+  ...JeanneMoreau,
+  ...EnnioMorricone,
+  ...TatsuyaNakadai,
 };
