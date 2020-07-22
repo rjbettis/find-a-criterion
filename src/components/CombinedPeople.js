@@ -48,6 +48,10 @@ import DelphineSeyrig from '../data/people/delphine_seyrig.json';
 import SimoneSignoret from '../data/people/simone_signoret.json';
 import StevenSoderbergh from '../data/people/steven_soderbergh.json';
 import SeijunSuzuki from '../data/people/seijun_suzuki.json';
+import ToruTakemitsu from '../data/people/toru_takemitsu.json';
+import JacquesTati from '../data/people/jacques_tati.json';
+import FrancoisTruffaut from '../data/people/francois_truffaut.json';
+import AgnesVarda from '../data/people/agnes_varda.json';
 
 export default {
   ...ChantalAkerman,
@@ -100,4 +104,8 @@ export default {
   ...SimoneSignoret,
   ...StevenSoderbergh,
   ...SeijunSuzuki,
+  ...ToruTakemitsu,
+  ...JacquesTati,
+  ...FrancoisTruffaut,
+  ...AgnesVarda,
 };

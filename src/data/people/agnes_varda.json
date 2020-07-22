@@ -1,0 +1,58 @@
+{
+  "AgnesVarda": [
+    {
+      "title": "La Pointe Courte",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130073-e43e5d51fbcc073014665d7864f8a0f3/PointeCourte_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/524-la-pointe-courte"
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132066-1cc363045048e5f4406b0811484b5e68/Film_73w_CleoFrom5to7_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/244-cleo-from-5-to-7"
+    },
+    {
+      "title": "Le bonheur",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5207-220ca0019e1eadb075d841fe89e21e86/509_053_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/525-le-bonheur"
+    },
+    {
+      "title": "Uncle Yanco",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132299-89f9ebd5ae025402acc57ecf38d93a2a/Film_Eclipse43_UncleYanco_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28626-uncle-yanco"
+    },
+    {
+      "title": "Black Panthers",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132302-c4d8c1f920adc7c09677566abc69fcaa/Film_Eclipse43_BlackPanthers_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28627-black-panthers"
+    },
+    {
+      "title": "Lions Love (...and Lies)",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132303-0205fd7113e1685db437434e9c6a0622/Film_Eclipse43_LionsLove_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28628-lions-love-and-lies"
+    },
+    {
+      "title": "Mur Murs",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132301-58ab2e4dd76b4f5502c0b23adecb4377/Film_Eclipse43_MurMurs_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28629-mur-murs"
+    },
+    {
+      "title": "Documenteur",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132300-66e1c211f66572529d3ebc2c38627dc9/Film_Eclipse43_Documenteur_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28630-documenteur"
+    },
+    {
+      "title": "Vagabond",
+      "year": "1985",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131988-9ec6e2cb39f7b80352a7ad70f38e9009/Film_74w_Vagabond_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/245-vagabond"
+    }
+  ]
+}

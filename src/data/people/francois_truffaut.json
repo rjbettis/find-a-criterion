@@ -1,0 +1,58 @@
+{
+  "FrancoisTruffaut": [
+    {
+      "title": "The 400 Blows",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130473-32d6b5e7a721ba3f04d11e9dc8ac0995/Film_05w_400Blows_A_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows"
+    },
+    {
+      "title": "Shoot the Piano Player",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131721-1d8203dc5e6e87af75a25138de5c7c01/Film_315w_ShootPianoPlayer_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player"
+    },
+    {
+      "title": "Jules and Jim",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2726-e9e384f93f844c95919db09fd1dd0ca5/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim"
+    },
+    {
+      "title": "The Soft Skin",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132277-199dd2f244611f85bc841cf7017080c5/Film_749w_SoftSkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27640-the-soft-skin"
+    },
+    {
+      "title": "Stolen Kisses",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7827-8591beabafdb669b9596a33628992305/Film_186w_StolenKisses_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/732-stolen-kisses"
+    },
+    {
+      "title": "Bed and Board",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131729-67391b7967645704d8b7acc8b20d3aae/Film_187w_BedBoard_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/733-bed-and-board"
+    },
+    {
+      "title": "Day for Night",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132305-25d19685cbb6766fed527302b9bb24f9/Film_769_DayForNight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28698-day-for-night"
+    },
+    {
+      "title": "Love on the Run",
+      "year": "1979",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7811-8fbdf8b2bba8d61375a112b3b6d6e419/Film_188w_LoveOnRun_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/734-love-on-the-run"
+    },
+    {
+      "title": "The Last Metro",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro"
+    }
+  ]
+}

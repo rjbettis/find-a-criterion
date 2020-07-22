@@ -1,0 +1,40 @@
+{
+  "JacquesTati": [
+    {
+      "title": "Jour de fête",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132252-10a476b43992537f4edaad75db0a1567/Film_730w_JourDeFete_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28114-jour-de-fete"
+    },
+    {
+      "title": "Monsieur Hulot’s Holiday",
+      "year": "1953",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130761-5f5252a6eb8972a6f3bc1a5d5e2b4342/Film_110w_MHulotHoliday_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday"
+    },
+    {
+      "title": "Mon oncle",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8421-c50647b0f22fad66a4f85ce90a9d5c7b/Film_111w_MonOncle_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/650-mon-oncle"
+    },
+    {
+      "title": "PlayTime",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/108433-48e1836010cb38ee55d62266d4c032e3/Film_112w_PlayTime_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/651-playtime"
+    },
+    {
+      "title": "Trafic",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6379-7debb80ee66399925d4bdd69c72dd8da/Film_439w_Trafic_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/859-trafic"
+    },
+    {
+      "title": "Parade",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132253-578be9727419455eeba3c15814b6cead/Film_731w_Parade_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28123-parade"
+    }
+  ]
+}
