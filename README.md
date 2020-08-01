@@ -44,9 +44,12 @@ I made this react application with the intention to sharpen my styling skills an
 - [x] Host on AWS
 - [x] Host all image files in bucket
 - [x] Fix top theme card to look good on small screen sizes
+- [x] Finish "People" JSON files (54/54)
+- [ ] Add professions to "People" page
 - [ ] Double check all "Themes" data and images
-- [ ] Finish "People" JSON files (7/54)
+- [ ] Double check all "People" data and images
 - [ ] Minimize number of JSON files to 1
 - [ ] Create "Film" component for when a film is selected (right now just linking to criterion.com film page)
 - [ ] Make decision about the Top 10 page
 - [ ] Streamline CSS
+- [ ] Make JSON with all films and respective data
