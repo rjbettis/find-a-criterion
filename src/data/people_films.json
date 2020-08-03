@@ -1,0 +1,3610 @@
+{
+  "ChantalAkerman": [
+    {
+      "title": "La chambre",
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chambre.jpg",
+      "criterionUrl": "https://www.criterion.com/films/20976-la-chambre"
+    },
+    {
+      "title": "Hotel Monterey",
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hotel_Monterey.jpg",
+      "criterionUrl": "https://www.criterion.com/films/20977-hotel-monterey"
+    },
+    {
+      "title": "Je tu il elle",
+      "year": "1975",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Je_tu_il_elle.jpg",
+      "criterionUrl": "https://www.criterion.com/films/20962-je-tu-il-elle"
+    },
+    {
+      "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "year": "1975",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jeanne_Dielman.jpg",
+      "criterionUrl": "https://www.criterion.com/films/302-jeanne-dielman-23-quai-du-commerce-1080-bruxelles"
+    },
+    {
+      "title": "News from Home",
+      "year": "1976",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/News_from_Home.jpg",
+      "criterionUrl": "https://www.criterion.com/films/20978-news-from-home"
+    },
+    {
+      "title": "Les rendez-vous d’Anna",
+      "year": "1978",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rendez_vous_dAnna.jpg",
+      "criterionUrl": "https://www.criterion.com/films/20204-les-rendez-vous-d-anna"
+    }
+  ],
+  "RobertAltman": [
+    {
+      "title": "McCabe & Mrs. Miller",
+      "year": "1971",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/McCabe_and_Mrs_Miller.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28712-mccabe-mrs-miller"
+    },
+    {
+      "title": "Nashville",
+      "year": "1975",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nashville.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28427-nashville"
+    },
+    {
+      "title": "3 Women",
+      "year": "1977",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/3_Women.jpg",
+      "criterionUrl": "https://www.criterion.com/films/712-3-women"
+    },
+    {
+      "title": "Secret Honor",
+      "year": "1984",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_Honor.jpg",
+      "criterionUrl": "https://www.criterion.com/films/955-secret-honor"
+    },
+    {
+      "title": "Tanner ’88",
+      "year": "1988",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tanner_88.jpg",
+      "criterionUrl": "https://www.criterion.com/films/952-tanner-88"
+    },
+    {
+      "title": "The Player",
+      "year": "1992",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Player.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28835-the-player"
+    },
+    {
+      "title": "Short Cuts",
+      "year": "1993",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Short_Cuts.jpg",
+      "criterionUrl": "https://www.criterion.com/films/376-short-cuts"
+    }
+  ],
+  "WesAnderson": [
+    {
+      "title": "Bottle Rocket",
+      "year": "1996",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg",
+      "criterionUrl": "https://www.criterion.com/films/594-bottle-rocket"
+    },
+    {
+      "title": "Rushmore",
+      "year": "1998",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rushmore.jpg",
+      "criterionUrl": "https://www.criterion.com/films/333-rushmore"
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "year": "2001",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg",
+      "criterionUrl": "https://www.criterion.com/films/230-the-royal-tenenbaums"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": "2004",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Aquatic_with_Steve_Zissou.jpg",
+      "criterionUrl": "https://www.criterion.com/films/741-the-life-aquatic-with-steve-zissou"
+    },
+    {
+      "title": "The Darjeeling Limited",
+      "year": "2007",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Darjeeling_Limited.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27520-the-darjeeling-limited"
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "year": "2009",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fantastic_Mr_Fox.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28565-fantastic-mr-fox"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "year": "2012",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28757-moonrise-kingdom"
+    }
+  ],
+  "MichelangeloAntonioni": [
+    {
+      "title": "The White Sheik",
+      "year": "1952",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7803-f1da07b636bd22b5bce9b1f605171dcf/Film_189w_WhiteSheik_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/374-the-white-sheik"
+    },
+    {
+      "title": "Le amiche",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132356-2fe1fffa7ffc8370fc48c548426e0103/Film_817_LeAmiche_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28632-le-amiche"
+    },
+    {
+      "title": "L’avventura",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2702-a817425e336e22169a90869ae707ed80/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/209-l-avventura"
+    },
+    {
+      "title": "La notte",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132169-b344cc230e16bae6db30709be6f7261c/Film_678_LaNotte_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28111-la-notte"
+    },
+    {
+      "title": "L’eclisse",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6695-3253b198664618c4d1e8c6b4df13d268/Film_278w_LEclisse_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/928-l-eclisse"
+    },
+    {
+      "title": "Red Desert",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/113705-d273fb94d264031d875a73f135c0f54f/522_Filmw_RedDesert_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1454-red-desert"
+    },
+    {
+      "title": "Blow-Up",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132404-314c00dcabf0bdb32eb5756910e46553/Film_865_BlowUp_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27629-identification-of-a-woman"
+    },
+    {
+      "title": "Identification of a Woman",
+      "year": "1982",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131273-f1cf32d14db4986533cf150e50a36fa1/Film_585w_IdentificationWoman_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28694-blow-up"
+    }
+  ],
+  "JeanPaulBelmondo": [
+    {
+      "title": "Breathless",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129729-dc88df1de0ad117daa77079692b0706d/Film_408w_Breathless_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/268-breathless"
+    },
+    {
+      "title": "Classe tous risques",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5637-a5a80642b0c4475ce5beffe2926747e6/Film_434w_ClasseTous_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/591-classe-tous-risques"
+    },
+    {
+      "title": "Léon Morin, Priest",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131049-bb0c64eaf5be4e581c6e0538f4c2a863/Film_572w_LeonMorin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27660-leon-morin-priest"
+    },
+    {
+      "title": "A Woman Is a Woman",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129953-9372fd8ea0d44db484e9fd3e96707748/Film_238w_WomanIsWoman_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
+    },
+    {
+      "title": "Le doulos",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9897-88f3ccb0a0c0ce823bc1520e15432915/Doulosw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/759-le-doulos"
+    },
+    {
+      "title": "Pierrot le fou",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/54719-3b392858493eaab5819c6eac331341f2/Film_421w_PierrotLeFou_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
+    }
+  ],
+  "IngmarBergman": [
+    {
+      "title": "Torment",
+      "year": "1944",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Torment.jpg",
+      "criterionUrl": "https://www.criterion.com/films/641-torment"
+    },
+    {
+      "title": "Crisis",
+      "year": "1946",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crisis.jpg",
+      "criterionUrl": "https://www.criterion.com/films/642-crisis"
+    },
+    {
+      "title": "Port of Call",
+      "year": "1948",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Port_of_Call.jpg",
+      "criterionUrl": "https://www.criterion.com/films/643-port-of-call"
+    },
+    {
+      "title": "Thirst",
+      "year": "1949",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thirst.jpg",
+      "criterionUrl": "https://www.criterion.com/films/644-thirst"
+    },
+    {
+      "title": "To Joy",
+      "year": "1950",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Joy.jpg",
+      "criterionUrl": "https://www.criterion.com/films/645-to-joy"
+    },
+    {
+      "title": "Summer Interlude",
+      "year": "1951",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Summer_Interlude.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27782-summer-interlude"
+    },
+    {
+      "title": "Sawdust and Tinsel",
+      "year": "1953",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sawdust_and_Tinsel.jpg",
+      "criterionUrl": "https://www.criterion.com/films/842-sawdust-and-tinsel"
+    },
+    {
+      "title": "Summer with Monika",
+      "year": "1953",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Summer_with_Monika.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27638-summer-with-monika"
+    },
+    {
+      "title": "Smiles of a Summer Night",
+      "year": "1955",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiles_of_a_Summer_Night.jpg",
+      "criterionUrl": "https://www.criterion.com/films/849-smiles-of-a-summer-night"
+    },
+    {
+      "title": "The Seventh Seal",
+      "year": "1957",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seventh_Seal.jpg",
+      "criterionUrl": "https://www.criterion.com/films/173-the-seventh-seal"
+    },
+    {
+      "title": "Wild Strawberries",
+      "year": "1957",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wild_Strawberries.jpg",
+      "criterionUrl": "https://www.criterion.com/films/175-wild-strawberries"
+    },
+    {
+      "title": "The Magician",
+      "year": "1958",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magician.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27521-the-magician"
+    },
+    {
+      "title": "The Virgin Spring",
+      "year": "1960",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Virgin_Spring.jpg",
+      "criterionUrl": "https://www.criterion.com/films/372-the-virgin-spring"
+    },
+    {
+      "title": "Through a Glass Darkly",
+      "year": "1961",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Through_a_Glass_Darkly.jpg",
+      "criterionUrl": "https://www.criterion.com/films/568-through-a-glass-darkly"
+    },
+    {
+      "title": "Winter Light",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Winter_Light.jpg",
+      "criterionUrl": "https://www.criterion.com/films/569-winter-light"
+    },
+    {
+      "title": "Ingmar Bergman Makes a Movie",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ingmar_Bergman_Makes_a_Movie.jpg",
+      "criterionUrl": "https://www.criterion.com/films/608-ingmar-bergman-makes-a-movie"
+    },
+    {
+      "title": "The Silence",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Silence.jpg",
+      "criterionUrl": "https://www.criterion.com/films/570-the-silence"
+    },
+    {
+      "title": "Persona",
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Persona.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28491-persona"
+    },
+    {
+      "title": "Shame",
+      "year": "1968",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shame.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28877-shame"
+    },
+    {
+      "title": "Cries and Whispers",
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cries_and_Whispers.jpg",
+      "criterionUrl": "https://www.criterion.com/films/237-cries-and-whispers"
+    },
+    {
+      "title": "Scenes from a Marriage",
+      "year": "1973",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scenes_from_a_Marriage.jpg",
+      "criterionUrl": "https://www.criterion.com/films/710-scenes-from-a-marriage"
+    },
+    {
+      "title": "The Magic Flute",
+      "year": "1975",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magic_Flute.jpg",
+      "criterionUrl": "https://www.criterion.com/films/613-the-magic-flute"
+    },
+    {
+      "title": "Autumn Sonata",
+      "year": "1978",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Autumn_Sonata.jpg",
+      "criterionUrl": "https://www.criterion.com/films/605-autumn-sonata"
+    },
+    {
+      "title": "Fanny and Alexander: Theatrical Version",
+      "year": "1982",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg",
+      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version"
+    },
+    {
+      "title": "The Making of Fanny and Alexander",
+      "year": "1982",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Making_of_Fanny_and_Alexander.jpg",
+      "criterionUrl": "https://www.criterion.com/films/627-the-making-of-fanny-and-alexander"
+    },
+    {
+      "title": "Fanny and Alexander: Television Version",
+      "year": "1983",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Television_Version.jpg",
+      "criterionUrl": "https://www.criterion.com/films/626-fanny-and-alexander-television-version"
+    },
+    {
+      "title": "Bergman Island",
+      "year": "2006",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bergman_Island.jpg",
+      "criterionUrl": "https://www.criterion.com/films/556-bergman-island"
+    }
+  ],
+  "RobertBresson": [
+    {
+      "title": "Les dames du Bois de Boulogne",
+      "year": "1945",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dames_du_Bois_de_Boulogne.jpg",
+      "criterionUrl": "https://www.criterion.com/films/451-les-dames-du-bois-de-boulogne"
+    },
+    {
+      "title": "Diary of a Country Priest",
+      "year": "1951",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diary_of_a_Country_Priest.jpg",
+      "criterionUrl": "https://www.criterion.com/films/452-diary-of-a-country-priest"
+    },
+    {
+      "title": "A Man Escaped",
+      "year": "1956",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_Escaped.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27848-a-man-escaped"
+    },
+    {
+      "title": "Pickpocket",
+      "year": "1959",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pickpocket.jpg",
+      "criterionUrl": "https://www.criterion.com/films/229-pickpocket"
+    },
+    {
+      "title": "Au hasard Balthazar",
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Au_hasard_Balthazar.jpg",
+      "criterionUrl": "https://www.criterion.com/films/455-au-hasard-balthazar"
+    },
+    {
+      "title": "Mouchette",
+      "year": "1967",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mouchette.jpg",
+      "criterionUrl": "https://www.criterion.com/films/456-mouchette"
+    },
+    {
+      "title": "L’argent",
+      "year": "1983",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Largent.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27588-l-argent"
+    }
+  ],
+  "LuisBunuel": [
+    {
+      "title": "Viridiana",
+      "year": "1961",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Viridiana.jpg",
+      "criterionUrl": "https://www.criterion.com/films/373-viridiana"
+    },
+    {
+      "title": "The Exterminating Angel",
+      "year": "1962",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Exterminating_Angel.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1076-the-exterminating-angel"
+    },
+    {
+      "title": "Diary of a Chambermaid",
+      "year": "1964",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diary_of_a_Chambermaid.jpg",
+      "criterionUrl": "https://www.criterion.com/films/656-diary-of-a-chambermaid"
+    },
+    {
+      "title": "Simon of the Desert",
+      "year": "1965",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Simon_of_the_Desert.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1077-simon-of-the-desert"
+    },
+    {
+      "title": "Belle de jour",
+      "year": "1967",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Belle_de_jour.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27949-belle-de-jour"
+    },
+    {
+      "title": "The Milky Way",
+      "year": "1969",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Milky_Way.jpg",
+      "criterionUrl": "https://www.criterion.com/films/832-the-milky-way"
+    },
+    {
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Discreet_Charm_of_the_Bourgeoisie.jpg",
+      "criterionUrl": "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
+    },
+    {
+      "title": "The Phantom of Liberty",
+      "year": "1974",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Phantom_of_Liberty.jpg",
+      "criterionUrl": "https://www.criterion.com/films/905-the-phantom-of-liberty"
+    },
+
+    {
+      "title": "That Obscure Object of Desire",
+      "year": "1977",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/That_Obscure_Object_of_Desire.jpg",
+      "criterionUrl": "https://www.criterion.com/films/686-that-obscure-object-of-desire"
+    }
+  ],
+  "JeanClaudeCarriere": [
+    {
+      "title": "The Suitor",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132094-64bfaebcab076f3cfcf1190082380e9b/Film_655w_Suitor_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28395-the-suitor"
+    },
+    {
+      "title": "Diary of a Chambermaid",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9337-3bc41d3e406cb6ffb03ef3838315b63d/Diaryw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/656-diary-of-a-chambermaid"
+    },
+    {
+      "title": "Yoyo",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132095-9227c516ead4e736b1e0b60f3681c73a/Film_655w_Yoyo_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28454-yoyo"
+    },
+    {
+      "title": "As Long as You’ve Got Your Health ",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132096-2f4092443235e03fe4ee93e430addeb6/Film_655w_AsLongGotHealth_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28399-as-long-as-you-ve-got-your-health"
+    },
+    {
+      "title": "Belle de jour",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131425-f0730a8c2312537cf4c2fbb0bffd9513/Film_593w_BelleDeJour_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27949-belle-de-jour"
+    },
+    {
+      "title": "Le grand amour",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132097-b4364a8504b80f9b7923078f8f2893d1/Film_655w_GrandAmour_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28398-le-grand-amour"
+    },
+    {
+      "title": "The Milky Way",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7501-99a94f4b52b1023ac3623635f8527a4e/Film_402w_MilkyWay_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/832-the-milky-way"
+    },
+    {
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8389-6fb342c208cf6063c3709fd6a6186d20/Film_102w_DiscreetCharm_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
+    },
+    {
+      "title": "The Phantom of Liberty",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6761-810b674681963ab5973a2f56f9096f08/Film_290w_PhantomLiberty_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/905-the-phantom-of-liberty"
+    },
+    {
+      "title": "That Obscure Object of Desire",
+      "year": "1977",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9677-75b884f1fe91ab81eee556fe1f277453/ThatObscurew_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/686-that-obscure-object-of-desire"
+    },
+    {
+      "title": "The Tin Drum",
+      "year": "1979",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/789-the-tin-drum"
+    },
+    {
+      "title": "Every Man for Himself",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132271-a3a01292b820eb8e4eb4a0401c938c26/Film_744w_EveryManHimself_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28549-every-man-for-himself"
+    },
+    {
+      "title": "Danton",
+      "year": "1983",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4919-cd64e14b8cd3533ca7c62dbed411d247/Film_464w_Danton_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/555-danton"
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "year": "1988",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9635-748c27f12c057ae4d574318ca69e0c24/Lightnessw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/600-the-unbearable-lightness-of-being"
+    },
+    {
+      "title": "Certified Copy",
+      "year": "2010",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131927-57751e1d2c5801bdb6f698dec59e856a/Film_612w_CerifiedCopy_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28353-certified-copy"
+    }
+  ],
+  "JohnCassavetes": [
+    {
+      "title": "Shadows",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130145-11d2052d72a4cc36ac18e35de9be189c/Film_251w_Shadows_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/500-shadows"
+    },
+    {
+      "title": "Faces",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6571-8cb40530e9893dd1651302d765f9779b/Film_252w_Faces_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/915-faces"
+    },
+    {
+      "title": "A Woman Under the Influence",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132099-b3f675db45fd437264c6430e6f32ca22/Film_253w_WomanUnderInfluence_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/510-a-woman-under-the-influence"
+    },
+    {
+      "title": "The Killing of a Chinese Bookie",
+      "year": "1976",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6579-951e2f8e518544694e96bc3f41d275d4/Film_254w_KillignBookie_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/958-the-killing-of-a-chinese-bookie"
+    },
+    {
+      "title": "Opening Night",
+      "year": "1977",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/108697-0d8f4d3208124ba5b10860b3cea06fed/Film_255w_OpeningNight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/957-opening-night"
+    },
+    {
+      "title": "Love Streams",
+      "year": "1984",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132246-7bc4316136de96cc16541094d494a228/Film_721w_LoveStreams_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28032-love-streams"
+    },
+    {
+      "title": "A Constant Forge",
+      "year": "2000",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6595-0e559db041d74357fb701c64720af261/Film_256w_ConstantForge_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/956-a-constant-forge"
+    }
+  ],
+  "HenriGeorgesClouzot": [
+    {
+      "title": "Le Corbeau",
+      "year": "1943",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Corbeau.jpg",
+      "criterionUrl": "https://www.criterion.com/films/684-le-corbeau"
+    },
+    {
+      "title": "Panique",
+      "year": "1946",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Panique.jpg",
+      "criterionUrl": "https://www.criterion.com/films/29510-panique"
+    },
+    {
+      "title": "Quai des Orfèvres",
+      "year": "1947",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Quai_des_Orfevres.jpg",
+      "criterionUrl": "https://www.criterion.com/films/738-quai-des-orfevres"
+    },
+    {
+      "title": "The Wages of Fear",
+      "year": "1953",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wages_of_Fear.jpg",
+      "criterionUrl": "https://www.criterion.com/films/370-the-wages-of-fear"
+    },
+    {
+      "title": "Diabolique",
+      "year": "1955",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diabolique.jpg",
+      "criterionUrl": "https://www.criterion.com/films/575-diabolique"
+    }
+  ],
+  "JeanCocteau": [
+    {
+      "title": "The Blood of a Poet",
+      "year": "1930",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5447-301395ff137d45eccba190995ac3e0f7/Film_67w_BloodPoet_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/609-the-blood-of-a-poet"
+    },
+    {
+      "title": "Les dames du Bois de Boulogne",
+      "year": "1945",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7845-fec426571beb6a7e7a17b568ae8107a7/Film_183w_DamesDuBois_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/451-les-dames-du-bois-de-boulogne"
+    },
+    {
+      "title": "Beauty and the Beast",
+      "year": "1946",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9095-3e2f8e470b81199dc4ee780dd730e019/BeautyBeastw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/177-beauty-and-the-beast"
+    },
+    {
+      "title": "Les enfants terribles",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5831-230f103ea475074d1ccde9dd84acdf83/Film_398w_EnfantsTerribles_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/758-les-enfants-terribles"
+    },
+    {
+      "title": "Orpheus",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131986-74c70a65215c229ecf84972b9b75805c/Film_68w_Orpheus_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/610-orpheus"
+    },
+    {
+      "title": "Testament of Orpheus",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9167-c1c7841476be85725e99499b7308fe54/Testamentw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/611-testament-of-orpheus"
+    }
+  ],
+  "RaoulCoutard": [
+    {
+      "title": "Breathless",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129729-dc88df1de0ad117daa77079692b0706d/Film_408w_Breathless_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/268-breathless"
+    },
+    {
+      "title": "Shoot the Piano Player",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131721-1d8203dc5e6e87af75a25138de5c7c01/Film_315w_ShootPianoPlayer_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player"
+    },
+    {
+      "title": "Chronicle of a Summer",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132070-91d60b65f47dcb738a7d88f4a822cf50/Film_648w_ChronicleOfSummer_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28394-chronicle-of-a-summer"
+    },
+    {
+      "title": "Lola",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132237-e5b979036350af1c698ca7b441da4f78/Film_714_Lola_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27932-lola"
+    },
+    {
+      "title": "A Woman Is a Woman",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129953-9372fd8ea0d44db484e9fd3e96707748/Film_238w_WomanIsWoman_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
+    },
+    {
+      "title": "Jules and Jim",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2726-e9e384f93f844c95919db09fd1dd0ca5/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim"
+    },
+    {
+      "title": "Vivre sa vie",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/60451-8d5e74b3f22bf0c87a9b2a2b1ef2295f/512_Filmw_VivreSaVie_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3060-vivre-sa-vie"
+    },
+    {
+      "title": "Contempt",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10135-cb81af2b1a58d1d34ae7f0a9f9256080/contempt_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/239-contempt"
+    },
+    {
+      "title": "Band of Outsiders",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132082-cf0a5f3e2e043c4360e350d0b722d762/Film_174w_BandOutsiders_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders"
+    },
+    {
+      "title": "The Soft Skin",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132277-199dd2f244611f85bc841cf7017080c5/Film_749w_SoftSkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27640-the-soft-skin"
+    },
+    {
+      "title": "Alphaville",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2718-602febe279f55af42ce57c7326419780/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/207-alphaville"
+    },
+    {
+      "title": "Pierrot le fou",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/54719-3b392858493eaab5819c6eac331341f2/Film_421w_PierrotLeFou_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
+    },
+    {
+      "title": "Made in U.S.A",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/18127-94d027b10c7dc9bf067a8fa6b5e5d50b/481_Film_made_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2109-made-in-u-s-a"
+    },
+    {
+      "title": "2 or 3 Things I Know About Her",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131979-873130a71f42e67c898445455a8d1a6a/Film_482w_2or3Things__w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1333-2-or-3-things-i-know-about-her"
+    },
+    {
+      "title": "Weekend",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132022-7d877a9a25e4a5e479bc57ff9ff8bb3a/Film_635w_Weekend_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28441-weekend"
+    },
+    {
+      "title": "Z",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/43935-e4f6387d0a1cdcf21a69bad68d05caad/Film_491w_Z_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1400-z"
+    },
+    {
+      "title": "The Confession",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132287-88f2aafa59babbd49f554a39579bb9f7/Film_759_Confession_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27873-the-confession"
+    }
+  ],
+  "GeorgesDelerue": [
+    {
+      "title": "Hiroshima mon amour",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129873-e652f0dfe89ba299eaab45e6b4336cf2/hiroshima_bw_new_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/217-hiroshima-mon-amour"
+    },
+    {
+      "title": "Shoot the Piano Player",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131721-1d8203dc5e6e87af75a25138de5c7c01/Film_315w_ShootPianoPlayer_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player"
+    },
+    {
+      "title": "Classe tous risques",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5637-a5a80642b0c4475ce5beffe2926747e6/Film_434w_ClasseTous_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/591-classe-tous-risques"
+    },
+    {
+      "title": "Jules and Jim",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2726-e9e384f93f844c95919db09fd1dd0ca5/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim"
+    },
+    {
+      "title": "Vive le Tour",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8053-6af5ebb7ebb621255728b4b528376fe8/viveletour_01_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/670-vive-le-tour"
+    },
+    {
+      "title": "Contempt",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10135-cb81af2b1a58d1d34ae7f0a9f9256080/contempt_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/239-contempt"
+    },
+    {
+      "title": "The Soft Skin",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132277-199dd2f244611f85bc841cf7017080c5/Film_749w_SoftSkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27640-the-soft-skin"
+    },
+    {
+      "title": "The Two of Us",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5847-fa14965434a745217a314a4512f90bff/Film_388w_TwoOfUs_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/757-the-two-of-us"
+    },
+    {
+      "title": "Day for Night",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132305-25d19685cbb6766fed527302b9bb24f9/Film_769_DayForNight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28698-day-for-night"
+    },
+    {
+      "title": "Love on the Run",
+      "year": "1979",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7811-8fbdf8b2bba8d61375a112b3b6d6e419/Film_188w_LoveOnRun_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/734-love-on-the-run"
+    },
+    {
+      "title": "Documenteur",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132300-66e1c211f66572529d3ebc2c38627dc9/Film_Eclipse43_Documenteur_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28630-documenteur"
+    },
+    {
+      "title": "The Last Metro",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro"
+    },
+    {
+      "title": "Mister Johnson",
+      "year": "1990",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132311-4e4a8e16dbac0841e09fea8b8355f97e/Film_774_BreakerMorant_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28102-mister-johnson"
+    },
+    {
+      "title": "Frances Ha",
+      "year": "2013",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132197-a6978b10ff709087dbe7a77468fc5130/Film_681_FrancesHa_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28560-frances-ha"
+    }
+  ],
+  "CatherineDeneuve": [
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132239-18ca14a1b5b085e2f5a16f383efe0a54/Film_716_Umbrellas_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27933-the-umbrellas-of-cherbourg"
+    },
+    {
+      "title": "Repulsion",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/18119-29222d36d2b7b91d5bd10f3347739492/483_Film_Repulsion_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/404-repulsion"
+    },
+    {
+      "title": "The Young Girls of Rochefort",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132240-2e24f07fb918aa86e6d1ef66951dab45/Film_717_YoungGirlsRochefort_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort"
+    },
+    {
+      "title": "Belle de jour",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131425-f0730a8c2312537cf4c2fbb0bffd9513/Film_593w_BelleDeJour_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27949-belle-de-jour"
+    },
+    {
+      "title": "Donkey Skin",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132241-177b29f21dab45fb63ac0d364a312192/Film_718_DonkeySkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28605-donkey-skin"
+    },
+    {
+      "title": "The Last Metro",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro"
+    },
+    {
+      "title": "A Christmas Tale",
+      "year": "2008",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/55335-489f8c27daf16f32472f9bc5dfd73b9e/A_CHRISTMAS_TALE_still_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/474-a-christmas-tale"
+    }
+  ],
+  "HansDreier": [
+    {
+      "title": "The Docks of New York",
+      "year": "1928",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129561-bd1b8bf536453605a064e67b8a343cce/Film_531w_DocksNewYork_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1942-the-docks-of-new-york"
+    },
+    {
+      "title": "The Last Command",
+      "year": "1928",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129569-56a3680fc45eb7cdecc925331ae09f8f/Film_530w_LastCommand_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/6721-the-last-command"
+    },
+    {
+      "title": "The Love Parade",
+      "year": "1929",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7997-8248c553649e520f260d22276e599a73/LoveParade_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/898-the-love-parade"
+    },
+    {
+      "title": "Monte Carlo",
+      "year": "1930",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8005-ba8e0006454dafd3089499cdc03153b6/MonteCarlo_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/899-monte-carlo"
+    },
+    {
+      "title": "The Smiling Lieutenant",
+      "year": "1931",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8013-b85af9d2c83fb57ffa1ee03099ecbb82/SmilingLT_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/900-the-smiling-lieutenant"
+    },
+    {
+      "title": "Island of Lost Souls",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131305-40da86ee35a108fe19fa505cc5cf32f7/Film_586w_IslandLostSouls_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27861-island-of-lost-souls"
+    },
+    {
+      "title": "One Hour with You",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8021-28d100471568bbbc325ee0fe85ac2783/OneHourWithYou_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/901-one-hour-with-you"
+    },
+    {
+      "title": "Trouble in Paradise",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130329-9ea9bfe9bd422c409621d1b9ab3659b8/Troublew_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/723-trouble-in-paradise"
+    },
+    {
+      "title": "The Scarlet Empress",
+      "year": "1934",
+      "image": "https://web.archive.org/web/20160805052906im_/https://s3.amazonaws.com/criterion-production/stills/9311-866f2cc95eec68fb998f32e512416ee0/ScarlketEmpressw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/431-the-scarlet-empress"
+    },
+    {
+      "title": "Make Way for Tomorrow ",
+      "year": "1937",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/76047-78b0d15ae71c0bcae8bb1f2c169fb6b0/MAKEWAYFORTOMORROW_filmstill_new_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2350-make-way-for-tomorrow"
+    },
+    {
+      "title": "The Lady Eve",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8397-d435f5dec663570d31cf12196fc165cb/Film_103w_LadyEve_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/639-the-lady-eve"
+    },
+    {
+      "title": "Sullivan’s Travels",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9345-7df190402f3717915587e8ea50d0e0f7/Sullivanw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/657-sullivan-s-travels"
+    },
+    {
+      "title": "I Married a Witch",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132167-fc8beed18afec29b7b643ba89a4536c2/Film_676_MarriedAWitch_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27771-i-married-a-witch"
+    },
+    {
+      "title": "The Palm Beach Story",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132269-b92f4e3704ce724550ae0c1331b166dd/Film_742_PalmBeachStory_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28103-the-palm-beach-story"
+    },
+    {
+      "title": "Ministry of Fear",
+      "year": "1944",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132086-f1803118981de2b55c9f122c9ebcd3e9/Film_649w_MinistryOfFear_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28065-ministry-of-fear"
+    },
+    {
+      "title": "The Uninvited",
+      "year": "1944",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132168-2e58835e6831487a57a27dee7a16786f/Film_677_Uninvited_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27964-the-uninvited"
+    },
+    {
+      "title": "The Furies",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132158-4d9277cbf2ec1ff7063f04e981d29d9a/Film_Furies_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/596-the-furies"
+    }
+  ],
+  "CarlThDreyer": [
+    {
+      "title": "Master of the House",
+      "year": "1925",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132227-6f1b3f2dd0b95ac369a53e871ee46a34/Film_706w_MasterOfHouse_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27804-master-of-the-house"
+    },
+    {
+      "title": "The Passion of Joan of Arc",
+      "year": "1928",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2888-630f58b83c3cfff9712e710431249ef5/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/228-the-passion-of-joan-of-arc"
+    },
+    {
+      "title": "Vampyr",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5621-4aa1594acc375cc709940d02386dadea/Film_437w_Vampyr_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/661-vampyr"
+    },
+    {
+      "title": "Day of Wrath",
+      "year": "1943",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132133-4c21f936ce8dce08af5cf4b4482c51ea/Film_125w_DayOfWrath_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/442-day-of-wrath"
+    },
+    {
+      "title": "Ordet",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10447-49d18912262993b7aac2b9a2e69a48e3/ordet_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/441-ordet"
+    },
+    {
+      "title": "Gertrud",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10439-33f897665d53a2a41016a8e4485884d8/gertrud_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/443-gertrud"
+    },
+    {
+      "title": "Carl Th. Dreyer—My Metier",
+      "year": "1995",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9053-6ae4ebde91f136b8d227f09544c6e458/MyMeteirw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/667-carl-th-dreyer-my-metier"
+    }
+  ],
+  "RainerWernerFassbinder": [
+    {
+      "title": "Love Is Colder Than Death",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132146-61fd6a4b95ee0c7989ac7832d308905e/Fassbinder_Film_LoveIsColder_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27959-love-is-colder-than-death"
+    },
+    {
+      "title": "Katzelmacher",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132147-c5511df949c72ed454d06446f5f8149d/Fassbinder_Film_Katzelmacher_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28591-katzelmacher"
+    },
+    {
+      "title": "Gods of the Plague",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132148-b200a42d6b59bf3cc488e1101f6210d7/Fassbinder_Film_GodsOfPlague_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27958-gods-of-the-plague"
+    },
+    {
+      "title": "The American Soldier",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132152-b74825ee1da0a887e7dae30a2e3aa0d9/Fassbinder_Film_AmericanSoldier_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27951-the-american-soldier"
+    },
+    {
+      "title": "Beware of a Holy Whore",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132151-375840b57ae1881c7c17f331997fabee/Fassbinder_Film_BewareHolyWhore_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27952-beware-of-a-holy-whore"
+    },
+    {
+      "title": "The Merchant of Four Seasons",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132290-2a85fa78138a0b2ecd797e50a1b5e985/Film_758_MerchantFourSeasons_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27960-the-merchant-of-four-seasons"
+    },
+    {
+      "title": "The Bitter Tears of Petra von Kant",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132267-17643d674c8e5a80d805afd7363a1dd9/Film_740_BitterTears_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27953-the-bitter-tears-of-petra-von-kant"
+    },
+    {
+      "title": "World on a Wire",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131553-f6ee80f84c4105ea1d407ba3e646f410/Film_598w_WorldOnWire_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27742-world-on-a-wire"
+    },
+    {
+      "title": "Ali: Fear Eats the Soul",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2004-02be8557983f2d5a03e927b48471de85/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/152-ali-fear-eats-the-soul"
+    },
+
+    {
+      "title": "Fox and His Friends",
+      "year": "1975",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132395-4c9307717719b983617daa601bc1f044/Film_851_FoxandHisFriends_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27957-fox-and-his-friends"
+    },
+    {
+      "title": "The Marriage of Maria Braun",
+      "year": "1979",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/108713-651a8670db3ef99333465171603cd1cf/Film_204w_MariaBraun_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/592-the-marriage-of-maria-braun"
+    },
+    {
+      "title": "Berlin Alexanderplatz",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9881-e15a58ce1fe24c87010ec05c1aadad12/Berlinw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/839-berlin-alexanderplatz"
+    },
+    {
+      "title": "Lola",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6467-a42798210afaf83aacdbe9963b7f6f5c/Film_206w_Lola_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/595-lola"
+    },
+    {
+      "title": "Veronika Voss",
+      "year": "1982",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6459-82d2d54b54ceca54612ebf927c8b7b33/Film_205w_VeronikaVoss_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/593-veronika-voss"
+    }
+  ],
+  "FedericoFellini": [
+    {
+      "title": "Variety Lights",
+      "year": "1950",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Variety_Lights.jpg",
+      "criterionUrl": "https://www.criterion.com/films/620-variety-lights"
+    },
+    {
+      "title": "The White Sheik",
+      "year": "1952",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Sheik.jpg",
+      "criterionUrl": "https://www.criterion.com/films/374-the-white-sheik"
+    },
+    {
+      "title": "I vitelloni",
+      "year": "1953",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_vitelloni.jpg",
+      "criterionUrl": "https://www.criterion.com/films/966-i-vitelloni"
+    },
+    {
+      "title": "La strada",
+      "year": "1954",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Strada.jpg",
+      "criterionUrl": "https://www.criterion.com/films/185-la-strada"
+    },
+    {
+      "title": "Nights of Cabiria",
+      "year": "1957",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nights_of_Cabiria.jpg",
+      "criterionUrl": "https://www.criterion.com/films/243-nights-of-cabiria"
+    },
+    {
+      "title": "La dolce vita",
+      "year": "1960",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dolce_vita.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28619-la-dolce-vita"
+    },
+    {
+      "title": "8½",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/8.5.jpg",
+      "criterionUrl": "https://www.criterion.com/films/150-8"
+    },
+    {
+      "title": "Juliet of the Spirits",
+      "year": "1965",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Juliet_of_the_Spirits.jpg",
+      "criterionUrl": "https://www.criterion.com/films/689-juliet-of-the-spirits"
+    },
+    {
+      "title": "Fellini Satyricon",
+      "year": "1969",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fellini_Satyricon.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28038-fellini-satyricon"
+    },
+    {
+      "title": "Roma",
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Roma.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28039-roma"
+    },
+    {
+      "title": "Amarcord",
+      "year": "1973",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amarcord.jpg",
+      "criterionUrl": "https://www.criterion.com/films/208-amarcord"
+    },
+    {
+      "title": "And the Ship Sails On",
+      "year": "1984",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_the_Ship_Sails_On.jpg",
+      "criterionUrl": "https://www.criterion.com/films/587-and-the-ship-sails-on"
+    }
+  ],
+  "SamuelFuller": [
+    {
+      "title": "I Shot Jesse James",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8301-09a545277af5c0f163aad62fed03dbaf/jessejames1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/882-i-shot-jesse-james"
+    },
+    {
+      "title": "The Baron of Arizona",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8293-26e2d0df678c04df8d10a43c59dd49ad/Baron1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/881-the-baron-of-arizona"
+    },
+    {
+      "title": "The Steel Helmet",
+      "year": "1951",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8285-77ab373dc68cbdd6136c25acd9580858/SteelHelmet1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/445-the-steel-helmet"
+    },
+    {
+      "title": "Pickup on South Street",
+      "year": "1953",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10271-c7dfda8f0c7683354c7b8500bd6a67e2/Film_224w_PickupSouthStreet_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/446-pickup-on-south-street"
+    },
+    {
+      "title": "Shock Corridor",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130417-8f2512b3d824495a968d4cd4c4cebe83/Film_19w_ShockCorridor_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/534-shock-corridor"
+    },
+    {
+      "title": "The Naked Kiss",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130537-ba37ef36bcceb2da7cd1d1b1a05da976/Film_18w_NakedKissB_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/533-the-naked-kiss"
+    },
+    {
+      "title": "White Dog",
+      "year": "1982",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9913-790f71c1048a9e18ca7b5034f3c74a79/WhiteDogw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/861-white-dog"
+    }
+  ],
+  "JeanGabin": [
+    {
+      "title": "The Lower Depths",
+      "year": "1936",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/9963-ed630259321216b3170c33ef905e1fdb/LowerDepthRw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/870-the-lower-depths"
+    },
+    {
+      "title": "Pépé le moko",
+      "year": "1937",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/129833-54fdb2575bb86f7b438667c34a7fa8d7/Film_172w_PepeLeMoko_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/363-pepe-le-moko"
+    },
+    {
+      "title": "Grand Illusion",
+      "year": "1937",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/129921-e9da918149e8edae9cd256fd96857b04/P_GRAND_ILLUSION_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/351-grand-illusion"
+    },
+    {
+      "title": "Port of Shadows",
+      "year": "1938",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/6555-ffd2fa5e0c1475e12588b9df4ff83db9/Film_245w_PortShadows_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/947-port-of-shadows"
+    },
+    {
+      "title": "La bête humaine",
+      "year": "1938",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/132032-5f993939434a6586189050229ee177e4/Film_324w_BeteHumaineB_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/773-la-bete-humaine"
+    },
+    {
+      "title": "Le jour se lève",
+      "year": "1939",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/4014-2028eb12befa5a1fdec612feec410b75/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/356-le-jour-se-leve"
+    },
+    {
+      "title": "Remorques",
+      "year": "1941",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/131953-8081e36c13865cc1f0285587796da5ca/Gremillon_Filmw_Remorques_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27677-remorques"
+    },
+    {
+      "title": "Le plaisir",
+      "year": "1952",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/5597-7ed9fad2c8fdb9ea4b45f02284672d94/Film_444w_Plaisir_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/572-le-plaisir"
+    },
+    {
+      "title": "Touchez pas au grisbi",
+      "year": "1954",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/6653-e7cc1ab78374b659bf7ccdc7651084a1/Film_271w_TouchezPas_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/941-touchez-pas-au-grisbi"
+    },
+    {
+      "title": "French Cancan",
+      "year": "1955",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/6539-114de1b9b3d1c6aeeea901631d6f59d8/Film_243w_CanCan_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/891-french-cancan"
+    }
+  ],
+  "JeanLucGodard": [
+    {
+      "title": "Breathless",
+      "year": "1960",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg",
+      "criterionUrl": "https://www.criterion.com/films/268-breathless"
+    },
+    {
+      "title": "A Woman is a Woman",
+      "year": "1961",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_is_a_Woman.jpg",
+      "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
+    },
+    {
+      "title": "Vivre sa vie",
+      "year": "1962",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vivre_sa_vie.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3060-vivre-sa-vie"
+    },
+    {
+      "title": "Le petit soldat",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Petit_soldat.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Contempt",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Contempt.jpg",
+      "criterionUrl": "https://www.criterion.com/films/239-contempt"
+    },
+    {
+      "title": "Band of Outsiders",
+      "year": "1964",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg",
+      "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders"
+    },
+    {
+      "title": "Alphaville",
+      "year": "1965",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg",
+      "criterionUrl": "https://www.criterion.com/films/207-alphaville"
+    },
+    {
+      "title": "Pierrot le fou",
+      "year": "1965",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg",
+      "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
+    },
+    {
+      "title": "Masculin féminin",
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Masculin_feminin.jpg",
+      "criterionUrl": "https://www.criterion.com/films/508-masculin-feminin"
+    },
+    {
+      "title": "Made in U.S.A.",
+      "year": "1966",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Made_in_the_USA.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2109-made-in-u-s-a"
+    },
+    {
+      "title": "2 or 3 Things I Know About Her",
+      "year": "1967",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/2_or_3_Things_I_Know_About_Her.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1333-2-or-3-things-i-know-about-her"
+    },
+    {
+      "title": "Weekend",
+      "year": "1967",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28441-weekend"
+    },
+    {
+      "title": "Tout va bien",
+      "year": "1972",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tout_va_bien.jpg",
+      "criterionUrl": "https://www.criterion.com/films/929-tout-va-bien"
+    },
+    {
+      "title": "Every Man for Himself",
+      "year": "1980",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Every_Man_for_Himself.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28549-every-man-for-himself"
+    }
+  ],
+  "AnnaKarina": [
+    {
+      "title": "Alphaville",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2718-602febe279f55af42ce57c7326419780/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/207-alphaville"
+    },
+    {
+      "title": "Band of Outsiders",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132082-cf0a5f3e2e043c4360e350d0b722d762/Film_174w_BandOutsiders_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders"
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132066-1cc363045048e5f4406b0811484b5e68/Film_73w_CleoFrom5to7_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/244-cleo-from-5-to-7"
+    },
+    {
+      "title": "Made in U.S.A",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/18127-94d027b10c7dc9bf067a8fa6b5e5d50b/481_Film_made_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2109-made-in-u-s-a"
+    },
+    {
+      "title": "Pierrot le fou",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/54719-3b392858493eaab5819c6eac331341f2/Film_421w_PierrotLeFou_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
+    },
+    {
+      "title": "Vivre sa vie",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/60451-8d5e74b3f22bf0c87a9b2a2b1ef2295f/512_Filmw_VivreSaVie_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3060-vivre-sa-vie"
+    },
+    {
+      "title": "A Woman Is a Woman",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129953-9372fd8ea0d44db484e9fd3e96707748/Film_238w_WomanIsWoman_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
+    }
+  ],
+  "AkiKaurismaki": [
+    {
+      "title": "Shadows in Paradise",
+      "year": "1986",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8505-cef8cc4600aa394011e443e4199e6779/shadowsinparadise_66_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/960-shadows-in-paradise"
+    },
+    {
+      "title": "Ariel",
+      "year": "1988",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8133-8857224683c389b440d17a476b8c6800/ariel_16_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/959-ariel"
+    },
+    {
+      "title": "The Match Factory Girl",
+      "year": "1990",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8141-f79dbf5fc5973fd125342902899472a5/matchFactoryGirl_012_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/961-the-match-factory-girl"
+    },
+    {
+      "title": "Leningrad Cowboys Go America",
+      "year": "1989",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131489-fd7c6023fd4a138d8e204573d002e83f/Leningrad_Cowboys_Still_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27793-leningrad-cowboys-go-america"
+    },
+    {
+      "title": "La vie de bohème",
+      "year": "1992",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132214-ff3fb99a336f38054cf821539cfc3e0b/Film_693w_VieDeBoheme_w320.tif",
+      "criterionUrl": "https://www.criterion.com/films/28086-la-vie-de-boheme"
+    },
+    {
+      "title": "Leningrad Cowboys Meet Moses",
+      "year": "1994",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131249-9e7ae17d4588f9071065f7b03e0d02d3/Kaurismaki_Filmw_LeningradMoses_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27794-leningrad-cowboys-meet-moses"
+    },
+    {
+      "title": "Total Balalaika Show",
+      "year": "1994",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131257-2152de6ed9421bcca32875ae0e3ec273/Kaurismaki_Filmw_TotalBalalaikaShow_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27795-total-balalaika-show"
+    },
+    {
+      "title": "Le Havre",
+      "year": "2011",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131952-168a8141e27804a568308d15f38bc9b1/Film_xxxw_LeHavre_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28352-le-havre"
+    }
+  ],
+  "TheKordas": [
+    {
+      "title": "The Private Life of Henry VIII",
+      "year": "1933",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/13515-37960aaa6b25a7b6e47eb4a18c79226f/Henry_Film_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1433-the-private-life-of-henry-viii"
+    },
+    {
+      "title": "The Rise of Catherine the Great",
+      "year": "1934",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/13523-ca0b070f3abdedce6eb2355f937aa5dd/Catherine_Film_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1434-the-rise-of-catherine-the-great"
+    },
+    {
+      "title": "The Private Life of Don Juan",
+      "year": "1934",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/13531-cd1d15adc00ca8fb8e9030eabee4a199/DonJuan_Film_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1436-the-private-life-of-don-juan"
+    },
+    {
+      "title": "Sanders of the River",
+      "year": "1935",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9849-6a0dc58705acadc48a4264193b52a54b/Sandersw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/811-sanders-of-the-river"
+    },
+    {
+      "title": "Rembrandt",
+      "year": "1936",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/13539-91d419042c13240dbab2cf29f82c9f35/Rembrandt_Film_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1437-rembrandt"
+    },
+    {
+      "title": "Elephant Boy",
+      "year": "1937",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131353-62aead523027a634e8fa656e170aeab4/Sabu_Filmw_ElephantBoy_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27564-elephant-boy"
+    },
+    {
+      "title": "The Drum",
+      "year": "1938",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131361-57edf3dbf6ecb6615088cb3c416aa4a8/Sabu_Filmw_Drum_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27599-the-drum"
+    },
+    {
+      "title": "The Four Feathers",
+      "year": "1939",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131289-f94a9c22d206836efbdfe18375e8f196/Film_583w_FourFeather_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27555-the-four-feathers"
+    },
+    {
+      "title": "The Thief of Bagdad",
+      "year": "1940",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5727-e551da7e43ad0a08902f2e208ae5aa80/Film_431w_ThiefOfBagdad_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/544-the-thief-of-bagdad"
+    },
+    {
+      "title": "That Hamilton Woman",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/30740-9413c1591561b976d7cff32178b671f5/Film_487_ThatHamiltonWoman_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3559-that-hamilton-woman"
+    },
+    {
+      "title": "Jungle Book",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131369-cad64bff99ff80038d5c2d9593434ef4/Sabu_Filmw_JungleBook_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27649-jungle-book"
+    },
+    {
+      "title": "The Third Man",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130593-03a529d03160621c47e156a95bce26f0/Flim_64w_ThirdMan_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/236-the-third-man"
+    }
+  ],
+  "AkiraKurosawa": [
+    {
+      "title": "Sanshiro Sugata",
+      "year": "1943",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata.jpg",
+      "criterionUrl": "https://www.criterion.com/films/12521-sanshiro-sugata"
+    },
+    {
+      "title": "The Most Beautiful",
+      "year": "1944",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Most_Beautiful.jpg",
+      "criterionUrl": "https://www.criterion.com/films/18790-the-most-beautiful"
+    },
+    {
+      "title": "The Men Who Tread on the Tiger’s Tail",
+      "year": "1945",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Men_Who_Tread_on_the_Tigers_Tail.jpg",
+      "criterionUrl": "https://www.criterion.com/films/18763-the-men-who-tread-on-the-tiger-s-tail"
+    },
+    {
+      "title": "Sanshiro Sugata, Part Two",
+      "year": "1945",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata_Part_Two.jpg",
+      "criterionUrl": "https://www.criterion.com/films/12522-sanshiro-sugata-part-two"
+    },
+    {
+      "title": "No Regrets for Our Youth",
+      "year": "1946",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/No_Regrets_for_Our_Youth.jpg",
+      "criterionUrl": "https://www.criterion.com/films/887-no-regrets-for-our-youth"
+    },
+    {
+      "title": "One Wonderful Sunday",
+      "year": "1947",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Wonderful_Sunday.jpg",
+      "criterionUrl": "https://www.criterion.com/films/888-one-wonderful-sunday"
+    },
+    {
+      "title": "Drunken Angel",
+      "year": "1948",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Drunken_Angel.jpg",
+      "criterionUrl": "https://www.criterion.com/films/845-drunken-angel"
+    },
+    {
+      "title": "Stray Dog",
+      "year": "1949",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stray_Dog.jpg",
+      "criterionUrl": "https://www.criterion.com/films/788-stray-dog"
+    },
+    {
+      "title": "Scandal",
+      "year": "1950",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scandal.jpg",
+      "criterionUrl": "https://www.criterion.com/films/893-scandal"
+    },
+    {
+      "title": "Rashomon",
+      "year": "1950",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rashomon.jpg",
+      "criterionUrl": "https://www.criterion.com/films/307-rashomon"
+    },
+    {
+      "title": "The Idiot",
+      "year": "1951",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Idiot.jpg",
+      "criterionUrl": "https://www.criterion.com/films/895-the-idiot"
+    },
+    {
+      "title": "Ikiru",
+      "year": "1952",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ikiru.jpg",
+      "criterionUrl": "https://www.criterion.com/films/353-ikiru"
+    },
+    {
+      "title": "Seven Samurai",
+      "year": "1954",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seven_Samurai.jpg",
+      "criterionUrl": "https://www.criterion.com/films/165-seven-samurai"
+    },
+    {
+      "title": "I Live in Fear",
+      "year": "1955",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Live_in_Fear.jpg",
+      "criterionUrl": "https://www.criterion.com/films/897-i-live-in-fear"
+    },
+    {
+      "title": "Throne of Blood",
+      "year": "1957",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Throne_of_Blood.jpg",
+      "criterionUrl": "https://www.criterion.com/films/735-throne-of-blood"
+    },
+    {
+      "title": "The Lower Depths",
+      "year": "1957",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lower_Depths_(1957).jpg",
+      "criterionUrl": "https://www.criterion.com/films/857-the-lower-depths"
+    },
+    {
+      "title": "The Hidden Fortress",
+      "year": "1958",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hidden_Fortress.jpg",
+      "criterionUrl": "https://www.criterion.com/films/655-the-hidden-fortress"
+    },
+    {
+      "title": "The Bad Sleep Well",
+      "year": "1960",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Sleep_Well.jpg",
+      "criterionUrl": "https://www.criterion.com/films/765-the-bad-sleep-well"
+    },
+    {
+      "title": "Yojimbo",
+      "year": "1961",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Yojimbo.jpg",
+      "criterionUrl": "https://www.criterion.com/films/597-yojimbo"
+    },
+    {
+      "title": "Sanjuro",
+      "year": "1962",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanjuro.jpg",
+      "criterionUrl": "https://www.criterion.com/films/598-sanjuro"
+    },
+    {
+      "title": "High and Low",
+      "year": "1963",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/High_and_Low.jpg",
+      "criterionUrl": "https://www.criterion.com/films/543-high-and-low"
+    },
+    {
+      "title": "Red Beard",
+      "year": "1965",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_Beard.jpg",
+      "criterionUrl": "https://www.criterion.com/films/713-red-beard"
+    },
+    {
+      "title": "Dodes’ka-den",
+      "year": "1970",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dodeska_den.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1083-dodes-ka-den"
+    },
+    {
+      "title": "Kagemusha",
+      "year": "1980",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kagemusha.jpg",
+      "criterionUrl": "https://www.criterion.com/films/948-kagemusha"
+    },
+    {
+      "title": "Ran",
+      "year": "1985",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ran.jpg",
+      "criterionUrl": "https://www.criterion.com/films/754-ran"
+    },
+    {
+      "title": "Akira Kurosawa’s Dreams",
+      "year": "1990",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Akira_Kurosawas_Dreams.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28700-akira-kurosawa-s-dreams"
+    },
+    {
+      "title": "Madadayo",
+      "year": "1993",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Madadayo.jpg",
+      "criterionUrl": "https://www.criterion.com/films/9883-madadayo"
+    }
+  ],
+  "DavidLean": [
+    {
+      "title": "Pygmalion",
+      "year": "1938",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/3958-6098aa50c9b2a12264b7bc5a8714d5d4/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/365-pygmalion"
+    },
+    {
+      "title": "49th Parallel",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10633-98057579d11345c6860a849dcab9d5dc/49thParallel_2w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/520-49th-parallel"
+    },
+    {
+      "title": "Major Barbara",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129801-bcbe2d776a801c80c430ab192a6fe066/Shaw_box_film_MajorB_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/9904-major-barbara"
+    },
+    {
+      "title": "In Which We Serve",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131649-919cea762195a63d6b1b8e9b253c5256/Film_604w_InWhichWeServe_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28185-in-which-we-serve"
+    },
+    {
+      "title": "This Happy Breed",
+      "year": "1944",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131657-18a82ef5fa19a1cbb03bb4d7a2d3d250/Film_605w_ThisHappyBreed_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28144-this-happy-breed"
+    },
+    {
+      "title": "Blithe Spirit",
+      "year": "1945",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131665-603eb8a5692f88b7f2e29a21ed162787/Film_606w_BlitheSpirit_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28156-blithe-spirit"
+    },
+    {
+      "title": "Brief Encounter",
+      "year": "1945",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10721-7ee0b76873fa57ac0195b93e1dc5049b/BriefEncounter_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/345-brief-encounter"
+    },
+    {
+      "title": "Great Expectations",
+      "year": "1946",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129881-07cec7913565e8df8a5d89e1065a04e1/Film_31w_GreatExpectations_bw_new_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/566-great-expectations"
+    },
+    {
+      "title": "Oliver Twist",
+      "year": "1948",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129889-76c3e447bb200edbf6a2f02588067a84/Film_32w_OliverTwist_bw_new_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/567-oliver-twist"
+    },
+    {
+      "title": "Hobson’s Choice",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10617-bb56354b1381b7ecbc463cea95480478/Hobson_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1078-hobson-s-choice"
+    },
+    {
+      "title": "Summertime",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9119-76aec8a87fe20a63cd884c45f9c81584/Summertimew_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/368-summertime"
+    }
+  ],
+  "ErnstLubitsch": [
+    {
+      "title": "The Love Parade",
+      "year": "1929",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7997-8248c553649e520f260d22276e599a73/LoveParade_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/898-the-love-parade"
+    },
+    {
+      "title": "Monte Carlo",
+      "year": "1930",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8005-ba8e0006454dafd3089499cdc03153b6/MonteCarlo_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/899-monte-carlo"
+    },
+    {
+      "title": "The Smiling Lieutenant",
+      "year": "1931",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8013-b85af9d2c83fb57ffa1ee03099ecbb82/SmilingLT_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/900-the-smiling-lieutenant"
+    },
+    {
+      "title": "One Hour with You",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8021-28d100471568bbbc325ee0fe85ac2783/OneHourWithYou_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/901-one-hour-with-you"
+    },
+    {
+      "title": "Trouble in Paradise",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130329-9ea9bfe9bd422c409621d1b9ab3659b8/Troublew_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/723-trouble-in-paradise"
+    },
+    {
+      "title": "Design for Living",
+      "year": "1933",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131393-02b99b370fb3aadba701872d79905b40/1286_006_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27872-design-for-living"
+    },
+    {
+      "title": "To Be or Not to Be",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132143-a9a49eb6ee0c2ac582a561c8d9266af5/Film_670w_ToBeNotToBe_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27690-to-be-or-not-to-be"
+    },
+    {
+      "title": "Heaven Can Wait",
+      "year": "1943",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6769-a404b77b132f46cf1045d3fda0c178e5/Film_291w_HeavenCanWait_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/878-heaven-can-wait"
+    }
+  ],
+  "DusanMakavejev": [
+    {
+      "title": "Man Is Not a Bird",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34636-ab0bfbe41bbf9bfed0fc3ba66756823a/Film_Makavejev_Box_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3984-man-is-not-a-bird"
+    },
+    {
+      "title": "Love Affair, or the Case of the Missing Switchboard Operator",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34644-f4db64c8ab4b4bca48a2e812c069d30f/Film_Switch_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/3985-love-affair-or-the-case-of-the-missing-switchboard-operator"
+    },
+    {
+      "title": "Innocence Unprotected",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/34652-06323b4a524aba1efb33dcc1e23e04e6/Film_Innocence_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1073-innocence-unprotected"
+    },
+    {
+      "title": "WR: Mysteries of the Organism",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7565-7bf1b4c8315b068da539385fffb45508/Film_389w_WR_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/824-wr-mysteries-of-the-organism"
+    },
+    {
+      "title": "Sweet Movie",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5055-4a8f6a1df69fddd626732924523529dc/SweetMovie_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/552-sweet-movie"
+    }
+  ],
+  "LouisMalle": [
+    {
+      "title": "Elevator to the Gallows",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5999-9da025a46702c471367722052a97ce9e/Film_335w_ElevatorGallows_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/778-elevator-to-the-gallows"
+    },
+    {
+      "title": "The Lovers",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5669-e599feabfa8f9b150e5039baab538696/Film_429w_Lovers_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/539-the-lovers"
+    },
+    {
+      "title": "Zazie dans le métro",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130873-98dddccb185f82585125c48dcb7551a9/Film_570w_ZazieDansMetro_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27626-zazie-dans-le-metro"
+    },
+    {
+      "title": "Vive le Tour",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8053-6af5ebb7ebb621255728b4b528376fe8/viveletour_01_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/670-vive-le-tour"
+    },
+    {
+      "title": "The Fire Within",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5661-1875d1ff426fe8b78a392b1896b06cf5/Film_430w_FiresWithin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/540-the-fire-within"
+    },
+    {
+      "title": "Calcutta",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5661-1875d1ff426fe8b78a392b1896b06cf5/Film_430w_FiresWithin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/674-calcutta"
+    },
+    {
+      "title": "Phantom India",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8077-0c62c5d5f35985b1061c88397d9277b2/phantomindia_01_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/673-phantom-india"
+    },
+    {
+      "title": "Murmur of the Heart",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131967-a7a14fc535c0d70d853d989da273bba7/Film_328w_MurmurOfHeart_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/775-murmur-of-the-heart"
+    },
+    {
+      "title": "Humain, trop humain",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8069-25c233c376e3d6fb520bd990d5a417e4/humaintrothumain_01_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/671-humain-trop-humain"
+    },
+    {
+      "title": "Place de la République",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8061-22c27fb75c631daff5488ba64df6b61e/placedelarepubique_01_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/672-place-de-la-republique"
+    },
+    {
+      "title": "Lacombe, Lucien",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132065-be001b038627819ff53b6b3e1a5c005c/Film_329w_LacombeLucien_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/776-lacombe-lucien"
+    },
+    {
+      "title": "Black Moon",
+      "year": "1975",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130865-15de670570112a4ffc9744b88a871568/Film_571w_BlackMoon_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27627-black-moon"
+    },
+    {
+      "title": "My Dinner with André",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14299-bd01c9fc958af08a6a0f535dc5d96fc6/Film_479_MyDinnerAndre_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1093-my-dinner-with-andre"
+    },
+    {
+      "title": "God’s Country",
+      "year": "1985",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8093-e350a4f42b1aa9c90b2f8debd01dfae8/godscountry_01_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/675-god-s-country"
+    },
+    {
+      "title": "...And the Pursuit of Happiness",
+      "year": "1986",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8109-b9d115f85951486c64d84c55672a3abc/pursuit_02_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/676-and-the-pursuit-of-happiness"
+    },
+    {
+      "title": "Au revoir les enfants",
+      "year": "1987",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5111-cfde6effa80009e49f3a59bfa692bc1c/AuRevoirEnfants_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/549-au-revoir-les-enfants"
+    },
+    {
+      "title": "Vanya on 42nd Street",
+      "year": "1994",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131585-7d28675b1fe1dbe431979179b8c63c9a/Film_599w_VanyayOn42_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28022-vanya-on-42nd-street"
+    }
+  ],
+  "JeanPierreMelville": [
+    {
+      "title": "Le silence de la mer",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132282-bd3bd54d9ff885d32f0087702d42bb00/Film_755w_SilenceDeLaMer_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27979-le-silence-de-la-mer"
+    },
+    {
+      "title": "Les enfants terribles",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5831-230f103ea475074d1ccde9dd84acdf83/Film_398w_EnfantsTerribles_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/758-les-enfants-terribles"
+    },
+    {
+      "title": "Bob le flambeur",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130161-b67937fa647623df78ba039f15f9a0c4/Film_150w_BobFlambeur_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/690-bob-le-flambeur"
+    },
+    {
+      "title": "Léon Morin, Priest",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131049-bb0c64eaf5be4e581c6e0538f4c2a863/Film_572w_LeonMorin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27660-leon-morin-priest"
+    },
+    {
+      "title": "Le doulos",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9897-88f3ccb0a0c0ce823bc1520e15432915/Doulosw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/759-le-doulos"
+    },
+    {
+      "title": "Le deuxième souffle",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9905-99ea885a90c2933a6e73252c6695db07/DiexSouffleW_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/760-le-deuxieme-souffle"
+    },
+    {
+      "title": "Le samouraï",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131999-46f92bac2bfb301592a051ffd635d77d/Film_306_LeSamourai_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/184-le-samourai"
+    },
+    {
+      "title": "Army of Shadows",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132110-451d0c07505951308d579cbb7bb9374f/Film_385_ArmyOfShadows_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/153-army-of-shadows"
+    },
+    {
+      "title": "Le cercle rouge",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130769-e0f1a74e4d1276e2e3f77fd6cb208eee/Film_218w_CercleRouge_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/628-le-cercle-rouge"
+    }
+  ],
+  "MerchantAndIvory": [
+    {
+      "title": "The Householder",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14781-db8b4e9f50d7a5b5be052050c591ab93/Householder_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Shakespeare Wallah",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14691-6a14c827c230e2b6c60b46df74b03504/ShakespeareWallah_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Bombay Talkie",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14707-ce4d80ad3c48b35f8e751439e81ea5c0/BombayTalkie_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Savages",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14833-8842271d8fb03f9cdf3c22bb1279ee36/Savages_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Roseland",
+      "year": "1977",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14825-b03fe74f13e68992adf3de9789da6042/Roseland_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Hullabaloo Over Georgie and Bonnie's Pictures",
+      "year": "1978",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14789-a4d0fa090e026fc7d346d70998318810/Hullabaloo_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "The Europeans",
+      "year": "1979",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14773-386afdf7da18fea893f73707e0a04436/Europeans_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Jane Austen in Manhattan",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14807-07e3c2dbcb0a6de5d5dadcec533881ba/JaneAusten_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Quartet",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14715-7af70969e4d776d718f93bb67764f49b/Quartet_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Heat and Dust",
+      "year": "1983",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14699-a52de3fb07f0dda72750d5ac12c8f54c/Heat_Dust_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "The Courtesans of Bombay",
+      "year": "1983",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14757-0d28cff8cf69ccbbd0e8e1674067f89a/Courtesans_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "The Bostonians",
+      "year": "1984",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14749-8e62cd35786825a771c1db3faff5554d/Bostonians_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "A Room with a View",
+      "year": "1986",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132308-e079e36ec133dee43b0077ffc4861b95/Film_775_RoomWithView_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28597-a-room-with-a-view"
+    },
+    {
+      "title": "Maurice",
+      "year": "1987",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14731-33510d4cb6a3fa0e32a185b7202d479d/Maurice_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "The Perfect Murder",
+      "year": "1988",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14817-d0c8e98bbcfa78835f0797c0bd36a9a1/PerfectMurder_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "The Deceivers",
+      "year": "1988",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14765-be709958538afb9658e4f92cb50e10ea/Deceivers_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "The Ballad of the Sad Cafe",
+      "year": "1991",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14739-c4ead7af8105ddda93bde02a49248b18/BalladoftheSadCafe_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    },
+    {
+      "title": "Howards End",
+      "year": "1992",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14723-0113c3738ec5a6421d279496c21b0a3c/HowardsEnd_FilmStill_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1515-howards-end"
+    },
+    {
+      "title": "In Custody",
+      "year": "1993",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/14799-1d07133d116fb207bd21378598b1339f/InCustody_FilmStill_w320.jpg",
+      "criterionUrl": ""
+    }
+  ],
+  "ToshiroMifune": [
+    {
+      "title": "Drunken Angel",
+      "year": "1948",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6427-1bec4238ccf94bc56cfd5815eef72397/Film_413w_DrunkenAngel_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/845-drunken-angel"
+    },
+    {
+      "title": "Stray Dog",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6283-95a9fe3dfa5547c17a7cbab7d21198ae/Film_233w_StrayDog_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/788-stray-dog"
+    },
+    {
+      "title": "Scandal",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130033-fdac870602589d37c3a361c17e29e918/Scandal_image_1_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/893-scandal"
+    },
+    {
+      "title": "Rashomon",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131065-c6859ac160e7ad08ffcc282984eb4665/Film_138w_Rashomon_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/307-rashomon"
+    },
+    {
+      "title": "The Idiot",
+      "year": "1951",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129961-8598a2e502548e8e68bdd3615a275c55/Idiot_image_1_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/895-the-idiot"
+    },
+    {
+      "title": "The Life of Oharu",
+      "year": "1952",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132166-b995762b879c326a42cf0389aa25b437/Film_664w_LifeOharu_original_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27705-the-life-of-oharu"
+    },
+    {
+      "title": "Seven Samurai",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130497-7f6bf20a3dfa375eb303095cf71e3ea9/Film_2w_SevenSamurai_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/165-seven-samurai"
+    },
+    {
+      "title": "Samurai I: Musashi Miyamoto",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131943-3f39054e2f2d517a8aa1abfe622c2826/Film_14w_SamuraiI_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/529-samurai-i-musashi-miyamoto"
+    },
+    {
+      "title": "Samurai II: Duel at Ichijoji Temple",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5233-e7932093dab7bbabd4de9dd6b7aa6637/Film_15w_SamuraiII_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple"
+    },
+    {
+      "title": "I Live in Fear",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129977-13fb4bfc6e8aa5916c09fe1e29d7781f/ILiveInFear_image_2_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/897-i-live-in-fear"
+    },
+    {
+      "title": "Samurai III: Duel at Ganryu Island",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130513-c2443a05c5f0d285d63ac8aea6b368ad/Film_16w_SamuraiIII_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island"
+    },
+    {
+      "title": "Throne of Blood",
+      "year": "1957",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132006-0c21d946d1cdb1176a9139e036c5a414/Film_190w_ThroneOfBlood_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/735-throne-of-blood"
+    },
+    {
+      "title": "The Lower Depths",
+      "year": "1957",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9955-de800ad3b9890ee15e995180160a3d58/LowerDepthsKw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/857-the-lower-depths"
+    },
+    {
+      "title": "The Hidden Fortress",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129809-5c06b9f534572ab7918e57930ad04212/Film_116w_HiddenFortress_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/655-the-hidden-fortress"
+    },
+    {
+      "title": "The Bad Sleep Well",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130001-8fc8632c3590bcc792b94b2a92c66ca9/Film_319w_BadSleepWell_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/765-the-bad-sleep-well"
+    },
+    {
+      "title": "Yojimbo",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130185-02484313e9a43f2ac522e98cb844b85a/YOJIMBO_new_film_still_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/597-yojimbo"
+    },
+    {
+      "title": "Sanjuro",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9135-b33b1521317ad05661e9e830dd58c5d2/Sanjurow_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/598-sanjuro"
+    },
+    {
+      "title": "High and Low",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131321-162d746d38959e6b0e1227a8e3e7f25c/54_025_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/543-high-and-low"
+    },
+    {
+      "title": "Red Beard",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9733-d908a26bd5fc94886ee9496d656a1224/RedBeardw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/713-red-beard"
+    },
+    {
+      "title": "The Sword of Doom",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6711-dc9e85baeeb9915b4306ca99e7cb5fd7/Film_280w_SwordDoom_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/925-the-sword-of-doom"
+    },
+    {
+      "title": "Samurai Rebellion",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6153-c51a1f6ba3edf594a62ca01f3cd5c0ff/Film_310w_SamuraiRebellion_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/753-samurai-rebellion"
+    }
+  ],
+  "VictorMilner": [
+    {
+      "title": "The Love Parade",
+      "year": "1929",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7997-8248c553649e520f260d22276e599a73/LoveParade_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/898-the-love-parade"
+    },
+    {
+      "title": "Monte Carlo",
+      "year": "1930",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8005-ba8e0006454dafd3089499cdc03153b6/MonteCarlo_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/899-monte-carlo"
+    },
+    {
+      "title": "One Hour with You",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8021-28d100471568bbbc325ee0fe85ac2783/OneHourWithYou_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/901-one-hour-with-you"
+    },
+    {
+      "title": "Trouble in Paradise",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130329-9ea9bfe9bd422c409621d1b9ab3659b8/Troublew_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/723-trouble-in-paradise"
+    },
+    {
+      "title": "Design for Living",
+      "year": "1933",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131393-02b99b370fb3aadba701872d79905b40/1286_006_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27872-design-for-living"
+    },
+    {
+      "title": "The Lady Eve",
+      "year": "1941",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8397-d435f5dec663570d31cf12196fc165cb/Film_103w_LadyEve_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/639-the-lady-eve"
+    },
+    {
+      "title": "The Palm Beach Story",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132269-b92f4e3704ce724550ae0c1331b166dd/Film_742_PalmBeachStory_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28103-the-palm-beach-story"
+    },
+    {
+      "title": "Unfaithfully Yours",
+      "year": "1948",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6777-72367a35d448fdb4c19ebbf86fa87aa9/Film_292w_UnfaithfullyYours_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/876-unfaithfully-yours"
+    },
+    {
+      "title": "The Furies",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132158-4d9277cbf2ec1ff7063f04e981d29d9a/Film_Furies_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/596-the-furies"
+    }
+  ],
+  "KenjiMizoguchi": [
+    {
+      "title": "Osaka Elegy",
+      "year": "1936",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8149-9bd0ce075d6c5fcb21aac3707903e466/osakaelegy_image1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/968-osaka-elegy"
+    },
+    {
+      "title": "Sisters of the Gion",
+      "year": "1936",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8165-cdbba02e765843731cbdb8693d4d06fd/sistersofthegion_image1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/967-sisters-of-the-gion"
+    },
+    {
+      "title": "Women of the Night",
+      "year": "1948",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8173-77065b706a9ff2c45958c482e9beb33d/womenofthenight_image3_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/969-women-of-the-night"
+    },
+    {
+      "title": "The Life of Oharu",
+      "year": "1952",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132166-b995762b879c326a42cf0389aa25b437/Film_664w_LifeOharu_original_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27705-the-life-of-oharu"
+    },
+    {
+      "title": "Ugetsu",
+      "year": "1953",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10351-364a57cf160f6de2fbd0c7049d7d66e4/Film_309_Ugetsu_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/369-ugetsu"
+    },
+    {
+      "title": "Sansho the Bailiff",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7575-77ca858234f0e500d52b615f50ba68f6/Film_386w_SanshoBaliff_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/823-sansho-the-bailiff"
+    },
+    {
+      "title": "Street of Shame",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8157-540425f098762163e4e6118873d19838/streetofshame_image1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/970-street-of-shame"
+    },
+    {
+      "title": "The Story of the Last Chrysanthemum",
+      "year": "1939",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132371-99d4dbb4ebc341d802414aa46a9e1e28/Film_832_StoryLastChrysanthemum_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27729-the-story-of-the-last-chrysanthemum"
+    }
+  ],
+  "JeanneMoreau": [
+    {
+      "title": "Touchez pas au grisbi",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6653-e7cc1ab78374b659bf7ccdc7651084a1/Film_271w_TouchezPas_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/941-touchez-pas-au-grisbi"
+    },
+    {
+      "title": "Elevator to the Gallows",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5999-9da025a46702c471367722052a97ce9e/Film_335w_ElevatorGallows_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/778-elevator-to-the-gallows"
+    },
+    {
+      "title": "The Lovers",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5669-e599feabfa8f9b150e5039baab538696/Film_429w_Lovers_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/539-the-lovers"
+    },
+    {
+      "title": "The 400 Blows",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130473-32d6b5e7a721ba3f04d11e9dc8ac0995/Film_05w_400Blows_A_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows"
+    },
+    {
+      "title": "La notte",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132169-b344cc230e16bae6db30709be6f7261c/Film_678_LaNotte_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28111-la-notte"
+    },
+    {
+      "title": "A Woman Is a Woman",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129953-9372fd8ea0d44db484e9fd3e96707748/Film_238w_WomanIsWoman_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
+    },
+    {
+      "title": "Jules and Jim",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2726-e9e384f93f844c95919db09fd1dd0ca5/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim"
+    },
+    {
+      "title": "Bay of Angels",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132238-d6ee5b913923c593d9b6ae3023428c4f/Film_715_BayOfAngels_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27935-bay-of-angels"
+    },
+    {
+      "title": "The Fire Within",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5661-1875d1ff426fe8b78a392b1896b06cf5/Film_430w_FiresWithin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/540-the-fire-within"
+    },
+    {
+      "title": "Diary of a Chambermaid",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9337-3bc41d3e406cb6ffb03ef3838315b63d/Diaryw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/656-diary-of-a-chambermaid"
+    },
+    {
+      "title": "Chimes at Midnight",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132368-3862fc2001ac51c28acbb243c134661b/Film_830_ChimesMidnight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28756-chimes-at-midnight"
+    },
+    {
+      "title": "The Immortal Story",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132369-60920dbadfdf41866298912fd7437dc2/Film_831_ImmortalStory_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27672-the-immortal-story"
+    }
+  ],
+  "EnnioMorricone": [
+    {
+      "title": "Fists in the Pocket",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132051-b738d67dc3476355009b81ef349e9773/Film_333w_FistInPocket_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/348-fists-in-the-pocket"
+    },
+    {
+      "title": "The Battle of Algiers ",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10127-0408a291f8dcd84624f92f65c6878a9d/batllealgiers_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/248-the-battle-of-algiers"
+    },
+    {
+      "title": "Investigation of a Citizen Above Suspicion",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132206-3e3f047479a62ca1c32082f00216088b/Film_682_InvestigationCitizen_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27911-investigation-of-a-citizen-above-suspicion"
+    },
+    {
+      "title": "The Decameron",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132015-272f3efd20b751c30686cd6414d7e005/Film_631w_Decameron_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28105-the-decameron"
+    },
+    {
+      "title": "The Canterbury Tales",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132014-a4563b47ec1112050f7cbe0afa8b6cc5/Film_632w_CanterburyTales_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28106-the-canterbury-tales"
+    },
+    {
+      "title": "Arabian Nights",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132013-94372a23e86d3aa74b0e3e202a75d2d1/Film_633w_ArabianNights_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28374-arabian-nights"
+    },
+    {
+      "title": "Salò, or The 120 Days of Sodom",
+      "year": "1976",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130529-4b66cea75fcc8aa07904861fca9629e0/Film_17w_SaloC_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/532-salo-or-the-120-days-of-sodom"
+    },
+    {
+      "title": "La Cage aux Folles",
+      "year": "1978",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132162-cad76523597ec8ec4a6279a2066f3ac7/Film_671w_CageAuxFolles_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28045-la-cage-aux-folles"
+    },
+    {
+      "title": "Days of Heaven",
+      "year": "1978",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2678-ff745e43527c935905e668116e838304/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/213-days-of-heaven"
+    },
+    {
+      "title": "White Dog",
+      "year": "1982",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9913-790f71c1048a9e18ca7b5034f3c74a79/WhiteDogw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/861-white-dog"
+    },
+    {
+      "title": "Tie Me Up! Tie Me Down!",
+      "year": "1990",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132245-8c9d4f03912ff463df55a74b2c238e28/Film_722w_TieMeUpTieMeDown_b_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28593-tie-me-up-tie-me-down"
+    }
+  ],
+  "TatsuyaNakadai": [
+    {
+      "title": "The Thick-Walled Room",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132090-d30843fc40f37de888efea208fd8581e/Film_Kobayashi_ThickwalledRoom_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28503-the-thick-walled-room"
+    },
+    {
+      "title": "Seven Samurai",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130497-7f6bf20a3dfa375eb303095cf71e3ea9/Film_2w_SevenSamurai_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/165-seven-samurai"
+    },
+    {
+      "title": "Black River",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132092-82b283d1426dd1ad05133e3ca0837b04/Film_Kobayashi_BlackRiver_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28235-black-river"
+    },
+    {
+      "title": "The Human Condition",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/18145-02e88363c6d2e169de7cdf3eb5c10bd5/480_Film_HumanCondition_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2106-the-human-condition"
+    },
+    {
+      "title": "When a Woman Ascends the Stairs",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7607-766ef0540970d808d293dffc8544051e/Film_377w_WomanAscends_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/816-when-a-woman-ascends-the-stairs"
+    },
+    {
+      "title": "Yojimbo",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130185-02484313e9a43f2ac522e98cb844b85a/YOJIMBO_new_film_still_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/597-yojimbo"
+    },
+    {
+      "title": "Sanjuro",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9135-b33b1521317ad05661e9e830dd58c5d2/Sanjurow_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/598-sanjuro"
+    },
+    {
+      "title": "The Inheritance",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132093-323dfe0b0b2a80abad168ed9aede0d42/Film_Kobayashi_Inheritaance_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28237-the-inheritance"
+    },
+    {
+      "title": "Harakiri",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6197-d6ab06a995bdc2bb224588e09419ea05/Film_302w_Harakiri_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/743-harakiri"
+    },
+    {
+      "title": "High and Low",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131321-162d746d38959e6b0e1227a8e3e7f25c/54_025_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/543-high-and-low"
+    },
+    {
+      "title": "Kwaidan",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130625-aa6ba26d01d0c493b311e9ad06eaaa98/Film_90w_KwaidanC_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/629-kwaidan"
+    },
+    {
+      "title": "The Face of Another",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131673-b2e186a2f9306c91d3ee853a2dc1647d/Film_395w_FaceAnother_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/828-the-face-of-another"
+    },
+    {
+      "title": "The Sword of Doom",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6711-dc9e85baeeb9915b4306ca99e7cb5fd7/Film_280w_SwordDoom_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/925-the-sword-of-doom"
+    },
+    {
+      "title": "Kill!",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131705-5e4b2dd8942b2e24a17290758f171d0e/Film_313w_Kill_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/763-kill"
+    },
+    {
+      "title": "Kagemusha",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6637-afa31d8b86e9268c7eb5fb7f47bb2456/Film_267w_Kagemusha_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/948-kagemusha"
+    },
+    {
+      "title": "Ran",
+      "year": "1985",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6105-1ae3d999eface304251de87ba0e76a89/Film_316w_Ran_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/754-ran"
+    }
+  ],
+  "SvenNykvist": [
+    {
+      "title": "Sawdust and Tinsel",
+      "year": "1953",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6435-60aa1bf2b704535f16154c4852f66429/Film_412w_SawdustTinsel_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/842-sawdust-and-tinsel"
+    },
+    {
+      "title": "The Virgin Spring",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129769-9c1dbe3897e67ce929f6864cc4d37a81/Film_321w_VirginSpring_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/372-the-virgin-spring"
+    },
+    {
+      "title": "Through a Glass Darkly",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6483-4245f4d3c3792aa1a6736eedf3493466/Film_209w_ThroughGlass_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/568-through-a-glass-darkly"
+    },
+    {
+      "title": "Winter Light",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6491-9464b6b208ccc03f704062f3c623fa14/Film_210w_WinterLight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/569-winter-light"
+    },
+    {
+      "title": "The Silence",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6499-099b8bfc48d9b3f1ce10282e0e1e1942/Film_211w_Silence_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/570-the-silence"
+    },
+    {
+      "title": "Persona",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132222-1803cb0119f80df9a252bfa4eb83033b/Film_701w_Persona_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28491-persona"
+    },
+    {
+      "title": "Cries and Whispers",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10937-70b860b1dc27b5a2aa0dabf640dca1db/Film_101w_CriesWhispers_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/237-cries-and-whispers"
+    },
+    {
+      "title": "Scenes from a Marriage",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6307-217d0b9e487649182344aebcc2db18ff/Film_229w_ScenesMarriage_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/710-scenes-from-a-marriage"
+    },
+    {
+      "title": "Black Moon",
+      "year": "1975",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130865-15de670570112a4ffc9744b88a871568/Film_571w_BlackMoon_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27627-black-moon"
+    },
+    {
+      "title": "The Magic Flute",
+      "year": "1975",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131987-3fac369bb5356ea8c80475c286a9aab6/Film_71w_MagicFlute_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/613-the-magic-flute"
+    },
+    {
+      "title": "Autumn Sonata",
+      "year": "1978",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130577-06a312519963c881401bb275e7541348/Film_60_AutumnSonata_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/605-autumn-sonata"
+    },
+    {
+      "title": "Fanny and Alexander: Theatrical Version",
+      "year": "1982",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/57991-a60baf0ef0310b42e733b18451219754/FANNY_ALEXANDER_xmas_filmstill_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-the-theatrical-version"
+    },
+    {
+      "title": "Fanny and Alexander: Television Version",
+      "year": "1983",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6233-4189d4d85ce3dff1fb1c94d165372d7b/Film_262w_FannyAlexTelevision_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/626-fanny-and-alexander-the-television-version"
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "year": "1988",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9635-748c27f12c057ae4d574318ca69e0c24/Lightnessw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/600-the-unbearable-lightness-of-being"
+    }
+  ],
+  "NagisaOshima": [
+    {
+      "title": "Pleasures of the Flesh",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/71397-abf09ce3f3a779c53e10429e09ac63c6/Oshima_Film_pleasuresoftheflesh_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/23954-pleasures-of-the-flesh"
+    },
+    {
+      "title": "Violence at Noon",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/71405-f5dd9eb2189b7805b1405e6100bcb7fe/Oshima_Film_violenceatnoon_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/22296-violence-at-noon"
+    },
+    {
+      "title": "Sing a Song of Sex",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/71413-8419c8b9233e9908e005f05ee8ce902f/Oshima_Film_singasongofsex_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/21949-sing-a-song-of-sex"
+    },
+    {
+      "title": "Japanese Summer: Double Suicide",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/71421-c61328791ea591316d9d954731e7fc10/Oshima_Film_japanesesummerdoublesuicide_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/23955-japanese-summer-double-suicide"
+    },
+    {
+      "title": "Death by Hanging",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132335-1471f6e5abecfb432ecf60721a5bf02e/Film_798_DeathByHanging_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28360-death-by-hanging"
+    },
+    {
+      "title": "Three Resurrected Drunkards",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/71429-998318a671f80825521bb9620a7f1e79/Oshima_Film_threeresurrecteddrunkards_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/21952-three-resurrected-drunkards"
+    },
+    {
+      "title": "In the Realm of the Senses",
+      "year": "1976",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/11923-df079655ae60641a450eadfb69989bf1/Film_469w_InTheRealmSenses_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1287-in-the-realm-of-the-senses"
+    },
+    {
+      "title": "Empire of Passion",
+      "year": "1978",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/20465-96d578a1d81a537ff7cbcc404e87098b/EMPIRE_OF_PASSION_still_resized_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1288-empire-of-passion"
+    },
+    {
+      "title": "Merry Christmas Mr. Lawrence",
+      "year": "1983",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129617-6e3d1f9deaa69bbbfd567568bbb9f829/Film_535w_MerryXmasLawrence_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27512-merry-christmas-mr-lawrence"
+    }
+  ],
+  "YasujiroOzu": [
+    {
+      "title": "Walk Cheerfully",
+      "year": "1930",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132283-9ff714b9929bca972d572bdc92f675ed/Eclipse_Film_WalkCheerfully_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28218-walk-cheerfully"
+    },
+    {
+      "title": "That Night’s Wife",
+      "year": "1930",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132284-9394ba9b504dff0edd11d2f1d9bfc61d/Eclipse_Film_ThatNightsWife_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28220-that-night-s-wife"
+    },
+    {
+      "title": "Tokyo Chorus",
+      "year": "1931",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8117-60e47bfba9be581f4becd596d3a10ea3/Tokyo-Chorusl4_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/923-tokyo-chorus"
+    },
+    {
+      "title": "I Was Born, But...",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8101-4b6ca4242d2f3605b11dc754c078467a/Iwas-born-but_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/922-i-was-born-but"
+    },
+    {
+      "title": "Dragnet Girl",
+      "year": "1933",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132285-f257d7474edd825b630fb8c6ec7a33ee/Eclipse_Film_DragnetGirl_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28224-dragnet-girl"
+    },
+    {
+      "title": "Passing Fancy",
+      "year": "1933",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8125-fb4d2e3c996a64bae3ee05d92204d86a/passinng-fancy5_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/924-passing-fancy"
+    },
+    {
+      "title": "A Story of Floating Weeds",
+      "year": "1934",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10697-32a4477bc61a06b4663fdc4f89d54c09/Film_232_StoryFloatingWeeds_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/752-a-story-of-floating-weeds"
+    },
+    {
+      "title": "The Only Son",
+      "year": "1936",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129705-9945d5757bc3cb24fecafd390bcba49d/THE-ONLY-SON-film-still-brighter_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2606-the-only-son"
+    },
+    {
+      "title": "There Was a Father",
+      "year": "1942",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/109065-e866c11fa9b7621d5e66b3d71a016bae/Film_525w_ThereWasFather_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/22839-there-was-a-father"
+    },
+    {
+      "title": "Late Spring",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131922-96889c65ad1c912f9081ed43cc878887/Film_331w_LateSpring_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/298-late-spring"
+    },
+    {
+      "title": "Early Summer",
+      "year": "1951",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131057-365e9b0d4e57c2f8867424cb6e416f04/Film_240w_EarlySummer_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/875-early-summer"
+    },
+    {
+      "title": "Tokyo Story",
+      "year": "1953",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132199-b069e4720c35ba46b653946afbbc1fda/Film_217_TokyoStory_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/284-tokyo-story"
+    },
+    {
+      "title": "Early Spring",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8197-cb2491a4bf347bdba2b34c276a6bbcdd/Eclipse_Film_EarlySpring_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/770-early-spring"
+    },
+    {
+      "title": "Tokyo Twilight",
+      "year": "1957",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8205-c821e3eadf483b64ba4cbc7ae12c8230/Eclipse_Film_TokyTwilight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/771-tokyo-twilight"
+    },
+    {
+      "title": "Equinox Flower",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8513-bd551dd39473fc28bf16d62fe1b6144a/equinoxflower_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/783-equinox-flower"
+    },
+    {
+      "title": "Good Morning",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131990-db5abcd8ff5904a76c2316e9e4a27920/Film_84_GoodMorning_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/624-good-morning"
+    },
+    {
+      "title": "Floating Weeds",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10689-86ec2bcf1aa615f50b71d9f93999f6a1/StoryFloatingWeeds_w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/349-floating-weeds"
+    },
+    {
+      "title": "Late Autumn",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8213-fe4aa88bfcc32c006adb82b4f8c6224b/lateautumn_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/800-late-autumn"
+    },
+    {
+      "title": "The End of Summer",
+      "year": "1961",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8221-86f490fe6cf2d5bebf080bab3d8260f8/endofsummer_1_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/801-the-end-of-summer"
+    },
+    {
+      "title": "An Autumn Afternoon",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131940-52e01e0ca731f31642eb5990faa538bf/Film_446w_AutumnAfternoon_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/784-an-autumn-afternoon"
+    }
+  ],
+  "PierPaoloPasolini": [
+    {
+      "title": "Nights of Cabiria",
+      "year": "1957",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129849-81a5bda1e1121659dd1f63e658418a5e/P-NIGHTS_OF_CABIRIA_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/243-nights-of-cabiria"
+    },
+    {
+      "title": "La commare secca",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6661-a851bbba3753bdade8abfabc9cba9065/Film_272w_CommareSecca_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/940-la-commare-secca"
+    },
+    {
+      "title": "Mamma Roma",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/4207-c0f7c44ec9fa210401ebe6e4fe7d3cc6/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/375-mamma-roma"
+    },
+    {
+      "title": "The Decameron",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132015-272f3efd20b751c30686cd6414d7e005/Film_631w_Decameron_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28105-the-decameron"
+    },
+    {
+      "title": "The Canterbury Tales",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132014-a4563b47ec1112050f7cbe0afa8b6cc5/Film_632w_CanterburyTales_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28106-the-canterbury-tales"
+    },
+    {
+      "title": "Arabian Nights",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132013-94372a23e86d3aa74b0e3e202a75d2d1/Film_633w_ArabianNights_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28374-arabian-nights"
+    },
+    {
+      "title": "Salò, or The 120 Days of Sodom",
+      "year": "1976",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130529-4b66cea75fcc8aa07904861fca9629e0/Film_17w_SaloC_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/532-salo-or-the-120-days-of-sodom"
+    }
+  ],
+  "PowellAndPressburger": [
+    {
+      "title": "The Thief of Bagdad",
+      "year": "1940",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/5727-e551da7e43ad0a08902f2e208ae5aa80/Film_431w_ThiefOfBagdad_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/544-the-thief-of-bagdad"
+    },
+    {
+      "title": "49th Parallel",
+      "year": "1941",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/10633-98057579d11345c6860a849dcab9d5dc/49thParallel_2w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/520-49th-parallel"
+    },
+    {
+      "title": "The Life and Death of Colonel Blimp",
+      "year": "1943",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/132052-423922ccf717403c9f83d093af0ac21c/Blimp_Film_Page_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/359-the-life-and-death-of-colonel-blimp"
+    },
+    {
+      "title": "A Canterbury Tale",
+      "year": "1944",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/5953-7513b85aa16917afa36aef07ae375825/Film_341w_ACanterburyTale_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/785-a-canterbury-tale"
+    },
+    {
+      "title": "I Know Where I’m Going!",
+      "year": "1945",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/10223-04da03b69998a220ec228dc5f258eaa9/KnowGoing_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/633-i-know-where-i-m-going"
+    },
+    {
+      "title": "Black Narcissus",
+      "year": "1947",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/130649-e19d5bf2a7de578348700be2beccbdb5/Film_93w_BlackNarcissusC_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/632-black-narcissus"
+    },
+    {
+      "title": "The Red Shoes",
+      "year": "1948",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/130553-f029170c5b4ddf3e7025dd486b731875/THE_RED_SHOES_moira_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/233-the-red-shoes"
+    },
+    {
+      "title": "The Small Back Room",
+      "year": "1949",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/5823-f18bbede7ccfd107a64b3788aba927c6/Film_441w_SmallBackRooom_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/747-the-small-back-room"
+    },
+    {
+      "title": "The Tales of Hoffmann",
+      "year": "1951",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/29116-83b35705bee0d3097d61e484c14cf922/460_w320.png",
+      "criterionUrl": "https://www.criterion.com/films/748-the-tales-of-hoffmann"
+    },
+    {
+      "title": "Peeping Tom",
+      "year": "1960",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/2832-d8795285fd26ffbb097e2e917a7e26a7/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/235-peeping-tom"
+    }
+  ],
+  "JeanRenoir": [
+    {
+      "title": "La chienne",
+      "year": "1931",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132357-f661ba7eb5d1c431616c92d611b015d8/Film_818_LaChienne_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28393-la-chienne"
+    },
+    {
+      "title": "Boudu Saved from Drowning",
+      "year": "1932",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6171-ad27a2ffe6645d7618b8f40a7bea97a3/Film_306w_BouduSaved_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/756-boudu-saved-from-drowning"
+    },
+    {
+      "title": "A Day in the Country",
+      "year": "1936",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132272-60ddb8b9d6e736533c10510674c3ce50/Film_746w_DayInCountry_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28072-a-day-in-the-country"
+    },
+    {
+      "title": "The Lower Depths",
+      "year": "1936",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9963-ed630259321216b3170c33ef905e1fdb/LowerDepthRw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/870-the-lower-depths"
+    },
+    {
+      "title": "Grand Illusion",
+      "year": "1937",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129921-e9da918149e8edae9cd256fd96857b04/P_GRAND_ILLUSION_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/351-grand-illusion"
+    },
+    {
+      "title": "La bête humaine",
+      "year": "1938",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132032-5f993939434a6586189050229ee177e4/Film_324w_BeteHumaineB_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/773-la-bete-humaine"
+    },
+    {
+      "title": "The Rules of the Game",
+      "year": "1939",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129929-96f06b2aa9b38ec4fb81f8124e7b67c6/Film_216w_RulesGame_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/295-the-rules-of-the-game"
+    },
+    {
+      "title": "The River",
+      "year": "1951",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129929-96f06b2aa9b38ec4fb81f8124e7b67c6/Film_216w_RulesGame_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/679-the-river"
+    },
+    {
+      "title": "The Golden Coach",
+      "year": "1953",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6531-d694ca683771b659e8caa588b09ca8c7/Film_242w_GoldenCoach_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/889-the-golden-coach"
+    },
+    {
+      "title": "French Cancan",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6539-114de1b9b3d1c6aeeea901631d6f59d8/Film_243w_CanCan_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/891-french-cancan"
+    },
+    {
+      "title": "Elena and Her Men",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/27260-5b9eb5fd4fd8d9dd9c8916e68c50de66/elena-and-her-men-1956_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/937-elena-and-her-men"
+    }
+  ],
+  "RobertoRossellini": [
+    {
+      "title": "Rome Open City",
+      "year": "1945",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/129817-e37b7f4303884cbe126e5c98f6cd2fa1/Film_497w_RomeOpenCity_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/975-rome-open-city"
+    },
+    {
+      "title": "Paisan",
+      "year": "1946",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47927-516db7acce12b4d13549dd3ab7ca152c/Film_498w_Paisan_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2415-paisan"
+    },
+    {
+      "title": "Germany Year Zero",
+      "year": "1948",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47935-c43fda766423277692c8249da8504cab/Film_499w_GermanyYearZero_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/297-germany-year-zero"
+    },
+    {
+      "title": "The Flowers of St. Francis",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6785-e54f7fc637ee856a449fd0d8b523e25c/Film_293w_FlowersFrancis_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/874-the-flowers-of-st-francis"
+    },
+    {
+      "title": "Stromboli",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132159-854b9036153731e77805fc43be84fd0a/Film_673w_Stromboli_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28082-stromboli"
+    },
+    {
+      "title": "Europe ’51",
+      "year": "1952",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132160-963fd464df5319d7f10f5dbee0a56651/Film_674w_Europe51_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28108-europe-51"
+    },
+    {
+      "title": "Journey to Italy",
+      "year": "1954",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132161-51bf6e8f766eca0d1c8a93c65ff39a98/Film_675w_Journey_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28081-journey-to-italy"
+    },
+    {
+      "title": "Il Generale Della Rovere",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10873-e0d10ce4aa4caab13836c19d06d48b2f/Film_463w_GeneraleRovere_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1085-il-generale-della-rovere"
+    },
+    {
+      "title": "The Taking of Power by Louis XIV",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9921-72e9ef349dc1f35cc48226f8f199e5fa/TakingPowerw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/971-the-taking-of-power-by-louis-xiv"
+    },
+    {
+      "title": "Blaise Pascal",
+      "year": "1972",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9087-15e5473c418d188845475cb310bdc656/BlaisePascal_1w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1027-blaise-pascal"
+    },
+    {
+      "title": "The Age of the Medici",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9071-2aa7533e74ddfbcf604efeb83b8fd818/Medici2-2w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1025-the-age-of-the-medici"
+    },
+    {
+      "title": "Cartesius",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9079-7bc1fb1d914656b8d5c3898f5d48d3b8/Cartesius_1w_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1026-cartesius"
+    }
+  ],
+  "VolkerSchlondorff": [
+    {
+      "title": "Last Year at Marienbad",
+      "year": "1961",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/14309-a2318b87d3124d41413e3b1f788cd6c3/Film_478_LastYearMarienbad_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1517-last-year-at-marienbad"
+    },
+    {
+      "title": "Le doulos",
+      "year": "1962",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/9897-88f3ccb0a0c0ce823bc1520e15432915/Doulosw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/759-le-doulos"
+    },
+    {
+      "title": "The Fire Within",
+      "year": "1963",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/5661-1875d1ff426fe8b78a392b1896b06cf5/Film_430w_FiresWithin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/540-the-fire-within"
+    },
+    {
+      "title": "Young Törless",
+      "year": "1966",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/130233-fac3f89e1083829447672647ce2fabcd/Film_279w_YoungTorless_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/926-young-torless"
+    },
+    {
+      "title": "The Lost Honor of Katharina Blum",
+      "year": "1975",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/7885-881edb9b239d6701cafa4067a0ed613d/Film_177W_LostHonor_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/726-the-lost-honor-of-katharina-blum"
+    },
+    {
+      "title": "Coup de grâce",
+      "year": "1976",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/7779-36fe8fe69d33277f31fed6dad6f8f96e/Film_192w_CoupDeGrace_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/737-coup-de-grace"
+    },
+    {
+      "title": "The Tin Drum",
+      "year": "1979",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/6275-ca78ddd20d3374f91cf5a6403b407597/Film_234w_Tim-Drum_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/789-the-tin-drum"
+    }
+  ],
+  "DelphineSeyrig": [
+    {
+      "title": "Last Year at Marienbad",
+      "year": "1961",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/14309-a2318b87d3124d41413e3b1f788cd6c3/Film_478_LastYearMarienbad_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1517-last-year-at-marienbad"
+    },
+    {
+      "title": "Who Are You, Polly Maggoo?",
+      "year": "1966",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/8029-bb8e9f84ee1574568e1782345441c691/PollyMagoo_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/902-who-are-you-polly-maggoo"
+    },
+    {
+      "title": "Mr. Freedom",
+      "year": "1969",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/8037-281b805b62765d941832a303cbc55011/MrFreedom_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/903-mr-freedom"
+    },
+    {
+      "title": "The Milky Way",
+      "year": "1969",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/7501-99a94f4b52b1023ac3623635f8527a4e/Film_402w_MilkyWay_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/832-the-milky-way"
+    },
+    {
+      "title": "Donkey Skin",
+      "year": "1970",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/132241-177b29f21dab45fb63ac0d364a312192/Film_718_DonkeySkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28605-donkey-skin"
+    },
+    {
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": "1972",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/8389-6fb342c208cf6063c3709fd6a6186d20/Film_102w_DiscreetCharm_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
+    },
+    {
+      "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "year": "1975",
+      "image": "http://s3.amazonaws.com/criterion-production/stills/41479-fb5f59ceeb1ff5e7a81f3d8f6e5ff1b4/JEANNE_DIELMAN_video_still_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/302-jeanne-dielman-23-quai-du-commerce-1080-bruxelles"
+    }
+  ],
+  "SimoneSignoret": [
+    {
+      "title": "La ronde",
+      "year": "1950",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5605-40bac7a132c4fc647b3742da7a26ad7c/Film_443w_Ronde_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/573-la-ronde"
+    },
+    {
+      "title": "Casque d’or",
+      "year": "1952",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6645-65a6ac11a0cf4f2cab98f9c726badccf/Film_270w_CasqueDOr_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/942-casque-d-or"
+    },
+    {
+      "title": "Diabolique",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131982-cb1085d529ed277db1c0db25465c6c95/Film_35w_Diabolique_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/575-diabolique"
+    },
+    {
+      "title": "Army of Shadows",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132110-451d0c07505951308d579cbb7bb9374f/Film_385_ArmyOfShadows_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/153-army-of-shadows"
+    },
+    {
+      "title": "Mr. Freedom",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8037-281b805b62765d941832a303cbc55011/MrFreedom_2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/903-mr-freedom"
+    },
+    {
+      "title": "The Confession",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132287-88f2aafa59babbd49f554a39579bb9f7/Film_759_Confession_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27873-the-confession"
+    }
+  ],
+  "StevenSoderbergh": [
+    {
+      "title": "King of the Hill",
+      "year": "1993",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132218-a0efb7ce16a3ab20c869e2a31dbe7135/Film_698w_KingOfTheHill_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27965-king-of-the-hill"
+    },
+    {
+      "title": "Schizopolis",
+      "year": "1996",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132078-896e009a11860f5d17f7ba86f635fce7/Film_199w_Schizopolis_w320.jpeg",
+      "criterionUrl": "https://www.criterion.com/films/740-schizopolis"
+    },
+    {
+      "title": "Gray’s Anatomy",
+      "year": "1997",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132081-937c48970fcbbf8726d3e81c0d9cffce/Film_618w_GraysAnatomy_w320.jpeg",
+      "criterionUrl": "https://www.criterion.com/films/28351-gray-s-anatomy"
+    },
+    {
+      "title": "Traffic",
+      "year": "2000",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10343-442792ea561881e551a07805759c93aa/traffic2_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/381-traffic"
+    },
+    {
+      "title": "Che",
+      "year": "2008",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/47951-19c31990da077717883f5abcf8f67344/Film_496w_Che_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/20987-che"
+    },
+    {
+      "title": "And Everything Is Going Fine",
+      "year": "2010",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131946-88f03e1e1aa0bf60707a9601b6f5855a/Film_617w_AndEverythingGoing_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27874-and-everything-is-going-fine"
+    }
+  ],
+  "SeijunSuzuki": [
+    {
+      "title": "Take Aim at the Police Van",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/25572-e53228bffff60b7c8c6ca117af9426ba/XXX_Film_takeaim_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/2957-take-aim-at-the-police-van"
+    },
+    {
+      "title": "Youth of the Beast",
+      "year": "1963",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7747-11660c64d6ba5da5672b5b842254528f/Film_268w_YouthBeast_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/946-youth-of-the-beast"
+    },
+    {
+      "title": "Gate of Flesh",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6355-3c1b5339cd112b24706e11204d32c1b5/Film_298w_GateFlesh_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/863-gate-of-flesh"
+    },
+    {
+      "title": "Story of a Prostitute",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6347-97f5c44b801bf5b762e171a381c3aa4a/Film_299w_StoryProstitute_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/862-story-of-a-prostitute"
+    },
+    {
+      "title": "Tokyo Drifter",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131985-6f45a7dbab5e7778974155f52c84e7cf/Film_39w_TokyoDrifter_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/577-tokyo-drifter"
+    },
+    {
+      "title": "Fighting Elegy",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/9807-7533ef74a88c500225d988793ebd7f90/FightinElegyw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/945-fighting-elegy"
+    },
+    {
+      "title": "Branded to Kill",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131529-032cd2b22e9d24e03541b89e8c07491f/Film_38w_BrandedToKill_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/576-branded-to-kill"
+    }
+  ],
+  "ToruTakemitsu": [
+    {
+      "title": "Crazed Fruit",
+      "year": "1956",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6801-be360119b458d73a438463f6fa8013c6/Film_295w_CrazedFruit_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/872-crazed-fruit"
+    },
+    {
+      "title": "Pitfall",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131681-8bd5f5a1ec908e806fcd08a5d1eb8f06/Film_393w_Pitfall_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/827-pitfall"
+    },
+    {
+      "title": "Harakiri",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6197-d6ab06a995bdc2bb224588e09419ea05/Film_302w_Harakiri_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/743-harakiri"
+    },
+    {
+      "title": "Woman in the Dunes",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131689-faf2fbbd6d073174a3821127713ecfaf/Film_394w_WomanDunes_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/826-woman-in-the-dunes"
+    },
+    {
+      "title": "Kwaidan",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130625-aa6ba26d01d0c493b311e9ad06eaaa98/Film_90w_KwaidanC_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/629-kwaidan"
+    },
+    {
+      "title": "Pale Flower",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130849-25a48ea01bbf3db56da18fe1386d8001/Film_564w_PaleFlower_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27604-pale-flower"
+    },
+    {
+      "title": "Samurai Spy",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6121-b9eea7c3a2901a1dced63536bc84ebdd/Film_312w_SamuraiSpy_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/762-samurai-spy"
+    },
+    {
+      "title": "The Face of Another",
+      "year": "1966",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131673-b2e186a2f9306c91d3ee853a2dc1647d/Film_395w_FaceAnother_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/828-the-face-of-another"
+    },
+    {
+      "title": "Samurai Rebellion",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6153-c51a1f6ba3edf594a62ca01f3cd5c0ff/Film_310w_SamuraiRebellion_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/753-samurai-rebellion"
+    },
+    {
+      "title": "Double Suicide",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131713-6bf7ae53075f59de40d81bcb6caee22a/Film_104w_DoubleSuicide_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/640-double-suicide"
+    },
+    {
+      "title": "Dodes’ka-den",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10865-2a280a5242f3c862680ed4fa0ea7d63b/Film_465w_Dodeskaden_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1083-dodes-ka-den"
+    },
+    {
+      "title": "Empire of Passion",
+      "year": "1978",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/20465-96d578a1d81a537ff7cbcc404e87098b/EMPIRE_OF_PASSION_still_resized_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1288-empire-of-passion"
+    },
+    {
+      "title": "Antonio Gaudí",
+      "year": "1984",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5695-285e6091218dfc4c50a2811014401b64/Film_426w_AntonioGaudi_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/536-antonio-gaudi"
+    },
+    {
+      "title": "Ran",
+      "year": "1985",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6105-1ae3d999eface304251de87ba0e76a89/Film_316w_Ran_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/754-ran"
+    }
+  ],
+  "JacquesTati": [
+    {
+      "title": "Jour de fête",
+      "year": "1949",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132252-10a476b43992537f4edaad75db0a1567/Film_730w_JourDeFete_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28114-jour-de-fete"
+    },
+    {
+      "title": "Monsieur Hulot’s Holiday",
+      "year": "1953",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130761-5f5252a6eb8972a6f3bc1a5d5e2b4342/Film_110w_MHulotHoliday_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday"
+    },
+    {
+      "title": "Mon oncle",
+      "year": "1958",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/8421-c50647b0f22fad66a4f85ce90a9d5c7b/Film_111w_MonOncle_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/650-mon-oncle"
+    },
+    {
+      "title": "PlayTime",
+      "year": "1967",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/108433-48e1836010cb38ee55d62266d4c032e3/Film_112w_PlayTime_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/651-playtime"
+    },
+    {
+      "title": "Trafic",
+      "year": "1971",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/6379-7debb80ee66399925d4bdd69c72dd8da/Film_439w_Trafic_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/859-trafic"
+    },
+    {
+      "title": "Parade",
+      "year": "1974",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132253-578be9727419455eeba3c15814b6cead/Film_731w_Parade_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28123-parade"
+    }
+  ],
+  "FrancoisTruffaut": [
+    {
+      "title": "The 400 Blows",
+      "year": "1959",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130473-32d6b5e7a721ba3f04d11e9dc8ac0995/Film_05w_400Blows_A_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows"
+    },
+    {
+      "title": "Shoot the Piano Player",
+      "year": "1960",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131721-1d8203dc5e6e87af75a25138de5c7c01/Film_315w_ShootPianoPlayer_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player"
+    },
+    {
+      "title": "Jules and Jim",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/2726-e9e384f93f844c95919db09fd1dd0ca5/P_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim"
+    },
+    {
+      "title": "The Soft Skin",
+      "year": "1964",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132277-199dd2f244611f85bc841cf7017080c5/Film_749w_SoftSkin_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/27640-the-soft-skin"
+    },
+    {
+      "title": "Stolen Kisses",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7827-8591beabafdb669b9596a33628992305/Film_186w_StolenKisses_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/732-stolen-kisses"
+    },
+    {
+      "title": "Bed and Board",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131729-67391b7967645704d8b7acc8b20d3aae/Film_187w_BedBoard_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/733-bed-and-board"
+    },
+    {
+      "title": "Day for Night",
+      "year": "1973",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132305-25d19685cbb6766fed527302b9bb24f9/Film_769_DayForNight_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28698-day-for-night"
+    },
+    {
+      "title": "Love on the Run",
+      "year": "1979",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/7811-8fbdf8b2bba8d61375a112b3b6d6e419/Film_188w_LoveOnRun_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/734-love-on-the-run"
+    },
+    {
+      "title": "The Last Metro",
+      "year": "1980",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/10945-53034ec8e1abb015ca6b9eb7fe01cb9f/Film_462w_ELastMetro_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro"
+    }
+  ],
+  "AgnesVarda": [
+    {
+      "title": "La Pointe Courte",
+      "year": "1955",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/130073-e43e5d51fbcc073014665d7864f8a0f3/PointeCourte_bw_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/524-la-pointe-courte"
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "year": "1962",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132066-1cc363045048e5f4406b0811484b5e68/Film_73w_CleoFrom5to7_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/244-cleo-from-5-to-7"
+    },
+    {
+      "title": "Le bonheur",
+      "year": "1965",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/5207-220ca0019e1eadb075d841fe89e21e86/509_053_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/525-le-bonheur"
+    },
+    {
+      "title": "Uncle Yanco",
+      "year": "1968",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132299-89f9ebd5ae025402acc57ecf38d93a2a/Film_Eclipse43_UncleYanco_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28626-uncle-yanco"
+    },
+    {
+      "title": "Black Panthers",
+      "year": "1970",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132302-c4d8c1f920adc7c09677566abc69fcaa/Film_Eclipse43_BlackPanthers_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28627-black-panthers"
+    },
+    {
+      "title": "Lions Love (...and Lies)",
+      "year": "1969",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132303-0205fd7113e1685db437434e9c6a0622/Film_Eclipse43_LionsLove_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28628-lions-love-and-lies"
+    },
+    {
+      "title": "Mur Murs",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132301-58ab2e4dd76b4f5502c0b23adecb4377/Film_Eclipse43_MurMurs_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28629-mur-murs"
+    },
+    {
+      "title": "Documenteur",
+      "year": "1981",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/132300-66e1c211f66572529d3ebc2c38627dc9/Film_Eclipse43_Documenteur_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28630-documenteur"
+    },
+    {
+      "title": "Vagabond",
+      "year": "1985",
+      "image": "https://s3.amazonaws.com/criterion-production/stills/131988-9ec6e2cb39f7b80352a7ad70f38e9009/Film_74w_Vagabond_w320.jpg",
+      "criterionUrl": "https://www.criterion.com/films/245-vagabond"
+    }
+  ]
+}

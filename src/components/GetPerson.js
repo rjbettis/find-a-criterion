@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import combinedJson from './CombinedPeople';
+import PeopleFilms from '../data/people_films.json';
 import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
@@ -11,7 +11,7 @@ import PeopleList from '../data/people_list.json';
 export class GetPerson extends Component {
   state = {
     films: [],
-    data: combinedJson,
+    data: PeopleFilms,
   };
 
   componentDidMount() {
@@ -28,7 +28,7 @@ export class GetPerson extends Component {
       console.log(this.props.match.params.person + ' = ' + keys[i]);
       if (this.props.match.params.person === keys[i]) {
         this.setState({
-          films: combinedJson[keys[i]],
+          films: PeopleFilms[keys[i]],
           currentPerson: PeopleList.people[i].name,
           currentSummary: PeopleList.people[i].summary,
           currentImage: PeopleList.people[i].image,
