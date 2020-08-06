@@ -130,9 +130,6 @@ export class GetPerson extends Component {
                       {film.year}
                     </Card.Text>
                   </Card.Body>
-                  <a href={film.criterionUrl} className="stretched-link">
-                    {' '}
-                  </a>
                 </Card>
               </Col>
             );
