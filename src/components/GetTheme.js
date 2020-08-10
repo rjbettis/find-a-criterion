@@ -72,7 +72,7 @@ export class GetTheme extends Component {
             </Col>
             <Col className={'theme-card-style my-3'}>
               <Card className={'theme-card-style'}>
-                <Card.Body className={'movie-card-text '}>
+                <Card.Body className={'movie-card-text mx-4'}>
                   <h4>
                     <strong>{this.state.currentTheme}</strong>
                   </h4>
