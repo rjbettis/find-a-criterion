@@ -115,7 +115,7 @@
     },
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Made_in_the_USA.jpg",
-      "title": "Made in the U.S.A.",
+      "title": "Made in U.S.A",
       "director": "Jean-Luc Godard",
       "criterionUrl": "https://www.criterion.com/films/2109-made-in-u-s-a",
       "directorLink": ""

@@ -46,6 +46,7 @@ I made this react application with the intention to sharpen my styling skills an
 - [x] Fix top theme card to look good on small screen sizes
 - [x] Finish "People" JSON files (54/54)
 - [x] Minimize number of people JSON files to 1
+- [ ] Add new themes from new site
 - [ ] Upload people images to S3 & update links
 - [ ] Add professions to "People" page
 - [ ] Double check all "Themes" data and images
