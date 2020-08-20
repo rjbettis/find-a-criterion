@@ -107,6 +107,13 @@
       "directorLink": ""
     },
     {
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Irishman.jpg",
+      "title": "The Irishman",
+      "director": "Martin Scorsese",
+      "criterionUrl": "https://www.criterion.com/films/30553-the-irishman",
+      "directorLink": ""
+    },
+    {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lost_in_America.jpg",
       "title": "Lost in America",
       "director": "Albert Brooks",

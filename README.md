@@ -46,13 +46,14 @@ I made this react application with the intention to sharpen my styling skills an
 - [x] Fix top theme card to look good on small screen sizes
 - [x] Finish "People" JSON files (54/54)
 - [x] Minimize number of people JSON files to 1
+- [-] Double check all "Themes" data and images [7 / 50]
 - [ ] Add new themes from new site
 - [ ] Upload people images to S3 & update links
 - [ ] Add professions to "People" page
-- [ ] Double check all "Themes" data and images
 - [ ] Double check all "People" data and images
 - [ ] Minimize number of theme JSON files to 1
 - [ ] Create "Film" component for when a film is selected (right now just linking to criterion.com film page)
 - [ ] Make decision about the Top 10 page
 - [ ] Streamline CSS
 - [ ] Make JSON with all films and respective data
+- [ ] Fix Blue Christmases link
