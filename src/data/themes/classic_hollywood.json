@@ -23,7 +23,7 @@
     },
     {
       "title": "All That Heaven Allows",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_About_My_Mother.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg",
       "director": "Douglas Sirk",
       "criterionUrl": "https://www.criterion.com/films/635-all-that-heaven-allows",
       "directorLink": ""
@@ -268,7 +268,7 @@
     },
     {
       "title": "Magnificent Obsession",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Ambersons.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg",
       "director": "Douglas Sirk",
       "criterionUrl": "https://www.criterion.com/films/973-magnificent-obsession",
       "directorLink": ""
@@ -341,6 +341,13 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg",
       "director": "Alfred Hitchcock",
       "criterionUrl": "https://www.criterion.com/films/682-notorious",
+      "directorLink": ""
+    },
+    {
+      "title": "Now, Voyager",
+      "director": "Irving Rapper",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Now_Voyager.jpg",
+      "criterionUrl": "https://www.criterion.com/films/29026-now-voyager",
       "directorLink": ""
     },
     {
