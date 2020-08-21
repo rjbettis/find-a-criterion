@@ -70,7 +70,7 @@ export class GetPerson extends Component {
             </Col>
             <Col className={'theme-card-style my-3'}>
               <Card className={'theme-card-style'}>
-                <Card.Body className={'movie-card-text mx-4'}>
+                <Card.Body className={'card-text mx-4'}>
                   <h4>
                     <strong>{this.state.currentPerson}</strong>
                   </h4>
@@ -97,7 +97,7 @@ export class GetPerson extends Component {
           <Row>
             <Col className={'theme-card-style-small'}>
               <Card className={'theme-card-style-small'}>
-                <Card.Body className={'movie-card-text '}>
+                <Card.Body className={'card-text '}>
                   <h4>
                     <strong>{this.state.currentPerson}</strong>
                   </h4>
@@ -126,9 +126,7 @@ export class GetPerson extends Component {
                     <Card.Title className={'movie-title'}>
                       {film.title}
                     </Card.Title>
-                    <Card.Text className={'movie-director'}>
-                      {film.year}
-                    </Card.Text>
+                    <Card.Text className={'card-text'}>{film.year}</Card.Text>
                   </Card.Body>
                 </Card>
               </Col>
