@@ -260,6 +260,13 @@
       "directorLink": ""
     },
     {
+      "title": "Girlfriends",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Girlfriends.jpg",
+      "director": "Claudia Weill",
+      "criterionUrl": "https://www.criterion.com/films/29635-girlfriends",
+      "directorLink": ""
+    },
+    {
       "title": "The Gold Rush",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gold_Rush.jpg",
       "director": "Charles Chaplin",
@@ -568,6 +575,13 @@
       "directorLink": ""
     },
     {
+      "title": "Monte Carlo",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monte_Carlo.jpg",
+      "director": "Ernst Lubitsch",
+      "criterionUrl": "https://www.criterion.com/films/899-monte-carlo",
+      "directorLink": ""
+    },
+    {
       "title": "Monty Python’s Life of Brian",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monty_Pythons_Life_of_Brian.jpg",
       "director": "Terry Jones",
@@ -579,6 +593,13 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise_Kingdom.jpg",
       "director": "Wes Anderson",
       "criterionUrl": "https://www.criterion.com/films/28757-moonrise-kingdom",
+      "directorLink": ""
+    },
+    {
+      "title": "Moonstruck",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonstruck.jpg",
+      "director": "Norman Jewison",
+      "criterionUrl": "https://www.criterion.com/films/29154-moonstruck",
       "directorLink": ""
     },
     {
@@ -607,6 +628,13 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hour_with_You.jpg",
       "director": "Ernst Lubitsch",
       "criterionUrl": "https://www.criterion.com/films/901-one-hour-with-you",
+      "directorLink": ""
+    },
+    {
+      "title": "One Hundred and One Nights",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hundred_and_One_Nights.jpg",
+      "director": "Agnès Varda",
+      "criterionUrl": "https://www.criterion.com/films/30563-one-hundred-and-one-nights",
       "directorLink": ""
     },
     {
@@ -773,8 +801,8 @@
     {
       "title": "Something Wild",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg",
-      "director": "Jack Garfein",
-      "criterionUrl": "https://www.criterion.com/films/28777-something-wild",
+      "director": "Jonathan Demme",
+      "criterionUrl": "https://www.criterion.com/films/27603-something-wild",
       "directorLink": ""
     },
     {

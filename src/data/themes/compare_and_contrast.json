@@ -71,10 +71,17 @@
       "directorLink": ""
     },
     {
-      "title": "Fanny and Alexander Box Set",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Box_Set.jpg",
+      "title": "Fanny and Alexander: Theatrical Version",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg",
       "director": "Ingmar Bergman",
-      "criterionUrl": "https://www.criterion.com/boxsets/206-fanny-and-alexander-box-set",
+      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version",
+      "directorLink": ""
+    },
+    {
+      "title": "Fanny and Alexander: The Television Version",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Television_Version.jpg",
+      "director": "Ingmar Bergman",
+      "criterionUrl": "https://www.criterion.com/films/626-fanny-and-alexander-the-television-version",
       "directorLink": ""
     },
     {
@@ -218,13 +225,6 @@
       "directorLink": ""
     },
     {
-      "title": "Monsieur Hulot’s Holiday",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monsieur_Hulots_Holiday.jpg",
-      "director": "Jacques Tati",
-      "criterionUrl": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
-      "directorLink": ""
-    },
-    {
       "title": "My Darling Clementine",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Darling_Clementine.jpg",
       "director": "John Ford",
@@ -274,13 +274,6 @@
       "directorLink": ""
     },
     {
-      "title": "Parade",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Parade.jpg",
-      "director": "Jacques Tati",
-      "criterionUrl": "https://www.criterion.com/films/28123-parade",
-      "directorLink": ""
-    },
-    {
       "title": "Patriotism",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Patriotism.jpg",
       "director": "Yukio Mishima and Domoto Masaki",
@@ -299,13 +292,6 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Picnic_at_Hanging_Rock.jpg",
       "director": "Peter Weir",
       "criterionUrl": "https://www.criterion.com/films/565-picnic-at-hanging-rock",
-      "directorLink": ""
-    },
-    {
-      "title": "PlayTime",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/PlayTime.jpg",
-      "director": "Jacques Tati",
-      "criterionUrl": "https://www.criterion.com/films/651-playtime",
       "directorLink": ""
     },
     {
@@ -351,13 +337,6 @@
       "directorLink": ""
     },
     {
-      "title": "A Story of Floating Weeds",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_Floating_Weeds.jpg",
-      "director": "Yasujiro Ozu",
-      "criterionUrl": "https://www.criterion.com/films/752-a-story-of-floating-weeds",
-      "directorLink": ""
-    },
-    {
       "title": "Symbiopsychotaxiplasm",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Symbiopsychotaxiplasm.jpg",
       "director": "William Greaves",
@@ -392,13 +371,7 @@
       "criterionUrl": "https://www.criterion.com/films/27690-to-be-or-not-to-be",
       "directorLink": ""
     },
-    {
-      "title": "Trafic",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trafic.jpg",
-      "director": "Jacques Tati",
-      "criterionUrl": "https://www.criterion.com/films/859-trafic",
-      "directorLink": ""
-    },
+
     {
       "title": "Trouble in Paradise",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg",
