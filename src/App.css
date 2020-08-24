@@ -20,7 +20,7 @@
 }
 
 .card-text {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .theme-card-style {
@@ -36,8 +36,9 @@
 }
 
 .movie-title {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: bold;
+  margin-bottom: 0px;
 }
 
 .card-style {

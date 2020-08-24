@@ -25,12 +25,6 @@
       "director": "Spike Jonze"
     },
     {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beyond_the_Law.jpg",
-      "title": "Beyond the Law",
-      "director": "Norman Mailer",
-      "criterionUrl": "https://www.criterion.com/films/28321-beyond-the-law"
-    },
-    {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beyond_the_Valley_of_the_Dolls.jpg",
       "title": "Beyond the Valley of the Dolls",
       "criterionUrl": "https://www.criterion.com/films/28120-beyond-the-valley-of-the-dolls",
@@ -241,6 +235,12 @@
       "criterionUrl": "https://www.criterion.com/films/28285-genocide"
     },
     {
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ghost_Dog.jpg",
+      "title": "Ghost Dog: The Way of the Samurai",
+      "director": "Jim Jarmusch",
+      "criterionUrl": "https://www.criterion.com/films/31032-ghost-dog-the-way-of-the-samurai"
+    },
+    {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ghost_World.jpg",
       "title": "Ghost World",
       "criterionUrl": "https://www.criterion.com/films/28687-ghost-world",
@@ -255,7 +255,8 @@
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Godzilla_The_Showa_Era.jpg",
       "title": "Godzilla: The Showa-Era Films, 1954–1975",
-      "criterionUrl": "https://www.criterion.com/boxsets/2648-godzilla-the-showa-era-films-1954-1975"
+      "criterionUrl": "https://www.criterion.com/boxsets/2648-godzilla-the-showa-era-films-1954-1975",
+      "director": "Various"
     },
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Goke_Body_Snatcher_From_Hell.jpg",
@@ -313,13 +314,13 @@
     },
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Curious_Blue.jpg",
-      "title": "I Am Curious—Blue",
+      "title": "I Am Curious: Blue",
       "director": "Vilgot Sjöman",
       "criterionUrl": "https://www.criterion.com/films/729-i-am-curious-blue"
     },
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Curious_Yellow.jpg",
-      "title": "I Am Curious—Yellow",
+      "title": "I Am Curious: Yellow",
       "director": "Vilgot Sjöman",
       "criterionUrl": "https://www.criterion.com/films/728-i-am-curious-yellow"
     },
@@ -652,12 +653,6 @@
       "title": "White Dog",
       "director": "Samuel Fuller",
       "criterionUrl": "https://www.criterion.com/films/861-white-dog"
-    },
-    {
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wild_90.jpg",
-      "title": "Wild 90",
-      "director": "Norman Mailer",
-      "criterionUrl": "https://www.criterion.com/films/28070-wild-90"
     },
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Who_Are_You_Polly_Maggoo.jpg",
