@@ -15,6 +15,13 @@
       "directorLink": ""
     },
     {
+      "title": "Amores perros",
+      "image": "",
+      "director": "Alejandro G. Iñárritu",
+      "criterionUrl": "https://www.criterion.com/films/30908-amores-perros",
+      "directorLink": ""
+    },
+    {
       "title": "Black Orpheus",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Orpheus.jpg",
       "director": "Marcel Camus",
@@ -33,6 +40,13 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cranes_Are_Flying.jpg",
       "director": "Mikhail Kalatozov",
       "criterionUrl": "https://www.criterion.com/films/547-the-cranes-are-flying",
+      "directorLink": ""
+    },
+    {
+      "title": "Crash",
+      "image": "",
+      "director": "David Cronenberg",
+      "criterionUrl": "https://www.criterion.com/films/29014-crash",
       "directorLink": ""
     },
     {

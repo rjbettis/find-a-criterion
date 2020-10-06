@@ -1,6 +1,13 @@
 {
   "Animals": [
     {
+      "title": "Amores perros",
+      "image": "",
+      "director": "Alejandro G. Iñárritu",
+      "criterionUrl": "https://www.criterion.com/films/30908-amores-perros",
+      "directorLink": ""
+    },
+    {
       "title": "Androcles and the Lion",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Androcles_and_the_Lion.jpg",
       "director": "Chester Erskine",
