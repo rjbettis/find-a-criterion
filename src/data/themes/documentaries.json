@@ -15,18 +15,19 @@
       "directorLink": ""
     },
     {
+      "title": "...And the Pursuit of Happiness",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_the_Pursuit_of_Happiness.jpg",
+      "criterionUrl": "https://www.criterion.com/films/676-and-the-pursuit-of-happiness",
+      "director": "Louis Malle"
+    },
+    {
       "title": "Antonio Gaudí",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Antonio_Gaudi.jpg",
       "director": "Hiroshi Teshigahara",
       "criterionUrl": "https://www.criterion.com/films/536-antonio-gaud",
       "directorLink": ""
     },
-    {
-      "title": "...And the Pursuit of Happiness",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_the_Pursuit_of_Happiness.jpg",
-      "criterionUrl": "https://www.criterion.com/films/676-and-the-pursuit-of-happiness",
-      "director": "Louis Malle"
-    },
+
     {
       "title": "The Beaches of Agnès",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beaches_of_Agnes.jpg",
@@ -270,7 +271,7 @@
     {
       "title": "Ingrid Bergman: In Her Own Words",
       "director": "Stig Björkman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ingmar_Bergman_Makes_a_Movie.jpg",
+      "image": "",
       "criterionUrl": "https://www.criterion.com/films/28910-ingrid-bergman-in-her-own-words",
       "directorLink": ""
     },

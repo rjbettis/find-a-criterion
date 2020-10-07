@@ -315,13 +315,13 @@
     },
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Curious_Blue.jpg",
-      "title": "I Am Curious: Blue",
+      "title": "I Am Curious—Blue",
       "director": "Vilgot Sjöman",
       "criterionUrl": "https://www.criterion.com/films/729-i-am-curious-blue"
     },
     {
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Curious_Yellow.jpg",
-      "title": "I Am Curious: Yellow",
+      "title": "I Am Curious—Yellow",
       "director": "Vilgot Sjöman",
       "criterionUrl": "https://www.criterion.com/films/728-i-am-curious-yellow"
     },
