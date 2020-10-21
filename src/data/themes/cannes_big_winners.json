@@ -16,7 +16,7 @@
     },
     {
       "title": "Amores perros",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amores_perros.jpg",
       "director": "Alejandro G. Iñárritu",
       "criterionUrl": "https://www.criterion.com/films/30908-amores-perros",
       "directorLink": ""
@@ -44,7 +44,7 @@
     },
     {
       "title": "Crash",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crash.jpg",
       "director": "David Cronenberg",
       "criterionUrl": "https://www.criterion.com/films/29014-crash",
       "directorLink": ""

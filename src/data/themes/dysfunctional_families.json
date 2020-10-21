@@ -155,7 +155,7 @@
     {
       "title": "Husbands",
       "director": "John Cassavetes",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Husbands.jpg",
       "criterionUrl": "https://www.criterion.com/films/28827-husbands",
       "directorLink": ""
     },
@@ -203,7 +203,7 @@
     {
       "title": "Marriage Story",
       "criterionUrl": "https://www.criterion.com/films/30554-marriage-story",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Marriage_Story.jpg",
       "director": "Noah Baumbach"
     },
     {
@@ -222,14 +222,14 @@
     {
       "title": "Moonstruck",
       "director": "Norman Jewison",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonstruck.jpg",
       "criterionUrl": "https://www.criterion.com/films/29154-moonstruck",
       "directorLink": ""
     },
     {
       "title": "Mouchette",
       "director": "Robert Bresson",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mouchette.jpg",
       "criterionUrl": "https://www.criterion.com/films/456-mouchette",
       "directorLink": ""
     },
@@ -256,7 +256,7 @@
     {
       "title": "Roma",
       "director": "Alfonso Cuarón",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Roma_Cuaron.jpg",
       "criterionUrl": "https://www.criterion.com/films/30124-roma",
       "directorLink": ""
     },
@@ -333,7 +333,7 @@
     {
       "title": "An Unmarried Woman",
       "director": "Paul Mazursky",
-      "image": "",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unmarried_Woman.jpg",
       "criterionUrl": "https://www.criterion.com/films/29597-an-unmarried-woman",
       "directorLink": ""
     },

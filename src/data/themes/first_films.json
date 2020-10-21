@@ -15,6 +15,13 @@
       "directorLink": ""
     },
     {
+      "title": "Amores perros",
+      "director": "Alejandro G. Iñárritu",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amores_perros.jpg",
+      "criterionUrl": "https://www.criterion.com/films/30908-amores-perros",
+      "directorLink": ""
+    },
+    {
       "title": "And God Created Woman",
       "director": "Roger Vadim",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_God_Created_Woman.jpg",
@@ -72,7 +79,7 @@
       "title": "Blood Simple",
       "director": "Joel Coen",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_Simple.jpg",
-      "criterionUrl": "https://www.criterion.com/films/609-the-blood-of-a-poet",
+      "criterionUrl": "https://www.criterion.com/films/28852-blood-simple",
       "directorLink": ""
     },
     {
@@ -311,7 +318,7 @@
     },
     {
       "title": "The Kid",
-      "director": "Charlie Chaplin",
+      "director": "Charles Chaplin",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kid.jpg",
       "criterionUrl": "https://www.criterion.com/films/27566-the-kid",
       "directorLink": ""
@@ -414,6 +421,13 @@
       "director": "Whit Stillman",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Metropolitan.jpg",
       "criterionUrl": "https://www.criterion.com/films/774-metropolitan",
+      "directorLink": ""
+    },
+    {
+      "title": "Minding the Gap",
+      "director": "Bing Liu",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Minding_the_Gap.jpg",
+      "criterionUrl": "https://www.criterion.com/films/30515-minding-the-gap",
       "directorLink": ""
     },
     {
@@ -557,6 +571,13 @@
       "director": "Víctor Erice",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spirit_of_the_Beehive.jpg",
       "criterionUrl": "https://www.criterion.com/films/367-the-spirit-of-the-beehive",
+      "directorLink": ""
+    },
+    {
+      "title": "The Suitor",
+      "director": "Pierre Etaix",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suitor.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28395-the-suitor",
       "directorLink": ""
     },
     {
