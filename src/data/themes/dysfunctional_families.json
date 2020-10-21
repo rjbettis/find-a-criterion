@@ -141,7 +141,7 @@
     {
       "title": "Grey Gardens",
       "director": "David Maysles, Albert Maysles, Ellen Hovde, and Muffie Meyer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gervaise.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grey_Gardens.jpg",
       "criterionUrl": "https://www.criterion.com/films/664-grey-gardens",
       "directorLink": ""
     },
@@ -150,6 +150,13 @@
       "director": "Kim Ki-young",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Housemaid.jpg",
       "criterionUrl": "https://www.criterion.com/films/28409-the-housemaid",
+      "directorLink": ""
+    },
+    {
+      "title": "Husbands",
+      "director": "John Cassavetes",
+      "image": "",
+      "criterionUrl": "https://www.criterion.com/films/28827-husbands",
       "directorLink": ""
     },
     {
@@ -194,6 +201,12 @@
       "directorLink": ""
     },
     {
+      "title": "Marriage Story",
+      "criterionUrl": "https://www.criterion.com/films/30554-marriage-story",
+      "image": "",
+      "director": "Noah Baumbach"
+    },
+    {
       "title": "A Married Couple",
       "criterionUrl": "https://www.criterion.com/films/27515-a-married-couple",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg",
@@ -204,6 +217,20 @@
       "director": "Miranda July",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Me_and_You_and_Everyone_We_Know.jpg",
       "criterionUrl": "https://www.criterion.com/films/29112-me-and-you-and-everyone-we-know",
+      "directorLink": ""
+    },
+    {
+      "title": "Moonstruck",
+      "director": "Norman Jewison",
+      "image": "",
+      "criterionUrl": "https://www.criterion.com/films/29154-moonstruck",
+      "directorLink": ""
+    },
+    {
+      "title": "Mouchette",
+      "director": "Robert Bresson",
+      "image": "",
+      "criterionUrl": "https://www.criterion.com/films/456-mouchette",
       "directorLink": ""
     },
     {
@@ -229,7 +256,7 @@
     {
       "title": "Roma",
       "director": "Alfonso Cuarón",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Roma.jpg",
+      "image": "",
       "criterionUrl": "https://www.criterion.com/films/30124-roma",
       "directorLink": ""
     },
@@ -301,6 +328,13 @@
       "director": "David Lynch",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Twin_Peaks_Fire_Walk_with_Me.jpg",
       "criterionUrl": "https://www.criterion.com/films/29237-twin-peaks-fire-walk-with-me",
+      "directorLink": ""
+    },
+    {
+      "title": "An Unmarried Woman",
+      "director": "Paul Mazursky",
+      "image": "",
+      "criterionUrl": "https://www.criterion.com/films/29597-an-unmarried-woman",
       "directorLink": ""
     },
     {
