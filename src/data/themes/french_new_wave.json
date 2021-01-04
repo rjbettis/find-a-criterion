@@ -70,7 +70,7 @@
       "title": "Chronicle of a Summer",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg",
       "criterionUrl": "https://www.criterion.com/films/28394-chronicle-of-a-summer",
-      "director": "Jean Rouch…",
+      "director": "Jean Rouch and Edgar Morin",
       "country": "France,",
       "year": "1961",
       "spine": "648"
@@ -98,6 +98,12 @@
       "country": "France,",
       "year": "1959",
       "spine": "581"
+    },
+    {
+      "title": "Les créatures",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Les_creatures.jpg",
+      "director": "Agnès Varda",
+      "criterionUrl": "https://www.criterion.com/films/30905-les-cr-atures"
     },
     {
       "title": "The Fire Within",
@@ -130,7 +136,7 @@
       "title": "Last Year at Marienbad",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Year_at_Marienbad.jpg",
       "criterionUrl": "https://www.criterion.com/films/1517-last-year-at-marienbad",
-      "director": "Alain Resnais",
+      "director": "AAlain Resnais",
       "country": "France,",
       "year": "1961",
       "spine": "478"
@@ -221,7 +227,7 @@
     },
     {
       "title": "Weekend",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend_1967.jpg",
       "criterionUrl": "https://www.criterion.com/films/28441-weekend",
       "director": "Jean-Luc Godard",
       "country": "France,",

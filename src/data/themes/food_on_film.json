@@ -8,13 +8,6 @@
       "directorLink": ""
     },
     {
-      "title": "Les Blank: Always for Pleasure",
-      "director": "Les Blank",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blank_Always_for_Pleasure.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28658-les-blank-always-for-pleasure",
-      "directorLink": ""
-    },
-    {
       "title": "The Bakery Girl of Monceau",
       "criterionUrl": "https://www.criterion.com/films/786-the-bakery-girl-of-monceau",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg",
@@ -57,6 +50,13 @@
       "director": "Chantal Akerman",
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jeanne_Dielman.jpg",
       "criterionUrl": "https://www.criterion.com/films/302-jeanne-dielman-23-quai-du-commerce-1080-bruxelles",
+      "directorLink": ""
+    },
+    {
+      "title": "Les Blank: Always for Pleasure",
+      "director": "Les Blank",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blank_Always_for_Pleasure.jpg",
+      "criterionUrl": "https://www.criterion.com/films/28658-les-blank-always-for-pleasure",
       "directorLink": ""
     },
     {
