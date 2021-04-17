@@ -1,312 +1,178 @@
 {
-  "Melodrama": [
-    {
-      "title": "An Actor’s Revenge",
-      "director": "Kon Ichikawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Actors_Revenge.jpeg",
-      "criterionUrl": "https://www.criterion.com/films/28899-an-actor-s-revenge",
-      "directorLink": ""
-    },
-    {
-      "title": "Ali: Fear Eats the Soul",
-      "director": "Rainer Werner Fassbinder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ali_Fear_Eats_the_Soul.jpg",
-      "criterionUrl": "https://www.criterion.com/films/152-ali-fear-eats-the-soul",
-      "directorLink": ""
-    },
-    {
-      "title": "All About My Mother",
-      "director": "Pedro Almodóvar",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_About_My_Mother.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29569-all-about-my-mother",
-      "directorLink": ""
-    },
-    {
-      "title": "All That Heaven Allows",
-      "director": "Douglas Sirk",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg",
-      "criterionUrl": "https://www.criterion.com/films/635-all-that-heaven-allows",
-      "directorLink": ""
-    },
-    {
-      "title": "Apart from You",
-      "criterionUrl": "http://www.criterion.com/films/27546-apart-from-you",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Apart_from_You.jpg",
-      "director": "Mikio Naruse",
-      "director_url": "http://www.criterion.com/films/27546-apart-from-you"
-    },
-    {
-      "title": "Bigger Than Life",
-      "director": "Nicholas Ray",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg",
-      "criterionUrl": "https://www.criterion.com/films/1929-bigger-than-life",
-      "directorLink": ""
-    },
-    {
-      "title": "The Bitter Tears of Petra von Kant",
-      "director": "Rainer Werner Fassbinder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Tears_of_Petra_von_Kant.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27953-the-bitter-tears-of-petra-von-kant",
-      "directorLink": ""
-    },
-    {
-      "title": "Blue Velvet",
-      "director": "David Lynch",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Velvet.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29144-blue-velvet",
-      "directorLink": ""
-    },
-    {
-      "title": "Chains",
-      "criterionUrl": "http://www.criterion.com/films/27621-chains",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chains.jpg",
-      "director": "Raffaello Matarazzo",
-      "director_url": "http://www.criterion.com/films/27621-chains"
-    },
-    {
-      "title": "Une chambre en ville",
-      "director": "Jacques Demy",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chambre_en_ville.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27936-une-chambre-en-ville",
-      "directorLink": ""
-    },
-    {
-      "title": "The Cloud-Capped Star",
-      "director": "Ritwik Ghatak",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cloud_Capped_Star.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29059-the-cloud-capped-star",
-      "directorLink": ""
-    },
-    {
-      "title": "Death of a Cyclist",
-      "director": "Juan Antonio Bardem",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Death_of_a_Cyclist.jpg",
-      "criterionUrl": "https://www.criterion.com/films/537-death-of-a-cyclist",
-      "directorLink": ""
-    },
-    {
-      "title": "Dry Summer",
-      "director": "Metin Erksan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dry_Summer.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28410-dry-summer",
-      "directorLink": ""
-    },
-    {
-      "title": "Eight Hours Don’t Make a Day",
-      "director": "Rainer Werner Fassbinder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Eight_Hours_Dont_Make_a_Day.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29400-eight-hours-don-t-make-a-day",
-      "directorLink": ""
-    },
-    {
-      "title": "Female Trouble",
-      "director": "John Waters",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Female_Trouble.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28704-female-trouble",
-      "directorLink": ""
-    },
-    {
-      "title": "The Housemaid",
-      "director": "Kim Ki-young",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Housemaid.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28409-the-housemaid",
-      "directorLink": ""
-    },
-    {
-      "title": "In a Lonely Place",
-      "director": "Nicholas Ray",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27908-in-a-lonely-place",
-      "directorLink": ""
-    },
-    {
-      "title": "Jubal",
-      "director": "Delmer Daves",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jubal.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28492-jubal",
-      "directorLink": ""
-    },
-    {
-      "title": "Lola",
-      "criterionUrl": "http://www.criterion.com/films/595-lola",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola.jpg",
-      "director": "Rainer Werner Fassbinder",
-      "director_url": "http://www.criterion.com/films/595-lola"
-    },
-    {
-      "title": "Lola Montès",
-      "director": "Max Ophuls",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola_Montes.jpg",
-      "criterionUrl": "https://www.criterion.com/films/938-lola-mont-s",
-      "directorLink": ""
-    },
-    {
-      "title": "Madonna of the Seven Moons",
-      "criterionUrl": "http://www.criterion.com/films/28019-madonna-of-the-seven-moons",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Madonna_of_the_Seven_Moons.jpg",
-      "director": "Arthur Crabtree",
-      "director_url": "http://www.criterion.com/films/28019-madonna-of-the-seven-moons"
-    },
-    {
-      "title": "Magnificent Obsession",
-      "director": "Douglas Sirk",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Ambersons.jpg",
-      "criterionUrl": "https://www.criterion.com/films/973-magnificent-obsession",
-      "directorLink": ""
-    },
-    {
-      "title": "The Man in Grey",
-      "criterionUrl": "http://www.criterion.com/films/28018-the-man-in-grey",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_in_Grey.jpg",
-      "director": "Leslie Arliss",
-      "director_url": "http://www.criterion.com/films/28018-the-man-in-grey"
-    },
-    {
-      "title": "The Marriage of Maria Braun",
-      "criterionUrl": "http://www.criterion.com/films/592-the-marriage-of-maria-braun",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Marriage_of_Maria_Braun.jpg",
-      "director": "Rainer Werner Fassbinder",
-      "director_url": "http://www.criterion.com/films/592-the-marriage-of-maria-braun"
-    },
-    {
-      "title": "Mildred Pierce",
-      "director": "Michael Curtiz",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mildred_Pierce.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29025-mildred-pierce",
-      "directorLink": ""
-    },
-    {
-      "title": "No Blood Relation",
-      "criterionUrl": "http://www.criterion.com/films/27545-no-blood-relation",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/No_Blood_Relation.jpg",
-      "director": "Mikio Naruse",
-      "director_url": "http://www.criterion.com/films/27545-no-blood-relation"
-    },
-    {
-      "title": "Nobody’s Children",
-      "criterionUrl": "http://www.criterion.com/films/27623-nobody-s-children",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nobodys_Children.jpg",
-      "director": "Raffaello Matarazzo",
-      "director_url": "http://www.criterion.com/films/27623-nobody-s-children"
-    },
-    {
-      "title": "Le notti bianche",
-      "director": "Luchino Visconti",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notti_bianche.jpg",
-      "criterionUrl": "https://www.criterion.com/films/868-le-notti-bianche",
-      "directorLink": ""
-    },
-    {
-      "title": "Now, Voyager",
-      "director": "Irving Rapper",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Now_Voyager.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29026-now-voyager",
-      "directorLink": ""
-    },
-    {
-      "title": "Polyester",
-      "director": "John Waters",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Polyester.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28714-polyester",
-      "directorLink": ""
-    },
-    {
-      "title": "Senso",
-      "director": "Luchino Visconti",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27543-senso",
-      "directorLink": ""
-    },
-    {
-      "title": "A Story from Chikamatsu",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_from_Chikamatsu.jpg",
-      "director": "Kenji Mizoguchi",
-      "criterionUrl": "https://www.criterion.com/films/28160-a-story-from-chikamatsu",
-      "directorLink": ""
-    },
-    {
-      "title": "The Story of Temple Drake",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_Temple_Drake.jpg",
-      "director": "Stephen Roberts",
-      "criterionUrl": "https://www.criterion.com/films/28575-the-story-of-temple-drake",
-      "directorLink": ""
-    },
-    {
-      "title": "The Story of the Last Chrysanthemum",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_the_Last_Chrysanthemum.jpg",
-      "director": "Kenji Mizoguchi",
-      "criterionUrl": "https://www.criterion.com/films/27729-the-story-of-the-last-chrysanthemum",
-      "directorLink": ""
-    },
-    {
-      "title": "Street of Shame",
-      "criterionUrl": "http://www.criterion.com/films/970-street-of-shame",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_of_Shame.jpg",
-      "director": "Kenji Mizoguchi",
-      "director_url": "http://www.criterion.com/films/970-street-of-shame"
-    },
-    {
-      "title": "Street Without End",
-      "criterionUrl": "http://www.criterion.com/films/27548-street-without-end",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_Without_End.jpg",
-      "director": "Mikio Naruse",
-      "director_url": "http://www.criterion.com/films/27548-street-without-end"
-    },
-    {
-      "title": "Tormento",
-      "criterionUrl": "http://www.criterion.com/films/27622-tormento",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tormento.jpg",
-      "director": "Raffaello Matarazzo",
-      "director_url": "http://www.criterion.com/films/27622-tormento"
-    },
-    {
-      "title": "Valley of the Dolls",
-      "director": "Mark Robson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Valley_of_the_Dolls.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28577-valley-of-the-dolls",
-      "directorLink": ""
-    },
-    {
-      "title": "When a Woman Ascends the Stairs",
-      "director": "Mikio Naruse",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/When_a_Woman_Ascends_the_Stairs.jpg",
-      "criterionUrl": "https://www.criterion.com/films/816-when-a-woman-ascends-the-stairs",
-      "directorLink": ""
-    },
-    {
-      "title": "The White Angel",
-      "criterionUrl": "http://www.criterion.com/films/27624-the-white-angel",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Angel.jpg",
-      "director": "Raffaello Matarazzo",
-      "director_url": "http://www.criterion.com/films/27624-the-white-angel"
-    },
-    {
-      "title": "The Wicked Lady",
-      "criterionUrl": "http://www.criterion.com/films/28017-the-wicked-lady",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wicked_Lady.jpg",
-      "director": "Leslie Arliss",
-      "director_url": "http://www.criterion.com/films/28017-the-wicked-lady"
-    },
-    {
-      "title": "Women of the Night",
-      "criterionUrl": "http://www.criterion.com/films/969-women-of-the-night",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Women_of_the_Night.jpg",
-      "director": "Kenji Mizoguchi",
-      "director_url": "http://www.criterion.com/films/969-women-of-the-night"
-    },
-    {
-      "title": "Women on the Verge of a Nervous Breakdown",
-      "director": "Pedro Almodóvar",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Women_on_the_Verge_of_a_Nervous_Breakdown.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29101-women-on-the-verge-of-a-nervous-breakdown",
-      "directorLink": ""
-    },
-    {
-      "title": "Written on the Wind",
-      "director": "Douglas Sirk",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Written_on_the_Wind.jpg",
-      "criterionUrl": "https://www.criterion.com/films/636-written-on-the-wind",
-      "directorLink": ""
-    }
-  ]
+"Melodrama": [
+ {
+   "film": "Ali: Fear Eats the Soul",
+   "director": "Rainer Werner Fassbinder",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ali_Fear_Eats_the_Soul.jpg"
+ },
+ {
+   "film": "All That Heaven Allows",
+   "director": "Douglas Sirk",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg"
+ },
+ {
+   "film": "Apart from You",
+   "director": "Mikio Naruse",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Apart_from_You.jpg"
+ },
+ {
+   "film": "Bigger Than Life",
+   "director": "Nicholas Ray",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg"
+ },
+ {
+   "film": "Chains",
+   "director": "Raffaello Matarazzo",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chains.jpg"
+ },
+ {
+   "film": "Une chambre en ville",
+   "director": "Jacques Demy",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chambre_en_ville.jpg"
+ },
+ {
+   "film": "Death of a Cyclist",
+   "director": "Juan Antonio Bardem",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Death_of_a_Cyclist.jpg"
+ },
+ {
+   "film": "Dry Summer",
+   "director": "Metin Erksan",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dry_Summer.jpg"
+ },
+ {
+   "film": "Every-Night Dreams",
+   "director": "Mikio Naruse",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Every_Night_Dreams.jpg"
+ },
+ {
+   "film": "The Housemaid",
+   "director": "Kim Ki-young",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Housemaid.jpg"
+ },
+ {
+   "film": "Jubal",
+   "director": "Delmer Daves",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jubal.jpg"
+ },
+ {
+   "film": "Lola",
+   "director": "Rainer Werner Fassbinder",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola.jpg"
+ },
+ {
+   "film": "Lola Montès",
+   "director": "Max Ophuls",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola_Montes.jpg"
+ },
+ {
+   "film": "Madonna of the Seven Moons",
+   "director": "Arthur Crabtree",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Madonna_of_the_Seven_Moons.jpg"
+ },
+ {
+   "film": "Magnificent Obsession",
+   "director": "Douglas Sirk",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg"
+ },
+ {
+   "film": "The Man in Grey",
+   "director": "Leslie Arliss",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_in_Grey.jpg"
+ },
+ {
+   "film": "The Marriage of Maria Braun",
+   "director": "Rainer Werner Fassbinder",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Marriage_of_Maria_Braun.jpg"
+ },
+ {
+   "film": "No Blood Relation",
+   "director": "Mikio Naruse",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/No_Blood_Relation.jpg"
+ },
+ {
+   "film": "Nobody’s Children",
+   "director": "Raffaello Matarazzo",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nobodys_Children.jpg"
+ },
+ {
+   "film": "Le notti bianche",
+   "director": "Luchino Visconti",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notti_bianche.jpg"
+ },
+ {
+   "film": "Senso",
+   "director": "Luchino Visconti",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg"
+ },
+ {
+   "film": "Street of Shame",
+   "director": "Kenji Mizoguchi",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_of_Shame.jpg"
+ },
+ {
+   "film": "Street Without End",
+   "director": "Mikio Naruse",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_Without_End.jpg"
+ },
+ {
+   "film": "Tormento",
+   "director": "Raffaello Matarazzo",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tormento.jpg"
+ },
+ {
+   "film": "When a Woman Ascends the Stairs",
+   "director": "Mikio Naruse",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/When_a_Woman_Ascends_the_Stairs.jpg"
+ },
+ {
+   "film": "The White Angel",
+   "director": "Raffaello Matarazzo",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Angel.jpg"
+ },
+ {
+   "film": "The Wicked Lady",
+   "director": "Leslie Arliss",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wicked_Lady.jpg"
+ },
+ {
+   "film": "Women of the Night",
+   "director": "Kenji Mizoguchi",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Women_of_the_Night.jpg"
+ },
+ {
+   "film": "Written on the Wind",
+   "director": "Douglas Sirk",
+   "list": "Melodrama",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Written_on_the_Wind.jpg"
+ }
+]
 }

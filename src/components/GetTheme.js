@@ -118,19 +118,12 @@ export class GetTheme extends Component {
         <Row>
           {this.state.films.map((film, index) => {
             return (
-              <Col
-                xs={12}
-                sm={12}
-                md={6}
-                lg={4}
-                xl={4}
-                key={film.title + 'Col'}
-              >
+              <Col xs={12} sm={12} md={6} lg={4} xl={4} key={film.film + 'Col'}>
                 <Card className={'card-style-blue-text my-3'} key={index}>
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
                     <Card.Title className={'movie-title'}>
-                      {film.title}
+                      {film.film}
                     </Card.Title>
                     <Card.Text className={'card-text'}>
                       {film.director}

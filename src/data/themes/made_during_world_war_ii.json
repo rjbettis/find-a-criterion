@@ -1,214 +1,184 @@
 {
-  "MadeDuringWorldWarII": [
-    {
-      "title": "49th Parallel",
-      "director": "Michael Powell",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/49th_Parallel.jpg",
-      "criterionUrl": "https://www.criterion.com/films/520-49th-parallel",
-      "directorLink": ""
-    },
-    {
-      "title": "Alexander Nevsky",
-      "director": "Sergei Eisenstein",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alexander_Nevsky.jpg",
-      "criterionUrl": "https://www.criterion.com/films/341-alexander-nevsky",
-      "directorLink": ""
-    },
-    {
-      "title": "Army",
-      "criterionUrl": "http://www.criterion.com/films/27831-army",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Army.jpg",
-      "director": "Keisuke Kinoshita",
-      "director_url": "http://www.criterion.com/films/27831-army"
-    },
-    {
-      "title": "A Canterbury Tale",
-      "director": "Michael Powell…",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Canterbury_Tale.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28106-the-canterbury-tales",
-      "directorLink": ""
-    },
-    {
-      "title": "Children of Paradise",
-      "director": "Marcel Carné",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_of_Paradise.jpg",
-      "criterionUrl": "https://www.criterion.com/films/683-children-of-paradise",
-      "directorLink": ""
-    },
-    {
-      "title": "Le ciel est à vous",
-      "criterionUrl": "http://www.criterion.com/films/27722-le-ciel-est-a-vous",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ciel_est_a_vous.jpg",
-      "director": "Jean Grémillon",
-      "director_url": "http://www.criterion.com/films/27722-le-ciel-est-a-vous"
-    },
-    {
-      "title": "Le Corbeau",
-      "criterionUrl": "http://www.criterion.com/films/684-le-corbeau",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Corbeau.jpg",
-      "director": "Henri-Georges Clouzot",
-      "director_url": "http://www.criterion.com/films/684-le-corbeau"
-    },
-    {
-      "title": "Day of Wrath",
-      "director": "Carl Th. Dreyer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Day_of_Wrath.jpg",
-      "criterionUrl": "https://www.criterion.com/films/442-day-of-wrath",
-      "directorLink": ""
-    },
-    {
-      "title": "Foreign Correspondent",
-      "director": "Alfred Hitchcock",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27692-foreign-correspondent",
-      "directorLink": ""
-    },
-    {
-      "title": "Henry V",
-      "director": "Laurence Olivier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Henry_V.jpg",
-      "criterionUrl": "https://www.criterion.com/films/579-henry-v",
-      "directorLink": ""
-    },
-    {
-      "title": "In Which We Serve",
-      "director": "David Lean…",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_Which_We_Serve.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28185-in-which-we-serve",
-      "directorLink": ""
-    },
-    {
-      "title": "Ivan the Terrible, Part I",
-      "criterionUrl": "http://www.criterion.com/films/625-ivan-the-terrible-part-i",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ivan_the_Terrible_Part_I.jpg",
-      "director": "Sergei Eisenstein",
-      "director_url": "http://www.criterion.com/films/625-ivan-the-terrible-part-i"
-    },
-    {
-      "title": "Jubilation Street",
-      "criterionUrl": "http://www.criterion.com/films/27837-jubilation-street",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jubilation_Street.jpg",
-      "director": "Keisuke Kinoshita",
-      "director_url": "http://www.criterion.com/films/27837-jubilation-street"
-    },
-    {
-      "title": "The Life and Death of Colonel Blimp",
-      "director": "Michael Powell…",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_and_Death_of_Colonel_Blimp.jpg",
-      "criterionUrl": "https://www.criterion.com/films/359-the-life-and-death-of-colonel-blimp",
-      "directorLink": ""
-    },
-    {
-      "title": "The Living Magoroku",
-      "criterionUrl": "http://www.criterion.com/films/27863-the-living-magoroku",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Living_Magoroku.jpg",
-      "director": "Keisuke Kinoshita",
-      "director_url": "http://www.criterion.com/films/27863-the-living-magoroku"
-    },
-    {
-      "title": "Lumière d’été",
-      "criterionUrl": "http://www.criterion.com/films/28125-lumiere-d-ete",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lumiere_dete.jpg",
-      "director": "Jean Grémillon",
-      "director_url": "http://www.criterion.com/films/28125-lumiere-d-ete"
-    },
-    {
-      "title": "The Man in Grey",
-      "criterionUrl": "http://www.criterion.com/films/28018-the-man-in-grey",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_in_Grey.jpg",
-      "director": "Leslie Arliss",
-      "director_url": "http://www.criterion.com/films/28018-the-man-in-grey"
-    },
-    {
-      "title": "Major Barbara",
-      "criterionUrl": "http://www.criterion.com/films/9904-major-barbara",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Major_Barbara.jpg",
-      "director": "Gabriel Pascal",
-      "director_url": "http://www.criterion.com/films/9904-major-barbara"
-    },
-    {
-      "title": "The Most Beautiful",
-      "criterionUrl": "http://www.criterion.com/films/18790-the-most-beautiful",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Most_Beautiful.jpg",
-      "director": "Akira Kurosawa",
-      "director_url": "http://www.criterion.com/films/18790-the-most-beautiful"
-    },
-    {
-      "title": "Night Train to Munich",
-      "director": "Carol Reed",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Train_to_Munich.jpg",
-      "criterionUrl": "https://www.criterion.com/films/25039-night-train-to-munich",
-      "directorLink": ""
-    },
-    {
-      "title": "Ornamental Hairpin",
-      "criterionUrl": "http://www.criterion.com/films/1089-ornamental-hairpin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ornamental_Hairpin.jpg",
-      "director": "Hiroshi Shimizu",
-      "director_url": "http://www.criterion.com/films/1089-ornamental-hairpin"
-    },
-    {
-      "title": "Paisan",
-      "director": "Roberto Rossellini",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paisan.jpg",
-      "criterionUrl": "https://www.criterion.com/films/2415-paisan",
-      "directorLink": ""
-    },
-    {
-      "title": "Port of Flowers",
-      "criterionUrl": "http://www.criterion.com/films/28238-port-of-flowers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Port_of_Flowers.jpg",
-      "director": "Keisuke Kinoshita",
-      "director_url": "http://www.criterion.com/films/28238-port-of-flowers"
-    },
-    {
-      "title": "Remorques",
-      "criterionUrl": "http://www.criterion.com/films/27677-remorques",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Remorques.jpg",
-      "director": "Jean Grémillon",
-      "director_url": "http://www.criterion.com/films/27677-remorques"
-    },
-    {
-      "title": "Rome Open City",
-      "director": "Roberto Rossellini",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rome_Open_City.jpg",
-      "criterionUrl": "https://www.criterion.com/films/975-rome-open-city",
-      "directorLink": ""
-    },
-    {
-      "title": "Sanshiro Sugata",
-      "criterionUrl": "http://www.criterion.com/films/12521-sanshiro-sugata",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata.jpg",
-      "director": "Akira Kurosawa",
-      "director_url": "http://www.criterion.com/films/12521-sanshiro-sugata"
-    },
-    {
-      "title": "That Hamilton Woman",
-      "director": "Alexander Korda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/That_Hamilton_Woman.jpg",
-      "criterionUrl": "https://www.criterion.com/films/3559-that-hamilton-woman",
-      "directorLink": ""
-    },
-    {
-      "title": "There Was a Father",
-      "director": "Yasujiro Ozu",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/There_Was_a_Father.jpg",
-      "criterionUrl": "https://www.criterion.com/films/22839-there-was-a-father",
-      "directorLink": ""
-    },
-    {
-      "title": "To Be or Not to Be",
-      "director": "Ernst Lubitsch",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27690-to-be-or-not-to-be",
-      "directorLink": ""
-    },
-    {
-      "title": "Les visiteurs du soir",
-      "director": "Marcel Carné",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Visiteurs_du_soir.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27685-les-visiteurs-du-soir",
-      "directorLink": ""
-    }
-  ]
+"MadeDuringWorldWarII": [
+ {
+   "film": "Alexander Nevsky",
+   "director": "Sergei Eisenstein",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alexander_Nevsky.jpg"
+ },
+ {
+   "film": "Army",
+   "director": "Keisuke Kinoshita",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Army.jpg"
+ },
+ {
+   "film": "A Canterbury Tale",
+   "director": "Michael Powell and Emeric Pressburger",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Canterbury_Tale.jpg"
+ },
+ {
+   "film": "Children of Paradise",
+   "director": "Marcel Carné",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_of_Paradise.jpg"
+ },
+ {
+   "film": "Le ciel est à vous",
+   "director": "Jean Grémillon",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ciel_est_a_vous.jpg"
+ },
+ {
+   "film": "Le Corbeau",
+   "director": "Henri-Georges Clouzot",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Corbeau.jpg"
+ },
+ {
+   "film": "Day of Wrath",
+   "director": "Carl Th. Dreyer",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Day_of_Wrath.jpg"
+ },
+ {
+   "film": "Foreign Correspondent",
+   "director": "Alfred Hitchcock",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg"
+ },
+ {
+   "film": "49th Parallel",
+   "director": "Michael Powell",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/49th_Parallel.jpg"
+ },
+ {
+   "film": "Henry V",
+   "director": "Laurence Olivier",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Henry_V.jpg"
+ },
+ {
+   "film": "In Which We Serve",
+   "director": "David Lean and Noël Coward",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_Which_We_Serve.jpg"
+ },
+ {
+   "film": "Ivan the Terrible, Part I",
+   "director": "Sergei Eisenstein",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ivan_the_Terrible_Part_I.jpg"
+ },
+ {
+   "film": "Jubilation Street",
+   "director": "Keisuke Kinoshita",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jubilation_Street.jpg"
+ },
+ {
+   "film": "The Life and Death of Colonel Blimp",
+   "director": "Michael Powell and Emeric Pressburger",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_and_Death_of_Colonel_Blimp.jpg"
+ },
+ {
+   "film": "The Living Magoroku",
+   "director": "Keisuke Kinoshita",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Living_Magoroku.jpg"
+ },
+ {
+   "film": "Lumière d’été",
+   "director": "Jean Grémillon",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lumiere_dete.jpg"
+ },
+ {
+   "film": "The Man in Grey",
+   "director": "Leslie Arliss",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_in_Grey.jpg"
+ },
+ {
+   "film": "Major Barbara",
+   "director": "Gabriel Pascal",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Major_Barbara.jpg"
+ },
+ {
+   "film": "The Most Beautiful",
+   "director": "Akira Kurosawa",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Most_Beautiful.jpg"
+ },
+ {
+   "film": "Night Train to Munich",
+   "director": "Carol Reed",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Train_to_Munich.jpg"
+ },
+ {
+   "film": "Ornamental Hairpin",
+   "director": "Hiroshi Shimizu",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ornamental_Hairpin.jpg"
+ },
+ {
+   "film": "Paisan",
+   "director": "Roberto Rossellini",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paisan.jpg"
+ },
+ {
+   "film": "Remorques",
+   "director": "Jean Grémillon",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Remorques.jpg"
+ },
+ {
+   "film": "Port of Flowers",
+   "director": "Keisuke Kinoshita",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Port_of_Flowers.jpg"
+ },
+ {
+   "film": "Rome Open City",
+   "director": "Roberto Rossellini",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rome_Open_City.jpg"
+ },
+ {
+   "film": "Sanshiro Sugata",
+   "director": "Akira Kurosawa",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata.jpg"
+ },
+ {
+   "film": "That Hamilton Woman",
+   "director": "Alexander Korda",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/That_Hamilton_Woman.jpg"
+ },
+ {
+   "film": "There Was a Father",
+   "director": "Yasujiro Ozu",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/There_Was_a_Father.jpg"
+ },
+ {
+   "film": "To Be or Not to Be",
+   "director": "Ernst Lubitsch",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg"
+ },
+ {
+   "film": "Les visiteurs du soir",
+   "director": "Marcel Carné",
+   "list": "Made During World War II",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Visiteurs_du_soir.jpg"
+ }
+]
 }

@@ -1,259 +1,184 @@
 {
-  "FrenchNewWave": [
-    {
-      "title": "The 400 Blows",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg",
-      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows",
-      "director": "François Truffaut",
-      "country": "France,",
-      "year": "1959",
-      "spine": "5"
-    },
-    {
-      "title": "Alphaville",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg",
-      "director": "Jean-Luc Godard",
-      "criterionUrl": "https://www.criterion.com/films/207-alphaville"
-    },
-    {
-      "title": "The Bakery Girl of Monceau",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg",
-      "director": "Eric Rohmer",
-      "criterionUrl": "https://www.criterion.com/films/786-the-bakery-girl-of-monceau"
-    },
-    {
-      "title": "Band of Outsiders",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg",
-      "criterionUrl": "https://www.criterion.com/films/291-band-of-outsiders",
-      "director": "Jean-Luc Godard",
-      "country": "France,",
-      "year": "1964",
-      "spine": "174"
-    },
-    {
-      "title": "Bay of Angels",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bay_of_Angels.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27935-bay-of-angels",
-      "director": "Jacques Demy",
-      "country": "France,",
-      "year": "1963",
-      "spine": "715"
-    },
-    {
-      "title": "Le beau Serge",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beau_Serge.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27817-le-beau-serge",
-      "director": "Claude Chabrol",
-      "country": "France,",
-      "year": "1958",
-      "spine": "580"
-    },
-    {
-      "title": "Le bonheur",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bonheur.jpg",
-      "criterionUrl": "https://www.criterion.com/films/525-le-bonheur",
-      "director": "Agnès Varda",
-      "country": "France,",
-      "year": "1965",
-      "spine": "420"
-    },
-    {
-      "title": "Breathless",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg",
-      "criterionUrl": "https://www.criterion.com/films/268-breathless",
-      "director": "Jean-Luc Godard",
-      "country": "France,",
-      "year": "1960",
-      "spine": "408"
-    },
-    {
-      "title": "Chronicle of a Summer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28394-chronicle-of-a-summer",
-      "director": "Jean Rouch and Edgar Morin",
-      "country": "France,",
-      "year": "1961",
-      "spine": "648"
-    },
-    {
-      "title": "Cléo from 5 to 7",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cleo_from_5_to_7.jpg",
-      "criterionUrl": "https://www.criterion.com/films/244-cl-o-from-5-to-7",
-      "director": "Agnès Varda",
-      "country": "France,",
-      "year": "1962",
-      "spine": "73"
-    },
-    {
-      "title": "Contempt",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Contempt.jpg",
-      "director": "Jean-Luc Godard",
-      "criterionUrl": "https://www.criterion.com/films/239-contempt"
-    },
-    {
-      "title": "Les cousins",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cousins.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27816-les-cousins",
-      "director": "Claude Chabrol",
-      "country": "France,",
-      "year": "1959",
-      "spine": "581"
-    },
-    {
-      "title": "Les créatures",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Les_creatures.jpg",
-      "director": "Agnès Varda",
-      "criterionUrl": "https://www.criterion.com/films/30905-les-cr-atures"
-    },
-    {
-      "title": "The Fire Within",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fire_Within.jpg",
-      "criterionUrl": "https://www.criterion.com/films/540-the-fire-within",
-      "director": "Louis Malle",
-      "country": "France,",
-      "year": "1963",
-      "spine": "430"
-    },
-    {
-      "title": "Hiroshima mon amour",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hiroshima_mon_amour.jpg",
-      "criterionUrl": "https://www.criterion.com/films/217-hiroshima-mon-amour",
-      "director": "Alain Resnais",
-      "country": "France,",
-      "year": "1959",
-      "spine": "196"
-    },
-    {
-      "title": "Jules and Jim",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jules_and_Jim.jpg",
-      "criterionUrl": "https://www.criterion.com/films/218-jules-and-jim",
-      "director": "François Truffaut",
-      "country": "France,",
-      "year": "1962",
-      "spine": "281"
-    },
-    {
-      "title": "Last Year at Marienbad",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Year_at_Marienbad.jpg",
-      "criterionUrl": "https://www.criterion.com/films/1517-last-year-at-marienbad",
-      "director": "AAlain Resnais",
-      "country": "France,",
-      "year": "1961",
-      "spine": "478"
-    },
-    {
-      "title": "Lola",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27932-lola",
-      "director": "Jacques Demy",
-      "country": "France,",
-      "year": "1961",
-      "spine": "714"
-    },
-    {
-      "title": "Masculin féminin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Masculin_feminin.jpg",
-      "criterionUrl": "https://www.criterion.com/films/508-masculin-f-minin",
-      "director": "Jean-Luc Godard",
-      "country": "France,",
-      "year": "1966",
-      "spine": "308"
-    },
-    {
-      "title": "Muriel, or The Time of Return",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Muriel_or_The_Time_of_Return.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28635-muriel-or-the-time-of-return",
-      "director": "Alain Resnais",
-      "country": "France,",
-      "year": "1963",
-      "spine": "824"
-    },
-    {
-      "title": "Paris Belongs to Us",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Belongs_to_Us.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27724-paris-belongs-to-us",
-      "director": "Jacques Rivette",
-      "country": "France,",
-      "year": "1961",
-      "spine": "802"
-    },
-    {
-      "title": "Pierrot le fou",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg",
-      "director": "Jean-Luc Godard",
-      "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou"
-    },
-    {
-      "title": "Shoot the Piano Player",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoot_the_Piano_Player.jpg",
-      "criterionUrl": "https://www.criterion.com/films/764-shoot-the-piano-player",
-      "director": "François Truffaut",
-      "country": "France,",
-      "year": "1960",
-      "spine": "315"
-    },
-    {
-      "title": "The Soft Skin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Soft_Skin.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27640-the-soft-skin",
-      "director": "François Truffaut",
-      "country": "France,",
-      "year": "1964",
-      "spine": "749"
-    },
-    {
-      "title": "Suzanne's Career",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suzannes_Career.jpg",
-      "director": "Eric Rohmer",
-      "criterionUrl": "https://www.criterion.com/films/787-suzanne-s-career"
-    },
-    {
-      "title": "The Umbrellas of Cherbourg",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umbrellas_of_Cherbourg.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27933-the-umbrellas-of-cherbourg",
-      "director": "Jacques Demy",
-      "country": "France,",
-      "year": "1964",
-      "spine": "716"
-    },
-    {
-      "title": "Vivre sa vie",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vivre_sa_vie.jpg",
-      "criterionUrl": "https://www.criterion.com/films/3060-vivre-sa-vie",
-      "director": "Jean-Luc Godard",
-      "country": "France,",
-      "year": "1962",
-      "spine": "512"
-    },
-    {
-      "title": "Weekend",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend_1967.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28441-weekend",
-      "director": "Jean-Luc Godard",
-      "country": "France,",
-      "year": "1967",
-      "spine": "635"
-    },
-    {
-      "title": "Who Are You, Polly Maggoo?",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Who_Are_You_Polly_Maggoo.jpg",
-      "director": "William Klein",
-      "criterionUrl": "https://www.criterion.com/films/902-who-are-you-polly-maggoo"
-    },
-    {
-      "title": "A Woman is a Woman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_is_a_Woman.jpg",
-      "director": "Jean-Luc Godard",
-      "criterionUrl": "https://www.criterion.com/films/854-a-woman-is-a-woman"
-    },
-    {
-      "title": "The Young Girls of Rochefort",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Girls_of_Rochefort.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort",
-      "director": "Jacques Demy",
-      "country": "France,",
-      "year": "1967",
-      "spine": "717"
-    }
-  ]
+"FrenchNewWave": [
+ {
+   "film": "Le beau Serge",
+   "director": "Claude Chabrol",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beau_Serge.jpg"
+ },
+ {
+   "film": "Les cousins",
+   "director": "Claude Chabrol",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cousins.jpg"
+ },
+ {
+   "film": "The 400 Blows",
+   "director": "François Truffaut",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg"
+ },
+ {
+   "film": "Hiroshima mon amour",
+   "director": "Alain Resnais",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hiroshima_mon_amour.jpg"
+ },
+ {
+   "film": "Breathless",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg"
+ },
+ {
+   "film": "Shoot the Piano Player",
+   "director": "François Truffaut",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoot_the_Piano_Player.jpg"
+ },
+ {
+   "film": "Chronicle of a Summer",
+   "director": "Jean Rouch and Edgar Morin",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg"
+ },
+ {
+   "film": "Last Year at Marienbad",
+   "director": "Alain Resnais",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Year_at_Marienbad.jpg"
+ },
+ {
+   "film": "Lola",
+   "director": "Jacques Demy",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola.jpg"
+ },
+ {
+   "film": "Paris Belongs to Us",
+   "director": "Jacques Rivette",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Belongs_to_Us.jpg"
+ },
+ {
+   "film": "A Woman Is a Woman",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_is_a_Woman.jpg"
+ },
+ {
+   "film": "Cléo from 5 to 7",
+   "director": "Agnès Varda",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cleo_from_5_to_7.jpg"
+ },
+ {
+   "film": "Jules and Jim",
+   "director": "François Truffaut",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jules_and_Jim.jpg"
+ },
+ {
+   "film": "The Bakery Girl of Monceau",
+   "director": "Eric Rohmer",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg"
+ },
+ {
+   "film": "Vivre sa vie",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vivre_sa_vie.jpg"
+ },
+ {
+   "film": "Contempt",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Contempt.jpg"
+ },
+ {
+   "film": "Bay of Angels",
+   "director": "Jacques Demy",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bay_of_Angels.jpg"
+ },
+ {
+   "film": "The Fire Within",
+   "director": "Louis Malle",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fire_Within.jpg"
+ },
+ {
+   "film": "Muriel, or The Time of Return",
+   "director": "Alain Resnais",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Muriel_or_The_Time_of_Return.jpg"
+ },
+ {
+   "film": "Suzanne’s Career",
+   "director": "Eric Rohmer",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suzannes_Career.jpg"
+ },
+ {
+   "film": "Band of Outsiders",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg"
+ },
+ {
+   "film": "The Soft Skin",
+   "director": "François Truffaut",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Soft_Skin.jpg"
+ },
+ {
+   "film": "The Umbrellas of Cherbourg",
+   "director": "Jacques Demy",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umbrellas_of_Cherbourg.jpg"
+ },
+ {
+   "film": "Alphaville",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg"
+ },
+ {
+   "film": "Le bonheur",
+   "director": "Agnès Varda",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bonheur.jpg"
+ },
+ {
+   "film": "Pierrot le fou",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
+ },
+ {
+   "film": "Masculin féminin",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Masculin_feminin.jpg"
+ },
+ {
+   "film": "Who Are You, Polly Maggoo?",
+   "director": "William Klein",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Who_Are_You_Polly_Maggoo.jpg"
+ },
+ {
+   "film": "The Young Girls of Rochefort",
+   "director": "Jacques Demy",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Girls_of_Rochefort.jpg"
+ },
+ {
+   "film": "Weekend",
+   "director": "Jean-Luc Godard",
+   "list": "French New Wave",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend_1967.jpg"
+ }
+]
 }

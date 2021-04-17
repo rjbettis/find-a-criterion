@@ -1,571 +1,472 @@
 {
-  "Cut": [
-    {
-      "title": "Amarcord",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amarcord.jpg",
-      "director": "Federico Fellini",
-      "criterionUrl": "https://www.criterion.com/films/208-amarcord",
-      "directorLink": ""
-    },
-    {
-      "title": "An Angel at My Table",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Angel_at_My_Table.jpg",
-      "director": "Jane Campion",
-      "criterionUrl": "https://www.criterion.com/films/742-an-angel-at-my-table",
-      "directorLink": ""
-    },
-    {
-      "title": "Arabian Nights",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Arabian_Nights.jpg",
-      "director": "Pier Paolo Pasolini",
-      "criterionUrl": "https://www.criterion.com/films/28374-arabian-nights",
-      "directorLink": ""
-    },
-    {
-      "title": "Armageddon",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Armageddon.jpg",
-      "director": "Michael Bay",
-      "criterionUrl": "https://www.criterion.com/films/578-armageddon",
-      "directorLink": ""
-    },
-    {
-      "title": "Bad Timing",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Timing.jpg",
-      "director": "Nicolas Roeg",
-      "criterionUrl": "https://www.criterion.com/films/744-bad-timing",
-      "directorLink": ""
-    },
-    {
-      "title": "Barcelona",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Barcelona.jpg",
-      "director": "Whit Stillman",
-      "criterionUrl": "https://www.criterion.com/films/28691-barcelona",
-      "directorLink": ""
-    },
-    {
-      "title": "The Big Chill",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Chill.jpg",
-      "director": "Lawrence Kasdan",
-      "criterionUrl": "https://www.criterion.com/films/28610-the-big-chill",
-      "directorLink": ""
-    },
-    {
-      "title": "Border Radio",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Border_Radio.jpg",
-      "director": "Allison Anders, Dean Lent, and Kurt Voss",
-      "criterionUrl": "https://www.criterion.com/films/802-border-radio",
-      "directorLink": ""
-    },
-    {
-      "title": "Bottle Rocket",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg",
-      "director": "Wes Anderson",
-      "criterionUrl": "https://www.criterion.com/films/594-bottle-rocket",
-      "directorLink": ""
-    },
-    {
-      "title": "Brand upon the Brain!",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brand_upon_the_Brain.jpg",
-      "director": "Guy Maddin",
-      "criterionUrl": "https://www.criterion.com/films/746-brand-upon-the-brain",
-      "directorLink": ""
-    },
-    {
-      "title": "The Breakfast Club",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breakfast_Club.jpg",
-      "director": "John Hughes",
-      "criterionUrl": "https://www.criterion.com/films/29272-the-breakfast-club",
-      "directorLink": ""
-    },
-    {
-      "title": "Broadcast News",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Broadcast_News.jpg",
-      "director": "James L. Brooks",
-      "criterionUrl": "https://www.criterion.com/films/27535-broadcast-news",
-      "directorLink": ""
-    },
-    {
-      "title": "Burden of Dreams",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burden_of_Dreams.jpg",
-      "director": "Les Blank",
-      "criterionUrl": "https://www.criterion.com/films/546-burden-of-dreams",
-      "directorLink": ""
-    },
-    {
-      "title": "Carnival of Souls",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carnival_of_Souls.jpg",
-      "director": "Herk Harvey",
-      "criterionUrl": "https://www.criterion.com/films/607-carnival-of-souls",
-      "directorLink": ""
-    },
-    {
-      "title": "Chasing Amy",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chasing_Amy.jpg",
-      "director": "Kevin Smith",
-      "criterionUrl": "https://www.criterion.com/films/615-chasing-amy",
-      "directorLink": ""
-    },
-    {
-      "title": "Che",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Che.jpg",
-      "director": "Steven Soderbergh",
-      "criterionUrl": "https://www.criterion.com/films/20987-che",
-      "directorLink": ""
-    },
-    {
-      "title": "The Complete Films of Agnès Varda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Complete_Films_of_Agnes_Varda.jpg",
-      "director": "Agnès Varda",
-      "criterionUrl": "https://www.criterion.com/boxsets/3432-the-complete-films-of-agn-s-varda",
-      "directorLink": ""
-    },
-    {
-      "title": "The Complete Mr. Arkadin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Complete_Mr_Arkadin.jpg",
-      "director": "Orson Welles",
-      "criterionUrl": "https://www.criterion.com/films/767-the-complete-mr-arkadin",
-      "directorLink": ""
-    },
-    {
-      "title": "Corridors of Blood",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Corridors_of_Blood.jpg",
-      "director": "Robert Day",
-      "criterionUrl": "https://www.criterion.com/films/806-corridors-of-blood",
-      "directorLink": ""
-    },
-    {
-      "title": "The Darjeeling Limited",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Darjeeling_Limited.jpg",
-      "director": "Wes Anderson",
-      "criterionUrl": "https://www.criterion.com/films/27520-the-darjeeling-limited",
-      "directorLink": ""
-    },
-    {
-      "title": "A Day in the Country",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Day_in_the_Country.jpg",
-      "director": "Jean Renoir",
-      "criterionUrl": "https://www.criterion.com/films/28072-a-day-in-the-country",
-      "directorLink": ""
-    },
-    {
-      "title": "Dazed and Confused",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dazed_and_Confused.jpg",
-      "director": "Richard Linklater",
-      "criterionUrl": "https://www.criterion.com/films/314-dazed-and-confused",
-      "directorLink": ""
-    },
-    {
-      "title": "The Devil’s Backbone",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devils_Backbone.jpg",
-      "director": "Guillermo del Toro",
-      "criterionUrl": "https://www.criterion.com/films/27914-the-devil-s-backbone",
-      "directorLink": ""
-    },
-    {
-      "title": "Down by Law",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Down_by_Law.jpg",
-      "director": "Jim Jarmusch",
-      "criterionUrl": "https://www.criterion.com/films/719-down-by-law",
-      "directorLink": ""
-    },
-    {
-      "title": "Eating Raoul",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Eating_Raoul.jpg",
-      "director": "Paul Bartel",
-      "criterionUrl": "https://www.criterion.com/films/27767-eating-raoul",
-      "directorLink": ""
-    },
-    {
-      "title": "Equinox",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Equinox.jpg",
-      "director": "Jack Woods",
-      "criterionUrl": "https://www.criterion.com/films/780-equinox",
-      "directorLink": ""
-    },
-    {
-      "title": "Fear and Loathing in Las Vegas",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fear_and_Loathing_in_Las_Vegas.jpg",
-      "director": "Terry Gilliam",
-      "criterionUrl": "https://www.criterion.com/films/215-fear-and-loathing-in-las-vegas",
-      "directorLink": ""
-    },
-    {
-      "title": "The Fisher King",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fisher_King.jpg",
-      "director": "Terry Gilliam",
-      "criterionUrl": "https://www.criterion.com/films/28719-the-fisher-king",
-      "directorLink": ""
-    },
-    {
-      "title": "George Washington",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/George_Washington.jpg",
-      "director": "David Gordon Green",
-      "criterionUrl": "https://www.criterion.com/films/691-george-washington",
-      "directorLink": ""
-    },
-    {
-      "title": "Gimme Shelter",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gimme_Shelter.jpg",
-      "director": "David Maysles, Albert Maysles, and Charlotte Zwerin",
-      "criterionUrl": "https://www.criterion.com/films/637-gimme-shelter",
-      "directorLink": ""
-    },
-    {
-      "title": "Gomorrah",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gomorrah.jpg",
-      "director": "Matteo Garrone",
-      "criterionUrl": "https://www.criterion.com/films/1590-gomorrah",
-      "directorLink": ""
-    },
-    {
-      "title": "The Great Dictator",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Great_Dictator.jpg",
-      "director": "Charles Chaplin",
-      "criterionUrl": "https://www.criterion.com/films/27605-the-great-dictator",
-      "directorLink": ""
-    },
-    {
-      "title": "La haine",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haine.jpg",
-      "director": "Mathieu Kassovitz",
-      "criterionUrl": "https://www.criterion.com/films/216-la-haine",
-      "directorLink": ""
-    },
-    {
-      "title": "Harlan County USA",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harlan_County_USA.jpg",
-      "director": "Barbara Kopple",
-      "criterionUrl": "https://www.criterion.com/films/777-harlan-county-usa",
-      "directorLink": ""
-    },
-    {
-      "title": "The Haunted Strangler",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haunted_Strangler.jpg",
-      "director": "Robert Day",
-      "criterionUrl": "https://www.criterion.com/films/805-the-haunted-strangler",
-      "directorLink": ""
-    },
-    {
-      "title": "Häxan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg",
-      "director": "Benjamin Christensen",
-      "criterionUrl": "https://www.criterion.com/films/352-h-xan",
-      "directorLink": ""
-    },
-    {
-      "title": "I Am Curious—Blue",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Curious_Blue.jpg",
-      "director": "Vilgot Sjöman",
-      "criterionUrl": "https://www.criterion.com/films/729-i-am-curious-blue",
-      "directorLink": ""
-    },
-    {
-      "title": "The Ice Storm",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ice_Storm.jpg",
-      "director": "Ang Lee",
-      "criterionUrl": "https://www.criterion.com/films/336-the-ice-storm",
-      "directorLink": ""
-    },
-    {
-      "title": "In the Mood for Love",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Mood_for_Love.jpg",
-      "director": "Wong Kar-wai",
-      "criterionUrl": "https://www.criterion.com/films/198-in-the-mood-for-love",
-      "directorLink": ""
-    },
-    {
-      "title": "In the Realm of the Senses",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Realm_of_the_Senses.jpg",
-      "director": "Nagisa Oshima",
-      "criterionUrl": "https://www.criterion.com/films/1287-in-the-realm-of-the-senses",
-      "directorLink": ""
-    },
-    {
-      "title": "Ivan the Terrible, Part I",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ivan_the_Terrible_Part_I.jpg",
-      "director": "Sergei Eisenstein",
-      "criterionUrl": "https://www.criterion.com/films/625-ivan-the-terrible-part-i",
-      "directorLink": ""
-    },
-    {
-      "title": "Kicking and Screaming",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kicking_and_Screaming.jpg",
-      "director": "Noah Baumbach",
-      "criterionUrl": "https://www.criterion.com/films/795-kicking-and-screaming",
-      "directorLink": ""
-    },
-    {
-      "title": "The Killer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killer.jpg",
-      "director": "John Woo",
-      "criterionUrl": "https://www.criterion.com/films/231-the-killer",
-      "directorLink": ""
-    },
-    {
-      "title": "The Last Days of Disco",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Days_of_Disco.jpg",
-      "director": "Whit Stillman",
-      "criterionUrl": "https://www.criterion.com/films/2954-the-last-days-of-disco",
-      "directorLink": ""
-    },
-    {
-      "title": "The Last Metro",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Metro.jpg",
-      "director": "François Truffaut",
-      "criterionUrl": "https://www.criterion.com/films/1084-the-last-metro",
-      "directorLink": ""
-    },
-    {
-      "title": "The Life Aquatic with Steve Zissou",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Aquatic_with_Steve_Zissou.jpg",
-      "director": "Wes Anderson",
-      "criterionUrl": "https://www.criterion.com/films/741-the-life-aquatic-with-steve-zissou",
-      "directorLink": ""
-    },
-    {
-      "title": "Lord of the Flies",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lord_of_the_Flies.jpg",
-      "director": "Peter Brook",
-      "criterionUrl": "https://www.criterion.com/films/563-lord-of-the-flies",
-      "directorLink": ""
-    },
-    {
-      "title": "Loves of a Blonde",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Loves_of_a_Blonde.jpg",
-      "director": "Miloš Forman",
-      "criterionUrl": "https://www.criterion.com/films/246-loves-of-a-blonde",
-      "directorLink": ""
-    },
-    {
-      "title": "Maurice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Maurice.jpg",
-      "director": "James Ivory",
-      "criterionUrl": "https://www.criterion.com/films/1516-maurice",
-      "directorLink": ""
-    },
-    {
-      "title": "Metropolitan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Metropolitan.jpg",
-      "director": "Whit Stillman",
-      "criterionUrl": "https://www.criterion.com/films/774-metropolitan",
-      "directorLink": ""
-    },
-    {
-      "title": "The Mikado",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mikado.jpg",
-      "director": "Victor Schertzinger",
-      "criterionUrl": "https://www.criterion.com/films/27551-the-mikado",
-      "directorLink": ""
-    },
-    {
-      "title": "Monterey Pop",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monterey_Pop.jpg",
-      "director": "D. A. Pennebaker",
-      "criterionUrl": "https://www.criterion.com/films/720-monterey-pop",
-      "directorLink": ""
-    },
-    {
-      "title": "Monty Python’s Life of Brian",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monty_Pythons_Life_of_Brian.jpg",
-      "director": "Terry Jones",
-      "criterionUrl": "https://www.criterion.com/films/606-monty-python-s-life-of-brian",
-      "directorLink": ""
-    },
-    {
-      "title": "My Man Godfrey",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg",
-      "director": "Gregory La Cava",
-      "criterionUrl": "https://www.criterion.com/films/653-my-man-godfrey",
-      "directorLink": ""
-    },
-    {
-      "title": "My Own Private Idaho",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Own_Private_Idaho.jpg",
-      "director": "Gus Van Sant",
-      "criterionUrl": "https://www.criterion.com/films/249-my-own-private-idaho",
-      "directorLink": ""
-    },
-    {
-      "title": "The Night of the Hunter",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_of_the_Hunter.jpg",
-      "director": "Charles Laughton",
-      "criterionUrl": "https://www.criterion.com/films/27525-the-night-of-the-hunter",
-      "directorLink": ""
-    },
-    {
-      "title": "À nous la liberté",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nous_la_liberte.jpg",
-      "director": "René Clair",
-      "criterionUrl": "https://www.criterion.com/films/714--nous-la-libert",
-      "directorLink": ""
-    },
-    {
-      "title": "Paris, Texas",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg",
-      "director": "Wim Wenders",
-      "criterionUrl": "https://www.criterion.com/films/1502-paris-texas",
-      "directorLink": ""
-    },
-    {
-      "title": "Pina",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pina.jpg",
-      "director": "Wim Wenders",
-      "criterionUrl": "https://www.criterion.com/films/28404-pina",
-      "directorLink": ""
-    },
-    {
-      "title": "The Player",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Player.jpg",
-      "director": "Robert Altman",
-      "criterionUrl": "https://www.criterion.com/films/28835-the-player",
-      "directorLink": ""
-    },
-    {
-      "title": "Il posto",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Posto.jpg",
-      "director": "Ermanno Olmi",
-      "criterionUrl": "https://www.criterion.com/films/364-il-posto",
-      "directorLink": ""
-    },
-    {
-      "title": "Repo Man",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repo_Man.jpg",
-      "director": "Alex Cox",
-      "criterionUrl": "https://www.criterion.com/films/28051-repo-man",
-      "directorLink": ""
-    },
-    {
-      "title": "The Rock",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rock.jpg",
-      "director": "Michael Bay",
-      "criterionUrl": "https://www.criterion.com/films/649-the-rock",
-      "directorLink": ""
-    },
-    {
-      "title": "The Royal Tenenbaums",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg",
-      "director": "Wes Anderson",
-      "criterionUrl": "https://www.criterion.com/films/230-the-royal-tenenbaums",
-      "directorLink": ""
-    },
-    {
-      "title": "A Safe Place",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Safe_Place.jpg",
-      "director": "Henry Jaglom",
-      "criterionUrl": "https://www.criterion.com/films/27531-a-safe-place",
-      "directorLink": ""
-    },
-    {
-      "title": "Short Cuts",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Short_Cuts.jpg",
-      "director": "Robert Altman",
-      "criterionUrl": "https://www.criterion.com/films/376-short-cuts",
-      "directorLink": ""
-    },
-    {
-      "title": "The Silence of the Lambs",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Silence_of_the_Lambs.jpg",
-      "director": "Jonathan Demme",
-      "criterionUrl": "https://www.criterion.com/films/528-the-silence-of-the-lambs",
-      "directorLink": ""
-    },
-    {
-      "title": "Slacker",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Slacker.jpg",
-      "director": "Richard Linklater",
-      "criterionUrl": "https://www.criterion.com/films/408-slacker",
-      "directorLink": ""
-    },
-    {
-      "title": "Solaris",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Solaris.jpg",
-      "director": "Andrei Tarkovsky",
-      "criterionUrl": "https://www.criterion.com/films/553-solaris",
-      "directorLink": ""
-    },
-    {
-      "title": "Spartacus",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spartacus.jpg",
-      "director": "Stanley Kubrick",
-      "criterionUrl": "https://www.criterion.com/films/449-spartacus",
-      "directorLink": ""
-    },
-    {
-      "title": "The Thin Red Line",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thin_Red_Line.jpg",
-      "director": "Terrence Malick",
-      "criterionUrl": "https://www.criterion.com/films/27513-the-thin-red-line",
-      "directorLink": ""
-    },
-    {
-      "title": "This Is Spinal Tap",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Is_Spinal_Tap.jpg",
-      "director": "Rob Reiner",
-      "criterionUrl": "https://www.criterion.com/films/317-this-is-spinal-tap",
-      "directorLink": ""
-    },
-    {
-      "title": "The Tin Drum",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg",
-      "director": "Volker Schlöndorff",
-      "criterionUrl": "https://www.criterion.com/films/789-the-tin-drum",
-      "directorLink": ""
-    },
-    {
-      "title": "Tootsie",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tootsie.jpg",
-      "director": "Sydney Pollack",
-      "criterionUrl": "https://www.criterion.com/films/28609-tootsie",
-      "directorLink": ""
-    },
-    {
-      "title": "Topsy-Turvy",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Topsy_Turvy.jpg",
-      "director": "Mike Leigh",
-      "criterionUrl": "https://www.criterion.com/films/27550-topsy-turvy",
-      "directorLink": ""
-    },
-    {
-      "title": "Traffic",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Traffic.jpg",
-      "director": "Steven Soderbergh",
-      "criterionUrl": "https://www.criterion.com/films/381-traffic",
-      "directorLink": ""
-    },
-    {
-      "title": "Twin Peaks: Fire Walk with Me",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Twin_Peaks_Fire_Walk_with_Me.jpg",
-      "director": "David Lynch",
-      "criterionUrl": "https://www.criterion.com/films/29237-twin-peaks-fire-walk-with-me",
-      "directorLink": ""
-    },
-    {
-      "title": "The War Room",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/War_Room.jpg",
-      "director": "Chris Hegedus and D. A. Pennebaker",
-      "criterionUrl": "https://www.criterion.com/films/28029-the-war-room",
-      "directorLink": ""
-    },
-    {
-      "title": "White Material",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Material.jpg",
-      "director": "Claire Denis",
-      "criterionUrl": "https://www.criterion.com/films/27559-white-material",
-      "directorLink": ""
-    },
-    {
-      "title": "Wings of Desire",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wings_of_Desire.jpg",
-      "director": "Wim Wenders",
-      "criterionUrl": "https://www.criterion.com/films/200-wings-of-desire",
-      "directorLink": ""
-    },
-    {
-      "title": "Y tu mamá también",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Y_tu_mama_tambien.jpg",
-      "director": "Alfonso Cuarón",
-      "criterionUrl": "https://www.criterion.com/films/28005-y-tu-mam-tambi-n",
-      "directorLink": ""
-    }
-  ]
+"Cut": [
+ {
+   "film": "À nous la liberté",
+   "director": "René Clair",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nous_la_liberte.jpg"
+ },
+ {
+   "film": "Amarcord",
+   "director": "Federico Fellini",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amarcord.jpg"
+ },
+ {
+   "film": "An Angel at My Table",
+   "director": "Jane Campion",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Angel_at_My_Table.jpg"
+ },
+ {
+   "film": "Arabian Nights",
+   "director": "Pier Paolo Pasolini",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Arabian_Nights.jpg"
+ },
+ {
+   "film": "Armageddon",
+   "director": "Michael Bay",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Armageddon.jpg"
+ },
+ {
+   "film": "Bad Timing",
+   "director": "Nicolas Roeg",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Timing.jpg"
+ },
+ {
+   "film": "Barcelona",
+   "director": "Whit Stillman",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Barcelona.jpg"
+ },
+ {
+   "film": "The Big Chill",
+   "director": "Lawrence Kasdan",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Chill.jpg"
+ },
+ {
+   "film": "Border Radio",
+   "director": "Allison Anders, Dean Lent and Kurt Voss",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Border_Radio.jpg"
+ },
+ {
+   "film": "Bottle Rocket",
+   "director": "Wes Anderson",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
+ },
+ {
+   "film": "Brand upon the Brain!",
+   "director": "Guy Maddin",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brand_upon_the_Brain.jpg"
+ },
+ {
+   "film": "Broadcast News",
+   "director": "James L. Brooks",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Broadcast_News.jpg"
+ },
+ {
+   "film": "Burden of Dreams",
+   "director": "Les Blank",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burden_of_Dreams.jpg"
+ },
+ {
+   "film": "Carnival of Souls",
+   "director": "Herk Harvey",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carnival_of_Souls.jpg"
+ },
+ {
+   "film": "Chasing Amy",
+   "director": "Kevin Smith",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chasing_Amy.jpg"
+ },
+ {
+   "film": "Che",
+   "director": "Steven Soderbergh",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Che.jpg"
+ },
+ {
+   "film": "The Complete Mr. Arkadin",
+   "director": "Orson Welles",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Complete_Mr_Arkadin.jpg"
+ },
+ {
+   "film": "Corridors of Blood",
+   "director": "Robert Day",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Corridors_of_Blood.jpg"
+ },
+ {
+   "film": "The Darjeeling Limited",
+   "director": "Wes Anderson",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Darjeeling_Limited.jpg"
+ },
+ {
+   "film": "A Day in the Country",
+   "director": "Jean Renoir",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Day_in_the_Country.jpg"
+ },
+ {
+   "film": "Dazed and Confused",
+   "director": "Richard Linklater",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dazed_and_Confused.jpg"
+ },
+ {
+   "film": "The Devil’s Backbone",
+   "director": "Guillermo del Toro",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devils_Backbone.jpg"
+ },
+ {
+   "film": "Down by Law",
+   "director": "Jim Jarmusch",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Down_by_Law.jpg"
+ },
+ {
+   "film": "Eating Raoul",
+   "director": "Paul Bartel",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Eating_Raoul.jpg"
+ },
+ {
+   "film": "Equinox",
+   "director": "Jack Woods",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Equinox.jpg"
+ },
+ {
+   "film": "Fear and Loathing in Las Vegas",
+   "director": "Terry Gilliam",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fear_and_Loathing_in_Las_Vegas.jpg"
+ },
+ {
+   "film": "The Fisher King",
+   "director": "Terry Gilliam",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fisher_King.jpg"
+ },
+ {
+   "film": "George Washington",
+   "director": "David Gordon Green",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/George_Washington.jpg"
+ },
+ {
+   "film": "Gimme Shelter",
+   "director": "David Maysles, Albert Maysles and Charlotte Zwerin",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gimme_Shelter.jpg"
+ },
+ {
+   "film": "Gomorrah",
+   "director": "Matteo Garrone",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gomorrah.jpg"
+ },
+ {
+   "film": "The Great Dictator",
+   "director": "Charles Chaplin",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Great_Dictator.jpg"
+ },
+ {
+   "film": "La haine",
+   "director": "Mathieu Kassovitz",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haine.jpg"
+ },
+ {
+   "film": "Harlan County USA",
+   "director": "Barbara Kopple",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harlan_County_USA.jpg"
+ },
+ {
+   "film": "The Haunted Strangler",
+   "director": "Robert Day",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haunted_Strangler.jpg"
+ },
+ {
+   "film": "Häxan",
+   "director": "Benjamin Christensen",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg"
+ },
+ {
+   "film": "I Am Curious—Blue",
+   "director": "Vilgot Sjöman",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Curious_Blue.jpg"
+ },
+ {
+   "film": "The Ice Storm",
+   "director": "Ang Lee",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ice_Storm.jpg"
+ },
+ {
+   "film": "In the Mood for Love",
+   "director": "Wong Kar-wai",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Mood_for_Love.jpg"
+ },
+ {
+   "film": "In the Realm of the Senses",
+   "director": "Nagisa Oshima",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Realm_of_the_Senses.jpg"
+ },
+ {
+   "film": "Ivan the Terrible, Part I",
+   "director": "Sergei Eisenstein",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ivan_the_Terrible_Part_I.jpg"
+ },
+ {
+   "film": "Kicking and Screaming",
+   "director": "Noah Baumbach",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kicking_and_Screaming.jpg"
+ },
+ {
+   "film": "The Killer",
+   "director": "John Woo",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killer.jpg"
+ },
+ {
+   "film": "The Last Days of Disco",
+   "director": "Whit Stillman",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Days_of_Disco.jpg"
+ },
+ {
+   "film": "The Last Metro",
+   "director": "François Truffaut",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Metro.jpg"
+ },
+ {
+   "film": "The Life Aquatic with Steve Zissou",
+   "director": "Wes Anderson",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Aquatic_with_Steve_Zissou.jpg"
+ },
+ {
+   "film": "Lord of the Flies",
+   "director": "Peter Brook",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lord_of_the_Flies.jpg"
+ },
+ {
+   "film": "Loves of a Blonde",
+   "director": "Miloš Forman",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Loves_of_a_Blonde.jpg"
+ },
+ {
+   "film": "Maurice",
+   "director": "James Ivory",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Maurice.jpg"
+ },
+ {
+   "film": "Metropolitan",
+   "director": "Whit Stillman",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Metropolitan.jpg"
+ },
+ {
+   "film": "The Mikado",
+   "director": "Victor Schertzinger",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mikado.jpg"
+ },
+ {
+   "film": "Monterey Pop",
+   "director": "D. A. Pennebaker",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monterey_Pop.jpg"
+ },
+ {
+   "film": "Monty Python’s Life of Brian",
+   "director": "Terry Jones",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monty_Pythons_Life_of_Brian.jpg"
+ },
+ {
+   "film": "My Man Godfrey",
+   "director": "Gregory La Cava",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg"
+ },
+ {
+   "film": "My Own Private Idaho",
+   "director": "Gus Van Sant",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Own_Private_Idaho.jpg"
+ },
+ {
+   "film": "The Night of the Hunter",
+   "director": "Charles Laughton",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_of_the_Hunter.jpg"
+ },
+ {
+   "film": "Paris, Texas",
+   "director": "Wim Wenders",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg"
+ },
+ {
+   "film": "The Player",
+   "director": "Robert Altman",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Player.jpg"
+ },
+ {
+   "film": "Pina",
+   "director": "Wim Wenders",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pina.jpg"
+ },
+ {
+   "film": "Il posto",
+   "director": "Ermanno Olmi",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Posto.jpg"
+ },
+ {
+   "film": "Repo Man",
+   "director": "Alex Cox",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repo_Man.jpg"
+ },
+ {
+   "film": "The Rock",
+   "director": "Michael Bay",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rock.jpg"
+ },
+ {
+   "film": "The Royal Tenenbaums",
+   "director": "Wes Anderson",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg"
+ },
+ {
+   "film": "A Safe Place",
+   "director": "Henry Jaglom",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Safe_Place.jpg"
+ },
+ {
+   "film": "Short Cuts",
+   "director": "Robert Altman",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Short_Cuts.jpg"
+ },
+ {
+   "film": "The Silence of the Lambs",
+   "director": "Jonathan Demme",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Silence_of_the_Lambs.jpg"
+ },
+ {
+   "film": "Slacker",
+   "director": "Richard Linklater",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Slacker.jpg"
+ },
+ {
+   "film": "Solaris",
+   "director": "Andrei Tarkovsky",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Solaris.jpg"
+ },
+ {
+   "film": "Spartacus",
+   "director": "Stanley Kubrick",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spartacus.jpg"
+ },
+ {
+   "film": "The Thin Red Line",
+   "director": "Terrence Malick",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thin_Red_Line.jpg"
+ },
+ {
+   "film": "This Is Spinal Tap",
+   "director": "Rob Reiner",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Is_Spinal_Tap.jpg"
+ },
+ {
+   "film": "The Tin Drum",
+   "director": "Volker Schlöndorff",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg"
+ },
+ {
+   "film": "Tootsie",
+   "director": "Sydney Pollack",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tootsie.jpg"
+ },
+ {
+   "film": "Topsy-Turvy",
+   "director": "Mike Leigh",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Topsy_Turvy.jpg"
+ },
+ {
+   "film": "Traffic",
+   "director": "Steven Soderbergh",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Traffic.jpg"
+ },
+ {
+   "film": "The War Room",
+   "director": "Chris Hegedus and D. A. Pennebaker",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/War_Room.jpg"
+ },
+ {
+   "film": "White Material",
+   "director": "Claire Denis",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Material.jpg"
+ },
+ {
+   "film": "Wings of Desire",
+   "director": "Wim Wenders",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wings_of_Desire.jpg"
+ },
+ {
+   "film": "Y tu mamá también ",
+   "director": "Alfonso Cuarón",
+   "list": "Cut!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Y_tu_mama_tambien.jpg"
+ }
+]
 }

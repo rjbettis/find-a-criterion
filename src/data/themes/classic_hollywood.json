@@ -1,536 +1,298 @@
 {
-  "ClassicHollywood": [
-    {
-      "title": "12 Angry Men",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/12_Angry_Men.jpg",
-      "director": "Sidney Lumet",
-      "criterionUrl": "https://www.criterion.com/films/27871-12-angry-men",
-      "directorLink": ""
-    },
-    {
-      "title": "Ace in the Hole",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ace_in_the_Hole.jpg",
-      "director": "Billy Wilder",
-      "criterionUrl": "https://www.criterion.com/films/829-ace-in-the-hole",
-      "directorLink": ""
-    },
-    {
-      "title": "All About Eve",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_About_Eve.jpg",
-      "director": "Joseph L. Mankiewicz",
-      "criterionUrl": "https://www.criterion.com/films/29596-all-about-eve",
-      "directorLink": ""
-    },
-    {
-      "title": "All That Heaven Allows",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg",
-      "director": "Douglas Sirk",
-      "criterionUrl": "https://www.criterion.com/films/635-all-that-heaven-allows",
-      "directorLink": ""
-    },
-    {
-      "title": "Anatomy of a Murder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Anatomy_of_a_Murder.jpg",
-      "director": "Otto Preminger",
-      "criterionUrl": "https://www.criterion.com/films/27901-anatomy-of-a-murder",
-      "directorLink": ""
-    },
-    {
-      "title": "The Asphalt Jungle",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Asphalt_Jungle.jpg",
-      "director": "John Huston",
-      "criterionUrl": "https://www.criterion.com/films/28690-the-asphalt-jungle",
-      "directorLink": ""
-    },
-    {
-      "title": "The Awful Truth",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Awful_Truth.jpg",
-      "director": "Leo McCarey",
-      "criterionUrl": "https://www.criterion.com/films/27904-the-awful-truth",
-      "directorLink": ""
-    },
-    {
-      "title": "Bigger Than Life",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg",
-      "director": "Nicholas Ray",
-      "criterionUrl": "https://www.criterion.com/films/1929-bigger-than-life",
-      "directorLink": ""
-    },
-    {
-      "title": "Blonde Venus",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blonde_Venus.jpeg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/28981-blonde-venus",
-      "directorLink": ""
-    },
-    {
-      "title": "The Breaking Point",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_Point.jpg",
-      "director": "Michael Curtiz",
-      "criterionUrl": "https://www.criterion.com/films/28695-the-breaking-point",
-      "directorLink": ""
-    },
-    {
-      "title": "Cat People",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cat_People.jpg",
-      "director": "Jacques Tourneur",
-      "criterionUrl": "https://www.criterion.com/films/28696-cat-people",
-      "directorLink": ""
-    },
-    {
-      "title": "Cluny Brown",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cluny_Brown.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/28564-cluny-brown",
-      "directorLink": ""
-    },
-    {
-      "title": "Dance, Girl, Dance",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dance_Girl_Dance.jpg",
-      "director": "Dorothy Arzner",
-      "criterionUrl": "https://www.criterion.com/films/29633-dance-girl-dance",
-      "directorLink": ""
-    },
-    {
-      "title": "Design for Living",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Design_for_Living.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/27872-design-for-living",
-      "directorLink": ""
-    },
-    {
-      "title": "Destry Rides Again",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Destry_Rides_Again.jpg",
-      "director": "George Marshall",
-      "criterionUrl": "https://www.criterion.com/films/29002-destry-rides-again",
-      "directorLink": ""
-    },
-    {
-      "title": "The Devil and Daniel Webster",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_and_Daniel_Webster.jpg",
-      "director": "William Dieterle",
-      "criterionUrl": "https://www.criterion.com/films/622-the-devil-and-daniel-webster",
-      "directorLink": ""
-    },
-    {
-      "title": "The Devil is a Woman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_is_a_Woman.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/28983-the-devil-is-a-woman",
-      "directorLink": ""
-    },
-    {
-      "title": "Dishonored",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dishonored.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/28984-dishonored",
-      "directorLink": ""
-    },
-    {
-      "title": "The Docks of New York",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Docks_of_New_York.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/1942-the-docks-of-new-york",
-      "directorLink": ""
-    },
-    {
-      "title": "Foreign Correspondent",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/27692-foreign-correspondent",
-      "directorLink": ""
-    },
-    {
-      "title": "The Furies",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Furies.jpg",
-      "director": "Anthony Mann",
-      "criterionUrl": "https://www.criterion.com/films/596-the-furies",
-      "directorLink": ""
-    },
-    {
-      "title": "Gilda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gilda.jpg",
-      "director": "Charles Vidor",
-      "criterionUrl": "https://www.criterion.com/films/27909-gilda",
-      "directorLink": ""
-    },
-    {
-      "title": "Heaven Can Wait",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heaven_Can_Wait.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/878-heaven-can-wait",
-      "directorLink": ""
-    },
-    {
-      "title": "The Heiress",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heiress.jpg",
-      "director": "William Wyler",
-      "criterionUrl": "https://www.criterion.com/films/28986-the-heiress",
-      "directorLink": ""
-    },
-    {
-      "title": "Here Comes Mr. Jordan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Comes_Mr_Jordan.jpg",
-      "director": "Alexander Hall",
-      "criterionUrl": "https://www.criterion.com/films/27902-here-comes-mr-jordan",
-      "directorLink": ""
-    },
-    {
-      "title": "His Girl Friday",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/His_Girl_Friday.jpg",
-      "director": "Howard Hawks",
-      "criterionUrl": "https://www.criterion.com/films/27903-his-girl-friday",
-      "directorLink": ""
-    },
-    {
-      "title": "Holiday",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Holiday.jpg",
-      "director": "George Cukor",
-      "criterionUrl": "https://www.criterion.com/films/28829-holiday",
-      "directorLink": ""
-    },
-    {
-      "title": "I Married a Witch",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Married_a_Witch.jpg",
-      "director": "René Clair",
-      "criterionUrl": "https://www.criterion.com/films/27771-i-married-a-witch",
-      "directorLink": ""
-    },
-    {
-      "title": "In a Lonely Place",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg",
-      "director": "Nicholas Ray",
-      "criterionUrl": "https://www.criterion.com/films/27908-in-a-lonely-place",
-      "directorLink": ""
-    },
-    {
-      "title": "Island of Lost Souls",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Island_of_Lost_Souls.jpg",
-      "director": "Erle C. Kenton",
-      "criterionUrl": "https://www.criterion.com/films/27861-island-of-lost-souls",
-      "directorLink": ""
-    },
-    {
-      "title": "It Happened One Night",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg",
-      "director": "Frank Capra",
-      "criterionUrl": "https://www.criterion.com/films/27900-it-happened-one-night",
-      "directorLink": ""
-    },
-    {
-      "title": "The Killers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg",
-      "director": "Robert Siodmak",
-      "criterionUrl": "https://www.criterion.com/films/724-the-killers",
-      "directorLink": ""
-    },
-    {
-      "title": "King of Jazz",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_Jazz.jpg",
-      "director": "John Murray Anderson",
-      "criterionUrl": "https://www.criterion.com/films/29389-king-of-jazz",
-      "directorLink": ""
-    },
-    {
-      "title": "The Lady Eve",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Eve.jpg",
-      "director": "Preston Sturges",
-      "criterionUrl": "https://www.criterion.com/films/639-the-lady-eve",
-      "directorLink": ""
-    },
-    {
-      "title": "The Last Command",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Command.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/6721-the-last-command",
-      "directorLink": ""
-    },
-    {
-      "title": "Lonesome",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lonesome.jpg",
-      "director": "Paul Fejos",
-      "criterionUrl": "https://www.criterion.com/films/28212-lonesome",
-      "directorLink": ""
-    },
-    {
-      "title": "The Love Parade",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Parade.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/898-the-love-parade",
-      "directorLink": ""
-    },
-    {
-      "title": "The Magnificent Ambersons",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Ambersons.jpg",
-      "director": "Orson Welles",
-      "criterionUrl": "https://www.criterion.com/films/28711-the-magnificent-ambersons",
-      "directorLink": ""
-    },
-    {
-      "title": "Magnificent Obsession",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg",
-      "director": "Douglas Sirk",
-      "criterionUrl": "https://www.criterion.com/films/973-magnificent-obsession",
-      "directorLink": ""
-    },
-    {
-      "title": "Make Way for Tomorrow",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Make_Way_for_Tomorrow.jpg",
-      "director": "Leo McCarey",
-      "criterionUrl": "https://www.criterion.com/films/2350-make-way-for-tomorrow",
-      "directorLink": ""
-    },
-    {
-      "title": "Mildred Pierce",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mildred_Pierce.jpg",
-      "director": "Michael Curtiz",
-      "criterionUrl": "https://www.criterion.com/films/29025-mildred-pierce",
-      "directorLink": ""
-    },
-    {
-      "title": "Ministry of Fear",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ministry_of_Fear.jpg",
-      "director": "Fritz Lang",
-      "criterionUrl": "https://www.criterion.com/films/28065-ministry-of-fear",
-      "directorLink": ""
-    },
-    {
-      "title": "Modern Times",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg",
-      "director": "Charles Chaplin",
-      "criterionUrl": "https://www.criterion.com/films/27526-modern-times",
-      "directorLink": ""
-    },
-    {
-      "title": "Monte Carlo",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monte_Carlo.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/899-monte-carlo",
-      "directorLink": ""
-    },
-    {
-      "title": "Moonrise",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise.jpg",
-      "director": "Frank Borzage",
-      "criterionUrl": "https://www.criterion.com/films/28550-moonrise",
-      "directorLink": ""
-    },
-    {
-      "title": "Morocco",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Morocco.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/28991-morocco",
-      "directorLink": ""
-    },
-    {
-      "title": "My Darling Clementine",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Darling_Clementine.jpg",
-      "director": "John Ford",
-      "criterionUrl": "https://www.criterion.com/films/28570-my-darling-clementine",
-      "directorLink": ""
-    },
-    {
-      "title": "My Man Godfrey",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg",
-      "director": "Gregory La Cava",
-      "criterionUrl": "https://www.criterion.com/films/653-my-man-godfrey",
-      "directorLink": ""
-    },
-    {
-      "title": "Notorious",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/682-notorious",
-      "directorLink": ""
-    },
-    {
-      "title": "Now, Voyager",
-      "director": "Irving Rapper",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Now_Voyager.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29026-now-voyager",
-      "directorLink": ""
-    },
-    {
-      "title": "On the Waterfront",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/On_the_Waterfront.jpg",
-      "director": "Elia Kazan",
-      "criterionUrl": "https://www.criterion.com/films/27899-on-the-waterfront",
-      "directorLink": ""
-    },
-    {
-      "title": "One Hour with You",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hour_with_You.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/901-one-hour-with-you",
-      "directorLink": ""
-    },
-    {
-      "title": "Only Angels Have Wings",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Only_Angels_Have_Wings.jpg",
-      "director": "Howard Hawks",
-      "criterionUrl": "https://www.criterion.com/films/28831-only-angels-have-wings",
-      "directorLink": ""
-    },
-    {
-      "title": "The Palm Beach Story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Palm_Beach_Story.jpg",
-      "director": "Preston Sturges",
-      "criterionUrl": "https://www.criterion.com/films/28103-the-palm-beach-story",
-      "directorLink": ""
-    },
-    {
-      "title": "Paths of Glory",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paths_of_Glory.jpg",
-      "director": "Stanley Kubrick",
-      "criterionUrl": "https://www.criterion.com/films/27522-paths-of-glory",
-      "directorLink": ""
-    },
-    {
-      "title": "The Philadelphia Story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Philadelphia_Story.jpg",
-      "director": "George Cukor",
-      "criterionUrl": "https://www.criterion.com/films/29029-the-philadelphia-story",
-      "directorLink": ""
-    },
-    {
-      "title": "Rebecca",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rebecca.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/680-rebecca",
-      "directorLink": ""
-    },
-    {
-      "title": "Red River",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_River.jpg",
-      "director": "Howard Hawks",
-      "criterionUrl": "https://www.criterion.com/films/28046-red-river",
-      "directorLink": ""
-    },
-    {
-      "title": "The Scarlet Empress",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scarlet_Empress.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/431-the-scarlet-empress",
-      "directorLink": ""
-    },
-    {
-      "title": "Shanghai Express",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shanghai_Express.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/28166-shanghai-express",
-      "directorLink": ""
-    },
-    {
-      "title": "The Smiling Lieutenant",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiling_Lieutenant.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/900-the-smiling-lieutenant",
-      "directorLink": ""
-    },
-    {
-      "title": "Some Like It Hot",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Some_Like_It_Hot.jpg",
-      "director": "Billy Wilder",
-      "criterionUrl": "https://www.criterion.com/films/29162-some-like-it-hot",
-      "directorLink": ""
-    },
-    {
-      "title": "Spellbound",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spellbound.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/681-spellbound",
-      "directorLink": ""
-    },
-    {
-      "title": "Stagecoach",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stagecoach.jpg",
-      "director": "John Ford",
-      "criterionUrl": "https://www.criterion.com/films/980-stagecoach",
-      "directorLink": ""
-    },
-    {
-      "title": "Sullivan’s Travels",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg",
-      "director": "Preston Sturges",
-      "criterionUrl": "https://www.criterion.com/films/657-sullivan-s-travels",
-      "directorLink": ""
-    },
-    {
-      "title": "Sweet Smell of Success",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Smell_of_Success.jpg",
-      "director": "Alexander Mackendrick",
-      "criterionUrl": "https://www.criterion.com/films/27542-sweet-smell-of-success",
-      "directorLink": ""
-    },
-    {
-      "title": "Swing Time",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Swing_Time.jpg",
-      "director": "George Stevens",
-      "criterionUrl": "https://www.criterion.com/films/29037-swing-time",
-      "directorLink": ""
-    },
-    {
-      "title": "They Live by Night",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/They_Live_by_Night.jpg",
-      "director": "Nicholas Ray",
-      "criterionUrl": "https://www.criterion.com/films/28717-they-live-by-night",
-      "directorLink": ""
-    },
-    {
-      "title": "To Be or Not to Be",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/27690-to-be-or-not-to-be",
-      "directorLink": ""
-    },
-    {
-      "title": "Trouble in Paradise",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/723-trouble-in-paradise",
-      "directorLink": ""
-    },
-    {
-      "title": "Underworld",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg",
-      "director": "Josef von Sternberg",
-      "criterionUrl": "https://www.criterion.com/films/21766-underworld",
-      "directorLink": ""
-    },
-    {
-      "title": "Unfaithfully Yours",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unfaithfully_Yours.jpg",
-      "director": "Preston Sturges",
-      "criterionUrl": "https://www.criterion.com/films/876-unfaithfully-yours",
-      "directorLink": ""
-    },
-    {
-      "title": "The Uninvited",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uninvited.jpg",
-      "director": "Lewis Allen",
-      "criterionUrl": "https://www.criterion.com/films/27964-the-uninvited",
-      "directorLink": ""
-    },
-    {
-      "title": "Woman of the Year",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_of_the_Year.jpg",
-      "director": "George Stevens",
-      "criterionUrl": "https://www.criterion.com/films/29137-woman-of-the-year",
-      "directorLink": ""
-    },
-    {
-      "title": "Written on the Wind",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Written_on_the_Wind.jpg",
-      "director": "Douglas Sirk",
-      "criterionUrl": "https://www.criterion.com/films/636-written-on-the-wind",
-      "directorLink": ""
-    },
-    {
-      "title": "Young Mr. Lincoln",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Mr_Lincoln.jpg",
-      "director": "John Ford",
-      "criterionUrl": "https://www.criterion.com/films/766-young-mr-lincoln",
-      "directorLink": ""
-    }
-  ]
+"ClassicHollywood": [
+ {
+   "film": "Underworld ",
+   "director": "Josef von Sternberg",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg"
+ },
+ {
+   "film": "The Docks of New York",
+   "director": "Josef von Sternberg",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Docks_of_New_York.jpg"
+ },
+ {
+   "film": "The Last Command",
+   "director": "Josef von Sternberg",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Command.jpg"
+ },
+ {
+   "film": "Lonesome",
+   "director": "Paul Fejos",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lonesome.jpg"
+ },
+ {
+   "film": "The Love Parade",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Parade.jpg"
+ },
+ {
+   "film": "Monte Carlo",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monte_Carlo.jpg"
+ },
+ {
+   "film": "The Smiling Lieutenant",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiling_Lieutenant.jpg"
+ },
+ {
+   "film": "One Hour with You",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hour_with_You.jpg"
+ },
+ {
+   "film": "Trouble in Paradise",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg"
+ },
+ {
+   "film": "Island of Lost Souls",
+   "director": "Erle C. Kenton",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Island_of_Lost_Souls.jpg"
+ },
+ {
+   "film": "Design for Living",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Design_for_Living.jpg"
+ },
+ {
+   "film": "It Happened One Night",
+   "director": "Frank Capra",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg"
+ },
+ {
+   "film": "The Scarlet Empress",
+   "director": "Josef von Sternberg",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scarlet_Empress.jpg"
+ },
+ {
+   "film": "My Man Godfrey",
+   "director": "Gregory La Cava",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg"
+ },
+ {
+   "film": "Modern Times",
+   "director": "Charlie Chaplin",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg"
+ },
+ {
+   "film": "Make Way for Tomorrow ",
+   "director": "Leo McCarey",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Make_Way_for_Tomorrow.jpg"
+ },
+ {
+   "film": "Only Angels Have Wings",
+   "director": "Howard Hawks",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Only_Angels_Have_Wings.jpg"
+ },
+ {
+   "film": "Stagecoach",
+   "director": "John Ford",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stagecoach.jpg"
+ },
+ {
+   "film": "Foreign Correspondent",
+   "director": "Alfred Hitchcock",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg"
+ },
+ {
+   "film": "Rebecca",
+   "director": "Alfred Hitchcock",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rebecca.jpg"
+ },
+ {
+   "film": "The Devil and Daniel Webster",
+   "director": "William Dieterle",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_and_Daniel_Webster.jpg"
+ },
+ {
+   "film": "Here Comes Mr. Jordan",
+   "director": "Alexander Hall",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Comes_Mr_Jordan.jpg"
+ },
+ {
+   "film": "The Lady Eve",
+   "director": "Preston Sturges",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Eve.jpg"
+ },
+ {
+   "film": "I Married a Witch",
+   "director": "René Clair",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Married_a_Witch.jpg"
+ },
+ {
+   "film": "The Palm Beach Story",
+   "director": "Preston Sturges",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Palm_Beach_Story.jpg"
+ },
+ {
+   "film": "Sullivan’s Travels",
+   "director": "Preston Sturges",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg"
+ },
+ {
+   "film": "To Be or Not to Be",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg"
+ },
+ {
+   "film": "Heaven Can Wait",
+   "director": "Ernst Lubitsch",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heaven_Can_Wait.jpg"
+ },
+ {
+   "film": "Ministry of Fear",
+   "director": "Fritz Lang",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ministry_of_Fear.jpg"
+ },
+ {
+   "film": "The Uninvited",
+   "director": "Lewis Allen",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uninvited.jpg"
+ },
+ {
+   "film": "Spellbound",
+   "director": "Alfred Hitchcock",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spellbound.jpg"
+ },
+ {
+   "film": "The Killers",
+   "director": "Robert Siodmak",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg"
+ },
+ {
+   "film": "My Darling Clementine",
+   "director": "John Ford",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Darling_Clementine.jpg"
+ },
+ {
+   "film": "Notorious",
+   "director": "Alfred Hitchcock",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg"
+ },
+ {
+   "film": "Red River",
+   "director": "Howard Hawks",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_River.jpg"
+ },
+ {
+   "film": "Unfaithfully Yours",
+   "director": "Preston Sturges",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unfaithfully_Yours.jpg"
+ },
+ {
+   "film": "In a Lonely Place",
+   "director": "Nicholas Ray",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg"
+ },
+ {
+   "film": "The Furies",
+   "director": "Anthony Mann",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Furies.jpg"
+ },
+ {
+   "film": "Ace in the Hole",
+   "director": "Billy Wilder",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ace_in_the_Hole.jpg"
+ },
+ {
+   "film": "Magnificent Obsession",
+   "director": "Douglas Sirk",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg"
+ },
+ {
+   "film": "On the Waterfront",
+   "director": "Elia Kazan",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/On_the_Waterfront.jpg"
+ },
+ {
+   "film": "All That Heaven Allows",
+   "director": "Douglas Sirk",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg"
+ },
+ {
+   "film": "Written on the Wind",
+   "director": "Douglas Sirk",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Written_on_the_Wind.jpg"
+ },
+ {
+   "film": "Bigger Than Life",
+   "director": "Nicholas Ray",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg"
+ },
+ {
+   "film": "Paths of Glory",
+   "director": "Stanley Kubrick",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paths_of_Glory.jpg"
+ },
+ {
+   "film": "Sweet Smell of Success",
+   "director": "Alexander Mackendrick",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Smell_of_Success.jpg"
+ },
+ {
+   "film": "12 Angry Men",
+   "director": "Sidney Lumet",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/12_Angry_Men.jpg"
+ },
+ {
+   "film": "Anatomy of a Murder",
+   "director": "Otto Preminger",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Anatomy_of_a_Murder.jpg"
+ },
+ {
+   "film": "Woman of the Year",
+   "director": "George Stevens",
+   "list": "Classic Hollywood",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_of_the_Year.jpg"
+ }
+]
 }

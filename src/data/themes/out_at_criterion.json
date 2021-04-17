@@ -1,186 +1,136 @@
 {
-  "OutAtCriterion": [
-    {
-      "title": "The Bitter Tears of Petra von Kant",
-      "director": "Rainer Werner Fassbinder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Tears_of_Petra_von_Kant.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27953-the-bitter-tears-of-petra-von-kant",
-      "directorLink": ""
-    },
-    {
-      "title": "Blue Is the Warmest Color",
-      "director": "Abdellatif Kechiche",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Is_the_Warmest_Color.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28603-blue-is-the-warmest-color",
-      "directorLink": ""
-    },
-    {
-      "title": "Burroughs: The Movie",
-      "director": "Howard Brookner",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burroughs_The_Movie.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28657-burroughs-the-movie",
-      "directorLink": ""
-    },
-    {
-      "title": "La Cage aux Folles",
-      "director": "Edouard Molinaro",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cage_aux_Folles.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28045-la-cage-aux-folles",
-      "directorLink": ""
-    },
-    {
-      "title": "Chasing Amy",
-      "criterionUrl": "https://www.criterion.com/films/615-chasing-amy",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chasing_Amy.jpg",
-      "director": "Kevin Smith",
-      "director_url": "https://www.criterion.com/films/615-chasing-amy"
-    },
-    {
-      "title": "Death in Venice",
-      "director": "Luchino Visconti",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Death_in_Venice.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28699-death-in-venice",
-      "directorLink": ""
-    },
-    {
-      "title": "Desert Hearts",
-      "director": "Donna Deitch",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Desert_Hearts.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29139-desert-hearts",
-      "directorLink": ""
-    },
-    {
-      "title": "Female Trouble",
-      "director": "John Waters",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Female_Trouble.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28704-female-trouble",
-      "directorLink": ""
-    },
-    {
-      "title": "Fox and His Friends",
-      "director": "Rainer Werner Fassbinder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fox_and_His_Friends.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27957-fox-and-his-friends",
-      "directorLink": ""
-    },
-    {
-      "title": "Hedwig and the Angry Inch",
-      "director": "John Cameron Mitchell",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hedwig_and_the_Angry_Inch.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29018-hedwig-and-the-angry-inch",
-      "directorLink": ""
-    },
-    {
-      "title": "Je tu il elle",
-      "criterionUrl": "https://www.criterion.com/films/20962-je-tu-il-elle",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Je_tu_il_elle.jpg",
-      "director": "Chantal Akerman",
-      "director_url": "https://www.criterion.com/films/20962-je-tu-il-elle"
-    },
-    {
-      "title": "Jubilee",
-      "director": "Derek Jarman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jubilee.jpg",
-      "criterionUrl": "https://www.criterion.com/films/736-jubilee",
-      "directorLink": ""
-    },
-    {
-      "title": "The Long Day Closes",
-      "director": "Terence Davies",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Long_Day_Closes.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27984-the-long-day-closes",
-      "directorLink": ""
-    },
-    {
-      "title": "Mala Noche",
-      "director": "Gus Van Sant",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mala_Noche.jpg",
-      "criterionUrl": "https://www.criterion.com/films/253-mala-noche",
-      "directorLink": ""
-    },
-    {
-      "title": "Maurice",
-      "criterionUrl": "https://www.criterion.com/films/1516-maurice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Maurice.jpg",
-      "director": "James Ivory",
-      "director_url": "https://www.criterion.com/films/1516-maurice"
-    },
-    {
-      "title": "Mishima: A Life in Four Chapters",
-      "director": "Paul Schrader",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mishima_A_Life_in_Four_Chapters.jpg",
-      "criterionUrl": "https://www.criterion.com/films/588-mishima-a-life-in-four-chapters",
-      "directorLink": ""
-    },
-    {
-      "title": "Mulholland Dr.",
-      "criterionUrl": "https://www.criterion.com/films/28050-mulholland-dr",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mulholland_Dr.jpg",
-      "director": "David Lynch",
-      "director_url": "https://www.criterion.com/films/28050-mulholland-dr"
-    },
-    {
-      "title": "My Beautiful Laundrette",
-      "director": "Stephen Frears",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Beautiful_Laundrette.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28044-my-beautiful-laundrette",
-      "directorLink": ""
-    },
-    {
-      "title": "My Own Private Idaho",
-      "director": "Gus Van Sant",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Own_Private_Idaho.jpg",
-      "criterionUrl": "https://www.criterion.com/films/249-my-own-private-idaho",
-      "directorLink": ""
-    },
-    {
-      "title": "Naked Lunch",
-      "director": "David Cronenberg",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naked_Lunch.jpg",
-      "criterionUrl": "https://www.criterion.com/films/634-naked-lunch",
-      "directorLink": ""
-    },
-    {
-      "title": "Paris Is Burning",
-      "director": "Jennie Livingston",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Is_Burning.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29647-paris-is-burning",
-      "directorLink": ""
-    },
-    {
-      "title": "A Special Day",
-      "director": "Ettore Scola",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Special_Day.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28659-a-special-day",
-      "directorLink": ""
-    },
-    {
-      "title": "Sunday Bloody Sunday",
-      "director": "John Schlesinger",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sunday_Bloody_Sunday.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28025-sunday-bloody-sunday",
-      "directorLink": ""
-    },
-    {
-      "title": "The Times of Harvey Milk",
-      "director": "Robert Epstein",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Times_of_Harvey_Milk.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27549-the-times-of-harvey-milk",
-      "directorLink": ""
-    },
-    {
-      "title": "Victim",
-      "criterionUrl": "https://www.criterion.com/films/27538-victim",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Victim.jpg",
-      "director": "Basil Dearden",
-      "director_url": "https://www.criterion.com/films/27538-victim"
-    },
-    {
-      "title": "Weekend",
-      "director": "Andrew Haigh",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27783-weekend",
-      "directorLink": ""
-    }
-  ]
+"OutAtCriterion": [
+ {
+   "film": "The Bitter Tears of Petra von Kant",
+   "director": "Rainer Werner Fassbinder",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Tears_of_Petra_von_Kant.jpg"
+ },
+ {
+   "film": "Blue Is the Warmest Color",
+   "director": "Abdellatif Kechiche",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Is_the_Warmest_Color.jpg"
+ },
+ {
+   "film": "Burroughs: The Movie ",
+   "director": "Howard Brookner",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burroughs_The_Movie.jpg"
+ },
+ {
+   "film": "La Cage aux Folles",
+   "director": "Edouard Molinaro",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cage_aux_Folles.jpg"
+ },
+ {
+   "film": "Chasing Amy",
+   "director": "Kevin Smith",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chasing_Amy.jpg"
+ },
+ {
+   "film": "Je tu il elle",
+   "director": "Chantal Akerman",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Je_tu_il_elle.jpg"
+ },
+ {
+   "film": "Jubilee",
+   "director": "Derek Jarman",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jubilee.jpg"
+ },
+ {
+   "film": "The Long Day Closes",
+   "director": "Terence Davies",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Long_Day_Closes.jpg"
+ },
+ {
+   "film": "Mala Noche",
+   "director": "Gus Van Sant",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mala_Noche.jpg"
+ },
+ {
+   "film": "Maurice",
+   "director": "James Ivory",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Maurice.jpg"
+ },
+ {
+   "film": "Mishima: A Life in Four Chapters",
+   "director": "Paul Schrader",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mishima_A_Life_in_Four_Chapters.jpg"
+ },
+ {
+   "film": "Mulholland Dr.",
+   "director": "David Lynch",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mulholland_Dr.jpg"
+ },
+ {
+   "film": "My Beautiful Laundrette",
+   "director": "Stephen Frears",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Beautiful_Laundrette.jpg"
+ },
+ {
+   "film": "My Own Private Idaho",
+   "director": "Gus Van Sant",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Own_Private_Idaho.jpg"
+ },
+ {
+   "film": "Naked Lunch",
+   "director": "David Cronenberg",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naked_Lunch.jpg"
+ },
+ {
+   "film": "A Special Day",
+   "director": "Ettore Scola",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Special_Day.jpg"
+ },
+ {
+   "film": "Sunday Bloody Sunday",
+   "director": "John Schlesinger",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sunday_Bloody_Sunday.jpg"
+ },
+ {
+   "film": "The Times of Harvey Milk",
+   "director": "Robert Epstein",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Times_of_Harvey_Milk.jpg"
+ },
+ {
+   "film": "Victim",
+   "director": "Basil Dearden",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Victim.jpg"
+ },
+ {
+   "film": "Weekend",
+   "director": "Andrew Haigh",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg"
+ },
+ {
+   "film": "Fox and His Friends",
+   "director": "Rainer Werner Fassbinder",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fox_and_His_Friends.jpg"
+ },
+ {
+   "film": "Desert Hearts",
+   "director": "Donna Deitch",
+   "list": "Out at Criterion",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Desert_Hearts.jpg"
+ }
+]
 }

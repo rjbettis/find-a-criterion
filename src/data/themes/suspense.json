@@ -1,314 +1,268 @@
 {
-  "Suspense": [
-    {
-      "title": "3:10 to Yuma",
-      "criterionUrl": "https://www.criterion.com/films/27910-3-10-to-yuma",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/310_to_Yuma.jpg",
-      "director": "Delmer Daves",
-      "director_url": "https://www.criterion.com/films/27910-3-10-to-yuma"
-    },
-    {
-      "title": "The 39 Steps",
-      "criterionUrl": "https://www.criterion.com/films/234-the-39-steps",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/39_Steps.jpg",
-      "director": "Alfred Hitchcock",
-      "director_url": "https://www.criterion.com/films/234-the-39-steps"
-    },
-
-    {
-      "title": "Blow Out",
-      "criterionUrl": "https://www.criterion.com/films/27561-blow-out",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blow_Out.jpg",
-      "director": "Brian De Palma",
-      "director_url": "https://www.criterion.com/films/27561-blow-out"
-    },
-    {
-      "title": "Brute Force",
-      "criterionUrl": "https://www.criterion.com/films/820-brute-force",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brute_Force.jpg",
-      "director": "Jules Dassin",
-      "director_url": "https://www.criterion.com/films/820-brute-force"
-    },
-    {
-      "title": "Charade",
-      "criterionUrl": "https://www.criterion.com/films/603-charade",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Charade.jpg",
-      "director": "Stanley Donen",
-      "director_url": "https://www.criterion.com/films/603-charade"
-    },
-    {
-      "title": "A Colt Is My Passport",
-      "criterionUrl": "https://www.criterion.com/films/2959-a-colt-is-my-passport",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Colt_Is_My_Passport.jpg",
-      "director": "Takashi Nomura",
-      "director_url": "https://www.criterion.com/films/2959-a-colt-is-my-passport"
-    },
-    {
-      "title": "Dead Ringers",
-      "criterionUrl": "https://www.criterion.com/films/541-dead-ringers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dead_Ringers.jpg",
-      "director": "David Cronenberg",
-      "director_url": "https://www.criterion.com/films/541-dead-ringers"
-    },
-    {
-      "title": "Diabolique",
-      "criterionUrl": "https://www.criterion.com/films/575-diabolique",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diabolique.jpg",
-      "director": "Henri-Georges Clouzot",
-      "director_url": "https://www.criterion.com/films/575-diabolique"
-    },
-    {
-      "title": "Dressed to Kill",
-      "criterionUrl": "https://www.criterion.com/films/28686-dressed-to-kill",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dressed_to_Kill.jpg",
-      "director": "Brian De Palma",
-      "director_url": "https://www.criterion.com/films/28686-dressed-to-kill"
-    },
-    {
-      "title": "Eyes Without a Face",
-      "criterionUrl": "https://www.criterion.com/films/950-eyes-without-a-face",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Eyes_Without_a_Face.jpg",
-      "director": "Georges Franju",
-      "director_url": "https://www.criterion.com/films/950-eyes-without-a-face"
-    },
-    {
-      "title": "The Fallen Idol",
-      "criterionUrl": "https://www.criterion.com/films/346-the-fallen-idol",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fallen_Idol.jpg",
-      "director": "Carol Reed",
-      "director_url": "https://www.criterion.com/films/346-the-fallen-idol"
-    },
-    {
-      "title": "Foreign Correspondent",
-      "criterionUrl": "https://www.criterion.com/films/27692-foreign-correspondent",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg",
-      "director": "Alfred Hitchcock",
-      "director_url": "https://www.criterion.com/films/27692-foreign-correspondent"
-    },
-    {
-      "title": "Green for Danger",
-      "criterionUrl": "https://www.criterion.com/films/815-green-for-danger",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Green_for_Danger.jpg",
-      "director": "Sidney Gilliat",
-      "director_url": "https://www.criterion.com/films/815-green-for-danger"
-    },
-    {
-      "title": "High and Low",
-      "criterionUrl": "https://www.criterion.com/films/543-high-and-low",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/High_and_Low.jpg",
-      "director": "Akira Kurosawa",
-      "director_url": "https://www.criterion.com/films/543-high-and-low"
-    },
-    {
-      "title": "House of Games",
-      "criterionUrl": "https://www.criterion.com/films/831-house-of-games",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/House_of_Games.jpg",
-      "director": "David Mamet",
-      "director_url": "https://www.criterion.com/films/831-house-of-games"
-    },
-    {
-      "title": "Insomnia",
-      "criterionUrl": "https://www.criterion.com/films/585-insomnia",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Insomnia.jpg",
-      "director": "Erik Skjoldbjærg",
-      "director_url": "https://www.criterion.com/films/585-insomnia"
-    },
-    {
-      "title": "Judex",
-      "criterionUrl": "https://www.criterion.com/films/28047-judex",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Judex.jpg",
-      "director": "Georges Franju",
-      "director_url": "https://www.criterion.com/films/28047-judex"
-    },
-    {
-      "title": "Knife in the Water",
-      "criterionUrl": "https://www.criterion.com/films/219-knife-in-the-water",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Knife_in_the_Water.jpg",
-      "director": "Roman Polanski",
-      "director_url": "https://www.criterion.com/films/219-knife-in-the-water"
-    },
-    {
-      "title": "The Lady Vanishes",
-      "criterionUrl": "https://www.criterion.com/films/358-the-lady-vanishes",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Vanishes.jpg",
-      "director": "Alfred Hitchcock",
-      "director_url": "https://www.criterion.com/films/358-the-lady-vanishes"
-    },
-    {
-      "title": "The Long Good Friday",
-      "criterionUrl": "https://www.criterion.com/films/559-the-long-good-friday",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Long_Good_Friday.jpg",
-      "director": "John Mackenzie",
-      "director_url": "https://www.criterion.com/films/559-the-long-good-friday"
-    },
-    {
-      "title": "M",
-      "criterionUrl": "https://www.criterion.com/films/558-m",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/M.jpg",
-      "director": "Fritz Lang",
-      "director_url": "https://www.criterion.com/films/558-m"
-    },
-    {
-      "title": "A Man Escaped",
-      "criterionUrl": "https://www.criterion.com/films/27848-a-man-escaped",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_Escaped.jpg",
-      "director": "Robert Bresson",
-      "director_url": "https://www.criterion.com/films/27848-a-man-escaped"
-    },
-    {
-      "title": "The Man Who Knew Too Much",
-      "criterionUrl": "https://www.criterion.com/films/27999-the-man-who-knew-too-much",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_Who_Knew_Too_Much.jpg",
-      "director": "Alfred Hitchcock",
-      "director_url": "https://www.criterion.com/films/27999-the-man-who-knew-too-much"
-    },
-    {
-      "title": "Ministry of Fear",
-      "criterionUrl": "https://www.criterion.com/films/28065-ministry-of-fear",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ministry_of_Fear.jpg",
-      "director": "Fritz Lang",
-      "director_url": "https://www.criterion.com/films/28065-ministry-of-fear"
-    },
-    {
-      "title": "Night and the City",
-      "criterionUrl": "https://www.criterion.com/films/933-night-and-the-city",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_and_the_City.jpg",
-      "director": "Jules Dassin",
-      "director_url": "https://www.criterion.com/films/933-night-and-the-city"
-    },
-    {
-      "title": "The Night of the Hunter",
-      "criterionUrl": "https://www.criterion.com/films/27525-the-night-of-the-hunter",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_of_the_Hunter.jpg",
-      "director": "Charles Laughton",
-      "director_url": "https://www.criterion.com/films/27525-the-night-of-the-hunter"
-    },
-    {
-      "title": "Night Train to Munich",
-      "criterionUrl": "https://www.criterion.com/films/25039-night-train-to-munich",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Train_to_Munich.jpg",
-      "director": "Carol Reed",
-      "director_url": "https://www.criterion.com/films/25039-night-train-to-munich"
-    },
-    {
-      "title": "Notorious",
-      "criterionUrl": "https://www.criterion.com/films/682-notorious",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg",
-      "director": "Alfred Hitchcock",
-      "director_url": "https://www.criterion.com/films/682-notorious"
-    },
-    {
-      "title": "Peeping Tom",
-      "criterionUrl": "https://www.criterion.com/films/235-peeping-tom",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Peeping_Tom.jpg",
-      "director": "Michael Powell",
-      "director_url": "https://www.criterion.com/films/235-peeping-tom"
-    },
-    {
-      "title": "Purple Noon",
-      "criterionUrl": "https://www.criterion.com/films/27810-purple-noon",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Purple_Noon.jpg",
-      "director": "René Clément",
-      "director_url": "https://www.criterion.com/films/27810-purple-noon"
-    },
-    {
-      "title": "Repulsion",
-      "criterionUrl": "https://www.criterion.com/films/404-repulsion",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repulsion.jpg",
-      "director": "Roman Polanski",
-      "director_url": "https://www.criterion.com/films/404-repulsion"
-    },
-    {
-      "title": "Rififi",
-      "criterionUrl": "https://www.criterion.com/films/654-rififi",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rififi.jpg",
-      "director": "Jules Dassin",
-      "director_url": "https://www.criterion.com/films/654-rififi"
-    },
-    {
-      "title": "Riot in Cell Block 11",
-      "criterionUrl": "https://www.criterion.com/films/28551-riot-in-cell-block-11",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Riot_in_Cell_Block_11.jpg",
-      "director": "Don Siegel",
-      "director_url": "https://www.criterion.com/films/28551-riot-in-cell-block-11"
-    },
-    {
-      "title": "Seconds",
-      "criterionUrl": "https://www.criterion.com/films/28428-seconds",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seconds.jpg",
-      "director": "John Frankenheimer",
-      "director_url": "https://www.criterion.com/films/28428-seconds"
-    },
-    {
-      "title": "Shallow Grave",
-      "criterionUrl": "https://www.criterion.com/films/27981-shallow-grave",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shallow_Grave.jpg",
-      "director": "Danny Boyle",
-      "director_url": "https://www.criterion.com/films/27981-shallow-grave"
-    },
-    {
-      "title": "Sisters",
-      "criterionUrl": "https://www.criterion.com/films/377-sisters",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sisters.jpg",
-      "director": "Brian De Palma",
-      "director_url": "https://www.criterion.com/films/377-sisters"
-    },
-    {
-      "title": "Stray Dog",
-      "criterionUrl": "https://www.criterion.com/films/788-stray-dog",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stray_Dog.jpg",
-      "director": "Akira Kurosawa",
-      "director_url": "https://www.criterion.com/films/788-stray-dog"
-    },
-    {
-      "title": "The Testament of Dr. Mabuse",
-      "criterionUrl": "https://www.criterion.com/films/721-the-testament-of-dr-mabuse",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Dr_Mabuse.jpg",
-      "director": "Fritz Lang",
-      "director_url": "https://www.criterion.com/films/721-the-testament-of-dr-mabuse"
-    },
-    {
-      "title": "Thieves’ Highway",
-      "criterionUrl": "https://www.criterion.com/films/939-thieves-highway",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thieves_Highway.jpg",
-      "director": "Jules Dassin",
-      "director_url": "https://www.criterion.com/films/939-thieves-highway"
-    },
-    {
-      "title": "The Third Man",
-      "criterionUrl": "https://www.criterion.com/films/236-the-third-man",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg",
-      "director": "Carol Reed",
-      "director_url": "https://www.criterion.com/films/236-the-third-man"
-    },
-
-    {
-      "title": "Le trou",
-      "criterionUrl": "https://www.criterion.com/films/668-le-trou",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trou.jpg",
-      "director": "Jacques Becker",
-      "director_url": "https://www.criterion.com/films/668-le-trou"
-    },
-    {
-      "title": "The Vanishing",
-      "criterionUrl": "https://www.criterion.com/films/677-the-vanishing",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vanishing.jpg",
-      "director": "George Sluizer",
-      "director_url": "https://www.criterion.com/films/677-the-vanishing"
-    },
-    {
-      "title": "The Wages of Fear",
-      "criterionUrl": "https://www.criterion.com/films/370-the-wages-of-fear",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wages_of_Fear.jpg",
-      "director": "Henri-Georges Clouzot",
-      "director_url": "https://www.criterion.com/films/370-the-wages-of-fear"
-    },
-    {
-      "title": "White Dog",
-      "criterionUrl": "https://www.criterion.com/films/861-white-dog",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Dog.jpg",
-      "director": "Samuel Fuller",
-      "director_url": "https://www.criterion.com/films/861-white-dog"
-    }
-  ]
+"Suspense": [
+ {
+   "film": "Blow Out",
+   "director": "Brian De Palma",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blow_Out.jpg"
+ },
+ {
+   "film": "Brute Force",
+   "director": "Jules Dassin",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brute_Force.jpg"
+ },
+ {
+   "film": "Charade",
+   "director": "Stanley Donen",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Charade.jpg"
+ },
+ {
+   "film": "A Colt Is My Passport ",
+   "director": "Takashi Nomura",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Colt_Is_My_Passport.jpg"
+ },
+ {
+   "film": "Dead Ringers",
+   "director": "David Cronenberg",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dead_Ringers.jpg"
+ },
+ {
+   "film": "Diabolique",
+   "director": "Henri-Georges Clouzot",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diabolique.jpg"
+ },
+ {
+   "film": "Dressed to Kill",
+   "director": "Brian De Palma",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dressed_to_Kill.jpg"
+ },
+ {
+   "film": "Eyes Without a Face",
+   "director": "Georges Franju",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Eyes_Without_a_Face.jpg"
+ },
+ {
+   "film": "The Fallen Idol",
+   "director": "Carol Reed",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fallen_Idol.jpg"
+ },
+ {
+   "film": "Foreign Correspondent",
+   "director": "Alfred Hitchcock",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg"
+ },
+ {
+   "film": "Green for Danger",
+   "director": "Sidney Gilliat",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Green_for_Danger.jpg"
+ },
+ {
+   "film": "High and Low",
+   "director": "Akira Kurosawa",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/High_and_Low.jpg"
+ },
+ {
+   "film": "House of Games",
+   "director": "David Mamet",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/House_of_Games.jpg"
+ },
+ {
+   "film": "Insomnia",
+   "director": "Erik Skjoldbjærg",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Insomnia.jpg"
+ },
+ {
+   "film": "Judex",
+   "director": "Georges Franju",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Judex.jpg"
+ },
+ {
+   "film": "Knife in the Water",
+   "director": "Roman Polanski",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Knife_in_the_Water.jpg"
+ },
+ {
+   "film": "The Lady Vanishes",
+   "director": "Alfred Hitchcock",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Vanishes.jpg"
+ },
+ {
+   "film": "The Long Good Friday",
+   "director": "John Mackenzie",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Long_Good_Friday.jpg"
+ },
+ {
+   "film": "M",
+   "director": "Fritz Lang",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/M.jpg"
+ },
+ {
+   "film": "A Man Escaped",
+   "director": "Robert Bresson",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_Escaped.jpg"
+ },
+ {
+   "film": "The Man Who Knew Too Much",
+   "director": "Alfred Hitchcock",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Man_Who_Knew_Too_Much.jpg"
+ },
+ {
+   "film": "Ministry of Fear",
+   "director": "Fritz Lang",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ministry_of_Fear.jpg"
+ },
+ {
+   "film": "Night and the City",
+   "director": "Jules Dassin",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_and_the_City.jpg"
+ },
+ {
+   "film": "The Night of the Hunter",
+   "director": "Charles Laughton",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_of_the_Hunter.jpg"
+ },
+ {
+   "film": "Night Train to Munich",
+   "director": "Carol Reed",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Train_to_Munich.jpg"
+ },
+ {
+   "film": "Notorious",
+   "director": "Alfred Hitchcock",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg"
+ },
+ {
+   "film": "Peeping Tom",
+   "director": "Michael Powell",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Peeping_Tom.jpg"
+ },
+ {
+   "film": "Purple Noon",
+   "director": "René Clément",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Purple_Noon.jpg"
+ },
+ {
+   "film": "Repulsion",
+   "director": "Roman Polanski",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repulsion.jpg"
+ },
+ {
+   "film": "Rififi",
+   "director": "Jules Dassin",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rififi.jpg"
+ },
+ {
+   "film": "Riot in Cell Block 11",
+   "director": "Don Siegel",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Riot_in_Cell_Block_11.jpg"
+ },
+ {
+   "film": "Seconds",
+   "director": "John Frankenheimer",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seconds.jpg"
+ },
+ {
+   "film": "Shallow Grave",
+   "director": "Danny Boyle",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shallow_Grave.jpg"
+ },
+ {
+   "film": "Sisters",
+   "director": "Brian De Palma",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sisters.jpg"
+ },
+ {
+   "film": "Stray Dog",
+   "director": "Akira Kurosawa",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stray_Dog.jpg"
+ },
+ {
+   "film": "The Testament of Dr. Mabuse",
+   "director": "Fritz Lang",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Dr_Mabuse.jpg"
+ },
+ {
+   "film": "Thieves’ Highway",
+   "director": "Jules Dassin",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thieves_Highway.jpg"
+ },
+ {
+   "film": "The Third Man",
+   "director": "Carol Reed",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg"
+ },
+ {
+   "film": "The 39 Steps",
+   "director": "Alfred Hitchcock",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/39_Steps.jpg"
+ },
+ {
+   "film": "3:10 to Yuma",
+   "director": "Delmer Daves",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/310_to_Yuma.jpg"
+ },
+ {
+   "film": "Le trou",
+   "director": "Jacques Becker",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trou.jpg"
+ },
+ {
+   "film": "The Vanishing",
+   "director": "George Sluizer",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wages_of_Fear.jpg"
+ },
+ {
+   "film": "The Wages of Fear",
+   "director": "Henri-Georges Clouzot",
+   "list": "Suspense!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Dog.jpg"
+ },
+ {
+   "film": "White Dog",
+   "director": "Samuel Fuller",
+   "list": "Suspense!",
+   "image": ""
+ }
+]
 }

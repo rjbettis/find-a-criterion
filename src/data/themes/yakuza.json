@@ -1,95 +1,82 @@
 {
-  "Yakuza": [
-    {
-      "title": "Black River",
-      "criterionUrl": "https://www.criterion.com/films/28235-black-river",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_River.jpg",
-      "director": "Masaki Kobayashi",
-      "director_url": "https://www.criterion.com/films/28235-black-river"
-    },
-    {
-      "title": "Branded to Kill",
-      "director": "Seijun Suzuki",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Branded_to_Kill.jpg",
-      "criterionUrl": "https://www.criterion.com/films/576-branded-to-kill",
-      "directorLink": ""
-    },
-    {
-      "title": "A Colt Is My Passport",
-      "criterionUrl": "https://www.criterion.com/films/2959-a-colt-is-my-passport",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Colt_Is_My_Passport.jpg",
-      "director": "Takashi Nomura",
-      "director_url": "https://www.criterion.com/films/2959-a-colt-is-my-passport"
-    },
-    {
-      "title": "Cruel Gun Story",
-      "criterionUrl": "https://www.criterion.com/films/2958-cruel-gun-story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cruel_Gun_Story.jpg",
-      "director": "Takumi Furukawa",
-      "director_url": "https://www.criterion.com/films/2958-cruel-gun-story"
-    },
-    {
-      "title": "Drunken Angel",
-      "director": "Akira Kurosawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Drunken_Angel.jpg",
-      "criterionUrl": "https://www.criterion.com/films/845-drunken-angel",
-      "directorLink": ""
-    },
-    {
-      "title": "I Am Waiting",
-      "criterionUrl": "https://www.criterion.com/films/2955-i-am-waiting",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Waiting.jpg",
-      "director": "Koreyoshi Kurahara",
-      "director_url": "https://www.criterion.com/films/2955-i-am-waiting"
-    },
-    {
-      "title": "Japanese Summer: Double Suicide",
-      "criterionUrl": "https://www.criterion.com/films/23955-japanese-summer-double-suicide",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Summer_Double_Suicide.jpg",
-      "director": "Nagisa Oshima",
-      "director_url": "https://www.criterion.com/films/23955-japanese-summer-double-suicide"
-    },
-    {
-      "title": "Pale Flower",
-      "director": "Masahiro Shinoda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pale_Flower.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27604-pale-flower",
-      "directorLink": ""
-    },
-    {
-      "title": "Pigs and Battleships",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pigs_and_Battleships.jpg",
-      "director": "Shohei Imamura",
-      "criterionUrl": "https://www.criterion.com/films/1428-pigs-and-battleships",
-      "directorLink": ""
-    },
-    {
-      "title": "Rusty Knife",
-      "criterionUrl": "https://www.criterion.com/films/2956-rusty-knife",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rusty_Knife.jpg",
-      "director": "Toshio Masuda",
-      "director_url": "https://www.criterion.com/films/2956-rusty-knife"
-    },
-    {
-      "title": "Take Aim at the Police Van",
-      "criterionUrl": "https://www.criterion.com/films/2957-take-aim-at-the-police-van",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Take_Aim_at_the_Police_Van.jpg",
-      "director": "Seijun Suzuki",
-      "director_url": "https://www.criterion.com/films/2957-take-aim-at-the-police-van"
-    },
-    {
-      "title": "Tokyo Drifter",
-      "director": "Seijun Suzuki",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Drifter.jpg",
-      "criterionUrl": "https://www.criterion.com/films/577-tokyo-drifter",
-      "directorLink": ""
-    },
-    {
-      "title": "Youth of the Beast",
-      "director": "Seijun Suzuki",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Youth_of_the_Beast.jpg",
-      "criterionUrl": "https://www.criterion.com/films/946-youth-of-the-beast",
-      "directorLink": ""
-    }
-  ]
+"Yakuza": [
+ {
+   "film": "Black River",
+   "director": "Masaki Kobayashi",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_River.jpg"
+ },
+ {
+   "film": "Branded to Kill",
+   "director": "Seijun Suzuki",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Branded_to_Kill.jpg"
+ },
+ {
+   "film": "A Colt Is My Passport ",
+   "director": "Takashi Nomura",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Colt_Is_My_Passport.jpg"
+ },
+ {
+   "film": "Cruel Gun Story",
+   "director": "Takumi Furukawa",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cruel_Gun_Story.jpg"
+ },
+ {
+   "film": "Drunken Angel",
+   "director": "Akira Kurosawa",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Drunken_Angel.jpg"
+ },
+ {
+   "film": "I Am Waiting",
+   "director": "Koreyoshi Kurahara",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Waiting.jpg"
+ },
+ {
+   "film": "Japanese Summer: Double Suicide",
+   "director": "Nagisa Oshima",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Summer_Double_Suicide.jpg"
+ },
+ {
+   "film": "Pale Flower",
+   "director": "Masahiro Shinoda",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pale_Flower.jpg"
+ },
+ {
+   "film": "Pigs and Battleships",
+   "director": "Shohei Imamura",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pigs_and_Battleships.jpg"
+ },
+ {
+   "film": "Rusty Knife",
+   "director": "Toshio Masuda",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rusty_Knife.jpg"
+ },
+ {
+   "film": "Take Aim at the Police Van",
+   "director": "Seijun Suzuki",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Take_Aim_at_the_Police_Van.jpg"
+ },
+ {
+   "film": "Tokyo Drifter",
+   "director": "Seijun Suzuki",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Drifter.jpg"
+ },
+ {
+   "film": "Youth of the Beast",
+   "director": "Seijun Suzuki",
+   "list": "Yakuza!",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Youth_of_the_Beast.jpg"
+ }
+]
 }

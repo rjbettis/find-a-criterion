@@ -1,242 +1,208 @@
 {
-  "SilentCinema": [
-    {
-      "title": "À propos de Nice",
-      "criterionUrl": "https://www.criterion.com/films/27752-a-propos-de-nice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Propos_de_Nice.jpg",
-      "director": "Jean Vigo and Boris Kaufman",
-      "director_url": "https://www.criterion.com/films/27752-a-propos-de-nice"
-    },
-    {
-      "title": "Apart from You",
-      "criterionUrl": "https://www.criterion.com/films/27546-apart-from-you",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Apart_from_You.jpg",
-      "director": "Mikio Naruse",
-      "director_url": "https://www.criterion.com/films/27546-apart-from-you"
-    },
-    {
-      "title": "Body and Soul",
-      "criterionUrl": "https://www.criterion.com/films/809-body-and-soul",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Body_and_Soul.jpg",
-      "director": "Oscar Micheaux",
-      "director_url": "https://www.criterion.com/films/809-body-and-soul"
-    },
-    {
-      "title": "Borderline",
-      "criterionUrl": "https://www.criterion.com/films/810-borderline",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Borderline.jpg",
-      "director": "Kenneth Macpherson",
-      "director_url": "https://www.criterion.com/films/810-borderline"
-    },
-    {
-      "title": "City Lights",
-      "criterionUrl": "https://www.criterion.com/films/27558-city-lights",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/City_Lights.jpg",
-      "director": "Charles Chaplin",
-      "director_url": "https://www.criterion.com/films/27558-city-lights"
-    },
-    {
-      "title": "The Docks of New York",
-      "criterionUrl": "https://www.criterion.com/films/1942-the-docks-of-new-york",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Docks_of_New_York.jpg",
-      "director": "Josef von Sternberg",
-      "director_url": "https://www.criterion.com/films/1942-the-docks-of-new-york"
-    },
-    {
-      "title": "Dragnet Girl",
-      "criterionUrl": "https://www.criterion.com/films/28224-dragnet-girl",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dragnet_Girl.jpg",
-      "director": "Yasujiro Ozu",
-      "director_url": "https://www.criterion.com/films/28224-dragnet-girl"
-    },
-    {
-      "title": "Every-Night Dreams",
-      "criterionUrl": "https://www.criterion.com/films/27547-every-night-dreams",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Every_Night_Dreams.jpg",
-      "director": "Mikio Naruse",
-      "director_url": "https://www.criterion.com/films/27547-every-night-dreams"
-    },
-    {
-      "title": "Flunky, Work Hard",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Flunky_Work_Hard.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27544-flunky-work-hard",
-      "director": "Mikio Naruse",
-      "director_url": "https://www.criterion.com/films/27544-flunky-work-hard"
-    },
-    {
-      "title": "The Freshman",
-      "criterionUrl": "https://www.criterion.com/films/28510-the-freshman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Freshman.jpg",
-      "director": "Sam Taylor and Fred Newmeyer",
-      "director_url": "https://www.criterion.com/films/28510-the-freshman"
-    },
-    {
-      "title": "The Gold Rush",
-      "criterionUrl": "https://www.criterion.com/films/27565-the-gold-rush",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gold_Rush.jpg",
-      "director": "Charles Chaplin",
-      "director_url": "https://www.criterion.com/films/27565-the-gold-rush"
-    },
-    {
-      "title": "Häxan",
-      "criterionUrl": "https://www.criterion.com/films/352-haxan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg",
-      "director": "Benjamin Christensen",
-      "director_url": "https://www.criterion.com/films/352-haxan"
-    },
-    {
-      "title": "I Was Born, But...",
-      "criterionUrl": "https://www.criterion.com/films/922-i-was-born-but",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_was_Born_But.jpg",
-      "director": "Yasujiro Ozu",
-      "director_url": "https://www.criterion.com/films/922-i-was-born-but"
-    },
-    {
-      "title": "Japanese Girls at the Harbor",
-      "criterionUrl": "https://www.criterion.com/films/1086-japanese-girls-at-the-harbor",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Girls_at_the_Harbor.jpg",
-      "director": "Hiroshi Shimizu",
-      "director_url": "https://www.criterion.com/films/1086-japanese-girls-at-the-harbor"
-    },
-    {
-      "title": "The Kid",
-      "criterionUrl": "https://www.criterion.com/films/27566-the-kid",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kid.jpg",
-      "director": "Charlie Chaplin",
-      "director_url": "https://www.criterion.com/films/27566-the-kid"
-    },
-    {
-      "title": "The King of Kings",
-      "criterionUrl": "https://www.criterion.com/films/949-the-king-of-kings",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_Kings.jpg",
-      "director": "Cecil B. DeMille",
-      "director_url": "https://www.criterion.com/films/949-the-king-of-kings"
-    },
-    {
-      "title": "The Last Command",
-      "criterionUrl": "https://www.criterion.com/films/6721-the-last-command",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Command.jpg",
-      "director": "Josef von Sternberg",
-      "director_url": "https://www.criterion.com/films/6721-the-last-command"
-    },
-    {
-      "title": "Lonesome",
-      "criterionUrl": "https://www.criterion.com/films/28212-lonesome",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lonesome.jpg",
-      "director": "Paul Fejos",
-      "director_url": "https://www.criterion.com/films/28212-lonesome"
-    },
-    {
-      "title": "Master of the House",
-      "criterionUrl": "https://www.criterion.com/films/27804-master-of-the-house",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Master_of_the_House.jpg",
-      "director": "Carl Th. Dreyer",
-      "director_url": "https://www.criterion.com/films/27804-master-of-the-house"
-    },
-    {
-      "title": "Modern Times",
-      "criterionUrl": "https://www.criterion.com/films/27526-modern-times",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg",
-      "director": "Charlie Chaplin",
-      "director_url": "https://www.criterion.com/films/27526-modern-times"
-    },
-    {
-      "title": "Nanook of the North",
-      "criterionUrl": "https://www.criterion.com/films/574-nanook-of-the-north",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nanook_of_the_North.jpg",
-      "director": "Robert Flaherty",
-      "director_url": "https://www.criterion.com/films/574-nanook-of-the-north"
-    },
-    {
-      "title": "No Blood Relation",
-      "criterionUrl": "https://www.criterion.com/films/27545-no-blood-relation",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/No_Blood_Relation.jpg",
-      "director": "Mikio Naruse",
-      "director_url": "https://www.criterion.com/films/27545-no-blood-relation"
-    },
-    {
-      "title": "Pandora’s Box",
-      "criterionUrl": "https://www.criterion.com/films/362-pandora-s-box",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pandoras_Box.jpg",
-      "director": "Georg Wilhelm Pabst",
-      "director_url": "https://www.criterion.com/films/362-pandora-s-box"
-    },
-    {
-      "title": "Passing Fancy",
-      "criterionUrl": "https://www.criterion.com/films/924-passing-fancy",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passing_Fancy.jpg",
-      "director": "Yasujiro Ozu",
-      "director_url": "https://www.criterion.com/films/924-passing-fancy"
-    },
-    {
-      "title": "The Passion of Joan of Arc",
-      "criterionUrl": "https://www.criterion.com/films/228-the-passion-of-joan-of-arc",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passion_of_Joan_of_Arc.jpg",
-      "director": "Carl Th. Dreyer",
-      "director_url": "https://www.criterion.com/films/228-the-passion-of-joan-of-arc"
-    },
-    {
-      "title": "People on Sunday",
-      "criterionUrl": "https://www.criterion.com/films/27625-people-on-sunday",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/People_on_Sunday.jpg",
-      "director": "Robert Siodmak and Edgar G. Ulmer",
-      "director_url": "https://www.criterion.com/films/27625-people-on-sunday"
-    },
-    {
-      "title": "The Phantom Carriage",
-      "criterionUrl": "https://www.criterion.com/films/27630-the-phantom-carriage",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Phantom_Carriage.jpg",
-      "director": "Victor Sjöström",
-      "director_url": "https://www.criterion.com/films/27630-the-phantom-carriage"
-    },
-    {
-      "title": "Speedy",
-      "criterionUrl": "https://www.criterion.com/films/28497-speedy",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Speedy.jpg",
-      "director": "Ted Wilde",
-      "director_url": "https://www.criterion.com/films/28497-speedy"
-    },
-    {
-      "title": "A Story of Floating Weeds",
-      "criterionUrl": "https://www.criterion.com/films/752-a-story-of-floating-weeds",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_Floating_Weeds.jpg",
-      "director": "Yasujiro Ozu",
-      "director_url": "https://www.criterion.com/films/752-a-story-of-floating-weeds"
-    },
-    {
-      "title": "Street Without End",
-      "criterionUrl": "https://www.criterion.com/films/27548-street-without-end",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_Without_End.jpg",
-      "director": "Mikio Naruse",
-      "director_url": "https://www.criterion.com/films/27548-street-without-end"
-    },
-    {
-      "title": "That Night's Wife",
-      "criterionUrl": "https://www.criterion.com/films/28220-that-night-s-wife",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/That_Nights_Wife.jpg",
-      "director": "Yasujiro Ozu",
-      "director_url": "https://www.criterion.com/films/28220-that-night-s-wife"
-    },
-    {
-      "title": "Tokyo Chorus",
-      "criterionUrl": "https://www.criterion.com/films/923-tokyo-chorus",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Chorus.jpg",
-      "director": "Yasujiro Ozu",
-      "director_url": "https://www.criterion.com/films/923-tokyo-chorus"
-    },
-    {
-      "title": "Underworld",
-      "criterionUrl": "https://www.criterion.com/films/21766-underworld",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg",
-      "director": "Josef von Sternberg",
-      "director_url": "https://www.criterion.com/films/21766-underworld"
-    },
-    {
-      "title": "Walk Cheerfully",
-      "criterionUrl": "https://www.criterion.com/films/28218-walk-cheerfully",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Walk_Cheerfully.jpg",
-      "director": "Yasujiro Ozu",
-      "director_url": "https://www.criterion.com/films/28218-walk-cheerfully"
-    }
-  ]
+"SilentCinema": [
+ {
+   "film": "À propos de Nice",
+   "director": "Jean Vigo and Boris Kaufman",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Propos_de_Nice.jpg"
+ },
+ {
+   "film": "Apart from You",
+   "director": "Mikio Naruse",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Apart_from_You.jpg"
+ },
+ {
+   "film": "Body and Soul",
+   "director": "Oscar Micheaux",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Body_and_Soul.jpg"
+ },
+ {
+   "film": "Borderline",
+   "director": "Kenneth Macpherson",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Borderline.jpg"
+ },
+ {
+   "film": "City Lights",
+   "director": "Charles Chaplin",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/City_Lights.jpg"
+ },
+ {
+   "film": "The Docks of New York",
+   "director": "Josef von Sternberg",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Docks_of_New_York.jpg"
+ },
+ {
+   "film": "Dragnet Girl",
+   "director": "Yasujiro Ozu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dragnet_Girl.jpg"
+ },
+ {
+   "film": "Every-Night Dreams",
+   "director": "Mikio Naruse",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Every_Night_Dreams.jpg"
+ },
+ {
+   "film": "Flunky, Work Hard",
+   "director": "Mikio Naruse",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Flunky_Work_Hard.jpg"
+ },
+ {
+   "film": "The Freshman",
+   "director": "Sam Taylor and Fred Newmeyer",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Freshman.jpg"
+ },
+ {
+   "film": "The Gold Rush",
+   "director": "Charles Chaplin",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gold_Rush.jpg"
+ },
+ {
+   "film": "Häxan",
+   "director": "Benjamin Christensen",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg"
+ },
+ {
+   "film": "I Was Born, But . . . ",
+   "director": "Yasujiro Ozu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_was_Born_But.jpg"
+ },
+ {
+   "film": "Japanese Girls at the Harbor",
+   "director": "Hiroshi Shimizu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Girls_at_the_Harbor.jpg"
+ },
+ {
+   "film": "The Kid",
+   "director": "Charlie Chaplin",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kid.jpg"
+ },
+ {
+   "film": "The King of Kings",
+   "director": "Cecil B. DeMille",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_Kings.jpg"
+ },
+ {
+   "film": "The Last Command",
+   "director": "Josef von Sternberg",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Command.jpg"
+ },
+ {
+   "film": "Lonesome",
+   "director": "Paul Fejos",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lonesome.jpg"
+ },
+ {
+   "film": "Master of the House",
+   "director": "Carl Th. Dreyer",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Master_of_the_House.jpg"
+ },
+ {
+   "film": "Modern Times",
+   "director": "Charlie Chaplin",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg"
+ },
+ {
+   "film": "Nanook of the North",
+   "director": "Robert Flaherty",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nanook_of_the_North.jpg"
+ },
+ {
+   "film": "No Blood Relation",
+   "director": "Mikio Naruse",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/No_Blood_Relation.jpg"
+ },
+ {
+   "film": "Pandora’s Box",
+   "director": "Georg Wilhelm Pabst",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pandoras_Box.jpg"
+ },
+ {
+   "film": "Passing Fancy",
+   "director": "Yasujiro Ozu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passing_Fancy.jpg"
+ },
+ {
+   "film": "The Passion of Joan of Arc",
+   "director": "Carl Th. Dreyer",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passion_of_Joan_of_Arc.jpg"
+ },
+ {
+   "film": "People on Sunday",
+   "director": "Robert Siodmak and Edgar G. Ulmer",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/People_on_Sunday.jpg"
+ },
+ {
+   "film": "The Phantom Carriage",
+   "director": "Victor Sjöström",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Phantom_Carriage.jpg"
+ },
+ {
+   "film": "Speedy",
+   "director": "Ted Wilde",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Speedy.jpg"
+ },
+ {
+   "film": "A Story of Floating Weeds",
+   "director": "Yasujiro Ozu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_Floating_Weeds.jpg"
+ },
+ {
+   "film": "Street Without End",
+   "director": "Mikio Naruse",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_Without_End.jpg"
+ },
+ {
+   "film": "That Night's Wife",
+   "director": "Yasujiro Ozu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/That_Nights_Wife.jpg"
+ },
+ {
+   "film": "Tokyo Chorus",
+   "director": "Yasujiro Ozu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Chorus.jpg"
+ },
+ {
+   "film": "Underworld ",
+   "director": "Josef von Sternberg",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg"
+ },
+ {
+   "film": "Walk Cheerfully",
+   "director": "Yasujiro Ozu",
+   "list": "Silent Cinema",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Walk_Cheerfully.jpg"
+ }
+]
 }

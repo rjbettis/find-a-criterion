@@ -38,7 +38,6 @@ import RoadTrips from '../data/themes/road_trips.json';
 import SamuraiCinema from '../data/themes/samurai_cinema.json';
 import ScaryMovies from '../data/themes/scary_movies.json';
 import SilentCinema from '../data/themes/silent_cinema.json';
-import SilentComedies from '../data/themes/silent_comedies.json';
 import SongAndDance from '../data/themes/song_and_dance.json';
 import StageToScreen from '../data/themes/stage_to_screen.json';
 import Suspense from '../data/themes/suspense.json';
@@ -90,7 +89,6 @@ export default {
   ...SamuraiCinema,
   ...ScaryMovies,
   ...SilentCinema,
-  ...SilentComedies,
   ...SongAndDance,
   ...StageToScreen,
   ...Suspense,

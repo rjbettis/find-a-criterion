@@ -1,552 +1,418 @@
 {
-  "Documentaries": [
-    {
-      "title": "Agnès de ci de là Varda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Agnes_de_ci_de_la_Varda.jpg",
-      "director": "Agnès Varda",
-      "criterionUrl": "https://www.criterion.com/films/30906-agn-s-de-ci-de-l-varda",
-      "directorLink": ""
-    },
-    {
-      "title": "And Everything Is Going Fine",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_Everything_Is_Going_Fine.jpg",
-      "director": "Steven Soderbergh",
-      "criterionUrl": "https://www.criterion.com/films/27874-and-everything-is-going-fine",
-      "directorLink": ""
-    },
-    {
-      "title": "...And the Pursuit of Happiness",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_the_Pursuit_of_Happiness.jpg",
-      "criterionUrl": "https://www.criterion.com/films/676-and-the-pursuit-of-happiness",
-      "director": "Louis Malle"
-    },
-    {
-      "title": "Antonio Gaudí",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Antonio_Gaudi.jpg",
-      "director": "Hiroshi Teshigahara",
-      "criterionUrl": "https://www.criterion.com/films/536-antonio-gaud",
-      "directorLink": ""
-    },
-
-    {
-      "title": "The Beaches of Agnès",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beaches_of_Agnes.jpg",
-      "director": "Agnès Varda",
-      "criterionUrl": "https://www.criterion.com/films/30112-the-beaches-of-agn-s",
-      "directorLink": ""
-    },
-    {
-      "title": "The Beales of Grey Gardens",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beales_of_Grey_Gardens.jpg",
-      "director": "Albert Maysles and David Maysles",
-      "criterionUrl": "https://www.criterion.com/films/666-the-beales-of-grey-gardens",
-      "directorLink": ""
-    },
-    {
-      "title": "Bergman Island",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bergman_Island.jpg",
-      "director": "Marie Nyreröd",
-      "criterionUrl": "https://www.criterion.com/films/556-bergman-island",
-      "directorLink": ""
-    },
-    {
-      "title": "Black Panthers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Panthers.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28627-black-panthers",
-      "director": "Agnès Varda"
-    },
-    {
-      "title": "Les Blank: Always for Pleasure",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blank_Always_for_Pleasure.jpg",
-      "director": "Les Blank",
-      "criterionUrl": "https://www.criterion.com/films/28658-les-blank-always-for-pleasure",
-      "directorLink": ""
-    },
-    {
-      "title": "A Brief History of Time",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brief_History_of_Time.jpg",
-      "director": "Errol Morris",
-      "criterionUrl": "https://www.criterion.com/films/28559-a-brief-history-of-time",
-      "directorLink": ""
-    },
-    {
-      "title": "Buena Vista Social Club",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Buena_Vista_Social_Club.jpg",
-      "director": "Wim Wenders",
-      "criterionUrl": "https://www.criterion.com/films/28792-buena-vista-social-club",
-      "directorLink": ""
-    },
-    {
-      "title": "Burden of Dreams",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burden_of_Dreams.jpg",
-      "director": "Les Blank",
-      "criterionUrl": "https://www.criterion.com/films/546-burden-of-dreams",
-      "directorLink": ""
-    },
-    {
-      "title": "Burroughs: The Movie ",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burroughs_The_Movie.jpg",
-      "director": "Howard Brookner",
-      "criterionUrl": "https://www.criterion.com/films/28657-burroughs-the-movie",
-      "directorLink": ""
-    },
-    {
-      "title": "Carl Th. Dreyer—My Metier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carl_Th_Dreyer_My_Metier.jpg",
-      "director": "Torben Skjødt Jensen",
-      "criterionUrl": "https://www.criterion.com/films/667-carl-th-dreyer-my-metier",
-      "directorLink": ""
-    },
-    {
-      "title": "Chronicle of a Summer",
-      "director": "Jean Rouch and Edgar Morin",
-      "criterionUrl": "https://www.criterion.com/films/28394-chronicle-of-a-summer",
-      "directorLink": "",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg"
-    },
-    {
-      "title": "Come On Children",
-      "criterionUrl": "https://www.criterion.com/films/27516-come-on-children",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Come_On_Children.jpg",
-      "director": "Allan King"
-    },
-    {
-      "title": "A Constant Forge",
-      "director": "Charles Kiselyak",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Constant_Forge.jpg",
-      "criterionUrl": "https://www.criterion.com/films/956-a-constant-forge",
-      "directorLink": ""
-    },
-    {
-      "title": "Crumb",
-      "director": "Terry Zwigoff",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crumb.jpg",
-      "criterionUrl": "https://www.criterion.com/films/2104-crumb",
-      "directorLink": ""
-    },
-    {
-      "title": "Daguerréotypes",
-      "director": "Agnès Varda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Daguerreotypes.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30111-daguerr-otypes",
-      "directorLink": ""
-    },
-    {
-      "title": "David Lynch: The Art Life",
-      "director": "Jon Nguyen, Rick Barnes, and Olivia Neergaard-Holm",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/David_Lynch_The_Art_Life.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29285-david-lynch-the-art-life",
-      "directorLink": ""
-    },
-    {
-      "title": "Dont Look Back",
-      "director": "D. A. Pennebaker",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dont_Look_Back.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28655-dont-look-back",
-      "directorLink": ""
-    },
-    {
-      "title": "Dying at Grace",
-      "criterionUrl": "https://www.criterion.com/films/27517-dying-at-grace",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dying_at_Grace.jpg",
-      "director": "Allan King"
-    },
-    {
-      "title": "F for Fake",
-      "director": "Orson Welles",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/F_for_Fake.jpg",
-      "criterionUrl": "https://www.criterion.com/films/908-f-for-fake",
-      "directorLink": ""
-    },
-    {
-      "title": "Faces Places",
-      "director": "Agnès Varda and JR",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Faces_Places.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30904-faces-places",
-      "directorLink": ""
-    },
-    {
-      "title": "Festival",
-      "director": "Murray Lerner",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Festival.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28889-festival",
-      "directorLink": ""
-    },
-    {
-      "title": "Fishing with John",
-      "director": "John Lurie",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fishing_with_John.jpg",
-      "criterionUrl": "https://www.criterion.com/films/580-fishing-with-john",
-      "directorLink": ""
-    },
-    {
-      "title": "For All Mankind",
-      "director": "Al Reinert",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/For_All_Mankind.jpg",
-      "criterionUrl": "https://www.criterion.com/films/599-for-all-mankind",
-      "directorLink": ""
-    },
-    {
-      "title": "Gates of Heaven",
-      "director": "Errol Morris",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gates_of_Heaven.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28354-gates-of-heaven",
-      "directorLink": ""
-    },
-    {
-      "title": "General Idi Amin Dada: A Self-Portrait",
-      "director": "Barbet Schroeder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/General_Idi_Amin_Dada_A_Self_Portrait.jpg",
-      "criterionUrl": "https://www.criterion.com/films/545-general-idi-amin-dada-a-self-portrait",
-      "directorLink": ""
-    },
-    {
-      "title": "Gimme Shelter",
-      "director": "David Maysles, Albert Maysles, and Charlotte Zwerin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gimme_Shelter.jpg",
-      "criterionUrl": "https://www.criterion.com/films/637-gimme-shelter",
-      "directorLink": ""
-    },
-    {
-      "title": "The Gleaners and I",
-      "director": "Agnès Varda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gleaners_and_I.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30368-the-gleaners-and-i",
-      "directorLink": ""
-    },
-    {
-      "title": "The Gleaners and I: Two Years Later",
-      "director": "Agnès Varda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gleaners_and_I_Two_Years_Later.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30564-the-gleaners-and-i-two-years-later",
-      "directorLink": ""
-    },
-    {
-      "title": "God’s Country",
-      "criterionUrl": "https://www.criterion.com/films/675-god-s-country",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gods_Country.jpg",
-      "director": "Louis Malle"
-    },
-    {
-      "title": "Grey Gardens",
-      "director": "David Maysles, Albert Maysles, Ellen Hovde, and Muffie Meyer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grey_Gardens.jpg",
-      "criterionUrl": "https://www.criterion.com/films/664-grey-gardens",
-      "directorLink": ""
-    },
-    {
-      "title": "Harlan County USA",
-      "director": "Barbara Kopple",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harlan_County_USA.jpg",
-      "criterionUrl": "https://www.criterion.com/films/777-harlan-county-usa",
-      "directorLink": ""
-    },
-    {
-      "title": "Hearts and Minds",
-      "director": "Peter Davis",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hearts_and_Minds.jpg",
-      "criterionUrl": "https://www.criterion.com/films/711-hearts-and-minds",
-      "directorLink": ""
-    },
-    {
-      "title": "Hoop Dreams",
-      "director": "Steve James",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hoop_Dreams.jpg",
-      "criterionUrl": "https://www.criterion.com/films/906-hoop-dreams",
-      "directorLink": ""
-    },
-    {
-      "title": "Humain, trop humain",
-      "criterionUrl": "https://www.criterion.com/films/671-humain-trop-humain",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Humain_trop_humai.jpg",
-      "director": "Louis Malle"
-    },
-    {
-      "title": "Ingmar Bergman Makes a Movie",
-      "director": "Vilgot Sjöman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ingmar_Bergman_Makes_a_Movie.jpg",
-      "criterionUrl": "https://www.criterion.com/films/608-ingmar-bergman-makes-a-movie",
-      "directorLink": ""
-    },
-    {
-      "title": "Ingrid Bergman: In Her Own Words",
-      "director": "Stig Björkman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ingrid_Bergman_In_Her_Own_Words.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28910-ingrid-bergman-in-her-own-words",
-      "directorLink": ""
-    },
-    {
-      "title": "The Inland Sea",
-      "director": "Lucille Carra",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Inland_Sea.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28747-the-inland-sea",
-      "directorLink": ""
-    },
-    {
-      "title": "Jane B. par Agnès V.",
-      "director": "Agnès Varda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jane_B_par_Agnes_V.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30569-jane-b-par-agn-s-v",
-      "directorLink": ""
-    },
-    {
-      "title": "Jimi Plays Monterey & Shake! Otis at Monterey",
-      "director": "D. A. Pennebaker and Chris Hegedus",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jimi_Plays_Monterey_Shake_Otis_at_Monterey.jpg",
-      "criterionUrl": "https://www.criterion.com/films/722-jimi-plays-monterey-shake-otis-at-monterey",
-      "directorLink": ""
-    },
-    {
-      "title": "The Kennedy Films of Robert Drew & Associates",
-      "director": "Robert Drew",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kennedy_Films_of_Robert_Drew_and_Associates.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28907-the-kennedy-films-of-robert-drew-associates",
-      "directorLink": ""
-    },
-    {
-      "title": "Koko: A Talking Gorilla",
-      "director": "Barbet Schroeder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Koko_A_Talking_Gorilla.jpg",
-      "criterionUrl": "https://www.criterion.com/films/782-koko-a-talking-gorilla",
-      "directorLink": ""
-    },
-    {
-      "title": "Koyaanisqatsi",
-      "director": "Godfrey Reggio",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Koyaanisqatsi.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28034-koyaanisqatsi",
-      "directorLink": ""
-    },
-    {
-      "title": "Land of Milk and Honey",
-      "criterionUrl": "https://www.criterion.com/films/28397-land-of-milk-and-honey",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Land_of_Milk_and_Honey.jpg",
-      "director": "Pierre Etaix"
-    },
-    {
-      "title": "Louie Bluie",
-      "director": "Terry Zwigoff",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Louie_Bluie.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27509-louie-bluie",
-      "directorLink": ""
-    },
-    {
-      "title": "The Making of Fanny and Alexander",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Making_of_Fanny_and_Alexander.jpg",
-      "criterionUrl": "https://www.criterion.com/films/627-the-making-of-fanny-and-alexander",
-      "directorLink": ""
-    },
-    {
-      "title": "A Married Couple",
-      "criterionUrl": "https://www.criterion.com/films/27515-a-married-couple",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg",
-      "director": "Allan King"
-    },
-    {
-      "title": "Memory for Max, Claire, Ida and Company",
-      "criterionUrl": "https://www.criterion.com/films/27518-memory-for-max-claire-ida-and-company",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Memory_for_Max_Claire_Ida_and_Company.jpg",
-      "director": "Allan King"
-    },
-    {
-      "title": "Monterey Pop",
-      "director": "D. A. Pennebaker",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monterey_Pop.jpg",
-      "criterionUrl": "https://www.criterion.com/films/720-monterey-pop",
-      "directorLink": ""
-    },
-    {
-      "title": "Mur Murs",
-      "criterionUrl": "https://www.criterion.com/films/28629-mur-murs",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mur_Murs.jpg",
-      "director": "Agnès Varda"
-    },
-    {
-      "title": "My Crasy Life",
-      "criterionUrl": "https://www.criterion.com/films/27946-my-crasy-life",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Crasy_Life.jpg",
-      "director": "Jean-Pierre Gorin"
-    },
-    {
-      "title": "Nanook of the North",
-      "director": "Robert Flaherty",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nanook_of_the_North.jpg",
-      "criterionUrl": "https://www.criterion.com/films/574-nanook-of-the-north",
-      "directorLink": ""
-    },
-    {
-      "title": "Naqoyqatsi",
-      "director": "Godfrey Reggio",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naqoyqatsi.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28418-naqoyqatsi",
-      "directorLink": ""
-    },
-    {
-      "title": "Night and Fog",
-      "director": "Alain Resnais",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_and_Fog.jpg",
-      "criterionUrl": "https://www.criterion.com/films/238-night-and-fog",
-      "directorLink": ""
-    },
-    {
-      "title": "Paris Is Burning",
-      "director": "Jennie Livingston",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Is_Burning.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29647-paris-is-burning",
-      "directorLink": ""
-    },
-    {
-      "title": "Phantom India",
-      "criterionUrl": "https://www.criterion.com/films/673-phantom-india",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Phantom_India.jpg",
-      "director": "Louis Malle"
-    },
-    {
-      "title": "Pina",
-      "director": "Wim Wenders",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pina.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28404-pina",
-      "directorLink": ""
-    },
-    {
-      "title": "Place de la République",
-      "criterionUrl": "https://www.criterion.com/films/672-place-de-la-republique",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Place_de_la_Republique.jpg",
-      "director": "Louis Malle"
-    },
-    {
-      "title": "A Poem Is a Naked Person",
-      "director": "Les Blank",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poem_Is_a_Naked_Person.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28755-a-poem-is-a-naked-person",
-      "directorLink": ""
-    },
-    {
-      "title": "Poto and Cabengo",
-      "criterionUrl": "https://www.criterion.com/films/27948-poto-and-cabengo",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poto_and_Cabengo.jpg",
-      "director": "Jean-Pierre Gorin"
-    },
-    {
-      "title": "Powaqqatsi",
-      "director": "Godfrey Reggio",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Powaqqatsi.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28033-powaqqatsi",
-      "directorLink": ""
-    },
-    {
-      "title": "Routine Pleasures",
-      "criterionUrl": "https://www.criterion.com/films/27947-routine-pleasures",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Routine_Pleasures.jpg",
-      "director": "Jean-Pierre Gorin"
-    },
-    {
-      "title": "Salesman",
-      "director": "David Maysles, Albert Maysles, and Charlotte Zwerin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Salesman.jpg",
-      "criterionUrl": "https://www.criterion.com/films/663-salesman",
-      "directorLink": ""
-    },
-    {
-      "title": "Sans Soleil",
-      "criterionUrl": "https://www.criterion.com/films/304-sans-soleil",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sans_Soleil.jpg",
-      "director": "Chris Marker"
-    },
-    {
-      "title": "Scorsese Shorts",
-      "director": "Martin Scorsese",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scorsese_Shorts.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30616-scorsese-shorts",
-      "directorLink": ""
-    },
-    {
-      "title": "Shoah",
-      "director": "Claude Lanzmann",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoah.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27968-shoah",
-      "directorLink": ""
-    },
-    {
-      "title": "The Thin Blue Line",
-      "director": "Errol Morris",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thin_Blue_Line.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28355-the-thin-blue-line",
-      "directorLink": ""
-    },
-    {
-      "title": "The Times of Harvey Milk",
-      "director": "Robert Epstein",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Times_of_Harvey_Milk.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27549-the-times-of-harvey-milk",
-      "directorLink": ""
-    },
-    {
-      "title": "Tokyo Olympiad",
-      "director": "Kon Ichikawa",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Olympiad.jpg",
-      "criterionUrl": "https://www.criterion.com/films/709-tokyo-olympiad",
-      "directorLink": ""
-    },
-    {
-      "title": "Total Balalaika Show",
-      "criterionUrl": "https://www.criterion.com/films/27795-total-balalaika-show",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Total_Balalaika_Show.jpg",
-      "director": "Aki Kaurismäki"
-    },
-    {
-      "title": "Trances",
-      "director": "Ahmed El Maânouni",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trances.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28413-trances",
-      "directorLink": ""
-    },
-    {
-      "title": "Uncle Yanco",
-      "criterionUrl": "https://www.criterion.com/films/28626-uncle-yanco",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uncle_Yanco.jpg",
-      "director": "Agnès Varda"
-    },
-    {
-      "title": "Varda by Agnès",
-      "director": "Agnès Varda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Varda_by_Agnes.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30210-varda-by-agn-s",
-      "directorLink": ""
-    },
-    {
-      "title": "Vernon, Florida",
-      "director": "Errol Morris",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vernon_Florida.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28356-vernon-florida",
-      "directorLink": ""
-    },
-    {
-      "title": "Vive le Tour",
-      "criterionUrl": "https://www.criterion.com/films/670-vive-le-tour",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vive_le_Tour.jpg",
-      "director": "Louis Malle"
-    },
-    {
-      "title": "The War Room",
-      "director": "Chris Hegedus and D. A. Pennebaker",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/War_Room.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28029-the-war-room",
-      "directorLink": ""
-    },
-    {
-      "title": "Warrendale",
-      "criterionUrl": "https://www.criterion.com/films/27514-warrendale",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Warrendale.jpg",
-      "director": "Allan King"
-    },
-    {
-      "title": "When We Were Kings",
-      "director": "Leon Gast",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/When_We_Were_Kings.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30086-when-we-were-kings",
-      "directorLink": ""
-    }
-  ]
+"Documentaries": [
+ {
+   "film": "And Everything Is Going Fine",
+   "director": "Steven Soderbergh",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_Everything_Is_Going_Fine.jpg"
+ },
+ {
+   "film": ". . . And the Pursuit of Happiness",
+   "director": "Louis Malle",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_the_Pursuit_of_Happiness.jpg"
+ },
+ {
+   "film": "Antonio Gaudí",
+   "director": "Hiroshi Teshigahara",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Antonio_Gaudi.jpg"
+ },
+ {
+   "film": "The Beales of Grey Gardens",
+   "director": "Albert Maysles and David Maysles",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beales_of_Grey_Gardens.jpg"
+ },
+ {
+   "film": "Bergman Island",
+   "director": "Marie Nyreröd",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bergman_Island.jpg"
+ },
+ {
+   "film": "Black Panthers",
+   "director": "Agnès Varda",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Panthers.jpg"
+ },
+ {
+   "film": "A Brief History of Time",
+   "director": "Errol Morris",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brief_History_of_Time.jpg"
+ },
+ {
+   "film": "Burden of Dreams",
+   "director": "Les Blank",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burden_of_Dreams.jpg"
+ },
+ {
+   "film": "Burroughs: The Movie ",
+   "director": "Howard Brookner",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burroughs_The_Movie.jpg"
+ },
+ {
+   "film": "Carl Th. Dreyer—My Metier",
+   "director": "Torben Skjødt Jensen",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carl_Th_Dreyer_My_Metier.jpg"
+ },
+ {
+   "film": "Chronicle of a Summer",
+   "director": "Jean Rouch and Edgar Morin",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg"
+ },
+ {
+   "film": "Come On Children",
+   "director": "Allan King",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Come_On_Children.jpg"
+ },
+ {
+   "film": "A Constant Forge",
+   "director": "Charles Kiselyak",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Constant_Forge.jpg"
+ },
+ {
+   "film": "Crumb",
+   "director": "Terry Zwigoff",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crumb.jpg"
+ },
+ {
+   "film": "Dont Look Back",
+   "director": "D. A. Pennebaker",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dont_Look_Back.jpg"
+ },
+ {
+   "film": "Dying at Grace",
+   "director": "Allan King",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dying_at_Grace.jpg"
+ },
+ {
+   "film": "F for Fake",
+   "director": "Orson Welles",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/F_for_Fake.jpg"
+ },
+ {
+   "film": "Fishing with John",
+   "director": "John Lurie",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fishing_with_John.jpg"
+ },
+ {
+   "film": "For All Mankind",
+   "director": "Al Reinert",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/For_All_Mankind.jpg"
+ },
+ {
+   "film": "Gates of Heaven",
+   "director": "Errol Morris",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gates_of_Heaven.jpg"
+ },
+ {
+   "film": "General Idi Amin Dada: A Self-Portrait",
+   "director": "Barbet Schroeder",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/General_Idi_Amin_Dada_A_Self_Portrait.jpg"
+ },
+ {
+   "film": "Gimme Shelter",
+   "director": "David Maysles, Albert Maysles and Charlotte Zwerin",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gimme_Shelter.jpg"
+ },
+ {
+   "film": "God’s Country",
+   "director": "Louis Malle",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gods_Country.jpg"
+ },
+ {
+   "film": "Grey Gardens",
+   "director": "Albert Maysles, David Maysles, Ellen Hovde…",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grey_Gardens.jpg"
+ },
+ {
+   "film": "Harlan County USA",
+   "director": "Barbara Kopple",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harlan_County_USA.jpg"
+ },
+ {
+   "film": "Hearts and Minds",
+   "director": "Peter Davis",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hearts_and_Minds.jpg"
+ },
+ {
+   "film": "Hoop Dreams",
+   "director": "Steve James",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hoop_Dreams.jpg"
+ },
+ {
+   "film": "Humain, trop humain",
+   "director": "Louis Malle",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Humain_trop_humai.jpg"
+ },
+ {
+   "film": "Ingmar Bergman Makes a Movie",
+   "director": "Vilgot Sjöman",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ingmar_Bergman_Makes_a_Movie.jpg"
+ },
+ {
+   "film": "Jimi Plays Monterey & Shake! Otis at Monterey",
+   "director": "Chris Hegedus and D. A. Pennebaker",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jimi_Plays_Monterey_Shake_Otis_at_Monterey.jpg"
+ },
+ {
+   "film": "The Kennedy Films of Robert Drew & Associates",
+   "director": "Robert Drew",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kennedy_Films_of_Robert_Drew_and_Associates.jpg"
+ },
+ {
+   "film": "Koko: A Talking Gorilla",
+   "director": "Barbet Schroeder",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Koko_A_Talking_Gorilla.jpg"
+ },
+ {
+   "film": "Koyaanisqatsi",
+   "director": "Godfrey Reggio",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Koyaanisqatsi.jpg"
+ },
+ {
+   "film": "Land of Milk and Honey",
+   "director": "Pierre Etaix",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Land_of_Milk_and_Honey.jpg"
+ },
+ {
+   "film": "Les Blank: Always for Pleasure",
+   "director": "Les Blank",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blank_Always_for_Pleasure.jpg"
+ },
+ {
+   "film": "Louie Bluie",
+   "director": "Terry Zwigoff",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Louie_Bluie.jpg"
+ },
+ {
+   "film": "The Making of Fanny and Alexander",
+   "director": "Ingmar Bergman",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Making_of_Fanny_and_Alexander.jpg"
+ },
+ {
+   "film": "A Married Couple",
+   "director": "Allan King",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg"
+ },
+ {
+   "film": "Memory for Max, Claire, Ida and Company",
+   "director": "Allan King",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Memory_for_Max_Claire_Ida_and_Company.jpg"
+ },
+ {
+   "film": "Mur Murs",
+   "director": "Agnès Varda",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mur_Murs.jpg"
+ },
+ {
+   "film": "Monterey Pop",
+   "director": "D. A. Pennebaker",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monterey_Pop.jpg"
+ },
+ {
+   "film": "My Crasy Life",
+   "director": "Jean-Pierre Gorin",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Crasy_Life.jpg"
+ },
+ {
+   "film": "Nanook of the North",
+   "director": "Robert Flaherty",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nanook_of_the_North.jpg"
+ },
+ {
+   "film": "Naqoyqatsi",
+   "director": "Godfrey Reggio",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naqoyqatsi.jpg"
+ },
+ {
+   "film": "Night and Fog",
+   "director": "Alain Resnais",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_and_Fog.jpg"
+ },
+ {
+   "film": "Phantom India",
+   "director": "Louis Malle",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Phantom_India.jpg"
+ },
+ {
+   "film": "Pina",
+   "director": "Wim Wenders",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pina.jpg"
+ },
+ {
+   "film": "A Poem Is a Naked Person",
+   "director": "Les Blank",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poem_Is_a_Naked_Person.jpg"
+ },
+ {
+   "film": "Place de la République",
+   "director": "Louis Malle",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Place_de_la_Republique.jpg"
+ },
+ {
+   "film": "Poto and Cabengo",
+   "director": "Jean-Pierre Gorin",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poto_and_Cabengo.jpg"
+ },
+ {
+   "film": "Powaqqatsi",
+   "director": "Godfrey Reggio",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Powaqqatsi.jpg"
+ },
+ {
+   "film": "Routine Pleasures",
+   "director": "Jean-Pierre Gorin",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Routine_Pleasures.jpg"
+ },
+ {
+   "film": "Salesman",
+   "director": "Albert Maysles, David Maysles and Charlotte Zwerin",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Salesman.jpg"
+ },
+ {
+   "film": "Sans Soleil",
+   "director": "Chris Marker",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sans_Soleil.jpg"
+ },
+ {
+   "film": "Shoah",
+   "director": "Claude Lanzmann",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoah.jpg"
+ },
+ {
+   "film": "The Thin Blue Line",
+   "director": "Errol Morris",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thin_Blue_Line.jpg"
+ },
+ {
+   "film": "The Times of Harvey Milk",
+   "director": "Robert Epstein",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Times_of_Harvey_Milk.jpg"
+ },
+ {
+   "film": "Tokyo Olympiad",
+   "director": "Kon Ichikawa",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Olympiad.jpg"
+ },
+ {
+   "film": "Total Balalaika Show",
+   "director": "Aki Kaurismäki",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Total_Balalaika_Show.jpg"
+ },
+ {
+   "film": "Uncle Yanco",
+   "director": "Agnès Varda",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uncle_Yanco.jpg"
+ },
+ {
+   "film": "Vernon, Florida",
+   "director": "Errol Morris",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vernon_Florida.jpg"
+ },
+ {
+   "film": "Trances",
+   "director": "Ahmed El Maânouni",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trances.jpg"
+ },
+ {
+   "film": "Vive le Tour",
+   "director": "Louis Malle",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vive_le_Tour.jpg"
+ },
+ {
+   "film": "The War Room",
+   "director": "Chris Hegedus and D. A. Pennebaker",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/War_Room.jpg"
+ },
+ {
+   "film": "Warrendale",
+   "director": "Allan King",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Warrendale.jpg"
+ },
+ {
+   "film": "Ingrid Bergman: In Her Own Words",
+   "director": "Stig Björkman",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ingrid_Bergman_In_Her_Own_Words.jpg"
+ },
+ {
+   "film": "Buena Vista Social Club",
+   "director": "Wim Wenders",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Buena_Vista_Social_Club.jpg"
+ },
+ {
+   "film": "Festival",
+   "director": "Murray Lerner",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Festival.jpg"
+ },
+ {
+   "film": "David Lynch: The Art Life",
+   "director": "Olivia Neergaard-Holm, Rick Barnes and Jon Nguyen",
+   "list": "Documentaries",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/David_Lynch_The_Art_Life.jpg"
+ }
+]
 }

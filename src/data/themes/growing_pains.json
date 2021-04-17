@@ -1,487 +1,400 @@
 {
-  "GrowingPains": [
-    {
-      "title": "The 400 Blows",
-      "director": "François Truffaut",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg",
-      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows",
-      "directorLink": ""
-    },
-    {
-      "title": "Aparajito",
-      "criterionUrl": "https://www.criterion.com/films/28443-aparajito",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Aparajito.jpg",
-      "director": "Satyajit Ray",
-      "director_url": "https://www.criterion.com/films/28443-aparajito"
-    },
-    {
-      "title": "Au revoir les enfants",
-      "director": "Louis Malle",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Au_revoir_les_enfants.jpg",
-      "criterionUrl": "https://www.criterion.com/films/549-au-revoir-les-enfants",
-      "directorLink": ""
-    },
-    {
-      "title": "Bicycle Thieves",
-      "director": "Vittorio De Sica",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bicycle_Thieves.jpg",
-      "criterionUrl": "https://www.criterion.com/films/210-bicycle-thieves",
-      "directorLink": ""
-    },
-    {
-      "title": "Blue Is the Warmest Color",
-      "director": "Abdellatif Kechiche",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Is_the_Warmest_Color.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28603-blue-is-the-warmest-color",
-      "directorLink": ""
-    },
-    {
-      "title": "Boyhood",
-      "director": "Richard Linklater",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Boyhood.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28820-boyhood",
-      "directorLink": ""
-    },
-    {
-      "title": "Brand upon the Brain!",
-      "criterionUrl": "https://www.criterion.com/films/746-brand-upon-the-brain",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brand_upon_the_Brain.jpg",
-      "director": "Guy Maddin",
-      "director_url": "https://www.criterion.com/films/746-brand-upon-the-brain"
-    },
-    {
-      "title": "The Breakfast Club",
-      "director": "John Hughes",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breakfast_Club.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29272-the-breakfast-club",
-      "directorLink": ""
-    },
-    {
-      "title": "A Brighter Summer Day",
-      "director": "Edward Yang",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brighter_Summer_Day.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28596-a-brighter-summer-day",
-      "directorLink": ""
-    },
-    {
-      "title": "The Children Are Watching Us",
-      "director": "Vittorio De Sica",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg",
-      "criterionUrl": "https://www.criterion.com/films/772-the-children-are-watching-us",
-      "directorLink": ""
-    },
-    {
-      "title": "Closely Watched Trains",
-      "criterionUrl": "https://www.criterion.com/films/212-closely-watched-trains",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Closely_Watched_Trains.jpg",
-      "director": "Jiří Menzel",
-      "director_url": "https://www.criterion.com/films/212-closely-watched-trains"
-    },
-    {
-      "title": "Cold Water",
-      "director": "Olivier Assayas",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cold_Water.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29385-cold-water",
-      "directorLink": ""
-    },
-    {
-      "title": "Come On Children",
-      "criterionUrl": "https://www.criterion.com/films/27516-come-on-children",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Come_On_Children.jpg",
-      "director": "Allan King",
-      "director_url": "https://www.criterion.com/films/27516-come-on-children"
-    },
-    {
-      "title": "Cría cuervos...",
-      "director": "Carlos Saura",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cria_cuervos.jpg",
-      "criterionUrl": "https://www.criterion.com/films/519-cr-a-cuervos",
-      "directorLink": ""
-    },
-    {
-      "title": "Dazed and Confused",
-      "director": "Richard Linklater",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dazed_and_Confused.jpg",
-      "criterionUrl": "https://www.criterion.com/films/314-dazed-and-confused",
-      "directorLink": ""
-    },
-    {
-      "title": "The Fallen Idol",
-      "criterionUrl": "https://www.criterion.com/films/346-the-fallen-idol",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fallen_Idol.jpg",
-      "director": "Carol Reed",
-      "director_url": "https://www.criterion.com/films/346-the-fallen-idol"
-    },
-    {
-      "title": "Fanny and Alexander: Theatrical Version",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg",
-      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version",
-      "directorLink": ""
-    },
-    {
-      "title": "Fat Girl",
-      "director": "Catherine Breillat",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fat_Girl.jpg",
-      "criterionUrl": "https://www.criterion.com/films/548-fat-girl",
-      "directorLink": ""
-    },
-    {
-      "title": "Fighting Elegy",
-      "director": "Seijun Suzuki",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fighting_Elegy.jpg",
-      "criterionUrl": "https://www.criterion.com/films/945-fighting-elegy",
-      "directorLink": ""
-    },
-    {
-      "title": "Fish Tank",
-      "director": "Andrea Arnold",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fish_Tank.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27541-fish-tank",
-      "directorLink": ""
-    },
-    {
-      "title": "Forbidden Games",
-      "criterionUrl": "https://www.criterion.com/films/350-forbidden-games",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Forbidden_Games.jpg",
-      "director": "René Clément",
-      "director_url": "https://www.criterion.com/films/350-forbidden-games"
-    },
-    {
-      "title": "The Forgiveness of Blood",
-      "director": "Joshua Marston",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Forgiveness_of_Blood.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28379-the-forgiveness-of-blood",
-      "directorLink": ""
-    },
-    {
-      "title": "A Generation",
-      "director": "Andrzej Wajda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Generation.jpg",
-      "criterionUrl": "https://www.criterion.com/films/921-a-generation",
-      "directorLink": ""
-    },
-    {
-      "title": "George Washington",
-      "director": "David Gordon Green",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/George_Washington.jpg",
-      "criterionUrl": "https://www.criterion.com/films/691-george-washington",
-      "directorLink": ""
-    },
-    {
-      "title": "Germany Year Zero",
-      "director": "Roberto Rossellini",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Germany_Year_Zero.jpg",
-      "criterionUrl": "https://www.criterion.com/films/297-germany-year-zero",
-      "directorLink": ""
-    },
-    {
-      "title": "Ghost World",
-      "director": "Terry Zwigoff",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ghost_World.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28687-ghost-world",
-      "directorLink": ""
-    },
-    {
-      "title": "Good Morning",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Good_Morning.jpg",
-      "director": "Yasujiro Ozu",
-      "criterionUrl": "https://www.criterion.com/films/624-good-morning",
-      "directorLink": ""
-    },
-    {
-      "title": "Great Expectations",
-      "director": "David Lean",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Great_Expectations.jpg",
-      "criterionUrl": "https://www.criterion.com/films/566-great-expectations",
-      "directorLink": ""
-    },
-    {
-      "title": "Harold and Maude",
-      "director": "Hal Ashby",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27896-harold-and-maude",
-      "directorLink": ""
-    },
-    {
-      "title": "Here Is Your Life",
-      "director": "Jan Troell",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Is_Your_Life.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28552-here-is-your-life",
-      "directorLink": ""
-    },
-    {
-      "title": "Hoop Dreams",
-      "director": "Steve James",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hoop_Dreams.jpg",
-      "criterionUrl": "https://www.criterion.com/films/906-hoop-dreams",
-      "directorLink": ""
-    },
-    {
-      "title": "The Ice Storm",
-      "director": "Ang Lee",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ice_Storm.jpg",
-      "criterionUrl": "https://www.criterion.com/films/336-the-ice-storm",
-      "directorLink": ""
-    },
-    {
-      "title": "If....",
-      "director": "Lindsay Anderson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/If.jpg",
-      "criterionUrl": "https://www.criterion.com/films/825-if",
-      "directorLink": ""
-    },
-    {
-      "title": "Ivan’s Childhood",
-      "director": "Andrei Tarkovsky",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ivans_Childhood.jpg",
-      "criterionUrl": "https://www.criterion.com/films/830-ivan-s-childhood",
-      "directorLink": ""
-    },
-    {
-      "title": "Kes",
-      "director": "Ken Loach",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kes.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27560-kes",
-      "directorLink": ""
-    },
-    {
-      "title": "King of the Hill",
-      "director": "Steven Soderbergh",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_the_Hill.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27965-king-of-the-hill",
-      "directorLink": ""
-    },
-    {
-      "title": "L’enfance nue",
-      "director": "Maurice Pialat",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lenfance_nue.jpg",
-      "criterionUrl": "https://www.criterion.com/films/2337-l-enfance-nue",
-      "directorLink": ""
-    },
-    {
-      "title": "Lacombe, Lucien",
-      "director": "Louis Malle",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lacombe_Lucien.jpg",
-      "criterionUrl": "https://www.criterion.com/films/776-lacombe-lucien",
-      "directorLink": ""
-    },
-    {
-      "title": "The Last Picture Show",
-      "director": "Peter Bogdanovich",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Picture_Show.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27533-the-last-picture-show",
-      "directorLink": ""
-    },
-    {
-      "title": "The Long Day Closes",
-      "director": "Terence Davies",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Long_Day_Closes.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27984-the-long-day-closes",
-      "directorLink": ""
-    },
-    {
-      "title": "Lord of the Flies",
-      "director": "Peter Brook",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lord_of_the_Flies.jpg",
-      "criterionUrl": "https://www.criterion.com/films/563-lord-of-the-flies",
-      "directorLink": ""
-    },
-    {
-      "title": "Mon oncle Antoine",
-      "director": "Claude Jutra",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mon_Oncle.jpg",
-      "criterionUrl": "https://www.criterion.com/films/590-mon-oncle-antoine",
-      "directorLink": ""
-    },
-    {
-      "title": "Moonrise Kingdom",
-      "director": "Wes Anderson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise_Kingdom.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28757-moonrise-kingdom",
-      "directorLink": ""
-    },
-    {
-      "title": "Mouchette",
-      "director": "Robert Bresson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mouchette.jpg",
-      "criterionUrl": "https://www.criterion.com/films/456-mouchette",
-      "directorLink": ""
-    },
-    {
-      "title": "Murmur of the Heart",
-      "director": "Louis Malle",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Murmur_of_the_Heart.jpg",
-      "criterionUrl": "https://www.criterion.com/films/775-murmur-of-the-heart",
-      "directorLink": ""
-    },
-    {
-      "title": "My Life as a Dog",
-      "director": "Lasse Hallström",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Life_as_a_Dog.jpg",
-      "criterionUrl": "https://www.criterion.com/films/727-my-life-as-a-dog",
-      "directorLink": ""
-    },
-    {
-      "title": "À nos amours",
-      "director": "Maurice Pialat",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nos_amours.jpg",
-      "criterionUrl": "https://www.criterion.com/films/779--nos-amours",
-      "directorLink": ""
-    },
-    {
-      "title": "Oliver Twist",
-      "director": "David Lean",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Oliver_Twist.jpg",
-      "criterionUrl": "https://www.criterion.com/films/567-oliver-twist",
-      "directorLink": ""
-    },
-    {
-      "title": "Il posto",
-      "director": "Ermanno Olmi",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Posto.jpg",
-      "criterionUrl": "https://www.criterion.com/films/364-il-posto",
-      "directorLink": ""
-    },
-    {
-      "title": "La promesse",
-      "director": "Luc Dardenne…",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Promesse.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28073-la-promesse",
-      "directorLink": ""
-    },
-    {
-      "title": "Ratcatcher",
-      "director": "Lynne Ramsay",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ratcatcher.jpg",
-      "criterionUrl": "https://www.criterion.com/films/716-ratcatcher",
-      "directorLink": ""
-    },
-    {
-      "title": "The River",
-      "director": "Jean Renoir",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/River.jpg",
-      "criterionUrl": "https://www.criterion.com/films/679-the-river",
-      "directorLink": ""
-    },
-    {
-      "title": "Rumble Fish",
-      "director": "Francis Ford Coppola",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rumble_Fish.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28993-rumble-fish",
-      "directorLink": ""
-    },
-    {
-      "title": "Rushmore",
-      "director": "Wes Anderson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rushmore.jpg",
-      "criterionUrl": "https://www.criterion.com/films/333-rushmore",
-      "directorLink": ""
-    },
-    {
-      "title": "The Spirit of the Beehive",
-      "director": "Víctor Erice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spirit_of_the_Beehive.jpg",
-      "criterionUrl": "https://www.criterion.com/films/367-the-spirit-of-the-beehive",
-      "directorLink": ""
-    },
-    {
-      "title": "Summer Interlude",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Summer_Interlude.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27782-summer-interlude",
-      "director": "Ingmar Bergman",
-      "director_url": "https://www.criterion.com/films/27782-summer-interlude"
-    },
-    {
-      "title": "El Sur",
-      "director": "Víctor Erice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sur.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27745-el-sur",
-      "directorLink": ""
-    },
-    {
-      "title": "A Taste of Honey",
-      "director": "Tony Richardson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Honey.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28734-a-taste-of-honey",
-      "directorLink": ""
-    },
-    {
-      "title": "Tess",
-      "director": "Roman Polanski",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tess.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28594-tess",
-      "directorLink": ""
-    },
-    {
-      "title": "The Tin Drum",
-      "director": "Volker Schlöndorff",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg",
-      "criterionUrl": "https://www.criterion.com/films/789-the-tin-drum",
-      "directorLink": ""
-    },
-    {
-      "title": "Tiny Furniture",
-      "criterionUrl": "https://www.criterion.com/films/28317-tiny-furniture",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tiny_Furniture.jpg",
-      "director": "Lena Dunham",
-      "director_url": "https://www.criterion.com/films/28317-tiny-furniture"
-    },
-    {
-      "title": "Valerie and Her Week of Wonders",
-      "director": "Jaromil Jireš",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Valerie_and_Her_Week_of_Wonders.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27860-valerie-and-her-week-of-wonders",
-      "directorLink": ""
-    },
-    {
-      "title": "The Virgin Suicides",
-      "director": "Sofia Coppola",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Virgin_Suicides.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29336-the-virgin-suicides",
-      "directorLink": ""
-    },
-    {
-      "title": "Walkabout",
-      "director": "Nicolas Roeg",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Walkabout.jpg",
-      "criterionUrl": "https://www.criterion.com/films/522-walkabout",
-      "directorLink": ""
-    },
-    {
-      "title": "Warrendale",
-      "criterionUrl": "https://www.criterion.com/films/27514-warrendale",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Warrendale.jpg",
-      "director": "Allan King",
-      "director_url": "https://www.criterion.com/films/27514-warrendale"
-    },
-    {
-      "title": "Where Is the Friend’s House?",
-      "director": "Abbas Kiarostami",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Where_Is_the_Friends_House.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28638-where-is-the-friend-s-house",
-      "directorLink": ""
-    },
-    {
-      "title": "Yi Yi",
-      "director": "Edward Yang",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Yi_Yi.jpg",
-      "criterionUrl": "https://www.criterion.com/films/781-yi-yi",
-      "directorLink": ""
-    },
-    {
-      "title": "Young Törless",
-      "director": "Volker Schlöndorff",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Torless.jpg",
-      "criterionUrl": "https://www.criterion.com/films/926-young-t-rless",
-      "directorLink": ""
-    },
-    {
-      "title": "Zéro de conduite",
-      "criterionUrl": "https://www.criterion.com/films/27757-zero-de-conduite",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Zero_de_conduite.jpg",
-      "director": "Jean Vigo",
-      "director_url": "https://www.criterion.com/films/27757-zero-de-conduite"
-    }
-  ]
+"GrowingPains": [
+ {
+   "film": "À nos amours",
+   "director": "Maurice Pialat",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nos_amours.jpg"
+ },
+ {
+   "film": "Aparajito",
+   "director": "Aparajito",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Aparajito.jpg"
+ },
+ {
+   "film": "Au revoir les enfants",
+   "director": "Louis Malle",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Au_revoir_les_enfants.jpg"
+ },
+ {
+   "film": "Bicycle Thieves",
+   "director": "Vittorio De Sica",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bicycle_Thieves.jpg"
+ },
+ {
+   "film": "Black Moon",
+   "director": "Louis Malle",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Moon.jpg"
+ },
+ {
+   "film": "Blue Is the Warmest Color",
+   "director": "Abdellatif Kechiche",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Is_the_Warmest_Color.jpg"
+ },
+ {
+   "film": "Brand upon the Brain!",
+   "director": "Guy Maddin",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brand_upon_the_Brain.jpg"
+ },
+ {
+   "film": "A Brighter Summer Day",
+   "director": "Edward Yang",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brighter_Summer_Day.jpg"
+ },
+ {
+   "film": "The Children Are Watching Us",
+   "director": "Vittorio De Sica",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg"
+ },
+ {
+   "film": "Closely Watched Trains",
+   "director": "Jiří Menzel",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg"
+ },
+ {
+   "film": "Come On Children",
+   "director": "Allan King",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Come_On_Children.jpg"
+ },
+ {
+   "film": "Cría cuervos . . . ",
+   "director": "Carlos Saura",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cria_cuervos.jpg"
+ },
+ {
+   "film": "Dazed and Confused",
+   "director": "Richard Linklater",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dazed_and_Confused.jpg"
+ },
+ {
+   "film": "L’enfance nue",
+   "director": "Maurice Pialat",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lenfance_nue.jpg"
+ },
+ {
+   "film": "The Fallen Idol",
+   "director": "Carol Reed",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fallen_Idol.jpg"
+ },
+ {
+   "film": "Fanny and Alexander — The Theatrical Version",
+   "director": "Ingmar Bergman",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg"
+ },
+ {
+   "film": "Fat Girl",
+   "director": "Catherine Breillat",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fat_Girl.jpg"
+ },
+ {
+   "film": "Fighting Elegy",
+   "director": "Seijun Suzuki",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fighting_Elegy.jpg"
+ },
+ {
+   "film": "Fish Tank",
+   "director": "Andrea Arnold",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fish_Tank.jpg"
+ },
+ {
+   "film": "Forbidden Games",
+   "director": "René Clément",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Forbidden_Games.jpg"
+ },
+ {
+   "film": "The Forgiveness of Blood",
+   "director": "Joshua Marston",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Forgiveness_of_Blood.jpg"
+ },
+ {
+   "film": "The 400 Blows",
+   "director": "François Truffaut",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg"
+ },
+ {
+   "film": "A Generation",
+   "director": "Andrzej Wajda",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Generation.jpg"
+ },
+ {
+   "film": "George Washington",
+   "director": "David Gordon Green",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/George_Washington.jpg"
+ },
+ {
+   "film": "Germany Year Zero",
+   "director": "Roberto Rossellini",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Germany_Year_Zero.jpg"
+ },
+ {
+   "film": "Good Morning",
+   "director": "Yasujiro Ozu",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Good_Morning.jpg"
+ },
+ {
+   "film": "Great Expectations",
+   "director": "David Lean",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Great_Expectations.jpg"
+ },
+ {
+   "film": "Harold and Maude",
+   "director": "Hal Ashby",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg"
+ },
+ {
+   "film": "Here Is Your Life",
+   "director": "Jan Troell",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Is_Your_Life.jpg"
+ },
+ {
+   "film": "Hoop Dreams",
+   "director": "Steve James",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hoop_Dreams.jpg"
+ },
+ {
+   "film": "I Was Born, But . . . ",
+   "director": "Yasujiro Ozu",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_was_Born_But.jpg"
+ },
+ {
+   "film": "The Ice Storm",
+   "director": "Ang Lee",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ice_Storm.jpg"
+ },
+ {
+   "film": "If....",
+   "director": "Lindsay Anderson",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/If.jpg"
+ },
+ {
+   "film": "Ivan’s Childhood",
+   "director": "Andrei Tarkovsky",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ivans_Childhood.jpg"
+ },
+ {
+   "film": "Kes",
+   "director": "Ken Loach",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kes.jpg"
+ },
+ {
+   "film": "King of the Hill",
+   "director": "Steven Soderbergh",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_the_Hill.jpg"
+ },
+ {
+   "film": "Lacombe, Lucien",
+   "director": "Louis Malle",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lacombe_Lucien.jpg"
+ },
+ {
+   "film": "The Last Picture Show",
+   "director": "Peter Bogdanovich",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Picture_Show.jpg"
+ },
+ {
+   "film": "The Long Day Closes",
+   "director": "Terence Davies",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Long_Day_Closes.jpg"
+ },
+ {
+   "film": "Lord of the Flies",
+   "director": "Peter Brook",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lord_of_the_Flies.jpg"
+ },
+ {
+   "film": "Moonrise Kingdom",
+   "director": "Wes Anderson",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise_Kingdom.jpg"
+ },
+ {
+   "film": "Mon oncle Antoine",
+   "director": "Claude Jutra",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mon_Oncle.jpg"
+ },
+ {
+   "film": "Mouchette",
+   "director": "Robert Bresson",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mouchette.jpg"
+ },
+ {
+   "film": "Murmur of the Heart",
+   "director": "Louis Malle",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Murmur_of_the_Heart.jpg"
+ },
+ {
+   "film": "My Life as a Dog",
+   "director": "Lasse Hallström",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Life_as_a_Dog.jpg"
+ },
+ {
+   "film": "Oliver Twist",
+   "director": "David Lean",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Oliver_Twist.jpg"
+ },
+ {
+   "film": "Pather Panchali",
+   "director": "Satyajit Ray",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pather_Panchali.jpg"
+ },
+ {
+   "film": "Poil de carotte",
+   "director": "Julien Duvivier",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poil_de_carotte.jpg"
+ },
+ {
+   "film": "Il posto",
+   "director": "Ermanno Olmi",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Posto.jpg"
+ },
+ {
+   "film": "La promesse",
+   "director": "Luc Dardenne and Jean-Pierre Dardenne",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Promesse.jpg"
+ },
+ {
+   "film": "Ratcatcher",
+   "director": "Lynne Ramsay",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ratcatcher.jpg"
+ },
+ {
+   "film": "The River",
+   "director": "Jean Renoir",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/River.jpg"
+ },
+ {
+   "film": "Rushmore",
+   "director": "Wes Anderson",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rushmore.jpg"
+ },
+ {
+   "film": "The Spirit of the Beehive",
+   "director": "Víctor Erice",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spirit_of_the_Beehive.jpg"
+ },
+ {
+   "film": "Summer Interlude",
+   "director": "Ingmar Bergman",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Summer_Interlude.jpg"
+ },
+ {
+   "film": "Tess",
+   "director": "Roman Polanski",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tess.jpg"
+ },
+ {
+   "film": "The Tin Drum",
+   "director": "Volker Schlöndorff",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg"
+ },
+ {
+   "film": "Tiny Furniture",
+   "director": "Lena Dunham",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tiny_Furniture.jpg"
+ },
+ {
+   "film": "Valerie and Her Week of Wonders",
+   "director": "Jaromil Jireš",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Valerie_and_Her_Week_of_Wonders.jpg"
+ },
+ {
+   "film": "Walkabout",
+   "director": "Nicolas Roeg",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Walkabout.jpg"
+ },
+ {
+   "film": "Warrendale",
+   "director": "Allan King",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Warrendale.jpg"
+ },
+ {
+   "film": "Yi Yi",
+   "director": "Edward Yang",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Yi_Yi.jpg"
+ },
+ {
+   "film": "Young Törless",
+   "director": "Volker Schlöndorff",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Torless.jpg"
+ },
+ {
+   "film": "Zéro de conduite",
+   "director": "Jean Vigo",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Zero_de_conduite.jpg"
+ },
+ {
+   "film": "A Taste of Honey",
+   "director": "Tony Richardson",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Honey.jpg"
+ },
+ {
+   "film": "Boyhood",
+   "director": "Richard Linklater",
+   "list": "Growing Pains",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Boyhood.jpg"
+ }
+]
 }

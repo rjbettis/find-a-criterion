@@ -1,256 +1,160 @@
 {
-  "AmourFou": [
-    {
-      "title": "45 Years",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/45_Years.jpg",
-      "director": "Andrew Haigh",
-      "criterionUrl": "https://www.criterion.com/films/28908-45-years",
-      "directorLink": ""
-    },
-    {
-      "title": "Bad Timing",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Timing.jpg",
-      "director": "Nicolas Roeg",
-      "criterionUrl": "https://www.criterion.com/films/744-bad-timing",
-      "directorLink": ""
-    },
-    {
-      "title": "Badlands",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Badlands.jpg",
-      "director": "Terrence Malick",
-      "criterionUrl": "https://www.criterion.com/films/28406-badlands",
-      "directorLink": ""
-    },
-    {
-      "title": "Betty Blue",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Betty_Blue.jpg",
-      "director": "Jean-Jacques Beineix",
-      "criterionUrl": "https://www.criterion.com/films/29079-betty-blue",
-      "directorLink": ""
-    },
-    {
-      "title": "Breaking the Waves",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_the_Waves.jpg",
-      "director": "Lars von Trier",
-      "criterionUrl": "https://www.criterion.com/films/28350-breaking-the-waves",
-      "directorLink": ""
-    },
-    {
-      "title": "Casque d’or",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Casque_dor.jpg",
-      "director": "Jacques Becker",
-      "criterionUrl": "https://www.criterion.com/films/942-casque-d-or",
-      "directorLink": ""
-    },
-    {
-      "title": "Cold War",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cold_War.jpg",
-      "director": "Paweł Pawlikowski",
-      "criterionUrl": "https://www.criterion.com/films/30104-cold-war",
-      "directorLink": ""
-    },
-    {
-      "title": "Comfort of Strangers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Comfort_of_Strangers.jpg",
-      "director": "Paul Schrader",
-      "criterionUrl": "https://www.criterion.com/films/29638-the-comfort-of-strangers",
-      "directorLink": ""
-    },
-    {
-      "title": "Crazed Fruit",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crazed_Fruit.jpg",
-      "director": "Kō Nakahira",
-      "criterionUrl": "https://www.criterion.com/films/872-crazed-fruit",
-      "directorLink": ""
-    },
-    {
-      "title": "Death in Venice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Death_in_Venice.jpg",
-      "director": "Luchino Visconti",
-      "criterionUrl": "https://www.criterion.com/films/28699-death-in-venice",
-      "directorLink": ""
-    },
-    {
-      "title": "Empire of Passion",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Empire_of_Passion.jpg",
-      "director": "Nagisa Ōshima",
-      "criterionUrl": "https://www.criterion.com/films/1288-empire-of-passion",
-      "directorLink": ""
-    },
-    {
-      "title": "The Fugitive Kind",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fugitive_Kind.jpg",
-      "director": "Sidney Lumet",
-      "criterionUrl": "https://www.criterion.com/films/17998-the-fugitive-kind",
-      "directorLink": ""
-    },
-    {
-      "title": "Gate of Hell",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gate_of_Hell.jpg",
-      "director": "Teinosuke Kinugasa",
-      "criterionUrl": "https://www.criterion.com/films/28199-gate-of-hell",
-      "directorLink": ""
-    },
-    {
-      "title": "Harold and Maude",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg",
-      "director": "Hal Ashby",
-      "criterionUrl": "https://www.criterion.com/films/27896-harold-and-maude",
-      "directorLink": ""
-    },
-    {
-      "title": "The Heiress",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heiress.jpg",
-      "director": "William Wyler",
-      "criterionUrl": "https://www.criterion.com/films/28986-the-heiress",
-      "directorLink": ""
-    },
-    {
-      "title": "The Honeymoon Killers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Honeymoon_Killers.jpg",
-      "director": "Leonard Kastle",
-      "criterionUrl": "https://www.criterion.com/films/582-the-honeymoon-killers",
-      "directorLink": ""
-    },
-    {
-      "title": "In the Realm of the Senses",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Realm_of_the_Senses.jpg",
-      "director": "Nagisa Ōshima",
-      "criterionUrl": "https://www.criterion.com/films/1287-in-the-realm-of-the-senses",
-      "directorLink": ""
-    },
-    {
-      "title": "Japanese Summer: Double Suicide",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Summer_Double_Suicide.jpg",
-      "director": "Nagisa Ōshima",
-      "criterionUrl": "https://www.criterion.com/films/23955-japanese-summer-double-suicide",
-      "directorLink": ""
-    },
-    {
-      "title": "Let the Sunshine In",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Let_the_Sunshine_In.jpg",
-      "director": "Claire Denis",
-      "criterionUrl": "https://www.criterion.com/films/29618-let-the-sunshine-in",
-      "directorLink": ""
-    },
-    {
-      "title": "Love Affair, or the Case of the Missing Switchboard Operator",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Affair.jpg",
-      "director": "Dušan Makavejev",
-      "criterionUrl": "https://www.criterion.com/films/3985-love-affair-or-the-case-of-the-missing-switchboard-operator",
-      "directorLink": ""
-    },
-    {
-      "title": "Mala Noche",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mala_Noche.jpg",
-      "director": "Gus Van Sant",
-      "criterionUrl": "https://www.criterion.com/films/253-mala-noche",
-      "directorLink": ""
-    },
-    {
-      "title": "A Married Couple",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg",
-      "director": "Allan King",
-      "criterionUrl": "https://www.criterion.com/films/27515-a-married-couple",
-      "directorLink": ""
-    },
-    {
-      "title": "Miss Julie",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg",
-      "director": "Alf Sjöberg",
-      "criterionUrl": "https://www.criterion.com/films/361-miss-julie",
-      "directorLink": ""
-    },
-    {
-      "title": "Moonstruck",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonstruck.jpg",
-      "director": "Norman Jewison",
-      "criterionUrl": "https://www.criterion.com/films/29154-moonstruck",
-      "directorLink": ""
-    },
-    {
-      "title": "The Night Porter",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Porter.jpg",
-      "director": "Liliana Cavani",
-      "criterionUrl": "https://www.criterion.com/films/604-the-night-porter",
-      "directorLink": ""
-    },
-    {
-      "title": "Pale Flower",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pale_Flower.jpg",
-      "director": "Masahiro Shinoda",
-      "criterionUrl": "https://www.criterion.com/films/27604-pale-flower",
-      "directorLink": ""
-    },
-    {
-      "title": "The Piano Teacher",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Piano_Teacher.jpg",
-      "director": "Michael Haneke",
-      "criterionUrl": "https://www.criterion.com/films/28739-the-piano-teacher",
-      "directorLink": ""
-    },
-    {
-      "title": "Pierrot le fou",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg",
-      "director": "Jean-Luc Godard",
-      "criterionUrl": "https://www.criterion.com/films/149-pierrot-le-fou",
-      "directorLink": ""
-    },
-    {
-      "title": "Portrait of a Lady on Fire",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Portrait_of_a_Lady_on_Fire.jpg",
-      "director": "Céline Sciamma",
-      "criterionUrl": "https://www.criterion.com/films/30469-portrait-of-a-lady-on-fire",
-      "directorLink": ""
-    },
-    {
-      "title": "The Princess Bride",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Princess_Bride.jpg",
-      "director": "Rob Reiner",
-      "criterionUrl": "https://www.criterion.com/films/29368-the-princess-bride",
-      "directorLink": ""
-    },
-    {
-      "title": "The Red Shoes",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_Shoes.jpg",
-      "director": "Michael Powell and Emeric Pressburger",
-      "criterionUrl": "https://www.criterion.com/films/233-the-red-shoes",
-      "directorLink": ""
-    },
-    {
-      "title": "Senso",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg",
-      "director": "Luchino Visconti",
-      "criterionUrl": "https://www.criterion.com/films/27543-senso",
-      "directorLink": ""
-    },
-    {
-      "title": "Something Wild",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg",
-      "director": "Jonathan Demme",
-      "criterionUrl": "https://www.criterion.com/films/27603-something-wild",
-      "directorLink": ""
-    },
-    {
-      "title": "Three Colors: White",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Colors_White.jpg",
-      "director": "Krzysztof Kieślowski",
-      "criterionUrl": "https://www.criterion.com/films/27732-three-colors-white",
-      "directorLink": ""
-    },
-    {
-      "title": "A Woman Under the Influence",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_Under_the_Influence.jpg",
-      "director": "John Cassavetes",
-      "criterionUrl": "https://www.criterion.com/films/510-a-woman-under-the-influence",
-      "directorLink": ""
-    },
-    {
-      "title": "Women in Love",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Women_in_Love.jpg",
-      "director": "Ken Russell",
-      "criterionUrl": "https://www.criterion.com/films/28688-women-in-love",
-      "directorLink": ""
-    }
-  ]
+"AmourFou": [
+ {
+   "film": "45 Years",
+   "director": "Andrew Haigh",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/45_Years.jpg"
+ },
+ {
+   "film": "A Married Couple",
+   "director": "Allan King",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg"
+ },
+ {
+   "film": "A Woman Under the Influence",
+   "director": "John Cassavetes",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_Under_the_Influence.jpg"
+ },
+ {
+   "film": "Bad Timing",
+   "director": "Nicolas Roeg",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Timing.jpg"
+ },
+ {
+   "film": "Badlands",
+   "director": "Terrence Malick",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Badlands.jpg"
+ },
+ {
+   "film": "Breaking the Waves",
+   "director": "Lars von Trier",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_the_Waves.jpg"
+ },
+ {
+   "film": "Casque d’or",
+   "director": "Jacques Becker",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Casque_dor.jpg"
+ },
+ {
+   "film": "Crazed Fruit",
+   "director": "Kô Nakahira",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crazed_Fruit.jpg"
+ },
+ {
+   "film": "Empire of Passion",
+   "director": "Nagisa Oshima",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Empire_of_Passion.jpg"
+ },
+ {
+   "film": "Gate of Hell",
+   "director": "Teinosuke Kinugasa",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gate_of_Hell.jpg"
+ },
+ {
+   "film": "Harold and Maude",
+   "director": "Hal Ashby",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg"
+ },
+ {
+   "film": "In the Realm of the Senses",
+   "director": "Nagisa Oshima",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Realm_of_the_Senses.jpg"
+ },
+ {
+   "film": "Japanese Summer: Double Suicide",
+   "director": "Nagisa Oshima",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Summer_Double_Suicide.jpg"
+ },
+ {
+   "film": "Love Affair, or the Case of the Missing Switchboard Operator",
+   "director": "Dušan Makavejev",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Affair.jpg"
+ },
+ {
+   "film": "Mala Noche",
+   "director": "Gus Van Sant",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mala_Noche.jpg"
+ },
+ {
+   "film": "Miss Julie",
+   "director": "Alf Sjöberg",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg"
+ },
+ {
+   "film": "Pale Flower",
+   "director": "Masahiro Shinoda",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg"
+ },
+ {
+   "film": "Pierrot le fou",
+   "director": "Jean-Luc Godard",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
+ },
+ {
+   "film": "Senso",
+   "director": "Luchino Visconti",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg"
+ },
+ {
+   "film": "Something Wild",
+   "director": "Jonathan Demme",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg"
+ },
+ {
+   "film": "The Fugitive Kind",
+   "director": "Sidney Lumet",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fugitive_Kind.jpg"
+ },
+ {
+   "film": "The Honeymoon Killers",
+   "director": "Leonard Kastle",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Honeymoon_Killers.jpg"
+ },
+ {
+   "film": "The Night Porter",
+   "director": "Liliana Cavani",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Porter.jpg"
+ },
+ {
+   "film": "The Piano Teacher",
+   "director": "Michael Haneke",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Piano_Teacher.jpg"
+ },
+ {
+   "film": "The Red Shoes",
+   "director": "Michael Powell and Emeric Pressburger",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_Shoes.jpg"
+ },
+ {
+   "film": "Three Colors: White",
+   "director": "Krzysztof Kieślowski",
+   "list": "Amour Fou",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Colors_White.jpg"
+ }
+]
 }

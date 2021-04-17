@@ -1,397 +1,328 @@
 {
-  "CompareAndContrast": [
-    {
-      "title": "12 Angry Men",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/12_Angry_Men.jpg",
-      "director": "Sidney Lumet",
-      "criterionUrl": "https://www.criterion.com/films/27871-12-angry-men",
-      "directorLink": ""
-    },
-    {
-      "title": "The 39 Steps",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/39_Steps.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/234-the-39-steps",
-      "directorLink": ""
-    },
-    {
-      "title": "Berlin Alexanderplatz",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Berlin_Alexanderplatz.jpg",
-      "director": "Rainer Werner Fassbinder",
-      "criterionUrl": "https://www.criterion.com/films/839-berlin-alexanderplatz",
-      "directorLink": ""
-    },
-    {
-      "title": "Bottle Rocket",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg",
-      "director": "Wes Anderson",
-      "criterionUrl": "https://www.criterion.com/films/594-bottle-rocket",
-      "directorLink": ""
-    },
-    {
-      "title": "Brazil",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brazil.jpg",
-      "director": "Terry Gilliam",
-      "criterionUrl": "https://www.criterion.com/films/211-brazil",
-      "directorLink": ""
-    },
-    {
-      "title": "Carnival of Souls",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carnival_of_Souls.jpg",
-      "director": "Herk Harvey",
-      "criterionUrl": "https://www.criterion.com/films/607-carnival-of-souls",
-      "directorLink": ""
-    },
-    {
-      "title": "The Complete Mr. Arkadin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Complete_Mr_Arkadin.jpg",
-      "director": "Orson Welles",
-      "criterionUrl": "https://www.criterion.com/films/767-the-complete-mr-arkadin",
-      "directorLink": ""
-    },
-    {
-      "title": "The Devil and Daniel Webster",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_and_Daniel_Webster.jpg",
-      "director": "William Dieterle",
-      "criterionUrl": "https://www.criterion.com/films/622-the-devil-and-daniel-webster",
-      "directorLink": ""
-    },
-    {
-      "title": "The Earrings of Madame de...",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Earrings_of_Madame_de.jpg",
-      "director": "Max Ophuls",
-      "criterionUrl": "https://www.criterion.com/films/571-the-earrings-of-madame-de",
-      "directorLink": ""
-    },
-    {
-      "title": "Equinox",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Equinox.jpg",
-      "director": "Jack Woods",
-      "criterionUrl": "https://www.criterion.com/films/780-equinox",
-      "directorLink": ""
-    },
-    {
-      "title": "Fanny and Alexander: Theatrical Version",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg",
-      "director": "Ingmar Bergman",
-      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version",
-      "directorLink": ""
-    },
-    {
-      "title": "Fanny and Alexander: The Television Version",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Television_Version.jpg",
-      "director": "Ingmar Bergman",
-      "criterionUrl": "https://www.criterion.com/films/626-fanny-and-alexander-the-television-version",
-      "directorLink": ""
-    },
-    {
-      "title": "Floating Weeds",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Floating_Weeds.jpg",
-      "director": "Yasujiro Ozu",
-      "criterionUrl": "https://www.criterion.com/films/349-floating-weeds",
-      "directorLink": ""
-    },
-    {
-      "title": "The Furies",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Furies.jpg",
-      "director": "Anthony Mann",
-      "criterionUrl": "https://www.criterion.com/films/596-the-furies",
-      "directorLink": ""
-    },
-    {
-      "title": "The Gold Rush",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gold_Rush.jpg",
-      "director": "Charles Chaplin",
-      "criterionUrl": "https://www.criterion.com/films/27565-the-gold-rush",
-      "directorLink": ""
-    },
-    {
-      "title": "Häxan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg",
-      "director": "Benjamin Christensen",
-      "criterionUrl": "https://www.criterion.com/films/352-h-xan",
-      "directorLink": ""
-    },
-    {
-      "title": "In a Lonely Place",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg",
-      "director": "Nicholas Ray",
-      "criterionUrl": "https://www.criterion.com/films/27908-in-a-lonely-place",
-      "directorLink": ""
-    },
-    {
-      "title": "Indiscretion of an American Wife",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Indiscretion_of_an_American_Wife.jpg",
-      "director": "Vittorio De Sica",
-      "criterionUrl": "https://www.criterion.com/films/586-indiscretion-of-an-american-wife",
-      "directorLink": ""
-    },
-    {
-      "title": "It’s a Mad, Mad, Mad, Mad World",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Its_a_Mad_Mad_Mad_Mad_World.jpg",
-      "director": "Stanley Kramer",
-      "criterionUrl": "https://www.criterion.com/films/28579-it-s-a-mad-mad-mad-mad-world",
-      "directorLink": ""
-    },
-    {
-      "title": "Jour de fête",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jour_de_fete.jpg",
-      "director": "Jacques Tati",
-      "criterionUrl": "https://www.criterion.com/films/28114-jour-de-f-te",
-      "directorLink": ""
-    },
-    {
-      "title": "The Kennedy Films of Robert Drew & Associates",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kennedy_Films_of_Robert_Drew_and_Associates.jpg",
-      "director": "Robert Drew",
-      "criterionUrl": "https://www.criterion.com/films/28907-the-kennedy-films-of-robert-drew-associates",
-      "directorLink": ""
-    },
-    {
-      "title": "The Killers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg",
-      "director": "Robert Siodmak",
-      "criterionUrl": "https://www.criterion.com/films/724-the-killers",
-      "directorLink": ""
-    },
-    {
-      "title": "The Killers",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1964).jpg",
-      "director": "Don Siegel",
-      "criterionUrl": "https://www.criterion.com/films/725-the-killers",
-      "directorLink": ""
-    },
-    {
-      "title": "The Killing of a Chinese Bookie",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killing_of_a_Chinese_Bookie.jpg",
-      "director": "John Cassavetes",
-      "criterionUrl": "https://www.criterion.com/films/958-the-killing-of-a-chinese-bookie",
-      "directorLink": ""
-    },
-    {
-      "title": "The King of Kings",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_Kings.jpg",
-      "director": "Cecil B. DeMille",
-      "criterionUrl": "https://www.criterion.com/films/949-the-king-of-kings",
-      "directorLink": ""
-    },
-    {
-      "title": "The Last Emperor",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Emperor.jpg",
-      "director": "Bernardo Bertolucci",
-      "criterionUrl": "https://www.criterion.com/films/254-the-last-emperor",
-      "directorLink": ""
-    },
-    {
-      "title": "The Leopard",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leopard.jpg",
-      "director": "Luchino Visconti",
-      "criterionUrl": "https://www.criterion.com/films/790-the-leopard",
-      "directorLink": ""
-    },
-    {
-      "title": "The Lower Depths",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lower_Depths_(1936).jpg",
-      "director": "Jean Renoir",
-      "criterionUrl": "https://www.criterion.com/films/870-the-lower-depths",
-      "directorLink": ""
-    },
-    {
-      "title": "The Lower Depths",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lower_Depths_(1957).jpg",
-      "director": "Akira Kurosawa",
-      "criterionUrl": "https://www.criterion.com/films/857-the-lower-depths",
-      "directorLink": ""
-    },
-    {
-      "title": "M",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/M.jpg",
-      "director": "Fritz Lang",
-      "criterionUrl": "https://www.criterion.com/films/558-m",
-      "directorLink": ""
-    },
-    {
-      "title": "Magnificent Obsession",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg",
-      "director": "Douglas Sirk",
-      "criterionUrl": "https://www.criterion.com/films/973-magnificent-obsession",
-      "directorLink": ""
-    },
-    {
-      "title": "Mon oncle",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mon_Oncle.jpg",
-      "director": "Jacques Tati",
-      "criterionUrl": "https://www.criterion.com/films/650-mon-oncle",
-      "directorLink": ""
-    },
-    {
-      "title": "My Darling Clementine",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Darling_Clementine.jpg",
-      "director": "John Ford",
-      "criterionUrl": "https://www.criterion.com/films/28570-my-darling-clementine",
-      "directorLink": ""
-    },
-    {
-      "title": "My Man Godfrey",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg",
-      "director": "Gregory La Cava",
-      "criterionUrl": "https://www.criterion.com/films/653-my-man-godfrey",
-      "directorLink": ""
-    },
-    {
-      "title": "The New World",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/New_World.jpg",
-      "director": "Terrence Malick",
-      "criterionUrl": "https://www.criterion.com/films/28713-the-new-world",
-      "directorLink": ""
-    },
-    {
-      "title": "Night and the City",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_and_the_City.jpg",
-      "director": "Jules Dassin",
-      "criterionUrl": "https://www.criterion.com/films/933-night-and-the-city",
-      "directorLink": ""
-    },
-    {
-      "title": "Notorious",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/682-notorious",
-      "directorLink": ""
-    },
-    {
-      "title": "Only Angels Have Wings",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Only_Angels_Have_Wings.jpg",
-      "director": "Howard Hawks",
-      "criterionUrl": "https://www.criterion.com/films/28831-only-angels-have-wings",
-      "directorLink": ""
-    },
-    {
-      "title": "Othello",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Othello.jpg",
-      "director": "Orson Welles",
-      "criterionUrl": "https://www.criterion.com/films/28621-othello",
-      "directorLink": ""
-    },
-    {
-      "title": "Patriotism",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Patriotism.jpg",
-      "director": "Yukio Mishima and Domoto Masaki",
-      "criterionUrl": "https://www.criterion.com/films/589-patriotism",
-      "directorLink": ""
-    },
-    {
-      "title": "The Philadelphia Story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Philadelphia_Story.jpg",
-      "director": "George Cukor",
-      "criterionUrl": "https://www.criterion.com/films/29029-the-philadelphia-story",
-      "directorLink": ""
-    },
-    {
-      "title": "Picnic at Hanging Rock",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Picnic_at_Hanging_Rock.jpg",
-      "director": "Peter Weir",
-      "criterionUrl": "https://www.criterion.com/films/565-picnic-at-hanging-rock",
-      "directorLink": ""
-    },
-    {
-      "title": "Rebecca",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rebecca.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/680-rebecca",
-      "directorLink": ""
-    },
-    {
-      "title": "Red River",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_River.jpg",
-      "director": "Howard Hawks",
-      "criterionUrl": "https://www.criterion.com/films/28046-red-river",
-      "directorLink": ""
-    },
-    {
-      "title": "Repo Man",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repo_Man.jpg",
-      "director": "Alex Cox",
-      "criterionUrl": "https://www.criterion.com/films/28051-repo-man",
-      "directorLink": ""
-    },
-    {
-      "title": "Scenes from a Marriage",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scenes_from_a_Marriage.jpg",
-      "director": "Ingmar Bergman",
-      "criterionUrl": "https://www.criterion.com/films/710-scenes-from-a-marriage",
-      "directorLink": ""
-    },
-    {
-      "title": "Senso",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg",
-      "director": "Luchino Visconti",
-      "criterionUrl": "https://www.criterion.com/films/27543-senso",
-      "directorLink": ""
-    },
-    {
-      "title": "Spellbound",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spellbound.jpg",
-      "director": "Alfred Hitchcock",
-      "criterionUrl": "https://www.criterion.com/films/681-spellbound",
-      "directorLink": ""
-    },
-    {
-      "title": "Symbiopsychotaxiplasm",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Symbiopsychotaxiplasm.jpg",
-      "director": "William Greaves",
-      "criterionUrl": "https://www.criterion.com/films/751-symbiopsychotaxiplasm",
-      "directorLink": ""
-    },
-    {
-      "title": "The Testament of Dr. Mabuse",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Dr_Mabuse.jpg",
-      "director": "Fritz Lang",
-      "criterionUrl": "https://www.criterion.com/films/721-the-testament-of-dr-mabuse",
-      "directorLink": ""
-    },
-    {
-      "title": "The Third Man",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg",
-      "director": "Carol Reed",
-      "criterionUrl": "https://www.criterion.com/films/236-the-third-man",
-      "directorLink": ""
-    },
-    {
-      "title": "The Threepenny Opera",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Threepenny_Opera.jpg",
-      "director": "G. W. Pabst",
-      "criterionUrl": "https://www.criterion.com/films/834-the-threepenny-opera",
-      "directorLink": ""
-    },
-    {
-      "title": "To Be or Not to Be",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/27690-to-be-or-not-to-be",
-      "directorLink": ""
-    },
-
-    {
-      "title": "Trouble in Paradise",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg",
-      "director": "Ernst Lubitsch",
-      "criterionUrl": "https://www.criterion.com/films/723-trouble-in-paradise",
-      "directorLink": ""
-    },
-    {
-      "title": "Vampyr",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vampyr.jpg",
-      "director": "Carl Th. Dreyer",
-      "criterionUrl": "https://www.criterion.com/films/661-vampyr",
-      "directorLink": ""
-    },
-    {
-      "title": "Young Mr. Lincoln",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Mr_Lincoln.jpg",
-      "director": "John Ford",
-      "criterionUrl": "https://www.criterion.com/films/766-young-mr-lincoln",
-      "directorLink": ""
-    }
-  ]
+"CompareAndContrast": [
+ {
+   "film": "Berlin Alexanderplatz",
+   "director": "Rainer Werner Fassbinder",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Berlin_Alexanderplatz.jpg"
+ },
+ {
+   "film": "Bottle Rocket",
+   "director": "Wes Anderson",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
+ },
+ {
+   "film": "Brazil",
+   "director": "Terry Gilliam",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brazil.jpg"
+ },
+ {
+   "film": "Carnival of Souls",
+   "director": "Herk Harvey",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carnival_of_Souls.jpg"
+ },
+ {
+   "film": "The Complete Mr. Arkadin",
+   "director": "Orson Welles",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Complete_Mr_Arkadin.jpg"
+ },
+ {
+   "film": "The Devil and Daniel Webster",
+   "director": "William Dieterle",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_and_Daniel_Webster.jpg"
+ },
+ {
+   "film": "The Earrings of Madame de . . . ",
+   "director": "Max Ophuls",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Earrings_of_Madame_de.jpg"
+ },
+ {
+   "film": "Equinox",
+   "director": "Jack Woods",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Equinox.jpg"
+ },
+ {
+   "film": "Fanny and Alexander — The Television Version",
+   "director": "Ingmar Bergman",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Television_Version.jpg"
+ },
+ {
+   "film": "Floating Weeds",
+   "director": "Yasujiro Ozu",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Floating_Weeds.jpg"
+ },
+ {
+   "film": "The Furies",
+   "director": "Anthony Mann",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Furies.jpg"
+ },
+ {
+   "film": "The Gold Rush",
+   "director": "Charles Chaplin",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gold_Rush.jpg"
+ },
+ {
+   "film": "Häxan",
+   "director": "Benjamin Christensen",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg"
+ },
+ {
+   "film": "In a Lonely Place",
+   "director": "Nicholas Ray",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg"
+ },
+ {
+   "film": "Indiscretion of an American Wife",
+   "director": "Vittorio De Sica",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Indiscretion_of_an_American_Wife.jpg"
+ },
+ {
+   "film": "It’s a Mad, Mad, Mad, Mad World",
+   "director": "Stanley Kramer",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Its_a_Mad_Mad_Mad_Mad_World.jpg"
+ },
+ {
+   "film": "Jour de fête",
+   "director": "Jacques Tati",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jour_de_fete.jpg"
+ },
+ {
+   "film": "The Kennedy Films of Robert Drew & Associates",
+   "director": "Robert Drew",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kennedy_Films_of_Robert_Drew_and_Associates.jpg"
+ },
+ {
+   "film": "The Killers",
+   "director": "Robert Siodmak",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg"
+ },
+ {
+   "film": "The Killers",
+   "director": "Don Siegel",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1964).jpg"
+ },
+ {
+   "film": "The Killing of a Chinese Bookie",
+   "director": "John Cassavetes",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killing_of_a_Chinese_Bookie.jpg"
+ },
+ {
+   "film": "The King of Kings",
+   "director": "Cecil B. DeMille",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_Kings.jpg"
+ },
+ {
+   "film": "The Last Emperor",
+   "director": "Bernardo Bertolucci",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Emperor.jpg"
+ },
+ {
+   "film": "The Leopard",
+   "director": "Luchino Visconti",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leopard.jpg"
+ },
+ {
+   "film": "The Lower Depths",
+   "director": "Jean Renoir",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lower_Depths_(1936).jpg"
+ },
+ {
+   "film": "The Lower Depths",
+   "director": "Akira Kurosawa",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lower_Depths_(1957).jpg"
+ },
+ {
+   "film": "M",
+   "director": "Fritz Lang",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/M.jpg"
+ },
+ {
+   "film": "Magnificent Obsession",
+   "director": "Douglas Sirk",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg"
+ },
+ {
+   "film": "Mon oncle",
+   "director": "Jacques Tati",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mon_Oncle.jpg"
+ },
+ {
+   "film": "Monsieur Hulot’s Holiday",
+   "director": "Jacques Tati",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monsieur_Hulots_Holiday.jpg"
+ },
+ {
+   "film": "My Darling Clementine",
+   "director": "John Ford",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Darling_Clementine.jpg"
+ },
+ {
+   "film": "My Man Godfrey",
+   "director": "Gregory La Cava",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg"
+ },
+ {
+   "film": "Night and the City",
+   "director": "Jules Dassin",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_and_the_City.jpg"
+ },
+ {
+   "film": "Notorious",
+   "director": "Alfred Hitchcock",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg"
+ },
+ {
+   "film": "Only Angels Have Wings",
+   "director": "Howard Hawks",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Only_Angels_Have_Wings.jpg"
+ },
+ {
+   "film": "Patriotism",
+   "director": "Yukio Mishima and Domoto Masaki",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Patriotism.jpg"
+ },
+ {
+   "film": "Picnic at Hanging Rock",
+   "director": "Peter Weir",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Picnic_at_Hanging_Rock.jpg"
+ },
+ {
+   "film": "Rebecca",
+   "director": "Alfred Hitchcock",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rebecca.jpg"
+ },
+ {
+   "film": "Red River",
+   "director": "Howard Hawks",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_River.jpg"
+ },
+ {
+   "film": "Repo Man",
+   "director": "Alex Cox",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repo_Man.jpg"
+ },
+ {
+   "film": "Scenes from a Marriage",
+   "director": "Ingmar Bergman",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scenes_from_a_Marriage.jpg"
+ },
+ {
+   "film": "Senso",
+   "director": "Luchino Visconti",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg"
+ },
+ {
+   "film": "Spellbound",
+   "director": "Alfred Hitchcock",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spellbound.jpg"
+ },
+ {
+   "film": "A Story of Floating Weeds",
+   "director": "Yasujiro Ozu",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_Floating_Weeds.jpg"
+ },
+ {
+   "film": "Symbiopsychotaxiplasm",
+   "director": "William Greaves",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Symbiopsychotaxiplasm.jpg"
+ },
+ {
+   "film": "The Testament of Dr. Mabuse",
+   "director": "Fritz Lang",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Dr_Mabuse.jpg"
+ },
+ {
+   "film": "The Third Man",
+   "director": "Carol Reed",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg"
+ },
+ {
+   "film": "The 39 Steps",
+   "director": "Alfred Hitchcock",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/39_Steps.jpg"
+ },
+ {
+   "film": "The Threepenny Opera",
+   "director": "Georg Wilhelm Pabst",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Threepenny_Opera.jpg"
+ },
+ {
+   "film": "To Be or Not to Be",
+   "director": "Ernst Lubitsch",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg"
+ },
+ {
+   "film": "Trouble in Paradise",
+   "director": "Ernst Lubitsch",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg"
+ },
+ {
+   "film": "12 Angry Men",
+   "director": "Sidney Lumet",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/12_Angry_Men.jpg"
+ },
+ {
+   "film": "Vampyr",
+   "director": "Carl Th. Dreyer",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vampyr.jpg"
+ },
+ {
+   "film": "Young Mr. Lincoln",
+   "director": "John Ford",
+   "list": "Compare and Contrast",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Mr_Lincoln.jpg"
+ }
+]
 }

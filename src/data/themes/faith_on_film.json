@@ -1,223 +1,190 @@
 {
-  "FaithOnFilm": [
-    {
-      "title": "Andrei Rublev",
-      "director": "Andrei Tarkovsky",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Andrei_Rublev.jpg",
-      "criterionUrl": "https://www.criterion.com/films/300-andrei-rublev",
-      "directorLink": ""
-    },
-    {
-      "title": "Androcles and the Lion",
-      "criterionUrl": "https://www.criterion.com/films/6225-androcles-and-the-lion",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Androcles_and_the_Lion.jpg",
-      "director": "Chester Erskine"
-    },
-    {
-      "title": "Au hasard Balthazar",
-      "director": "Robert Bresson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Au_hasard_Balthazar.jpg",
-      "criterionUrl": "https://www.criterion.com/films/455-au-hasard-balthazar",
-      "directorLink": ""
-    },
-    {
-      "title": "Babette’s Feast",
-      "director": "Gabriel Axel",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babettes_Feast.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27894-babette-s-feast",
-      "directorLink": ""
-    },
-    {
-      "title": "Before the Rain",
-      "director": "Milcho Manchevski",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Before_the_Rain.jpg",
-      "criterionUrl": "https://www.criterion.com/films/858-before-the-rain",
-      "directorLink": ""
-    },
-    {
-      "title": "Black Narcissus",
-      "director": "Michael Powell and Emeric Pressburger",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Narcissus.jpg",
-      "criterionUrl": "https://www.criterion.com/films/632-black-narcissus",
-      "directorLink": ""
-    },
-    {
-      "title": "Blaise Pascal",
-      "criterionUrl": "https://www.criterion.com/films/1027-blaise-pascal",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blaise_Pascal.jpg",
-      "director": "Roberto Rossellini"
-    },
-    {
-      "title": "Breaking the Waves",
-      "director": "Lars von Trier",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_the_Waves.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28350-breaking-the-waves",
-      "directorLink": ""
-    },
-    {
-      "title": "Day of Wrath",
-      "director": "Carl Th. Dreyer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Day_of_Wrath.jpg",
-      "criterionUrl": "https://www.criterion.com/films/442-day-of-wrath",
-      "directorLink": ""
-    },
-    {
-      "title": "Dekalog",
-      "director": "Krzysztof Kieślowski",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dekalog.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28661-dekalog",
-      "directorLink": ""
-    },
-    {
-      "title": "Diary of a Country Priest",
-      "criterionUrl": "https://www.criterion.com/films/452-diary-of-a-country-priest",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diary_of_a_Country_Priest.jpg",
-      "director": "Robert Bresson"
-    },
-    {
-      "title": "Fanny and Alexander: Theatrical Version",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg",
-      "criterionUrl": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version",
-      "directorLink": ""
-    },
-    {
-      "title": "The Flowers of St. Francis",
-      "director": "Roberto Rossellini",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Flowers_of_St._Francis.jpg",
-      "criterionUrl": "https://www.criterion.com/films/874-the-flowers-of-st-francis",
-      "directorLink": ""
-    },
-    {
-      "title": "Häxan",
-      "director": "Benjamin Christensen",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg",
-      "criterionUrl": "https://www.criterion.com/films/352-h-xan",
-      "directorLink": ""
-    },
-    {
-      "title": "The King of Kings",
-      "director": "Cecil B. DeMille",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_Kings.jpg",
-      "criterionUrl": "https://www.criterion.com/films/949-the-king-of-kings",
-      "directorLink": ""
-    },
-    {
-      "title": "The Last Temptation of Christ",
-      "director": "Martin Scorsese",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Temptation_of_Christ.jpg",
-      "criterionUrl": "https://www.criterion.com/films/612-the-last-temptation-of-christ",
-      "directorLink": ""
-    },
-    {
-      "title": "Major Barbara",
-      "criterionUrl": "https://www.criterion.com/films/9904-major-barbara",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Major_Barbara.jpg",
-      "director": "Gabriel Pascal"
-    },
-    {
-      "title": "The Milky Way",
-      "criterionUrl": "https://www.criterion.com/films/832-the-milky-way",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Milky_Way.jpg",
-      "director": "Luis Buñuel"
-    },
-    {
-      "title": "Ordet",
-      "director": "Carl Th. Dreyer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ordet.jpg",
-      "criterionUrl": "https://www.criterion.com/films/441-ordet",
-      "directorLink": ""
-    },
-    {
-      "title": "The Passion of Joan of Arc",
-      "director": "Carl Th. Dreyer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passion_of_Joan_of_Arc.jpg",
-      "criterionUrl": "https://www.criterion.com/films/228-the-passion-of-joan-of-arc",
-      "directorLink": ""
-    },
-    {
-      "title": "The River",
-      "director": "Jean Renoir",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/River.jpg",
-      "criterionUrl": "https://www.criterion.com/films/679-the-river",
-      "directorLink": ""
-    },
-    {
-      "title": "The Ruling Class",
-      "director": "Peter Medak",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ruling_Class.jpg",
-      "criterionUrl": "https://www.criterion.com/films/678-the-ruling-class",
-      "directorLink": ""
-    },
-    {
-      "title": "Secret Sunshine",
-      "director": "Lee Chang-dong",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_Sunshine.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27750-secret-sunshine",
-      "directorLink": ""
-    },
-    {
-      "title": "Simon of the Desert",
-      "director": "Luis Buñuel",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Simon_of_the_Desert.jpg",
-      "criterionUrl": "https://www.criterion.com/films/1077-simon-of-the-desert",
-      "directorLink": ""
-    },
-    {
-      "title": "Stalker",
-      "director": "Andrei Tarkovsky",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stalker.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28150-stalker",
-      "directorLink": ""
-    },
-    {
-      "title": "Teorema",
-      "director": "Pier Paolo Pasolini",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Teorema.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28660-teorema",
-      "directorLink": ""
-    },
-    {
-      "title": "Through a Glass Darkly",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Through_a_Glass_Darkly.jpg",
-      "criterionUrl": "https://www.criterion.com/films/568-through-a-glass-darkly",
-      "directorLink": ""
-    },
-    {
-      "title": "The Virgin Spring",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Virgin_Spring.jpg",
-      "criterionUrl": "https://www.criterion.com/films/372-the-virgin-spring",
-      "directorLink": ""
-    },
-    {
-      "title": "Viridiana",
-      "director": "Luis Buñuel",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Viridiana.jpg",
-      "criterionUrl": "https://www.criterion.com/films/373-viridiana",
-      "directorLink": ""
-    },
-    {
-      "title": "Wings of Desire",
-      "director": "Wim Wenders",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wings_of_Desire.jpg",
-      "criterionUrl": "https://www.criterion.com/films/200-wings-of-desire",
-      "directorLink": ""
-    },
-    {
-      "title": "Winter Light",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Winter_Light.jpg",
-      "criterionUrl": "https://www.criterion.com/films/569-winter-light",
-      "directorLink": ""
-    },
-    {
-      "title": "Wise Blood",
-      "director": "John Huston",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wise_Blood.jpg",
-      "criterionUrl": "https://www.criterion.com/films/1424-wise-blood",
-      "directorLink": ""
-    }
-  ]
+"FaithOnFilm": [
+ {
+   "film": "Andrei Rublev",
+   "director": "Andrei Tarkovsky",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Andrei_Rublev.jpg"
+ },
+ {
+   "film": "Androcles and the Lion",
+   "director": "Chester Erskine",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Androcles_and_the_Lion.jpg"
+ },
+ {
+   "film": "Au hasard Balthazar",
+   "director": "Robert Bresson",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Au_hasard_Balthazar.jpg"
+ },
+ {
+   "film": "Babette’s Feast",
+   "director": "Gabriel Axel",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babettes_Feast.jpg"
+ },
+ {
+   "film": "Before the Rain",
+   "director": "Milcho Manchevski",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Before_the_Rain.jpg"
+ },
+ {
+   "film": "Black Narcissus",
+   "director": "Michael Powell and Emeric Pressburger",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Narcissus.jpg"
+ },
+ {
+   "film": "Blaise Pascal",
+   "director": "Roberto Rossellini",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blaise_Pascal.jpg"
+ },
+ {
+   "film": "Breaking the Waves",
+   "director": "Lars von Trier",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_the_Waves.jpg"
+ },
+ {
+   "film": "Day of Wrath",
+   "director": "Carl Th. Dreyer",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Day_of_Wrath.jpg"
+ },
+ {
+   "film": "Diary of a Country Priest",
+   "director": "Robert Bresson",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Diary_of_a_Country_Priest.jpg"
+ },
+ {
+   "film": "Fanny and Alexander — The Theatrical Version",
+   "director": "Ingmar Bergman",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg"
+ },
+ {
+   "film": "The Flowers of St. Francis",
+   "director": "Roberto Rossellini",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Flowers_of_St._Francis.jpg"
+ },
+ {
+   "film": "Häxan",
+   "director": "Benjamin Christensen",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Haxan.jpg"
+ },
+ {
+   "film": "The King of Kings",
+   "director": "Cecil B. DeMille",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/King_of_Kings.jpg"
+ },
+ {
+   "film": "The Last Temptation of Christ",
+   "director": "Martin Scorsese",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Temptation_of_Christ.jpg"
+ },
+ {
+   "film": "Major Barbara",
+   "director": "Gabriel Pascal",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Major_Barbara.jpg"
+ },
+ {
+   "film": "The Milky Way",
+   "director": "Luis Buñuel",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Milky_Way.jpg"
+ },
+ {
+   "film": "Ordet",
+   "director": "Carl Th. Dreyer",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ordet.jpg"
+ },
+ {
+   "film": "The Passion of Joan of Arc",
+   "director": "Carl Th. Dreyer",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passion_of_Joan_of_Arc.jpg"
+ },
+ {
+   "film": "The River",
+   "director": "Jean Renoir",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/River.jpg"
+ },
+ {
+   "film": "The Ruling Class",
+   "director": "Peter Medak",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ruling_Class.jpg"
+ },
+ {
+   "film": "Secret Sunshine",
+   "director": "Lee Chang-dong",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_Sunshine.jpg"
+ },
+ {
+   "film": "Simon of the Desert",
+   "director": "Luis Buñuel",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Simon_of_the_Desert.jpg"
+ },
+ {
+   "film": "Through a Glass Darkly",
+   "director": "Ingmar Bergman",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Through_a_Glass_Darkly.jpg"
+ },
+ {
+   "film": "The Virgin Spring",
+   "director": "Ingmar Bergman",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Virgin_Spring.jpg"
+ },
+ {
+   "film": "Viridiana",
+   "director": "Luis Buñuel",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Viridiana.jpg"
+ },
+ {
+   "film": "Wings of Desire",
+   "director": "Wim Wenders",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wings_of_Desire.jpg"
+ },
+ {
+   "film": "Winter Light",
+   "director": "Ingmar Bergman",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Winter_Light.jpg"
+ },
+ {
+   "film": "Wise Blood",
+   "director": "John Huston",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wise_Blood.jpg"
+ },
+ {
+   "film": "Dekalog",
+   "director": "Krzysztof Kieślowski",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dekalog.jpg"
+ },
+ {
+   "film": "Stalker",
+   "director": "Andrei Tarkovsky",
+   "list": "Faith on Film",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stalker.jpg"
+ }
+]
 }

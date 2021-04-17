@@ -1,179 +1,124 @@
 {
-  "CannesBigWinners": [
-    {
-      "title": "All About My Mother",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_About_My_Mother.jpg",
-      "director": "Pedro Almodóvar",
-      "criterionUrl": "https://www.criterion.com/films/29569-all-about-my-mother",
-      "directorLink": ""
-    },
-    {
-      "title": "All That Jazz",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Jazz.jpg",
-      "director": "Bob Fosse",
-      "criterionUrl": "https://www.criterion.com/films/28561-all-that-jazz",
-      "directorLink": ""
-    },
-    {
-      "title": "Amores perros",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amores_perros.jpg",
-      "director": "Alejandro G. Iñárritu",
-      "criterionUrl": "https://www.criterion.com/films/30908-amores-perros",
-      "directorLink": ""
-    },
-    {
-      "title": "Black Orpheus",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Orpheus.jpg",
-      "director": "Marcel Camus",
-      "criterionUrl": "https://www.criterion.com/films/344-black-orpheus",
-      "directorLink": ""
-    },
-    {
-      "title": "Blue is the Warmest Color",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Is_the_Warmest_Color.jpg",
-      "director": "Abdellatif Kechiche",
-      "criterionUrl": "https://www.criterion.com/films/28603-blue-is-the-warmest-color",
-      "directorLink": ""
-    },
-    {
-      "title": "The Cranes are Flying",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cranes_Are_Flying.jpg",
-      "director": "Mikhail Kalatozov",
-      "criterionUrl": "https://www.criterion.com/films/547-the-cranes-are-flying",
-      "directorLink": ""
-    },
-    {
-      "title": "Crash",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crash.jpg",
-      "director": "David Cronenberg",
-      "criterionUrl": "https://www.criterion.com/films/29014-crash",
-      "directorLink": ""
-    },
-    {
-      "title": "Death in Venice",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Death_in_Venice.jpg",
-      "director": "Luchino Visconti",
-      "criterionUrl": "https://www.criterion.com/films/28699-death-in-venice",
-      "directorLink": ""
-    },
-    {
-      "title": "Dheepan",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dheepan.jpg",
-      "director": "Jacques Audiard",
-      "criterionUrl": "https://www.criterion.com/films/29103-dheepan",
-      "directorLink": ""
-    },
-    {
-      "title": "La dolce vita",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dolce_vita.jpg",
-      "director": "Federico Fellini",
-      "criterionUrl": "https://www.criterion.com/films/28619-la-dolce-vita",
-      "directorLink": ""
-    },
-    {
-      "title": "Gate of Hell",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gate_of_Hell.jpg",
-      "director": "Teinosuke Kinugasa",
-      "criterionUrl": "https://www.criterion.com/films/28199-gate-of-hell",
-      "directorLink": ""
-    },
-    {
-      "title": "I, Daniel Blake",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Daniel_Blake.jpg",
-      "director": "Ken Loach",
-      "criterionUrl": "https://www.criterion.com/films/29357-i-daniel-blake",
-      "directorLink": ""
-    },
-    {
-      "title": "If....",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/If.jpg",
-      "director": "Lindsay Anderson",
-      "criterionUrl": "https://www.criterion.com/films/825-if",
-      "directorLink": ""
-    },
-    {
-      "title": "Kagemusha",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kagemusha.jpg",
-      "director": "Akira Kurosawa",
-      "criterionUrl": "https://www.criterion.com/films/948-kagemusha",
-      "directorLink": ""
-    },
-    {
-      "title": "The Leopard",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leopard.jpg",
-      "director": "Luchino Visconti",
-      "criterionUrl": "https://www.criterion.com/films/790-the-leopard",
-      "directorLink": ""
-    },
-    {
-      "title": "Miss Julie",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg",
-      "director": "Alf Sjöberg",
-      "criterionUrl": "https://www.criterion.com/films/361-miss-julie",
-      "directorLink": ""
-    },
-    {
-      "title": "Missing",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Missing.jpg",
-      "director": "Costa-Gavras",
-      "criterionUrl": "https://www.criterion.com/films/769-missing",
-      "directorLink": ""
-    },
-    {
-      "title": "Paris, Texas",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg",
-      "director": "Wim Wenders",
-      "criterionUrl": "https://www.criterion.com/films/1502-paris-texas",
-      "directorLink": ""
-    },
-    {
-      "title": "Rosetta",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rosetta.jpg",
-      "director": "Luc Dardenne and Jean-Pierre Dardenne",
-      "criterionUrl": "https://www.criterion.com/films/28056-rosetta",
-      "directorLink": ""
-    },
-    {
-      "title": "Taste of Cherry",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Cherry.jpg",
-      "director": "Abbas Kiarostami",
-      "criterionUrl": "https://www.criterion.com/films/242-taste-of-cherry",
-      "directorLink": ""
-    },
-    {
-      "title": "The Third Man",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg",
-      "director": "Carol Reed",
-      "criterionUrl": "https://www.criterion.com/films/236-the-third-man",
-      "directorLink": ""
-    },
-    {
-      "title": "The Tin Drum",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg",
-      "director": "Volker Schlöndorff",
-      "criterionUrl": "https://www.criterion.com/films/789-the-tin-drum",
-      "directorLink": ""
-    },
-    {
-      "title": "The Umbrellas of Cherbourg",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umbrellas_of_Cherbourg.jpg",
-      "director": "Jacques Demy",
-      "criterionUrl": "https://www.criterion.com/films/27933-the-umbrellas-of-cherbourg",
-      "directorLink": ""
-    },
-    {
-      "title": "Viridiana",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Viridiana.jpg",
-      "director": "Luis Buñuel",
-      "criterionUrl": "https://www.criterion.com/films/373-viridiana",
-      "directorLink": ""
-    },
-    {
-      "title": "The Wages of Fear",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wages_of_Fear.jpg",
-      "director": "Henri-Georges Clouzot",
-      "criterionUrl": "https://www.criterion.com/films/370-the-wages-of-fear",
-      "directorLink": ""
-    }
-  ]
+"CannessBigWinners": [
+ {
+   "film": "All That Jazz",
+   "director": "Bob Fosse",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Jazz.jpg"
+ },
+ {
+   "film": "Black Orpheus",
+   "director": "Marcel Camus",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Orpheus.jpg"
+ },
+ {
+   "film": "Blue Is the Warmest Color",
+   "director": "Abdellatif Kechiche",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Is_the_Warmest_Color.jpg"
+ },
+ {
+   "film": "The Cranes Are Flying",
+   "director": "Mikhail Kalatozov",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cranes_Are_Flying.jpg"
+ },
+ {
+   "film": "La dolce vita",
+   "director": "Federico Fellini",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dolce_vita.jpg"
+ },
+ {
+   "film": "Gate of Hell",
+   "director": "Teinosuke Kinugasa",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gate_of_Hell.jpg"
+ },
+ {
+   "film": "If....",
+   "director": "Lindsay Anderson",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/If.jpg"
+ },
+ {
+   "film": "Kagemusha",
+   "director": "Akira Kurosawa",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kagemusha.jpg"
+ },
+ {
+   "film": "The Leopard",
+   "director": "Luchino Visconti",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leopard.jpg"
+ },
+ {
+   "film": "Miss Julie",
+   "director": "Alf Sjöberg",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg"
+ },
+ {
+   "film": "Missing",
+   "director": "Costa-Gavras",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Missing.jpg"
+ },
+ {
+   "film": "Paris, Texas",
+   "director": "Wim Wenders",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg"
+ },
+ {
+   "film": "Rosetta",
+   "director": "Luc Dardenne and Jean-Pierre Dardenne",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rosetta.jpg"
+ },
+ {
+   "film": "Taste of Cherry",
+   "director": "Abbas Kiarostami",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Cherry.jpg"
+ },
+ {
+   "film": "The Tin Drum",
+   "director": "Volker Schlöndorff",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg"
+ },
+ {
+   "film": "The Third Man",
+   "director": "Carol Reed",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg"
+ },
+ {
+   "film": "The Umbrellas of Cherbourg",
+   "director": "Jacques Demy",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umbrellas_of_Cherbourg.jpg"
+ },
+ {
+   "film": "Viridiana",
+   "director": "Luis Buñuel",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Viridiana.jpg"
+ },
+ {
+   "film": "The Wages of Fear",
+   "director": "Henri-Georges Clouzot",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wages_of_Fear.jpg"
+ },
+ {
+   "film": "Dheepan",
+   "director": "Jacques Audiard",
+   "list": "Cannes’s Big Winners",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dheepan.jpg"
+ }
+]
 }

@@ -1,362 +1,232 @@
 {
-  "DysfunctionalFamilies": [
-    {
-      "title": "The 400 Blows",
-      "director": "François Truffaut",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg",
-      "criterionUrl": "https://www.criterion.com/films/151-the-400-blows",
-      "directorLink": ""
-    },
-    {
-      "title": "Ali: Fear Eats the Soul",
-      "director": "Rainer Werner Fassbinder",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ali_Fear_Eats_the_Soul.jpg",
-      "criterionUrl": "https://www.criterion.com/films/152-ali-fear-eats-the-soul",
-      "directorLink": ""
-    },
-    {
-      "title": "All That Heaven Allows",
-      "director": "Douglas Sirk",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg",
-      "criterionUrl": "https://www.criterion.com/films/635-all-that-heaven-allows",
-      "directorLink": ""
-    },
-    {
-      "title": "Autumn Sonata",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Autumn_Sonata.jpg",
-      "criterionUrl": "https://www.criterion.com/films/605-autumn-sonata",
-      "directorLink": ""
-    },
-    {
-      "title": "Bigger Than Life",
-      "director": "Nicholas Ray",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg",
-      "criterionUrl": "https://www.criterion.com/films/1929-bigger-than-life",
-      "directorLink": ""
-    },
-    {
-      "title": "Chains",
-      "criterionUrl": "https://www.criterion.com/films/27621-chains",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chains.jpg",
-      "director": "Raffaello Matarazzo"
-    },
-    {
-      "title": "The Children Are Watching Us",
-      "director": "Vittorio De Sica",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg",
-      "criterionUrl": "https://www.criterion.com/films/772-the-children-are-watching-us",
-      "directorLink": ""
-    },
-    {
-      "title": "A Christmas Tale",
-      "director": "Arnaud Desplechin",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Christmas_Tale.jpg",
-      "criterionUrl": "https://www.criterion.com/films/474-a-christmas-tale",
-      "directorLink": ""
-    },
-    {
-      "title": "La Ciénaga",
-      "director": "Lucrecia Martel",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cienaga.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28113-la-ci-naga",
-      "directorLink": ""
-    },
-    {
-      "title": "Cría cuervos...",
-      "director": "Carlos Saura",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cria_cuervos.jpg",
-      "criterionUrl": "https://www.criterion.com/films/519-cr-a-cuervos",
-      "directorLink": ""
-    },
-    {
-      "title": "Cries and Whispers",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cries_and_Whispers.jpg",
-      "criterionUrl": "https://www.criterion.com/films/237-cries-and-whispers",
-      "directorLink": ""
-    },
-    {
-      "title": "Crumb",
-      "director": "Terry Zwigoff",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crumb.jpg",
-      "criterionUrl": "https://www.criterion.com/films/2104-crumb",
-      "directorLink": ""
-    },
-    {
-      "title": "Les enfants terribles",
-      "director": "Jean-Pierre Melville",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Enfants_terribles.jpg",
-      "criterionUrl": "https://www.criterion.com/films/758-les-enfants-terribles",
-      "directorLink": ""
-    },
-    {
-      "title": "Everlasting Moments",
-      "director": "Jan Troell",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Everlasting_Moments.jpg",
-      "criterionUrl": "https://www.criterion.com/films/21118-everlasting-moments",
-      "directorLink": ""
-    },
-    {
-      "title": "Faces",
-      "director": "John Cassavetes",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Faces.jpg",
-      "criterionUrl": "https://www.criterion.com/films/915-faces",
-      "directorLink": ""
-    },
-    {
-      "title": "Fat Girl",
-      "director": "Catherine Breillat",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fat_Girl.jpg",
-      "criterionUrl": "https://www.criterion.com/films/548-fat-girl",
-      "directorLink": ""
-    },
-    {
-      "title": "Fish Tank",
-      "director": "Andrea Arnold",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fish_Tank.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27541-fish-tank",
-      "directorLink": ""
-    },
-    {
-      "title": "Fists in the Pocket",
-      "director": "Marco Bellocchio",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fists_in_the_Pocket.jpg",
-      "criterionUrl": "https://www.criterion.com/films/348-fists-in-the-pocket",
-      "directorLink": ""
-    },
-    {
-      "title": "Five Easy Pieces",
-      "director": "Bob Rafelson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Five_Easy_Pieces.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27529-five-easy-pieces",
-      "directorLink": ""
-    },
-    {
-      "title": "Gervaise",
-      "criterionUrl": "https://www.criterion.com/films/3561-gervaise",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gervaise.jpg",
-      "director": "René Clément"
-    },
-    {
-      "title": "Grey Gardens",
-      "director": "David Maysles, Albert Maysles, Ellen Hovde, and Muffie Meyer",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grey_Gardens.jpg",
-      "criterionUrl": "https://www.criterion.com/films/664-grey-gardens",
-      "directorLink": ""
-    },
-    {
-      "title": "The Housemaid",
-      "director": "Kim Ki-young",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Housemaid.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28409-the-housemaid",
-      "directorLink": ""
-    },
-    {
-      "title": "Husbands",
-      "director": "John Cassavetes",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Husbands.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28827-husbands",
-      "directorLink": ""
-    },
-    {
-      "title": "The Ice Storm",
-      "director": "Ang Lee",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ice_Storm.jpg",
-      "criterionUrl": "https://www.criterion.com/films/336-the-ice-storm",
-      "directorLink": ""
-    },
-    {
-      "title": "The Inheritance",
-      "criterionUrl": "https://www.criterion.com/films/28237-the-inheritance",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Inheritance.jpg",
-      "director": "Masaki Kobayashi"
-    },
-    {
-      "title": "Insiang",
-      "director": "Lino Brocka",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Insiang.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29099-insiang",
-      "directorLink": ""
-    },
-    {
-      "title": "Life Is Sweet",
-      "director": "Mike Leigh",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Is_Sweet.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27982-life-is-sweet",
-      "directorLink": ""
-    },
-    {
-      "title": "The Magnificent Ambersons",
-      "director": "Orson Welles",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Ambersons.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28711-the-magnificent-ambersons",
-      "directorLink": ""
-    },
-    {
-      "title": "Make Way for Tomorrow",
-      "director": "Leo McCarey",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Make_Way_for_Tomorrow.jpg",
-      "criterionUrl": "https://www.criterion.com/films/2350-make-way-for-tomorrow",
-      "directorLink": ""
-    },
-    {
-      "title": "Marriage Story",
-      "criterionUrl": "https://www.criterion.com/films/30554-marriage-story",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Marriage_Story.jpg",
-      "director": "Noah Baumbach"
-    },
-    {
-      "title": "A Married Couple",
-      "criterionUrl": "https://www.criterion.com/films/27515-a-married-couple",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg",
-      "director": "Allan King"
-    },
-    {
-      "title": "Me and You and Everyone We Know",
-      "director": "Miranda July",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Me_and_You_and_Everyone_We_Know.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29112-me-and-you-and-everyone-we-know",
-      "directorLink": ""
-    },
-    {
-      "title": "Moonstruck",
-      "director": "Norman Jewison",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonstruck.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29154-moonstruck",
-      "directorLink": ""
-    },
-    {
-      "title": "Mouchette",
-      "director": "Robert Bresson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mouchette.jpg",
-      "criterionUrl": "https://www.criterion.com/films/456-mouchette",
-      "directorLink": ""
-    },
-    {
-      "title": "À nos amours",
-      "director": "Maurice Pialat",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nos_amours.jpg",
-      "criterionUrl": "https://www.criterion.com/films/779--nos-amours",
-      "directorLink": ""
-    },
-    {
-      "title": "Paris, Texas",
-      "director": "Wim Wenders",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg",
-      "criterionUrl": "https://www.criterion.com/films/1502-paris-texas",
-      "directorLink": ""
-    },
-    {
-      "title": "Poto and Cabengo",
-      "criterionUrl": "https://www.criterion.com/films/27948-poto-and-cabengo",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poto_and_Cabengo.jpg",
-      "director": "Jean-Pierre Gorin"
-    },
-    {
-      "title": "Roma",
-      "director": "Alfonso Cuarón",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Roma_Cuaron.jpg",
-      "criterionUrl": "https://www.criterion.com/films/30124-roma",
-      "directorLink": ""
-    },
-    {
-      "title": "The Royal Tenenbaums",
-      "director": "Wes Anderson",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg",
-      "criterionUrl": "https://www.criterion.com/films/230-the-royal-tenenbaums",
-      "directorLink": ""
-    },
-    {
-      "title": "Scenes from a Marriage",
-      "director": "Ingmar Bergman",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scenes_from_a_Marriage.jpg",
-      "criterionUrl": "https://www.criterion.com/films/710-scenes-from-a-marriage",
-      "directorLink": ""
-    },
-    {
-      "title": "The Secret of the Grain",
-      "director": "Abdellatif Kechiche",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_of_the_Grain.jpg",
-      "criterionUrl": "https://www.criterion.com/films/1344-the-secret-of-the-grain",
-      "directorLink": ""
-    },
-    {
-      "title": "Seduced and Abandoned",
-      "director": "Pietro Germi",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seduced_and_Abandoned.jpg",
-      "criterionUrl": "https://www.criterion.com/films/796-seduced-and-abandoned",
-      "directorLink": ""
-    },
-    {
-      "title": "Still Walking",
-      "director": "Hirokazu Kore-eda",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Still_Walking.jpg",
-      "criterionUrl": "https://www.criterion.com/films/27540-still-walking",
-      "directorLink": ""
-    },
-    {
-      "title": "Sweetie",
-      "director": "Jane Campion",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweetie.jpg",
-      "criterionUrl": "https://www.criterion.com/films/749-sweetie",
-      "directorLink": ""
-    },
-    {
-      "title": "Teorema",
-      "director": "Pier Paolo Pasolini",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Teorema.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28660-teorema",
-      "directorLink": ""
-    },
-    {
-      "title": "To Sleep with Anger",
-      "director": "Charles Burnett",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Sleep_with_Anger.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29567-to-sleep-with-anger",
-      "directorLink": ""
-    },
-    {
-      "title": "The Tree of Life",
-      "director": "Terrence Malick",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tree_of_Life.jpg",
-      "criterionUrl": "https://www.criterion.com/films/28576-the-tree-of-life",
-      "directorLink": ""
-    },
-    {
-      "title": "Twin Peaks: Fire Walk with Me",
-      "director": "David Lynch",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Twin_Peaks_Fire_Walk_with_Me.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29237-twin-peaks-fire-walk-with-me",
-      "directorLink": ""
-    },
-    {
-      "title": "An Unmarried Woman",
-      "director": "Paul Mazursky",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unmarried_Woman.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29597-an-unmarried-woman",
-      "directorLink": ""
-    },
-    {
-      "title": "The Virgin Suicides",
-      "director": "Sofia Coppola",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Virgin_Suicides.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29336-the-virgin-suicides",
-      "directorLink": ""
-    },
-    {
-      "title": "Wildlife",
-      "director": "Paul Dano",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wildlife.jpg",
-      "criterionUrl": "https://www.criterion.com/films/29644-wildlife",
-      "directorLink": ""
-    },
-    {
-      "title": "A Woman Under the Influence",
-      "director": "John Cassavetes",
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_Under_the_Influence.jpg",
-      "criterionUrl": "https://www.criterion.com/films/510-a-woman-under-the-influence",
-      "directorLink": ""
-    }
-  ]
+"DysfunctionalFamilies": [
+ {
+   "film": "À nos amours",
+   "director": "Maurice Pialat",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nos_amours.jpg"
+ },
+ {
+   "film": "Ali: Fear Eats the Soul",
+   "director": "Rainer Werner Fassbinder",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ali_Fear_Eats_the_Soul.jpg"
+ },
+ {
+   "film": "Autumn Sonata",
+   "director": "Ingmar Bergman",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Autumn_Sonata.jpg"
+ },
+ {
+   "film": "Bigger Than Life",
+   "director": "Nicholas Ray",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg"
+ },
+ {
+   "film": "Chains",
+   "director": "Raffaello Matarazzo",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chains.jpg"
+ },
+ {
+   "film": "The Children Are Watching Us",
+   "director": "Vittorio De Sica",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg"
+ },
+ {
+   "film": "A Christmas Tale",
+   "director": "Arnaud Desplechin",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Christmas_Tale.jpg"
+ },
+ {
+   "film": "La Ciénaga",
+   "director": "Lucrecia Martel",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cienaga.jpg"
+ },
+ {
+   "film": "Cría cuervos . . . ",
+   "director": "Carlos Saura",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cria_cuervos.jpg"
+ },
+ {
+   "film": "Cries and Whispers",
+   "director": "Ingmar Bergman",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cries_and_Whispers.jpg"
+ },
+ {
+   "film": "Crumb",
+   "director": "Terry Zwigoff",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crumb.jpg"
+ },
+ {
+   "film": "Fish Tank",
+   "director": "Andrea Arnold",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fish_Tank.jpg"
+ },
+ {
+   "film": "Five Easy Pieces",
+   "director": "Bob Rafelson",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Five_Easy_Pieces.jpg"
+ },
+ {
+   "film": "Les enfants terribles",
+   "director": "Jean-Pierre Melville",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Enfants_terribles.jpg"
+ },
+ {
+   "film": "Everlasting Moments",
+   "director": "Jan Troell",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Everlasting_Moments.jpg"
+ },
+ {
+   "film": "Faces",
+   "director": "John Cassavetes",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Faces.jpg"
+ },
+ {
+   "film": "Fat Girl",
+   "director": "Catherine Breillat",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fat_Girl.jpg"
+ },
+ {
+   "film": "Fists in the Pocket",
+   "director": "Marco Bellocchio",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fists_in_the_Pocket.jpg"
+ },
+ {
+   "film": "The 400 Blows",
+   "director": "François Truffaut",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg"
+ },
+ {
+   "film": "Gervaise",
+   "director": "René Clément",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gervaise.jpg"
+ },
+ {
+   "film": "Grey Gardens",
+   "director": "Albert Maysles, David Maysles, Ellen Hovde…",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grey_Gardens.jpg"
+ },
+ {
+   "film": "The Housemaid",
+   "director": "Kim Ki-young",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Housemaid.jpg"
+ },
+ {
+   "film": "The Ice Storm",
+   "director": "Ang Lee",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ice_Storm.jpg"
+ },
+ {
+   "film": "The Inheritance",
+   "director": "Masaki Kobayashi",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Inheritance.jpg"
+ },
+ {
+   "film": "Life Is Sweet",
+   "director": "Mike Leigh",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Is_Sweet.jpg"
+ },
+ {
+   "film": "Make Way for Tomorrow ",
+   "director": "Leo McCarey",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Make_Way_for_Tomorrow.jpg"
+ },
+ {
+   "film": "A Married Couple",
+   "director": "Allan King",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg"
+ },
+ {
+   "film": "Paris, Texas",
+   "director": "Wim Wenders",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg"
+ },
+ {
+   "film": "Poto and Cabengo",
+   "director": "Jean-Pierre Gorin",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poto_and_Cabengo.jpg"
+ },
+ {
+   "film": "The Royal Tenenbaums",
+   "director": "Wes Anderson",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg"
+ },
+ {
+   "film": "Scenes from a Marriage",
+   "director": "Ingmar Bergman",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scenes_from_a_Marriage.jpg"
+ },
+ {
+   "film": "Seduced and Abandoned",
+   "director": "Pietro Germi",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seduced_and_Abandoned.jpg"
+ },
+ {
+   "film": "The Secret of the Grain",
+   "director": "Abdellatif Kechiche",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_of_the_Grain.jpg"
+ },
+ {
+   "film": "Still Walking",
+   "director": "Hirokazu Kore-eda",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Still_Walking.jpg"
+ },
+ {
+   "film": "Sweetie",
+   "director": "Jane Campion",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweetie.jpg"
+ },
+ {
+   "film": "A Woman Under the Influence",
+   "director": "John Cassavetes",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_Under_the_Influence.jpg"
+ },
+ {
+   "film": "Insiang",
+   "director": "Lino Brocka",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Insiang.jpg"
+ },
+ {
+   "film": "Twin Peaks: Fire Walk with Me",
+   "director": "David Lynch",
+   "list": "Dysfunctional Families",
+   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Twin_Peaks_Fire_Walk_with_Me.jpg"
+ }
+]
 }
