@@ -1,130 +1,130 @@
 {
-"NewGermanCinema": [
- {
-   "film": "Ali: Fear Eats the Soul",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ali_Fear_Eats_the_Soul.jpg"
- },
- {
-   "film": "Alice in the Cities",
-   "director": "Wim Wenders",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alice_in_the_Cities.jpg"
- },
- {
-   "film": "The American Friend",
-   "director": "Wim Wenders",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Friend.jpg"
- },
- {
-   "film": "The American Soldier",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Soldier.jpg"
- },
- {
-   "film": "Berlin Alexanderplatz",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Berlin_Alexanderplatz.jpg"
- },
- {
-   "film": "Beware of a Holy Whore",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beware_of_a_Holy_Whore.jpg"
- },
- {
-   "film": "The Bitter Tears of Petra von Kant",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Tears_of_Petra_von_Kant.jpg"
- },
- {
-   "film": "Coup de grâce",
-   "director": "Volker Schlöndorff",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Coup_de_grace.jpg"
- },
- {
-   "film": "Gods of the Plague",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gods_of_the_Plague.jpg"
- },
- {
-   "film": "Kings of the Road",
-   "director": "Wim Wenders",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kings_of_the_Road.jpg"
- },
- {
-   "film": "Katzelmacher",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Katzelmacher.jpg"
- },
- {
-   "film": "Lola",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola.jpg"
- },
- {
-   "film": "The Lost Honor of Katharina Blum",
-   "director": "Volker Schlöndorff and Margarethe von Trotta",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lost_Honor_of_Katharina_Blum.jpg"
- },
- {
-   "film": "Love Is Colder Than Death",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Is_Colder_Than_Death.jpg"
- },
- {
-   "film": "The Marriage of Maria Braun",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Marriage_of_Maria_Braun.jpg"
- },
- {
-   "film": "The Merchant of Four Seasons",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Merchant_of_Four_Seasons.jpg"
- },
- {
-   "film": "The Tin Drum",
-   "director": "Volker Schlöndorff",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg"
- },
- {
-   "film": "Wrong Move",
-   "director": "Wim Wenders",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wrong_Move.jpg"
- },
- {
-   "film": "Veronika Voss",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Veronika_Voss.jpg"
- },
- {
-   "film": "World on a Wire",
-   "director": "Rainer Werner Fassbinder",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/World_on_a_Wire.jpg"
- },
- {
-   "film": "Young Törless",
-   "director": "Volker Schlöndorff",
-   "list": "New German Cinema",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Torless.jpg"
- }
-]
+  "NewGermanCinema": [
+    {
+      "film": "Ali: Fear Eats the Soul",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ali_Fear_Eats_the_Soul.jpg"
+    },
+    {
+      "film": "Alice in the Cities",
+      "director": "Wim Wenders",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alice_in_the_Cities.jpg"
+    },
+    {
+      "film": "The American Friend",
+      "director": "Wim Wenders",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Friend.jpg"
+    },
+    {
+      "film": "The American Soldier",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Soldier.jpg"
+    },
+    {
+      "film": "Berlin Alexanderplatz",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Berlin_Alexanderplatz.jpg"
+    },
+    {
+      "film": "Beware of a Holy Whore",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beware_of_a_Holy_Whore.jpg"
+    },
+    {
+      "film": "The Bitter Tears of Petra von Kant",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Tears_of_Petra_von_Kant.jpg"
+    },
+    {
+      "film": "Coup de grâce",
+      "director": "Volker Schlöndorff",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Coup_de_grace.jpg"
+    },
+    {
+      "film": "Gods of the Plague",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gods_of_the_Plague.jpg"
+    },
+    {
+      "film": "Kings of the Road",
+      "director": "Wim Wenders",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kings_of_the_Road.jpg"
+    },
+    {
+      "film": "Katzelmacher",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Katzelmacher.jpg"
+    },
+    {
+      "film": "Lola",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola_Fassbinder.jpg"
+    },
+    {
+      "film": "The Lost Honor of Katharina Blum",
+      "director": "Volker Schlöndorff and Margarethe von Trotta",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lost_Honor_of_Katharina_Blum.jpg"
+    },
+    {
+      "film": "Love Is Colder Than Death",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Is_Colder_Than_Death.jpg"
+    },
+    {
+      "film": "The Marriage of Maria Braun",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Marriage_of_Maria_Braun.jpg"
+    },
+    {
+      "film": "The Merchant of Four Seasons",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Merchant_of_Four_Seasons.jpg"
+    },
+    {
+      "film": "The Tin Drum",
+      "director": "Volker Schlöndorff",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg"
+    },
+    {
+      "film": "Wrong Move",
+      "director": "Wim Wenders",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wrong_Move.jpg"
+    },
+    {
+      "film": "Veronika Voss",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Veronika_Voss.jpg"
+    },
+    {
+      "film": "World on a Wire",
+      "director": "Rainer Werner Fassbinder",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/World_on_a_Wire.jpg"
+    },
+    {
+      "film": "Young Törless",
+      "director": "Volker Schlöndorff",
+      "list": "New German Cinema",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Torless.jpg"
+    }
+  ]
 }

@@ -1,142 +1,142 @@
 {
-"SongAndDance": [
- {
-   "film": "All That Jazz",
-   "director": "Bob Fosse",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Jazz.jpg"
- },
- {
-   "film": "El amor brujo",
-   "director": "Carlos Saura",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amor_brujo.jpg"
- },
- {
-   "film": "Blood Wedding",
-   "director": "Carlos Saura",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_Wedding.jpg"
- },
- {
-   "film": "Carmen",
-   "director": "Carlos Saura",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carmen.jpg"
- },
- {
-   "film": "Dont Look Back",
-   "director": "D. A. Pennebaker",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dont_Look_Back.jpg"
- },
- {
-   "film": "Gimme Shelter",
-   "director": "David Maysles, Albert Maysles and Charlotte Zwerin",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gimme_Shelter.jpg"
- },
- {
-   "film": "A Hard Day’s Night",
-   "director": "Richard Lester",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hard_Days_Night.jpg"
- },
- {
-   "film": "Jimi Plays Monterey & Shake! Otis at Monterey",
-   "director": "D. A. Pennebaker and Chris Hegedus",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jimi_Plays_Monterey_Shake_Otis_at_Monterey.jpg"
- },
- {
-   "film": "The Magic Flute",
-   "director": "Ingmar Bergman",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magic_Flute.jpg"
- },
- {
-   "film": "Martha Graham: Dance on Film",
-   "director": "Nathan Kroll",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Martha_Graham_Dance_on_Film.jpg"
- },
- {
-   "film": "The Mikado",
-   "director": "Victor Schertzinger",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mikado.jpg"
- },
- {
-   "film": "Monterey Pop",
-   "director": "D. A. Pennebaker",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monterey_Pop.jpg"
- },
- {
-   "film": "Nashville",
-   "director": "Robert Altman",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nashville.jpg"
- },
- {
-   "film": "Pina",
-   "director": "Wim Wenders",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pina.jpg"
- },
- {
-   "film": "A Poem Is a Naked Person",
-   "director": "Les Blank",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poem_Is_a_Naked_Person.jpg"
- },
- {
-   "film": "The Rose",
-   "director": "Mark Rydell",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rose.jpg"
- },
- {
-   "film": "The Red Shoes",
-   "director": "Michael Powell and Emeric Pressburger",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_Shoes.jpg"
- },
- {
-   "film": "The Tales of Hoffmann",
-   "director": "Michael Powell and Emeric Pressburger",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tales_of_Hoffmann.jpg"
- },
- {
-   "film": "This Is Spinal Tap",
-   "director": "Rob Reiner",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Is_Spinal_Tap.jpg"
- },
- {
-   "film": "Topsy-Turvy",
-   "director": "Mike Leigh",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Topsy_Turvy.jpg"
- },
- {
-   "film": "Total Balalaika Show",
-   "director": "Aki Kaurismäki",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Total_Balalaika_Show.jpg"
- },
- {
-   "film": "Trances",
-   "director": "Ahmed El Maânouni",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trances.jpg"
- },
- {
-   "film": "Beyond the Valley of the Dolls",
-   "director": "Russ Meyer",
-   "list": "Song and Dance",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beyond_the_Valley_of_the_Dolls.jpg"
- }
-]
+  "SongAndDance": [
+    {
+      "film": "All That Jazz",
+      "director": "Bob Fosse",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Jazz.jpg"
+    },
+    {
+      "film": "El amor brujo",
+      "director": "Carlos Saura",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amor_brujo.jpg"
+    },
+    {
+      "film": "Blood Wedding",
+      "director": "Carlos Saura",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_Wedding.jpg"
+    },
+    {
+      "film": "Carmen",
+      "director": "Carlos Saura",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carmen.jpg"
+    },
+    {
+      "film": "Dont Look Back",
+      "director": "D. A. Pennebaker",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dont_Look_Back.jpg"
+    },
+    {
+      "film": "Gimme Shelter",
+      "director": "David Maysles, Albert Maysles and Charlotte Zwerin",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gimme_Shelter.jpg"
+    },
+    {
+      "film": "A Hard Day’s Night",
+      "director": "Richard Lester",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hard_Days_Night.jpg"
+    },
+    {
+      "film": "Jimi Plays Monterey & Shake! Otis at Monterey",
+      "director": "D. A. Pennebaker and Chris Hegedus",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jimi_Plays_Monterey_Shake_Otis_at_Monterey.jpg"
+    },
+    {
+      "film": "The Magic Flute",
+      "director": "Ingmar Bergman",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magic_Flute.jpg"
+    },
+    {
+      "film": "Martha Graham: Dance on Film",
+      "director": "Nathan Kroll",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Martha_Graham_Dance_on_Film.jpg"
+    },
+    {
+      "film": "The Mikado",
+      "director": "Victor Schertzinger",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mikado.jpg"
+    },
+    {
+      "film": "Monterey Pop",
+      "director": "D. A. Pennebaker",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monterey_Pop.jpg"
+    },
+    {
+      "film": "Nashville",
+      "director": "Robert Altman",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nashville.jpg"
+    },
+    {
+      "film": "Pina",
+      "director": "Wim Wenders",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pina.jpg"
+    },
+    {
+      "film": "A Poem Is a Naked Person",
+      "director": "Les Blank",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poem_Is_a_Naked_Person.jpg"
+    },
+    {
+      "film": "The Rose",
+      "director": "Mark Rydell",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rose.jpg"
+    },
+    {
+      "film": "The Red Shoes",
+      "director": "Michael Powell and Emeric Pressburger",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_Shoes.jpg"
+    },
+    {
+      "film": "The Tales of Hoffmann",
+      "director": "Michael Powell and Emeric Pressburger",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tales_of_Hoffmann.jpg"
+    },
+    {
+      "film": "This Is Spinal Tap",
+      "director": "Rob Reiner",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Is_Spinal_Tap.jpg"
+    },
+    {
+      "film": "Topsy-Turvy",
+      "director": "Mike Leigh",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Topsy_Turvy.jpg"
+    },
+    {
+      "film": "Total Balalaika Show",
+      "director": "Aki Kaurismäki",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Total_Balalaika_Show.jpg"
+    },
+    {
+      "film": "Trances",
+      "director": "Ahmed El Maânouni",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trances.jpg"
+    },
+    {
+      "film": "Beyond the Valley of the Dolls",
+      "director": "Russ Meyer",
+      "list": "Song and Dance",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beyond_the_Valley_of_the_Dolls.jpg"
+    }
+  ]
 }

@@ -1,58 +1,58 @@
 {
-"BritishRealism": [
- {
-   "film": "Fish Tank",
-   "director": "Andrea Arnold",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fish_Tank.jpg"
- },
- {
-   "film": "Kes",
-   "director": "Ken Loach",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kes.jpg"
- },
- {
-   "film": "Life Is Sweet",
-   "director": "Mike Leigh",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Is_Sweet.jpg"
- },
- {
-   "film": "Naked",
-   "director": "Mike Leigh",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naked.jpg"
- },
- {
-   "film": "Ratcatcher",
-   "director": "Lynne Ramsay",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ratcatcher.jpg"
- },
- {
-   "film": "Sunday Bloody Sunday",
-   "director": "John Schlesinger",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sunday_Bloody_Sunday.jpg"
- },
- {
-   "film": "This Sporting Life",
-   "director": "Lindsay Anderson",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Sporting_Life.jpg"
- },
- {
-   "film": "Victim",
-   "director": "Basil Dearden",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Victim.jpg"
- },
- {
-   "film": "Weekend",
-   "director": "Andrew Haigh",
-   "list": "British Realism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg"
- }
-]
+  "BritishRealism": [
+    {
+      "film": "Fish Tank",
+      "director": "Andrea Arnold",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fish_Tank.jpg"
+    },
+    {
+      "film": "Kes",
+      "director": "Ken Loach",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kes.jpg"
+    },
+    {
+      "film": "Life Is Sweet",
+      "director": "Mike Leigh",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Is_Sweet.jpg"
+    },
+    {
+      "film": "Naked",
+      "director": "Mike Leigh",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naked.jpg"
+    },
+    {
+      "film": "Ratcatcher",
+      "director": "Lynne Ramsay",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ratcatcher.jpg"
+    },
+    {
+      "film": "Sunday Bloody Sunday",
+      "director": "John Schlesinger",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sunday_Bloody_Sunday.jpg"
+    },
+    {
+      "film": "This Sporting Life",
+      "director": "Lindsay Anderson",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Sporting_Life.jpg"
+    },
+    {
+      "film": "Victim",
+      "director": "Basil Dearden",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Victim.jpg"
+    },
+    {
+      "film": "Weekend",
+      "director": "Andrew Haigh",
+      "list": "British Realism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg"
+    }
+  ]
 }

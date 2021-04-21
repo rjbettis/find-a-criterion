@@ -1,94 +1,94 @@
 {
-"FoodOnFilm": [
- {
-   "film": "Babette’s Feast",
-   "director": "Gabriel Axel",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babettes_Feast.jpg"
- },
- {
-   "film": "The Bakery Girl of Monceau",
-   "director": "Eric Rohmer",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg"
- },
- {
-   "film": "Daisies",
-   "director": "Věra Chytilová",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Daisies.jpg"
- },
- {
-   "film": "The Discreet Charm of the Bourgeoisie",
-   "director": "Luis Buñuel",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Discreet_Charm_of_the_Bourgeoisie.jpg"
- },
- {
-   "film": "Fanny and Alexander — The Theatrical Version",
-   "director": "Ingmar Bergman",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg"
- },
- {
-   "film": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
-   "director": "Chantal Akerman",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jeanne_Dielman.jpg"
- },
- {
-   "film": "Les Blank: Always for Pleasure",
-   "director": "Les Blank",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blank_Always_for_Pleasure.jpg"
- },
- {
-   "film": "Love Affair, or the Case of the Missing Switchboard Operator",
-   "director": "Dušan Makavejev",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Affair.jpg"
- },
- {
-   "film": "My Dinner with André",
-   "director": "Louis Malle",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Dinner_with_Andre.jpg"
- },
- {
-   "film": "The Private Life of Henry VIII",
-   "director": "Alexander Korda",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Private_Life_of_Henry_VIII.jpg"
- },
- {
-   "film": "The Secret of the Grain",
-   "director": "Abdellatif Kechiche",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_of_the_Grain.jpg"
- },
- {
-   "film": "Still Walking",
-   "director": "Hirokazu Kore-eda",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Still_Walking.jpg"
- },
- {
-   "film": "Sweet Movie",
-   "director": "Dušan Makavejev",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Movie.jpg"
- },
- {
-   "film": "The Taking of Power by Louis XIV",
-   "director": "Roberto Rossellini",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taking_of_Power_by_Louis_XIV.jpg"
- },
- {
-   "film": "Tampopo",
-   "director": "Juzo Itami",
-   "list": "Food on Film",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tampopo.jpg"
- }
-]
+  "FoodOnFilm": [
+    {
+      "film": "Babette’s Feast",
+      "director": "Gabriel Axel",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babettes_Feast.jpg"
+    },
+    {
+      "film": "The Bakery Girl of Monceau",
+      "director": "Eric Rohmer",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg"
+    },
+    {
+      "film": "Daisies",
+      "director": "Věra Chytilová",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Daisies.jpg"
+    },
+    {
+      "film": "The Discreet Charm of the Bourgeoisie",
+      "director": "Luis Buñuel",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Discreet_Charm_of_the_Bourgeoisie.jpg"
+    },
+    {
+      "film": "Fanny and Alexander — The Theatrical Version",
+      "director": "Ingmar Bergman",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg"
+    },
+    {
+      "film": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "director": "Chantal Akerman",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jeanne_Dielman.jpg"
+    },
+    {
+      "film": "Les Blank: Always for Pleasure",
+      "director": "Les Blank",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blank_Always_for_Pleasure.jpg"
+    },
+    {
+      "film": "Love Affair, or the Case of the Missing Switchboard Operator",
+      "director": "Dušan Makavejev",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Affair.jpg"
+    },
+    {
+      "film": "My Dinner with André",
+      "director": "Louis Malle",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Dinner_with_Andre.jpg"
+    },
+    {
+      "film": "The Private Life of Henry VIII",
+      "director": "Alexander Korda",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Private_Life_of_Henry_VIII.jpg"
+    },
+    {
+      "film": "The Secret of the Grain",
+      "director": "Abdellatif Kechiche",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_of_the_Grain.jpg"
+    },
+    {
+      "film": "Still Walking",
+      "director": "Hirokazu Kore-eda",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Still_Walking.jpg"
+    },
+    {
+      "film": "Sweet Movie",
+      "director": "Dušan Makavejev",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Movie.jpg"
+    },
+    {
+      "film": "The Taking of Power by Louis XIV",
+      "director": "Roberto Rossellini",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taking_of_Power_by_Louis_XIV.jpg"
+    },
+    {
+      "film": "Tampopo",
+      "director": "Juzo Itami",
+      "list": "Food on Film",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tampopo.jpg"
+    }
+  ]
 }

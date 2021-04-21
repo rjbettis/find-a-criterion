@@ -1,160 +1,161 @@
 {
-"AmourFou": [
- {
-   "film": "45 Years",
-   "director": "Andrew Haigh",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/45_Years.jpg"
- },
- {
-   "film": "A Married Couple",
-   "director": "Allan King",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg"
- },
- {
-   "film": "A Woman Under the Influence",
-   "director": "John Cassavetes",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_Under_the_Influence.jpg"
- },
- {
-   "film": "Bad Timing",
-   "director": "Nicolas Roeg",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Timing.jpg"
- },
- {
-   "film": "Badlands",
-   "director": "Terrence Malick",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Badlands.jpg"
- },
- {
-   "film": "Breaking the Waves",
-   "director": "Lars von Trier",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_the_Waves.jpg"
- },
- {
-   "film": "Casque d’or",
-   "director": "Jacques Becker",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Casque_dor.jpg"
- },
- {
-   "film": "Crazed Fruit",
-   "director": "Kô Nakahira",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crazed_Fruit.jpg"
- },
- {
-   "film": "Empire of Passion",
-   "director": "Nagisa Oshima",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Empire_of_Passion.jpg"
- },
- {
-   "film": "Gate of Hell",
-   "director": "Teinosuke Kinugasa",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gate_of_Hell.jpg"
- },
- {
-   "film": "Harold and Maude",
-   "director": "Hal Ashby",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg"
- },
- {
-   "film": "In the Realm of the Senses",
-   "director": "Nagisa Oshima",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Realm_of_the_Senses.jpg"
- },
- {
-   "film": "Japanese Summer: Double Suicide",
-   "director": "Nagisa Oshima",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Summer_Double_Suicide.jpg"
- },
- {
-   "film": "Love Affair, or the Case of the Missing Switchboard Operator",
-   "director": "Dušan Makavejev",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Affair.jpg"
- },
- {
-   "film": "Mala Noche",
-   "director": "Gus Van Sant",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mala_Noche.jpg"
- },
- {
-   "film": "Miss Julie",
-   "director": "Alf Sjöberg",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg"
- },
- {
-   "film": "Pale Flower",
-   "director": "Masahiro Shinoda",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg"
- },
- {
-   "film": "Pierrot le fou",
-   "director": "Jean-Luc Godard",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
- },
- {
-   "film": "Senso",
-   "director": "Luchino Visconti",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg"
- },
- {
-   "film": "Something Wild",
-   "director": "Jonathan Demme",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg"
- },
- {
-   "film": "The Fugitive Kind",
-   "director": "Sidney Lumet",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fugitive_Kind.jpg"
- },
- {
-   "film": "The Honeymoon Killers",
-   "director": "Leonard Kastle",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Honeymoon_Killers.jpg"
- },
- {
-   "film": "The Night Porter",
-   "director": "Liliana Cavani",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Porter.jpg"
- },
- {
-   "film": "The Piano Teacher",
-   "director": "Michael Haneke",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Piano_Teacher.jpg"
- },
- {
-   "film": "The Red Shoes",
-   "director": "Michael Powell and Emeric Pressburger",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_Shoes.jpg"
- },
- {
-   "film": "Three Colors: White",
-   "director": "Krzysztof Kieślowski",
-   "list": "Amour Fou",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Colors_White.jpg"
- }
-]
+  "AmourFou": [
+    {
+      "film": "Bad Timing",
+      "director": "Nicolas Roeg",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Timing.jpg"
+    },
+    {
+      "film": "Badlands",
+      "director": "Terrence Malick",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Badlands.jpg"
+    },
+    {
+      "film": "Breaking the Waves",
+      "director": "Lars von Trier",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_the_Waves.jpg"
+    },
+    {
+      "film": "Casque d’or",
+      "director": "Jacques Becker",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Casque_dor.jpg"
+    },
+    {
+      "film": "Crazed Fruit",
+      "director": "Kô Nakahira",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crazed_Fruit.jpg"
+    },
+    {
+      "film": "Empire of Passion",
+      "director": "Nagisa Oshima",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Empire_of_Passion.jpg"
+    },
+    {
+      "film": "The Fugitive Kind",
+      "director": "Sidney Lumet",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fugitive_Kind.jpg"
+    },
+    {
+      "film": "Gate of Hell",
+      "director": "Teinosuke Kinugasa",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gate_of_Hell.jpg"
+    },
+    {
+      "film": "Harold and Maude",
+      "director": "Hal Ashby",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg"
+    },
+    {
+      "film": "The Honeymoon Killers",
+      "director": "Leonard Kastle",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Honeymoon_Killers.jpg"
+    },
+    {
+      "film": "In the Realm of the Senses",
+      "director": "Nagisa Oshima",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_the_Realm_of_the_Senses.jpg"
+    },
+    {
+      "film": "Japanese Summer: Double Suicide",
+      "director": "Nagisa Oshima",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Japanese_Summer_Double_Suicide.jpg"
+    },
+    {
+      "film": "Love Affair, or the Case of the Missing Switchboard Operator",
+      "director": "Dušan Makavejev",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Affair.jpg"
+    },
+    {
+      "film": "Mala Noche",
+      "director": "Gus Van Sant",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mala_Noche.jpg"
+    },
+    {
+      "film": "A Married Couple",
+      "director": "Allan King",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Married_Couple.jpg"
+    },
+    {
+      "film": "Miss Julie",
+      "director": "Alf Sjöberg",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Miss_Julie.jpg"
+    },
+    {
+      "film": "The Night Porter",
+      "director": "Liliana Cavani",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Night_Porter.jpg"
+    },
+    {
+      "film": "Pale Flower",
+      "director": "Masahiro Shinoda",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pale_Flower.jpg"
+    },
+    {
+      "film": "Pierrot le fou",
+      "director": "Jean-Luc Godard",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
+    },
+    {
+      "film": "The Red Shoes",
+      "director": "Michael Powell and Emeric Pressburger",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_Shoes.jpg"
+    },
+    {
+      "film": "Senso",
+      "director": "Luchino Visconti",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg"
+    },
+    {
+      "film": "Something Wild",
+      "director": "Jonathan Demme",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg"
+    },
+
+    {
+      "film": "Three Colors: White",
+      "director": "Krzysztof Kieślowski",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Colors_White.jpg"
+    },
+    {
+      "film": "A Woman Under the Influence",
+      "director": "John Cassavetes",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_Under_the_Influence.jpg"
+    },
+    {
+      "film": "45 Years",
+      "director": "Andrew Haigh",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/45_Years.jpg"
+    },
+    {
+      "film": "The Piano Teacher",
+      "director": "Michael Haneke",
+      "list": "Amour Fou",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Piano_Teacher.jpg"
+    }
+  ]
 }

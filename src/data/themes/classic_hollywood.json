@@ -1,298 +1,310 @@
 {
-"ClassicHollywood": [
- {
-   "film": "Underworld ",
-   "director": "Josef von Sternberg",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg"
- },
- {
-   "film": "The Docks of New York",
-   "director": "Josef von Sternberg",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Docks_of_New_York.jpg"
- },
- {
-   "film": "The Last Command",
-   "director": "Josef von Sternberg",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Command.jpg"
- },
- {
-   "film": "Lonesome",
-   "director": "Paul Fejos",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lonesome.jpg"
- },
- {
-   "film": "The Love Parade",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Parade.jpg"
- },
- {
-   "film": "Monte Carlo",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monte_Carlo.jpg"
- },
- {
-   "film": "The Smiling Lieutenant",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiling_Lieutenant.jpg"
- },
- {
-   "film": "One Hour with You",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hour_with_You.jpg"
- },
- {
-   "film": "Trouble in Paradise",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg"
- },
- {
-   "film": "Island of Lost Souls",
-   "director": "Erle C. Kenton",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Island_of_Lost_Souls.jpg"
- },
- {
-   "film": "Design for Living",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Design_for_Living.jpg"
- },
- {
-   "film": "It Happened One Night",
-   "director": "Frank Capra",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg"
- },
- {
-   "film": "The Scarlet Empress",
-   "director": "Josef von Sternberg",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scarlet_Empress.jpg"
- },
- {
-   "film": "My Man Godfrey",
-   "director": "Gregory La Cava",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg"
- },
- {
-   "film": "Modern Times",
-   "director": "Charlie Chaplin",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg"
- },
- {
-   "film": "Make Way for Tomorrow ",
-   "director": "Leo McCarey",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Make_Way_for_Tomorrow.jpg"
- },
- {
-   "film": "Only Angels Have Wings",
-   "director": "Howard Hawks",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Only_Angels_Have_Wings.jpg"
- },
- {
-   "film": "Stagecoach",
-   "director": "John Ford",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stagecoach.jpg"
- },
- {
-   "film": "Foreign Correspondent",
-   "director": "Alfred Hitchcock",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg"
- },
- {
-   "film": "Rebecca",
-   "director": "Alfred Hitchcock",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rebecca.jpg"
- },
- {
-   "film": "The Devil and Daniel Webster",
-   "director": "William Dieterle",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_and_Daniel_Webster.jpg"
- },
- {
-   "film": "Here Comes Mr. Jordan",
-   "director": "Alexander Hall",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Comes_Mr_Jordan.jpg"
- },
- {
-   "film": "The Lady Eve",
-   "director": "Preston Sturges",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Eve.jpg"
- },
- {
-   "film": "I Married a Witch",
-   "director": "René Clair",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Married_a_Witch.jpg"
- },
- {
-   "film": "The Palm Beach Story",
-   "director": "Preston Sturges",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Palm_Beach_Story.jpg"
- },
- {
-   "film": "Sullivan’s Travels",
-   "director": "Preston Sturges",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg"
- },
- {
-   "film": "To Be or Not to Be",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg"
- },
- {
-   "film": "Heaven Can Wait",
-   "director": "Ernst Lubitsch",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heaven_Can_Wait.jpg"
- },
- {
-   "film": "Ministry of Fear",
-   "director": "Fritz Lang",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ministry_of_Fear.jpg"
- },
- {
-   "film": "The Uninvited",
-   "director": "Lewis Allen",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uninvited.jpg"
- },
- {
-   "film": "Spellbound",
-   "director": "Alfred Hitchcock",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spellbound.jpg"
- },
- {
-   "film": "The Killers",
-   "director": "Robert Siodmak",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg"
- },
- {
-   "film": "My Darling Clementine",
-   "director": "John Ford",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Darling_Clementine.jpg"
- },
- {
-   "film": "Notorious",
-   "director": "Alfred Hitchcock",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg"
- },
- {
-   "film": "Red River",
-   "director": "Howard Hawks",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_River.jpg"
- },
- {
-   "film": "Unfaithfully Yours",
-   "director": "Preston Sturges",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unfaithfully_Yours.jpg"
- },
- {
-   "film": "In a Lonely Place",
-   "director": "Nicholas Ray",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg"
- },
- {
-   "film": "The Furies",
-   "director": "Anthony Mann",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Furies.jpg"
- },
- {
-   "film": "Ace in the Hole",
-   "director": "Billy Wilder",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ace_in_the_Hole.jpg"
- },
- {
-   "film": "Magnificent Obsession",
-   "director": "Douglas Sirk",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg"
- },
- {
-   "film": "On the Waterfront",
-   "director": "Elia Kazan",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/On_the_Waterfront.jpg"
- },
- {
-   "film": "All That Heaven Allows",
-   "director": "Douglas Sirk",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg"
- },
- {
-   "film": "Written on the Wind",
-   "director": "Douglas Sirk",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Written_on_the_Wind.jpg"
- },
- {
-   "film": "Bigger Than Life",
-   "director": "Nicholas Ray",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg"
- },
- {
-   "film": "Paths of Glory",
-   "director": "Stanley Kubrick",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paths_of_Glory.jpg"
- },
- {
-   "film": "Sweet Smell of Success",
-   "director": "Alexander Mackendrick",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Smell_of_Success.jpg"
- },
- {
-   "film": "12 Angry Men",
-   "director": "Sidney Lumet",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/12_Angry_Men.jpg"
- },
- {
-   "film": "Anatomy of a Murder",
-   "director": "Otto Preminger",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Anatomy_of_a_Murder.jpg"
- },
- {
-   "film": "Woman of the Year",
-   "director": "George Stevens",
-   "list": "Classic Hollywood",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_of_the_Year.jpg"
- }
-]
+  "ClassicHollywood": [
+    {
+      "film": "Underworld ",
+      "director": "Josef von Sternberg",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg"
+    },
+    {
+      "film": "The Docks of New York",
+      "director": "Josef von Sternberg",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Docks_of_New_York.jpg"
+    },
+    {
+      "film": "The Last Command",
+      "director": "Josef von Sternberg",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Command.jpg"
+    },
+    {
+      "film": "Lonesome",
+      "director": "Paul Fejos",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lonesome.jpg"
+    },
+    {
+      "film": "The Love Parade",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Parade.jpg"
+    },
+    {
+      "film": "Monte Carlo",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monte_Carlo.jpg"
+    },
+    {
+      "film": "The Smiling Lieutenant",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiling_Lieutenant.jpg"
+    },
+    {
+      "film": "One Hour with You",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hour_with_You.jpg"
+    },
+    {
+      "film": "Trouble in Paradise",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg"
+    },
+    {
+      "film": "Island of Lost Souls",
+      "director": "Erle C. Kenton",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Island_of_Lost_Souls.jpg"
+    },
+    {
+      "film": "Design for Living",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Design_for_Living.jpg"
+    },
+    {
+      "film": "It Happened One Night",
+      "director": "Frank Capra",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg"
+    },
+    {
+      "film": "The Scarlet Empress",
+      "director": "Josef von Sternberg",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scarlet_Empress.jpg"
+    },
+    {
+      "film": "My Man Godfrey",
+      "director": "Gregory La Cava",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg"
+    },
+    {
+      "film": "Modern Times",
+      "director": "Charlie Chaplin",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg"
+    },
+    {
+      "film": "The Awful Truth",
+      "director": "Leo McCarey",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Awful_Truth.jpg"
+    },
+    {
+      "film": "Make Way for Tomorrow ",
+      "director": "Leo McCarey",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Make_Way_for_Tomorrow.jpg"
+    },
+    {
+      "film": "Only Angels Have Wings",
+      "director": "Howard Hawks",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Only_Angels_Have_Wings.jpg"
+    },
+    {
+      "film": "Stagecoach",
+      "director": "John Ford",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stagecoach.jpg"
+    },
+    {
+      "film": "Foreign Correspondent",
+      "director": "Alfred Hitchcock",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Foreign_Correspondent.jpg"
+    },
+    {
+      "film": "The Philadelphia Story",
+      "director": "George Cukor",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Philadelphia_Story.jpg"
+    },
+    {
+      "film": "Rebecca",
+      "director": "Alfred Hitchcock",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rebecca.jpg"
+    },
+    {
+      "film": "The Devil and Daniel Webster",
+      "director": "William Dieterle",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_and_Daniel_Webster.jpg"
+    },
+    {
+      "film": "Here Comes Mr. Jordan",
+      "director": "Alexander Hall",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Comes_Mr_Jordan.jpg"
+    },
+    {
+      "film": "The Lady Eve",
+      "director": "Preston Sturges",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Eve.jpg"
+    },
+    {
+      "film": "I Married a Witch",
+      "director": "René Clair",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Married_a_Witch.jpg"
+    },
+    {
+      "film": "The Palm Beach Story",
+      "director": "Preston Sturges",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Palm_Beach_Story.jpg"
+    },
+    {
+      "film": "Sullivan’s Travels",
+      "director": "Preston Sturges",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg"
+    },
+    {
+      "film": "To Be or Not to Be",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg"
+    },
+    {
+      "film": "Woman of the Year",
+      "director": "George Stevens",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_of_the_Year.jpg"
+    },
+    {
+      "film": "Heaven Can Wait",
+      "director": "Ernst Lubitsch",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heaven_Can_Wait.jpg"
+    },
+    {
+      "film": "Ministry of Fear",
+      "director": "Fritz Lang",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ministry_of_Fear.jpg"
+    },
+    {
+      "film": "The Uninvited",
+      "director": "Lewis Allen",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uninvited.jpg"
+    },
+    {
+      "film": "Spellbound",
+      "director": "Alfred Hitchcock",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spellbound.jpg"
+    },
+    {
+      "film": "The Killers",
+      "director": "Robert Siodmak",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg"
+    },
+    {
+      "film": "My Darling Clementine",
+      "director": "John Ford",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Darling_Clementine.jpg"
+    },
+    {
+      "film": "Notorious",
+      "director": "Alfred Hitchcock",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notorious.jpg"
+    },
+    {
+      "film": "Red River",
+      "director": "Howard Hawks",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Red_River.jpg"
+    },
+    {
+      "film": "Unfaithfully Yours",
+      "director": "Preston Sturges",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unfaithfully_Yours.jpg"
+    },
+    {
+      "film": "In a Lonely Place",
+      "director": "Nicholas Ray",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In_a_Lonely_Place.jpg"
+    },
+    {
+      "film": "The Furies",
+      "director": "Anthony Mann",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Furies.jpg"
+    },
+    {
+      "film": "Ace in the Hole",
+      "director": "Billy Wilder",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ace_in_the_Hole.jpg"
+    },
+    {
+      "film": "Magnificent Obsession",
+      "director": "Douglas Sirk",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Magnificent_Obsession.jpg"
+    },
+    {
+      "film": "On the Waterfront",
+      "director": "Elia Kazan",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/On_the_Waterfront.jpg"
+    },
+    {
+      "film": "All That Heaven Allows",
+      "director": "Douglas Sirk",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg"
+    },
+    {
+      "film": "Written on the Wind",
+      "director": "Douglas Sirk",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Written_on_the_Wind.jpg"
+    },
+    {
+      "film": "Bigger Than Life",
+      "director": "Nicholas Ray",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg"
+    },
+    {
+      "film": "Paths of Glory",
+      "director": "Stanley Kubrick",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paths_of_Glory.jpg"
+    },
+    {
+      "film": "Sweet Smell of Success",
+      "director": "Alexander Mackendrick",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Smell_of_Success.jpg"
+    },
+    {
+      "film": "12 Angry Men",
+      "director": "Sidney Lumet",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/12_Angry_Men.jpg"
+    },
+    {
+      "film": "Anatomy of a Murder",
+      "director": "Otto Preminger",
+      "list": "Classic Hollywood",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Anatomy_of_a_Murder.jpg"
+    }
+  ]
 }

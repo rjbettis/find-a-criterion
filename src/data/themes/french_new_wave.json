@@ -1,184 +1,184 @@
 {
-"FrenchNewWave": [
- {
-   "film": "Le beau Serge",
-   "director": "Claude Chabrol",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beau_Serge.jpg"
- },
- {
-   "film": "Les cousins",
-   "director": "Claude Chabrol",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cousins.jpg"
- },
- {
-   "film": "The 400 Blows",
-   "director": "François Truffaut",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg"
- },
- {
-   "film": "Hiroshima mon amour",
-   "director": "Alain Resnais",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hiroshima_mon_amour.jpg"
- },
- {
-   "film": "Breathless",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg"
- },
- {
-   "film": "Shoot the Piano Player",
-   "director": "François Truffaut",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoot_the_Piano_Player.jpg"
- },
- {
-   "film": "Chronicle of a Summer",
-   "director": "Jean Rouch and Edgar Morin",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg"
- },
- {
-   "film": "Last Year at Marienbad",
-   "director": "Alain Resnais",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Year_at_Marienbad.jpg"
- },
- {
-   "film": "Lola",
-   "director": "Jacques Demy",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola.jpg"
- },
- {
-   "film": "Paris Belongs to Us",
-   "director": "Jacques Rivette",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Belongs_to_Us.jpg"
- },
- {
-   "film": "A Woman Is a Woman",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_is_a_Woman.jpg"
- },
- {
-   "film": "Cléo from 5 to 7",
-   "director": "Agnès Varda",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cleo_from_5_to_7.jpg"
- },
- {
-   "film": "Jules and Jim",
-   "director": "François Truffaut",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jules_and_Jim.jpg"
- },
- {
-   "film": "The Bakery Girl of Monceau",
-   "director": "Eric Rohmer",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg"
- },
- {
-   "film": "Vivre sa vie",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vivre_sa_vie.jpg"
- },
- {
-   "film": "Contempt",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Contempt.jpg"
- },
- {
-   "film": "Bay of Angels",
-   "director": "Jacques Demy",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bay_of_Angels.jpg"
- },
- {
-   "film": "The Fire Within",
-   "director": "Louis Malle",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fire_Within.jpg"
- },
- {
-   "film": "Muriel, or The Time of Return",
-   "director": "Alain Resnais",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Muriel_or_The_Time_of_Return.jpg"
- },
- {
-   "film": "Suzanne’s Career",
-   "director": "Eric Rohmer",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suzannes_Career.jpg"
- },
- {
-   "film": "Band of Outsiders",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg"
- },
- {
-   "film": "The Soft Skin",
-   "director": "François Truffaut",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Soft_Skin.jpg"
- },
- {
-   "film": "The Umbrellas of Cherbourg",
-   "director": "Jacques Demy",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umbrellas_of_Cherbourg.jpg"
- },
- {
-   "film": "Alphaville",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg"
- },
- {
-   "film": "Le bonheur",
-   "director": "Agnès Varda",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bonheur.jpg"
- },
- {
-   "film": "Pierrot le fou",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
- },
- {
-   "film": "Masculin féminin",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Masculin_feminin.jpg"
- },
- {
-   "film": "Who Are You, Polly Maggoo?",
-   "director": "William Klein",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Who_Are_You_Polly_Maggoo.jpg"
- },
- {
-   "film": "The Young Girls of Rochefort",
-   "director": "Jacques Demy",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Girls_of_Rochefort.jpg"
- },
- {
-   "film": "Weekend",
-   "director": "Jean-Luc Godard",
-   "list": "French New Wave",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend_1967.jpg"
- }
-]
+  "FrenchNewWave": [
+    {
+      "film": "Le beau Serge",
+      "director": "Claude Chabrol",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beau_Serge.jpg"
+    },
+    {
+      "film": "Les cousins",
+      "director": "Claude Chabrol",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cousins.jpg"
+    },
+    {
+      "film": "The 400 Blows",
+      "director": "François Truffaut",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg"
+    },
+    {
+      "film": "Hiroshima mon amour",
+      "director": "Alain Resnais",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hiroshima_mon_amour.jpg"
+    },
+    {
+      "film": "Breathless",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg"
+    },
+    {
+      "film": "Shoot the Piano Player",
+      "director": "François Truffaut",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoot_the_Piano_Player.jpg"
+    },
+    {
+      "film": "Chronicle of a Summer",
+      "director": "Jean Rouch and Edgar Morin",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg"
+    },
+    {
+      "film": "Last Year at Marienbad",
+      "director": "Alain Resnais",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Year_at_Marienbad.jpg"
+    },
+    {
+      "film": "Lola",
+      "director": "Jacques Demy",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lola.jpg"
+    },
+    {
+      "film": "Paris Belongs to Us",
+      "director": "Jacques Rivette",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Belongs_to_Us.jpg"
+    },
+    {
+      "film": "A Woman Is a Woman",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_is_a_Woman.jpg"
+    },
+    {
+      "film": "Cléo from 5 to 7",
+      "director": "Agnès Varda",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cleo_from_5_to_7.jpg"
+    },
+    {
+      "film": "Jules and Jim",
+      "director": "François Truffaut",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jules_and_Jim.jpg"
+    },
+    {
+      "film": "The Bakery Girl of Monceau",
+      "director": "Eric Rohmer",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg"
+    },
+    {
+      "film": "Vivre sa vie",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vivre_sa_vie.jpg"
+    },
+    {
+      "film": "Contempt",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Contempt.jpg"
+    },
+    {
+      "film": "Bay of Angels",
+      "director": "Jacques Demy",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bay_of_Angels.jpg"
+    },
+    {
+      "film": "The Fire Within",
+      "director": "Louis Malle",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fire_Within.jpg"
+    },
+    {
+      "film": "Muriel, or The Time of Return",
+      "director": "Alain Resnais",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Muriel_or_The_Time_of_Return.jpg"
+    },
+    {
+      "film": "Suzanne’s Career",
+      "director": "Eric Rohmer",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suzannes_Career.jpg"
+    },
+    {
+      "film": "Band of Outsiders",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg"
+    },
+    {
+      "film": "The Soft Skin",
+      "director": "François Truffaut",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Soft_Skin.jpg"
+    },
+    {
+      "film": "The Umbrellas of Cherbourg",
+      "director": "Jacques Demy",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umbrellas_of_Cherbourg.jpg"
+    },
+    {
+      "film": "Alphaville",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg"
+    },
+    {
+      "film": "Le bonheur",
+      "director": "Agnès Varda",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bonheur.jpg"
+    },
+    {
+      "film": "Pierrot le fou",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
+    },
+    {
+      "film": "Masculin féminin",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Masculin_feminin.jpg"
+    },
+    {
+      "film": "Who Are You, Polly Maggoo?",
+      "director": "William Klein",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Who_Are_You_Polly_Maggoo.jpg"
+    },
+    {
+      "film": "The Young Girls of Rochefort",
+      "director": "Jacques Demy",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Young_Girls_of_Rochefort.jpg"
+    },
+    {
+      "film": "Weekend",
+      "director": "Jean-Luc Godard",
+      "list": "French New Wave",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend_1967.jpg"
+    }
+  ]
 }

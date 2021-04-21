@@ -1,220 +1,220 @@
 {
-"RoadTrips": [
- {
-   "film": "It Happened One Night",
-   "director": "Frank Capra",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg"
- },
- {
-   "film": "Mr. Thank You",
-   "director": "Hiroshi Shimizu",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mr_Thank_You.jpg"
- },
- {
-   "film": "Sullivan’s Travels",
-   "director": "Preston Sturges",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg"
- },
- {
-   "film": "The Wages of Fear",
-   "director": "Henri-Georges Clouzot",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wages_of_Fear.jpg"
- },
- {
-   "film": "La strada",
-   "director": "Federico Fellini",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Strada.jpg"
- },
- {
-   "film": "Wild Strawberries",
-   "director": "Ingmar Bergman",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wild_Strawberries.jpg"
- },
- {
-   "film": "Il sorpasso",
-   "director": "Dino Risi",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sorpasso.jpg"
- },
- {
-   "film": "It’s a Mad, Mad, Mad, Mad World",
-   "director": "Stanley Kramer",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Its_a_Mad_Mad_Mad_Mad_World.jpg"
- },
- {
-   "film": "Pierrot le fou",
-   "director": "Jean-Luc Godard",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
- },
- {
-   "film": "Weekend",
-   "director": "Jean-Luc Godard",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend.jpg"
- },
- {
-   "film": "Easy Rider",
-   "director": "Dennis Hopper",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Easy_Rider.jpg"
- },
- {
-   "film": "Five Easy Pieces",
-   "director": "Bob Rafelson",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Five_Easy_Pieces.jpg"
- },
- {
-   "film": "Two-Lane Blacktop",
-   "director": "Monte Hellman",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Two_Lane_Blacktop.jpg"
- },
- {
-   "film": "Touki bouki",
-   "director": "Djibril Diop Mambéty",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Touki_bouki.jpg"
- },
- {
-   "film": "Alice in the Cities",
-   "director": "Wim Wenders",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alice_in_the_Cities.jpg"
- },
- {
-   "film": "Wrong Move",
-   "director": "Wim Wenders",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wrong_Move.jpg"
- },
- {
-   "film": "Kings of the Road",
-   "director": "Wim Wenders",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kings_of_the_Road.jpg"
- },
- {
-   "film": "Je tu il elle",
-   "director": "Chantal Akerman",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Je_tu_il_elle.jpg"
- },
- {
-   "film": "Les rendez-vous d’Anna",
-   "director": "Chantal Akerman",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rendez_vous_dAnna.jpg"
- },
- {
-   "film": "The Hit",
-   "director": "Stephen Frears",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hit.jpg"
- },
- {
-   "film": "Stranger Than Paradise",
-   "director": "Jim Jarmusch",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stranger_Than_Paradise.jpg"
- },
- {
-   "film": "Paris, Texas",
-   "director": "Wim Wenders",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg"
- },
- {
-   "film": "Vagabond",
-   "director": "Agnès Varda",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vagabond.jpg"
- },
- {
-   "film": "Down by Law",
-   "director": "Jim Jarmusch",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Down_by_Law.jpg"
- },
- {
-   "film": "Something Wild",
-   "director": "Jonathan Demme",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg"
- },
- {
-   "film": "Border Radio",
-   "director": "Allison Anders, Dean Lent and Kurt Voss",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Border_Radio.jpg"
- },
- {
-   "film": "Ariel",
-   "director": "Aki Kaurismäki",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ariel.jpg"
- },
- {
-   "film": "Leningrad Cowboys Go America",
-   "director": "Aki Kaurismäki",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Go_America.jpg"
- },
- {
-   "film": "Mystery Train",
-   "director": "Jim Jarmusch",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mystery_Train.jpg"
- },
- {
-   "film": "My Own Private Idaho",
-   "director": "Gus Van Sant",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Own_Private_Idaho.jpg"
- },
- {
-   "film": "Clean, Shaven",
-   "director": "Lodge Kerrigan",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Clean_Shaven.jpg"
- },
- {
-   "film": "Leningrad Cowboys Meet Moses",
-   "director": "Aki Kaurismäki",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Meet_Moses.jpg"
- },
- {
-   "film": "Bottle Rocket",
-   "director": "Wes Anderson",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
- },
- {
-   "film": "Taste of Cherry",
-   "director": "Abbas Kiarostami",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Cherry.jpg"
- },
- {
-   "film": "Fear and Loathing in Las Vegas",
-   "director": "Terry Gilliam",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fear_and_Loathing_in_Las_Vegas.jpg"
- },
- {
-   "film": "Y tu mamá también ",
-   "director": "Alfonso Cuarón",
-   "list": "Road Trips",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Y_tu_mama_tambien.jpg"
- }
-]
+  "RoadTrips": [
+    {
+      "film": "It Happened One Night",
+      "director": "Frank Capra",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg"
+    },
+    {
+      "film": "Mr. Thank You",
+      "director": "Hiroshi Shimizu",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mr_Thank_You.jpg"
+    },
+    {
+      "film": "Sullivan’s Travels",
+      "director": "Preston Sturges",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg"
+    },
+    {
+      "film": "The Wages of Fear",
+      "director": "Henri-Georges Clouzot",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wages_of_Fear.jpg"
+    },
+    {
+      "film": "La strada",
+      "director": "Federico Fellini",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Strada.jpg"
+    },
+    {
+      "film": "Wild Strawberries",
+      "director": "Ingmar Bergman",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wild_Strawberries.jpg"
+    },
+    {
+      "film": "Il sorpasso",
+      "director": "Dino Risi",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sorpasso.jpg"
+    },
+    {
+      "film": "It’s a Mad, Mad, Mad, Mad World",
+      "director": "Stanley Kramer",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Its_a_Mad_Mad_Mad_Mad_World.jpg"
+    },
+    {
+      "film": "Pierrot le fou",
+      "director": "Jean-Luc Godard",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pierrot_le_fou.jpg"
+    },
+    {
+      "film": "Weekend",
+      "director": "Jean-Luc Godard",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Weekend_Godard.jpg"
+    },
+    {
+      "film": "Easy Rider",
+      "director": "Dennis Hopper",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Easy_Rider.jpg"
+    },
+    {
+      "film": "Five Easy Pieces",
+      "director": "Bob Rafelson",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Five_Easy_Pieces.jpg"
+    },
+    {
+      "film": "Two-Lane Blacktop",
+      "director": "Monte Hellman",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Two_Lane_Blacktop.jpg"
+    },
+    {
+      "film": "Touki bouki",
+      "director": "Djibril Diop Mambéty",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Touki_bouki.jpg"
+    },
+    {
+      "film": "Alice in the Cities",
+      "director": "Wim Wenders",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alice_in_the_Cities.jpg"
+    },
+    {
+      "film": "Wrong Move",
+      "director": "Wim Wenders",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Wrong_Move.jpg"
+    },
+    {
+      "film": "Kings of the Road",
+      "director": "Wim Wenders",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kings_of_the_Road.jpg"
+    },
+    {
+      "film": "Je tu il elle",
+      "director": "Chantal Akerman",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Je_tu_il_elle.jpg"
+    },
+    {
+      "film": "Les rendez-vous d’Anna",
+      "director": "Chantal Akerman",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rendez_vous_dAnna.jpg"
+    },
+    {
+      "film": "The Hit",
+      "director": "Stephen Frears",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hit.jpg"
+    },
+    {
+      "film": "Stranger Than Paradise",
+      "director": "Jim Jarmusch",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stranger_Than_Paradise.jpg"
+    },
+    {
+      "film": "Paris, Texas",
+      "director": "Wim Wenders",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paris_Texas.jpg"
+    },
+    {
+      "film": "Vagabond",
+      "director": "Agnès Varda",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vagabond.jpg"
+    },
+    {
+      "film": "Down by Law",
+      "director": "Jim Jarmusch",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Down_by_Law.jpg"
+    },
+    {
+      "film": "Something Wild",
+      "director": "Jonathan Demme",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg"
+    },
+    {
+      "film": "Border Radio",
+      "director": "Allison Anders, Dean Lent and Kurt Voss",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Border_Radio.jpg"
+    },
+    {
+      "film": "Ariel",
+      "director": "Aki Kaurismäki",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ariel.jpg"
+    },
+    {
+      "film": "Leningrad Cowboys Go America",
+      "director": "Aki Kaurismäki",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Go_America.jpg"
+    },
+    {
+      "film": "Mystery Train",
+      "director": "Jim Jarmusch",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mystery_Train.jpg"
+    },
+    {
+      "film": "My Own Private Idaho",
+      "director": "Gus Van Sant",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Own_Private_Idaho.jpg"
+    },
+    {
+      "film": "Clean, Shaven",
+      "director": "Lodge Kerrigan",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Clean_Shaven.jpg"
+    },
+    {
+      "film": "Leningrad Cowboys Meet Moses",
+      "director": "Aki Kaurismäki",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Meet_Moses.jpg"
+    },
+    {
+      "film": "Bottle Rocket",
+      "director": "Wes Anderson",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
+    },
+    {
+      "film": "Taste of Cherry",
+      "director": "Abbas Kiarostami",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Cherry.jpg"
+    },
+    {
+      "film": "Fear and Loathing in Las Vegas",
+      "director": "Terry Gilliam",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fear_and_Loathing_in_Las_Vegas.jpg"
+    },
+    {
+      "film": "Y tu mamá también ",
+      "director": "Alfonso Cuarón",
+      "list": "Road Trips",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Y_tu_mama_tambien.jpg"
+    }
+  ]
 }

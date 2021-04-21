@@ -1,82 +1,88 @@
 {
-"AvantGarde": [
- {
-   "film": "A Hollis Frampton Odyssey",
-   "director": "Hollis Frampton",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hollis_Frampton_Odyssey.jpg"
- },
- {
-   "film": "Antonio Gaudí",
-   "director": "Hiroshi Teshigahara",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Antonio_Gaudi.jpg"
- },
- {
-   "film": "Borderline",
-   "director": "Kenneth Macpherson",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Borderline.jpg"
- },
- {
-   "film": "By Brakhage: An Anthology, Volume One",
-   "director": "Stan Brakhage",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/By_Brakhage_1.jpg"
- },
- {
-   "film": "By Brakhage: An Anthology, Volume Two",
-   "director": "Stan Brakhage",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/By_Brakhage_2.jpg"
- },
- {
-   "film": "Hotel Monterey",
-   "director": "Chantal Akerman",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hotel_Monterey.jpg"
- },
- {
-   "film": "Innocence Unprotected",
-   "director": "Dušan Makavejev",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Innocence_Unprotected.jpg"
- },
- {
-   "film": "La chambre",
-   "director": "Chantal Akerman",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chambre.jpg"
- },
- {
-   "film": "News from Home",
-   "director": "Chantal Akerman",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/News_from_Home.jpg"
- },
- {
-   "film": "Science Is Fiction: 23 Films by Jean Painlevé",
-   "director": "Jean Painlevé",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Science_is_Fiction.jpg"
- },
- {
-   "film": "Testament of Orpheus",
-   "director": "Jean Cocteau",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Orpheus.jpg"
- },
- {
-   "film": "The Blood of a Poet",
-   "director": "Jean Cocteau",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_of_a_Poet.jpg"
- },
- {
-   "film": "WR: Mysteries of the Organism",
-   "director": "Dušan Makavejev",
-   "list": "Avant-Garde",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/WR_Mysteries_of_the_Organism.jpg"
- }
-]
+  "AvantGarde": [
+    {
+      "film": "Antonio Gaudí",
+      "director": "Hiroshi Teshigahara",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Antonio_Gaudi.jpg"
+    },
+    {
+      "film": "The Blood of a Poet",
+      "director": "Jean Cocteau",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_of_a_Poet.jpg"
+    },
+    {
+      "film": "Borderline",
+      "director": "Kenneth Macpherson",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Borderline.jpg"
+    },
+    {
+      "film": "By Brakhage: An Anthology, Volume One",
+      "director": "Stan Brakhage",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/By_Brakhage_1.jpg"
+    },
+    {
+      "film": "By Brakhage: An Anthology, Volume Two",
+      "director": "Stan Brakhage",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/By_Brakhage_2.jpg"
+    },
+    {
+      "film": "La chambre",
+      "director": "Chantal Akerman",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chambre.jpg"
+    },
+    {
+      "film": "A Hollis Frampton Odyssey",
+      "director": "Hollis Frampton",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hollis_Frampton_Odyssey.jpg"
+    },
+    {
+      "film": "Hotel Monterey",
+      "director": "Chantal Akerman",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hotel_Monterey.jpg"
+    },
+    {
+      "film": "Innocence Unprotected",
+      "director": "Dušan Makavejev",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Innocence_Unprotected.jpg"
+    },
+    {
+      "film": "News from Home",
+      "director": "Chantal Akerman",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/News_from_Home.jpg"
+    },
+    {
+      "film": "Science Is Fiction: 23 Films by Jean Painlevé",
+      "director": "Jean Painlevé",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Science_is_Fiction.jpg"
+    },
+    {
+      "film": "Testament of Orpheus",
+      "director": "Jean Cocteau",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Orpheus.jpg"
+    },
+    {
+      "film": "WR: Mysteries of the Organism",
+      "director": "Dušan Makavejev",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/WR_Mysteries_of_the_Organism.jpg"
+    },
+    {
+      "film": "Limite",
+      "director": "Mário Peixoto",
+      "list": "Avant-Garde",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Limite.jpg"
+    }
+  ]
 }

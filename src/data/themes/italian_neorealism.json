@@ -1,58 +1,58 @@
 {
-"ItalianNeorealism": [
- {
-   "film": "Bicycle Thieves",
-   "director": "Vittorio De Sica",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bicycle_Thieves.jpg"
- },
- {
-   "film": "Bitter Rice",
-   "director": "Giuseppe De Santis",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Rice.jpg"
- },
- {
-   "film": "The Children Are Watching Us",
-   "director": "Vittorio De Sica",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg"
- },
- {
-   "film": "The Flowers of St. Francis",
-   "director": "Roberto Rossellini",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Flowers_of_St._Francis.jpg"
- },
- {
-   "film": "Germany Year Zero",
-   "director": "Roberto Rossellini",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Germany_Year_Zero.jpg"
- },
- {
-   "film": "Paisan",
-   "director": "Roberto Rossellini",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paisan.jpg"
- },
- {
-   "film": "Rome Open City",
-   "director": "Roberto Rossellini",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rome_Open_City.jpg"
- },
- {
-   "film": "Umberto D.",
-   "director": "Vittorio De Sica",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umberto_D.jpg"
- },
- {
-   "film": "I vitelloni",
-   "director": "Federico Fellini",
-   "list": "Italian Neorealism",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_vitelloni.jpg"
- }
-]
+  "ItalianNeorealism": [
+    {
+      "film": "Bicycle Thieves",
+      "director": "Vittorio De Sica",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bicycle_Thieves.jpg"
+    },
+    {
+      "film": "Bitter Rice",
+      "director": "Giuseppe De Santis",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Rice.jpg"
+    },
+    {
+      "film": "The Children Are Watching Us",
+      "director": "Vittorio De Sica",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg"
+    },
+    {
+      "film": "The Flowers of St. Francis",
+      "director": "Roberto Rossellini",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Flowers_of_St._Francis.jpg"
+    },
+    {
+      "film": "Germany Year Zero",
+      "director": "Roberto Rossellini",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Germany_Year_Zero.jpg"
+    },
+    {
+      "film": "Paisan",
+      "director": "Roberto Rossellini",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Paisan.jpg"
+    },
+    {
+      "film": "Rome Open City",
+      "director": "Roberto Rossellini",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rome_Open_City.jpg"
+    },
+    {
+      "film": "Umberto D.",
+      "director": "Vittorio De Sica",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umberto_D.jpg"
+    },
+    {
+      "film": "I vitelloni",
+      "director": "Federico Fellini",
+      "list": "Italian Neorealism",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_vitelloni.jpg"
+    }
+  ]
 }

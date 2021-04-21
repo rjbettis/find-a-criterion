@@ -1,718 +1,718 @@
 {
-"Comedies": [
- {
-   "film": "À nous la liberté",
-   "director": "René Clair",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nous_la_liberte.jpg"
- },
- {
-   "film": "Androcles and the Lion",
-   "director": "Chester Erskine",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Androcles_and_the_Lion.jpg"
- },
- {
-   "film": "As Long as You’ve Got Your Health ",
-   "director": "Pierre Etaix",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/As_Long_as_Youve_Got_Your_Health.jpg"
- },
- {
-   "film": "The Awful Truth",
-   "director": "Leo McCarey",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Awful_Truth.jpg"
- },
- {
-   "film": "The Bank Dick",
-   "director": "Edward Cline",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bank_Dick.jpg"
- },
- {
-   "film": "Barcelona",
-   "director": "Whit Stillman",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Barcelona.jpg"
- },
- {
-   "film": "Being John Malkovich",
-   "director": "Spike Jonze",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Being_John_Malkovich.jpg"
- },
- {
-   "film": "Big Deal on Madonna Street",
-   "director": "Mario Monicelli",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Deal_on_Madonna_Street.jpg"
- },
- {
-   "film": "Billy Liar",
-   "director": "John Schlesinger",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Billy_Liar.jpg"
- },
- {
-   "film": "Blithe Spirit",
-   "director": "David Lean",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blithe_Spirit.jpg"
- },
- {
-   "film": "Bottle Rocket",
-   "director": "Wes Anderson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
- },
- {
-   "film": "Boudu Saved from Drowning",
-   "director": "Jean Renoir",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Boudu_Saved_from_Drowning.jpg"
- },
- {
-   "film": "The Breakfast Club",
-   "director": "John Hughes",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breakfast_Club.jpg"
- },
- {
-   "film": "Broadcast News",
-   "director": "James L. Brooks",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Broadcast_News.jpg"
- },
- {
-   "film": "La Cage aux Folles",
-   "director": "Edouard Molinaro",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cage_aux_Folles.jpg"
- },
- {
-   "film": "Chafed Elbows",
-   "director": "Robert Downey Sr.",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chafed_Elbows.jpg"
- },
- {
-   "film": "Charade",
-   "director": "Stanley Donen",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Charade.jpg"
- },
- {
-   "film": "Chasing Amy",
-   "director": "Kevin Smith",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chasing_Amy.jpg"
- },
- {
-   "film": "City Lights",
-   "director": "Charles Chaplin",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/City_Lights.jpg"
- },
- {
-   "film": "The Darjeeling Limited",
-   "director": "Wes Anderson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Darjeeling_Limited.jpg"
- },
- {
-   "film": "Dazed and Confused",
-   "director": "Richard Linklater",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dazed_and_Confused.jpg"
- },
- {
-   "film": "Design for Living",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Design_for_Living.jpg"
- },
- {
-   "film": "Désiré",
-   "director": "Sacha Guitry",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Desire.jpg"
- },
- {
-   "film": "The Discreet Charm of the Bourgeoisie",
-   "director": "Luis Buñuel",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Discreet_Charm_of_the_Bourgeoisie.jpg"
- },
- {
-   "film": "Divorce Italian Style",
-   "director": "Pietro Germi",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Divorce_Italian_Style.jpg"
- },
- {
-   "film": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
-   "director": "Stanley Kubrick",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dr_Strangelove.jpg"
- },
- {
-   "film": "Eating Raoul",
-   "director": "Paul Bartel",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Eating_Raoul.jpg"
- },
- {
-   "film": "Election",
-   "director": "Alexander Payne",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Election.jpg"
- },
- {
-   "film": "Elena and Her Men",
-   "director": "Jean Renoir",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Elena_and_Her_Men.jpg"
- },
- {
-   "film": "Fantastic Mr. Fox",
-   "director": "Wes Anderson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fantastic_Mr_Fox.jpg"
- },
- {
-   "film": "Fishing with John",
-   "director": "John Lurie",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fishing_with_John.jpg"
- },
- {
-   "film": "Frances Ha",
-   "director": "Noah Baumbach",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Frances_Ha.jpg"
- },
- {
-   "film": "The Freshman",
-   "director": "Sam Taylor and Fred Newmeyer",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Freshman.jpg"
- },
- {
-   "film": "The Gold Rush",
-   "director": "Charles Chaplin",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gold_Rush.jpg"
- },
- {
-   "film": "The Golden Coach",
-   "director": "Jean Renoir",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Golden_Coach.jpg"
- },
- {
-   "film": "Good Morning",
-   "director": "Yasujiro Ozu",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Good_Morning.jpg"
- },
- {
-   "film": "The Graduate",
-   "director": "Mike Nichols",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Graduate.jpg"
- },
- {
-   "film": "Le grand amour",
-   "director": "Pierre Etaix",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grand_Amour.jpg"
- },
- {
-   "film": "The Great Dictator",
-   "director": "Charles Chaplin",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Great_Dictator.jpg"
- },
- {
-   "film": "A Hard Day’s Night",
-   "director": "Richard Lester",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hard_Days_Night.jpg"
- },
- {
-   "film": "Harold and Maude",
-   "director": "Hal Ashby",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg"
- },
- {
-   "film": "Head",
-   "director": "Bob Rafelson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Head.jpg"
- },
- {
-   "film": "Here Comes Mr. Jordan",
-   "director": "Alexander Hall",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Comes_Mr_Jordan.jpg"
- },
- {
-   "film": "Heaven Can Wait",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heaven_Can_Wait.jpg"
- },
- {
-   "film": "Hobson’s Choice",
-   "director": "David Lean",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hobsons_Choice.jpg"
- },
- {
-   "film": "The Horse’s Mouth",
-   "director": "Ronald Neame",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Horses_Mouth.jpg"
- },
- {
-   "film": "How to Get Ahead in Advertising",
-   "director": "Bruce Robinson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/How_to_get.jpg"
- },
- {
-   "film": "I Married a Witch",
-   "director": "René Clair",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Married_a_Witch.jpg"
- },
- {
-   "film": "I Was Born, But . . . ",
-   "director": "Yasujiro Ozu",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_was_Born_But.jpg"
- },
- {
-   "film": "The In-Laws",
-   "director": "Arthur Hiller",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In-Laws.jpg"
- },
- {
-   "film": "It Happened One Night",
-   "director": "Frank Capra",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg"
- },
- {
-   "film": "It’s a Mad, Mad, Mad, Mad World",
-   "director": "Stanley Kramer",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Its_a_Mad_Mad_Mad_Mad_World.jpg"
- },
- {
-   "film": "Jabberwocky",
-   "director": "Terry Gilliam",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jabberwocky.jpg"
- },
- {
-   "film": "Jour de fête",
-   "director": "Jacques Tati",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jour_de_fete.jpg"
- },
- {
-   "film": "The Kid",
-   "director": "Charlie Chaplin",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kid.jpg"
- },
- {
-   "film": "Kicking and Screaming",
-   "director": "Noah Baumbach",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kicking_and_Screaming.jpg"
- },
- {
-   "film": "Kind Hearts and Coronets",
-   "director": "Robert Hamer",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kind_Hearts_and_Coronets.jpg"
- },
- {
-   "film": "The Lady Eve",
-   "director": "Preston Sturges",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Eve.jpg"
- },
- {
-   "film": "The Last Days of Disco",
-   "director": "Whit Stillman",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Days_of_Disco.jpg"
- },
- {
-   "film": "Leningrad Cowboys Go America",
-   "director": "Aki Kaurismäki",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Go_America.jpg"
- },
- {
-   "film": "Leningrad Cowboys Meet Moses",
-   "director": "Aki Kaurismäki",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Meet_Moses.jpg"
- },
- {
-   "film": "The Life Aquatic with Steve Zissou",
-   "director": "Wes Anderson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Aquatic_with_Steve_Zissou.jpg"
- },
- {
-   "film": "The Love Parade",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Parade.jpg"
- },
- {
-   "film": "Lost in America",
-   "director": "Albert Brooks",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lost_in_America.jpg"
- },
- {
-   "film": "Monsieur Hulot’s Holiday",
-   "director": "Jacques Tati",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monsieur_Hulots_Holiday.jpg"
- },
- {
-   "film": "Mafioso",
-   "director": "Alberto Lattuada",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mafioso.jpg"
- },
- {
-   "film": "Metropolitan",
-   "director": "Whit Stillman",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Metropolitan.jpg"
- },
- {
-   "film": "The Milky Way",
-   "director": "Luis Buñuel",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Milky_Way.jpg"
- },
- {
-   "film": "Le million",
-   "director": "René Clair",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Million.jpg"
- },
- {
-   "film": "Modern Times",
-   "director": "Charlie Chaplin",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg"
- },
- {
-   "film": "Mon oncle",
-   "director": "Jacques Tati",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mon_Oncle.jpg"
- },
- {
-   "film": "Monsieur Verdoux",
-   "director": "Charles Chaplin",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monsieur_Verdoux.jpg"
- },
- {
-   "film": "Monte Carlo",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monte_Carlo.jpg"
- },
- {
-   "film": "Monty Python’s Life of Brian",
-   "director": "Terry Jones",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monty_Pythons_Life_of_Brian.jpg"
- },
- {
-   "film": "Moonrise Kingdom",
-   "director": "Wes Anderson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise_Kingdom.jpg"
- },
- {
-   "film": "Mr. Freedom",
-   "director": "William Klein",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mr_Freedom.jpg"
- },
- {
-   "film": "My Man Godfrey",
-   "director": "Gregory La Cava",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg"
- },
- {
-   "film": "One Hour with You",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hour_with_You.jpg"
- },
- {
-   "film": "The Palm Beach Story",
-   "director": "Preston Sturges",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Palm_Beach_Story.jpg"
- },
- {
-   "film": "Passing Fancy",
-   "director": "Yasujiro Ozu",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passing_Fancy.jpg"
- },
- {
-   "film": "The Pearls of the Crown",
-   "director": "Sacha Guitry",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pearls_of_the_Crown.jpg"
- },
- {
-   "film": "The Phantom of Liberty",
-   "director": "Luis Buñuel",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Phantom_of_Liberty.jpg"
- },
- {
-   "film": "The Philadelphia Story",
-   "director": "George Cukor",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Philadelphia_Story.jpg"
- },
- {
-   "film": "The Player",
-   "director": "Robert Altman",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Player.jpg"
- },
- {
-   "film": "PlayTime",
-   "director": "Jacques Tati",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/PlayTime.jpg"
- },
- {
-   "film": "Putney Swope",
-   "director": "Robert Downey Sr.",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Putney_Swope.jpg"
- },
- {
-   "film": "La poison ",
-   "director": "Sacha Guitry",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poison.jpg"
- },
- {
-   "film": "Pygmalion",
-   "director": "Anthony Asquith and Leslie Howard",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pygmalion.jpg"
- },
- {
-   "film": "Quadrille",
-   "director": "Sacha Guitry",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Quadrille.jpg"
- },
- {
-   "film": "Repo Man",
-   "director": "Alex Cox",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repo_Man.jpg"
- },
- {
-   "film": "The Royal Tenenbaums",
-   "director": "Wes Anderson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg"
- },
- {
-   "film": "The Ruling Class",
-   "director": "Peter Medak",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ruling_Class.jpg"
- },
- {
-   "film": "Rushmore",
-   "director": "Wes Anderson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rushmore.jpg"
- },
- {
-   "film": "Safety Last!",
-   "director": "Fred Newmeyer and Sam Taylor",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Safety_Last.jpg"
- },
- {
-   "film": "Schizopolis",
-   "director": "Steven Soderbergh",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Schizopolis.jpg"
- },
- {
-   "film": "Smiles of a Summer Night",
-   "director": "Ingmar Bergman",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiles_of_a_Summer_Night.jpg"
- },
- {
-   "film": "The Smiling Lieutenant",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiling_Lieutenant.jpg"
- },
- {
-   "film": "Sólo con tu pareja",
-   "director": "Alfonso Cuarón",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Solo_con_tu_pareja.jpg"
- },
- {
-   "film": "Something Wild",
-   "director": "Jonathan Demme",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg"
- },
- {
-   "film": "Il sorpasso",
-   "director": "Dino Risi",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sorpasso.jpg"
- },
- {
-   "film": "Speedy",
-   "director": "Ted Wilde",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Speedy.jpg"
- },
- {
-   "film": "The Story of a Cheat",
-   "director": "Sacha Guitry",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_a_Cheat.jpg"
- },
- {
-   "film": "The Suitor",
-   "director": "Pierre Etaix",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suitor.jpg"
- },
- {
-   "film": "Sullivan’s Travels",
-   "director": "Preston Sturges",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg"
- },
- {
-   "film": "This Is Spinal Tap",
-   "director": "Rob Reiner",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Is_Spinal_Tap.jpg"
- },
- {
-   "film": "Tie Me Up! Tie Me Down!",
-   "director": "Pedro Almodóvar",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tie_Me_Up_Tie_Me_Down.jpg"
- },
- {
-   "film": "Time Bandits",
-   "director": "Terry Gilliam",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Time_Bandits.jpg"
- },
- {
-   "film": "Tiny Furniture",
-   "director": "Lena Dunham",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tiny_Furniture.jpg"
- },
- {
-   "film": "To Be or Not to Be",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg"
- },
- {
-   "film": "Tokyo Chorus",
-   "director": "Yasujiro Ozu",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Chorus.jpg"
- },
- {
-   "film": "Tootsie",
-   "director": "Sydney Pollack",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tootsie.jpg"
- },
- {
-   "film": "Trafic",
-   "director": "Jacques Tati",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trafic.jpg"
- },
- {
-   "film": "Trouble in Paradise",
-   "director": "Ernst Lubitsch",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg"
- },
- {
-   "film": "Unfaithfully Yours",
-   "director": "Preston Sturges",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unfaithfully_Yours.jpg"
- },
- {
-   "film": "W. C. Fields—Six Short Films",
-   "director": "Monte Brice, Clyde Bruckman, Edwin Middleton…",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/W_C_Fields_Six_Short_Films.jpg"
- },
- {
-   "film": "The White Sheik",
-   "director": "Federico Fellini",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Sheik.jpg"
- },
- {
-   "film": "Withnail and I",
-   "director": "Bruce Robinson",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Withnail_and_I.jpg"
- },
- {
-   "film": "Woman of the Year",
-   "director": "George Stevens",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_of_the_Year.jpg"
- },
- {
-   "film": "Yoyo",
-   "director": "Pierre Etaix",
-   "list": "Comedies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Yoyo.jpg"
- }
-]
+  "Comedies": [
+    {
+      "film": "À nous la liberté",
+      "director": "René Clair",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nous_la_liberte.jpg"
+    },
+    {
+      "film": "Androcles and the Lion",
+      "director": "Chester Erskine",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Androcles_and_the_Lion.jpg"
+    },
+    {
+      "film": "As Long as You’ve Got Your Health ",
+      "director": "Pierre Etaix",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/As_Long_as_Youve_Got_Your_Health.jpg"
+    },
+    {
+      "film": "The Awful Truth",
+      "director": "Leo McCarey",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Awful_Truth.jpg"
+    },
+    {
+      "film": "The Bank Dick",
+      "director": "Edward Cline",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bank_Dick.jpg"
+    },
+    {
+      "film": "Barcelona",
+      "director": "Whit Stillman",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Barcelona.jpg"
+    },
+    {
+      "film": "Being John Malkovich",
+      "director": "Spike Jonze",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Being_John_Malkovich.jpg"
+    },
+    {
+      "film": "Big Deal on Madonna Street",
+      "director": "Mario Monicelli",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Deal_on_Madonna_Street.jpg"
+    },
+    {
+      "film": "Billy Liar",
+      "director": "John Schlesinger",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Billy_Liar.jpg"
+    },
+    {
+      "film": "Blithe Spirit",
+      "director": "David Lean",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blithe_Spirit.jpg"
+    },
+    {
+      "film": "Bottle Rocket",
+      "director": "Wes Anderson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
+    },
+    {
+      "film": "Boudu Saved from Drowning",
+      "director": "Jean Renoir",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Boudu_Saved_from_Drowning.jpg"
+    },
+    {
+      "film": "The Breakfast Club",
+      "director": "John Hughes",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breakfast_Club.jpg"
+    },
+    {
+      "film": "Broadcast News",
+      "director": "James L. Brooks",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Broadcast_News.jpg"
+    },
+    {
+      "film": "La Cage aux Folles",
+      "director": "Edouard Molinaro",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cage_aux_Folles.jpg"
+    },
+    {
+      "film": "Chafed Elbows",
+      "director": "Robert Downey Sr.",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chafed_Elbows.jpg"
+    },
+    {
+      "film": "Charade",
+      "director": "Stanley Donen",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Charade.jpg"
+    },
+    {
+      "film": "Chasing Amy",
+      "director": "Kevin Smith",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chasing_Amy.jpg"
+    },
+    {
+      "film": "City Lights",
+      "director": "Charles Chaplin",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/City_Lights.jpg"
+    },
+    {
+      "film": "The Darjeeling Limited",
+      "director": "Wes Anderson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Darjeeling_Limited.jpg"
+    },
+    {
+      "film": "Dazed and Confused",
+      "director": "Richard Linklater",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dazed_and_Confused.jpg"
+    },
+    {
+      "film": "Design for Living",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Design_for_Living.jpg"
+    },
+    {
+      "film": "Désiré",
+      "director": "Sacha Guitry",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Desire.jpg"
+    },
+    {
+      "film": "The Discreet Charm of the Bourgeoisie",
+      "director": "Luis Buñuel",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Discreet_Charm_of_the_Bourgeoisie.jpg"
+    },
+    {
+      "film": "Divorce Italian Style",
+      "director": "Pietro Germi",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Divorce_Italian_Style.jpg"
+    },
+    {
+      "film": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
+      "director": "Stanley Kubrick",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Dr_Strangelove.jpg"
+    },
+    {
+      "film": "Eating Raoul",
+      "director": "Paul Bartel",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Eating_Raoul.jpg"
+    },
+    {
+      "film": "Election",
+      "director": "Alexander Payne",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Election.jpg"
+    },
+    {
+      "film": "Elena and Her Men",
+      "director": "Jean Renoir",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Elena_and_Her_Men.jpg"
+    },
+    {
+      "film": "Fantastic Mr. Fox",
+      "director": "Wes Anderson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fantastic_Mr_Fox.jpg"
+    },
+    {
+      "film": "Fishing with John",
+      "director": "John Lurie",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fishing_with_John.jpg"
+    },
+    {
+      "film": "Frances Ha",
+      "director": "Noah Baumbach",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Frances_Ha.jpg"
+    },
+    {
+      "film": "The Freshman",
+      "director": "Sam Taylor and Fred Newmeyer",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Freshman.jpg"
+    },
+    {
+      "film": "The Gold Rush",
+      "director": "Charles Chaplin",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Gold_Rush.jpg"
+    },
+    {
+      "film": "The Golden Coach",
+      "director": "Jean Renoir",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Golden_Coach.jpg"
+    },
+    {
+      "film": "Good Morning",
+      "director": "Yasujiro Ozu",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Good_Morning.jpg"
+    },
+    {
+      "film": "The Graduate",
+      "director": "Mike Nichols",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Graduate.jpg"
+    },
+    {
+      "film": "Le grand amour",
+      "director": "Pierre Etaix",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Grand_Amour.jpg"
+    },
+    {
+      "film": "The Great Dictator",
+      "director": "Charles Chaplin",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Great_Dictator.jpg"
+    },
+    {
+      "film": "A Hard Day’s Night",
+      "director": "Richard Lester",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hard_Days_Night.jpg"
+    },
+    {
+      "film": "Harold and Maude",
+      "director": "Hal Ashby",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Harold_and_Maude.jpg"
+    },
+    {
+      "film": "Head",
+      "director": "Bob Rafelson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Head.jpg"
+    },
+    {
+      "film": "Here Comes Mr. Jordan",
+      "director": "Alexander Hall",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Here_Comes_Mr_Jordan.jpg"
+    },
+    {
+      "film": "Heaven Can Wait",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Heaven_Can_Wait.jpg"
+    },
+    {
+      "film": "Hobson’s Choice",
+      "director": "David Lean",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Hobsons_Choice.jpg"
+    },
+    {
+      "film": "The Horse’s Mouth",
+      "director": "Ronald Neame",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Horses_Mouth.jpg"
+    },
+    {
+      "film": "How to Get Ahead in Advertising",
+      "director": "Bruce Robinson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/How_to_get.jpg"
+    },
+    {
+      "film": "I Married a Witch",
+      "director": "René Clair",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Married_a_Witch.jpg"
+    },
+    {
+      "film": "I Was Born, But . . . ",
+      "director": "Yasujiro Ozu",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_was_Born_But.jpg"
+    },
+    {
+      "film": "The In-Laws",
+      "director": "Arthur Hiller",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/In-Laws.jpg"
+    },
+    {
+      "film": "It Happened One Night",
+      "director": "Frank Capra",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/It_Happened_One_Night.jpg"
+    },
+    {
+      "film": "It’s a Mad, Mad, Mad, Mad World",
+      "director": "Stanley Kramer",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Its_a_Mad_Mad_Mad_Mad_World.jpg"
+    },
+    {
+      "film": "Jabberwocky",
+      "director": "Terry Gilliam",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jabberwocky.jpg"
+    },
+    {
+      "film": "Jour de fête",
+      "director": "Jacques Tati",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Jour_de_fete.jpg"
+    },
+    {
+      "film": "The Kid",
+      "director": "Charlie Chaplin",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kid.jpg"
+    },
+    {
+      "film": "Kicking and Screaming",
+      "director": "Noah Baumbach",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kicking_and_Screaming.jpg"
+    },
+    {
+      "film": "Kind Hearts and Coronets",
+      "director": "Robert Hamer",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Kind_Hearts_and_Coronets.jpg"
+    },
+    {
+      "film": "The Lady Eve",
+      "director": "Preston Sturges",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lady_Eve.jpg"
+    },
+    {
+      "film": "The Last Days of Disco",
+      "director": "Whit Stillman",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Last_Days_of_Disco.jpg"
+    },
+    {
+      "film": "Leningrad Cowboys Go America",
+      "director": "Aki Kaurismäki",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Go_America.jpg"
+    },
+    {
+      "film": "Leningrad Cowboys Meet Moses",
+      "director": "Aki Kaurismäki",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Leningrad_Cowboys_Meet_Moses.jpg"
+    },
+    {
+      "film": "The Life Aquatic with Steve Zissou",
+      "director": "Wes Anderson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Life_Aquatic_with_Steve_Zissou.jpg"
+    },
+    {
+      "film": "The Love Parade",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Love_Parade.jpg"
+    },
+    {
+      "film": "Lost in America",
+      "director": "Albert Brooks",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Lost_in_America.jpg"
+    },
+    {
+      "film": "Monsieur Hulot’s Holiday",
+      "director": "Jacques Tati",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monsieur_Hulots_Holiday.jpg"
+    },
+    {
+      "film": "Mafioso",
+      "director": "Alberto Lattuada",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mafioso.jpg"
+    },
+    {
+      "film": "Metropolitan",
+      "director": "Whit Stillman",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Metropolitan.jpg"
+    },
+    {
+      "film": "The Milky Way",
+      "director": "Luis Buñuel",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Milky_Way.jpg"
+    },
+    {
+      "film": "Le million",
+      "director": "René Clair",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Million.jpg"
+    },
+    {
+      "film": "Modern Times",
+      "director": "Charlie Chaplin",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Modern_Times.jpg"
+    },
+    {
+      "film": "Mon oncle",
+      "director": "Jacques Tati",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mon_Oncle.jpg"
+    },
+    {
+      "film": "Monsieur Verdoux",
+      "director": "Charles Chaplin",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monsieur_Verdoux.jpg"
+    },
+    {
+      "film": "Monte Carlo",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monte_Carlo.jpg"
+    },
+    {
+      "film": "Monty Python’s Life of Brian",
+      "director": "Terry Jones",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Monty_Pythons_Life_of_Brian.jpg"
+    },
+    {
+      "film": "Moonrise Kingdom",
+      "director": "Wes Anderson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Moonrise_Kingdom.jpg"
+    },
+    {
+      "film": "Mr. Freedom",
+      "director": "William Klein",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Mr_Freedom.jpg"
+    },
+    {
+      "film": "My Man Godfrey",
+      "director": "Gregory La Cava",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/My_Man_Godfrey.jpg"
+    },
+    {
+      "film": "One Hour with You",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/One_Hour_with_You.jpg"
+    },
+    {
+      "film": "The Palm Beach Story",
+      "director": "Preston Sturges",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Palm_Beach_Story.jpg"
+    },
+    {
+      "film": "Passing Fancy",
+      "director": "Yasujiro Ozu",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Passing_Fancy.jpg"
+    },
+    {
+      "film": "The Pearls of the Crown",
+      "director": "Sacha Guitry",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pearls_of_the_Crown.jpg"
+    },
+    {
+      "film": "The Phantom of Liberty",
+      "director": "Luis Buñuel",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Phantom_of_Liberty.jpg"
+    },
+    {
+      "film": "The Philadelphia Story",
+      "director": "George Cukor",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Philadelphia_Story.jpg"
+    },
+    {
+      "film": "The Player",
+      "director": "Robert Altman",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Player.jpg"
+    },
+    {
+      "film": "PlayTime",
+      "director": "Jacques Tati",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/PlayTime.jpg"
+    },
+    {
+      "film": "Putney Swope",
+      "director": "Robert Downey Sr.",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Putney_Swope.jpg"
+    },
+    {
+      "film": "La poison ",
+      "director": "Sacha Guitry",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Poison.jpg"
+    },
+    {
+      "film": "Pygmalion",
+      "director": "Anthony Asquith and Leslie Howard",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Pygmalion.jpg"
+    },
+    {
+      "film": "Quadrille",
+      "director": "Sacha Guitry",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Quadrille.jpg"
+    },
+    {
+      "film": "Repo Man",
+      "director": "Alex Cox",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Repo_Man.jpg"
+    },
+    {
+      "film": "The Royal Tenenbaums",
+      "director": "Wes Anderson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Royal_Tenenbaums.jpg"
+    },
+    {
+      "film": "The Ruling Class",
+      "director": "Peter Medak",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ruling_Class.jpg"
+    },
+    {
+      "film": "Rushmore",
+      "director": "Wes Anderson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rushmore.jpg"
+    },
+    {
+      "film": "Safety Last!",
+      "director": "Fred Newmeyer and Sam Taylor",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Safety_Last.jpg"
+    },
+    {
+      "film": "Schizopolis",
+      "director": "Steven Soderbergh",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Schizopolis.jpg"
+    },
+    {
+      "film": "Smiles of a Summer Night",
+      "director": "Ingmar Bergman",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiles_of_a_Summer_Night.jpg"
+    },
+    {
+      "film": "The Smiling Lieutenant",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiling_Lieutenant.jpg"
+    },
+    {
+      "film": "Sólo con tu pareja",
+      "director": "Alfonso Cuarón",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Solo_con_tu_pareja.jpg"
+    },
+    {
+      "film": "Something Wild",
+      "director": "Jonathan Demme",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg"
+    },
+    {
+      "film": "Il sorpasso",
+      "director": "Dino Risi",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sorpasso.jpg"
+    },
+    {
+      "film": "Speedy",
+      "director": "Ted Wilde",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Speedy.jpg"
+    },
+    {
+      "film": "The Story of a Cheat",
+      "director": "Sacha Guitry",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_a_Cheat.jpg"
+    },
+    {
+      "film": "The Suitor",
+      "director": "Pierre Etaix",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suitor.jpg"
+    },
+    {
+      "film": "Sullivan’s Travels",
+      "director": "Preston Sturges",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg"
+    },
+    {
+      "film": "This Is Spinal Tap",
+      "director": "Rob Reiner",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Is_Spinal_Tap.jpg"
+    },
+    {
+      "film": "Tie Me Up! Tie Me Down!",
+      "director": "Pedro Almodóvar",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tie_Me_Up_Tie_Me_Down.jpg"
+    },
+    {
+      "film": "Time Bandits",
+      "director": "Terry Gilliam",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Time_Bandits.jpg"
+    },
+    {
+      "film": "Tiny Furniture",
+      "director": "Lena Dunham",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tiny_Furniture.jpg"
+    },
+    {
+      "film": "To Be or Not to Be",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg"
+    },
+    {
+      "film": "Tokyo Chorus",
+      "director": "Yasujiro Ozu",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Chorus.jpg"
+    },
+    {
+      "film": "Tootsie",
+      "director": "Sydney Pollack",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tootsie.jpg"
+    },
+    {
+      "film": "Trafic",
+      "director": "Jacques Tati",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trafic.jpg"
+    },
+    {
+      "film": "Trouble in Paradise",
+      "director": "Ernst Lubitsch",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg"
+    },
+    {
+      "film": "Unfaithfully Yours",
+      "director": "Preston Sturges",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unfaithfully_Yours.jpg"
+    },
+    {
+      "film": "W. C. Fields—Six Short Films",
+      "director": "Monte Brice, Clyde Bruckman, Edwin Middleton…",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/W_C_Fields_Six_Short_Films.jpg"
+    },
+    {
+      "film": "The White Sheik",
+      "director": "Federico Fellini",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Sheik.jpg"
+    },
+    {
+      "film": "Withnail and I",
+      "director": "Bruce Robinson",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Withnail_and_I.jpg"
+    },
+    {
+      "film": "Woman of the Year",
+      "director": "George Stevens",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Woman_of_the_Year.jpg"
+    },
+    {
+      "film": "Yoyo",
+      "director": "Pierre Etaix",
+      "list": "Comedies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Yoyo.jpg"
+    }
+  ]
 }

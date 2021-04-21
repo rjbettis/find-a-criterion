@@ -1,112 +1,112 @@
 {
-"HeistMovies": [
- {
-   "film": "Band of Outsiders",
-   "director": "Jean-Luc Godard",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg"
- },
- {
-   "film": "Big Deal on Madonna Street",
-   "director": "Mario Monicelli",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Deal_on_Madonna_Street.jpg"
- },
- {
-   "film": "Bob le flambeur",
-   "director": "Jean-Pierre Melville",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bob_le_flambeur.jpg"
- },
- {
-   "film": "Bottle Rocket",
-   "director": "Wes Anderson",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
- },
- {
-   "film": "Le cercle rouge",
-   "director": "Jean-Pierre Melville",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cercle_rouge.jpg"
- },
- {
-   "film": "Classe tous risques",
-   "director": "Claude Sautet",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Classe_tous_risques.jpg"
- },
- {
-   "film": "Cruel Gun Story",
-   "director": "Takumi Furukawa",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cruel_Gun_Story.jpg"
- },
- {
-   "film": "Le deuxième souffle",
-   "director": "Jean-Pierre Melville",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Deuxieme_souffle.jpg"
- },
- {
-   "film": "Le doulos",
-   "director": "Jean-Pierre Melville",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Doulos.jpg"
- },
- {
-   "film": "Fantastic Mr. Fox",
-   "director": "Wes Anderson",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fantastic_Mr_Fox.jpg"
- },
- {
-   "film": "Intimidation ",
-   "director": "Koreyoshi Kurahara",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Intimidation.jpg"
- },
- {
-   "film": "The Friends of Eddie Coyle",
-   "director": "Peter Yates",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Friends_of_Eddie_Coyle.jpg"
- },
- {
-   "film": "The Killers",
-   "director": "Robert Siodmak",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg"
- },
- {
-   "film": "The Killing",
-   "director": "Stanley Kubrick",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killing.jpg"
- },
- {
-   "film": "The League of Gentlemen",
-   "director": "Basil Dearden",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/League_of_Gentlemen.jpg"
- },
- {
-   "film": "Rififi",
-   "director": "Jules Dassin",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rififi.jpg"
- },
- {
-   "film": "Thief",
-   "director": "Michael Mann",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thief.jpg"
- },
- {
-   "film": "Touchez pas au grisbi",
-   "director": "Jacques Becker",
-   "list": "Heist Movies",
-   "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Touchez_pas_au_grisbi.jpg"
- }
-]
+  "HeistMovies": [
+    {
+      "film": "Band of Outsiders",
+      "director": "Jean-Luc Godard",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg"
+    },
+    {
+      "film": "Big Deal on Madonna Street",
+      "director": "Mario Monicelli",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Deal_on_Madonna_Street.jpg"
+    },
+    {
+      "film": "Bob le flambeur",
+      "director": "Jean-Pierre Melville",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bob_le_flambeur.jpg"
+    },
+    {
+      "film": "Bottle Rocket",
+      "director": "Wes Anderson",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg"
+    },
+    {
+      "film": "Le cercle rouge",
+      "director": "Jean-Pierre Melville",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cercle_rouge.jpg"
+    },
+    {
+      "film": "Classe tous risques",
+      "director": "Claude Sautet",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Classe_tous_risques.jpg"
+    },
+    {
+      "film": "Cruel Gun Story",
+      "director": "Takumi Furukawa",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cruel_Gun_Story.jpg"
+    },
+    {
+      "film": "Le deuxième souffle",
+      "director": "Jean-Pierre Melville",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Deuxieme_souffle.jpg"
+    },
+    {
+      "film": "Le doulos",
+      "director": "Jean-Pierre Melville",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Doulos.jpg"
+    },
+    {
+      "film": "Fantastic Mr. Fox",
+      "director": "Wes Anderson",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fantastic_Mr_Fox.jpg"
+    },
+    {
+      "film": "Intimidation ",
+      "director": "Koreyoshi Kurahara",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Intimidation.jpg"
+    },
+    {
+      "film": "The Friends of Eddie Coyle",
+      "director": "Peter Yates",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Friends_of_Eddie_Coyle.jpg"
+    },
+    {
+      "film": "The Killers",
+      "director": "Robert Siodmak",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killers_(1946).jpg"
+    },
+    {
+      "film": "The Killing",
+      "director": "Stanley Kubrick",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Killing.jpg"
+    },
+    {
+      "film": "The League of Gentlemen",
+      "director": "Basil Dearden",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/League_of_Gentlemen.jpg"
+    },
+    {
+      "film": "Rififi",
+      "director": "Jules Dassin",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Rififi.jpg"
+    },
+    {
+      "film": "Thief",
+      "director": "Michael Mann",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thief.jpg"
+    },
+    {
+      "film": "Touchez pas au grisbi",
+      "director": "Jacques Becker",
+      "list": "Heist Movies",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Touchez_pas_au_grisbi.jpg"
+    }
+  ]
 }
