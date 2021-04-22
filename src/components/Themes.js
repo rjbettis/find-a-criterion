@@ -1,69 +1,74 @@
 import React, { Component } from 'react';
 import Container from 'react-bootstrap/Container';
+import ThemeList from '../data/theme_list.json';
+import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import PeopleList from '../../data/people_list.json';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
 import { Link } from 'react-router-dom';
-import Card from 'react-bootstrap/Card';
 
-export class People extends Component {
+export class Themes extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
-      people: [],
+      themes: [],
     };
   }
 
   componentDidMount() {
-    this.setState({ people: PeopleList.people });
+    //Sets themes state to theme_list json object 'themes'
+    this.setState({ themes: ThemeList.themes });
   }
 
   render() {
     return (
       <Container>
+        {/* Navigation component */}
         <Breadcrumb>
           <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
           <Breadcrumb.Item href="/explore">Explore</Breadcrumb.Item>
-          <Breadcrumb.Item active>People</Breadcrumb.Item>
+          <Breadcrumb.Item active>Themes</Breadcrumb.Item>
         </Breadcrumb>
 
+        {/* Theme image */}
         <Col className={'heading-style'}>
-          <Image src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/People_Font.gif" />
+          <Image src="https://find-a-criterion.s3-us-west-1.amazonaws.com/explore-images/Themes_Font.gif" />
         </Col>
 
+        {/* Maps through 'themes' state to display data in cards. */}
         <Row>
-          {this.state.people.map((person) => {
+          {this.state.themes.map((theme) => {
             return (
               <Col
                 xs={12}
                 sm={12}
-                md={12}
-                lg={6}
+                md={6}
+                lg={4}
                 xl={4}
-                key={person.name + 'Col'}
+                key={theme.title + 'Col'}
               >
-                <Card className={'card-style-blue-text my-3'} key={person.name}>
+                <Card className={'card-style-blue-text my-3'} key={theme.title}>
                   <Card.Img
                     className={'card-style'}
                     variant="top"
-                    src={/*images[theme.image]*/ person.image}
+                    src={/*images[theme.image]*/ theme.image}
                   />
                   <Card.Body>
                     <Card.Title className={'theme-card-title'}>
-                      {person.name}
+                      {/* When router link is clicked, it creates a dynamic route and passes relevant theme data to GetTheme */}
+
+                      {theme.title}
                     </Card.Title>
-                    <Card.Text className={'card-text'}>{person.job}</Card.Text>
                   </Card.Body>
                   <Link
                     to={{
-                      pathname: `/explore/people/${person.link}`,
+                      pathname: `/explore/themes/${theme.link}`,
                       state: {
-                        personName: person.name,
-                        personImage: person.image,
-                        personLink: person.link,
+                        themeTitle: theme.title,
+                        themeImage: theme.image,
+                        themeLink: theme.link,
                       },
                     }}
                     className="stretched-link"
@@ -78,4 +83,4 @@ export class People extends Component {
   }
 }
 
-export default People;
+export default Themes;

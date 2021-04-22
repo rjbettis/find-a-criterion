@@ -1,0 +1,30 @@
+{
+  "FilmList": [
+    {
+      "title": ". . . And the Pursuit of Happiness",
+      "director": "Louis Malle",
+      "lists": ["AmericaAmerica", "Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_the_Pursuit_of_Happiness.jpg",
+      "url": "https://www.criterion.com/films/676--and-the-pursuit-of-happiness"
+    },
+    {
+      "title": "12 Angry Men",
+      "director": "Sidney Lumet",
+      "lists": [
+        "ClassicHollywood",
+        "CompareAndContrast",
+        "FirstFilms",
+        "NewYorkStories"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/12_Angry_Men.jpg",
+      "url": "https://www.criterion.com/films/27871-12-angry-men"
+    },
+    {
+      "title": "Babo 73",
+      "director": "Robert Downey Sr.",
+      "lists": ["AmericaAmerica", "CultMovies", "FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babo_73.jpg",
+      "url": "https://www.criterion.com/films/27938-babo-73"
+    }
+  ]
+}

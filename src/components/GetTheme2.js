@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import legacyThemes from '../data/legacy_themes.json';
+import FilmList from '../data/film_list.json';
 import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
@@ -11,26 +11,33 @@ import ThemeList from '../data/theme_list.json';
 export class GetTheme extends Component {
   state = {
     films: [],
-    data: legacyThemes,
+    data: FilmList,
   };
 
   componentDidMount() {
     // Creates an array of keys from the json files in Combined.js
-    var keys = Object.keys(this.state.data);
+    var filmNum = Object.keys(this.state.data.FilmList);
 
+    console.log(filmNum);
+    console.log(this.state.data.FilmList[0].lists);
     /* 
     Checks the dynamic react router param from the URL against the keys array. If it matches one of the keys 
     then the required data to render the page (currentTheme, CurrentSummary, CurrentImage) are set to states.
     An array of films that match the key are set to the 'films' state.
     */
     var i;
-    for (i in keys) {
-      if (this.props.match.params.theme === keys[i]) {
+    for (i in filmNum) {
+      if (
+        this.props.match.params.theme === this.state.data.FilmList[i].lists[0]
+      ) {
+        console.log(this.state.data.FilmList[i].title);
+        this.state.films.push(this.state.data.FilmList[i]);
         this.setState({
-          films: legacyThemes[keys[i]],
-          currentTheme: ThemeList.themes[i].title,
-          currentSummary: ThemeList.themes[i].summary,
-          currentImage: ThemeList.themes[i].image,
+          //title: this.state.data.FilmList[i],
+          //films: FilmList[filmNum[i]],
+          currentTheme: ThemeList.themes[0].title,
+          currentSummary: ThemeList.themes[0].summary,
+          currentImage: ThemeList.themes[0].image,
         });
       }
     }
@@ -123,7 +130,7 @@ export class GetTheme extends Component {
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
                     <Card.Title className={'movie-title'}>
-                      {film.film}
+                      {film.title}
                     </Card.Title>
                     <Card.Text className={'card-text'}>
                       {film.director}
