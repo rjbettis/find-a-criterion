@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import combinedJson from './Combined';
+import legacyThemes from '../data/themes/legacy_themes.json';
 import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
@@ -11,7 +11,7 @@ import ThemeList from '../data/theme_list.json';
 export class GetTheme extends Component {
   state = {
     films: [],
-    data: combinedJson,
+    data: legacyThemes,
   };
 
   componentDidMount() {
@@ -27,7 +27,7 @@ export class GetTheme extends Component {
     for (i in keys) {
       if (this.props.match.params.theme === keys[i]) {
         this.setState({
-          films: combinedJson[keys[i]],
+          films: legacyThemes[keys[i]],
           currentTheme: ThemeList.themes[i].title,
           currentSummary: ThemeList.themes[i].summary,
           currentImage: ThemeList.themes[i].image,
