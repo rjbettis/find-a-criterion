@@ -7,38 +7,49 @@ import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
 import ThemeList from '../data/theme_list.json';
+import legacyThemes from '../data/legacy_themes.json';
 
 export class GetTheme extends Component {
   state = {
     films: [],
     data: FilmList,
+    themes: ThemeList.themes,
   };
 
   componentDidMount() {
     // Creates an array of keys from the json files in Combined.js
-    var filmNum = Object.keys(this.state.data.FilmList);
+    var keys = Object.keys(this.state.themes);
+    var filmKeys = Object.keys(this.state.data.FilmList);
 
-    console.log(filmNum);
-    console.log(this.state.data.FilmList[0].lists);
+    console.log(filmKeys);
+    //console.log(this.state.data.FilmList[0].lists);
     /* 
     Checks the dynamic react router param from the URL against the keys array. If it matches one of the keys 
     then the required data to render the page (currentTheme, CurrentSummary, CurrentImage) are set to states.
     An array of films that match the key are set to the 'films' state.
     */
     var i;
-    for (i in filmNum) {
-      if (
-        this.props.match.params.theme === this.state.data.FilmList[i].lists[0]
-      ) {
-        console.log(this.state.data.FilmList[i].title);
-        this.state.films.push(this.state.data.FilmList[i]);
+    for (i in keys) {
+      console.log(ThemeList.themes[i].link);
+      if (this.props.match.params.theme === ThemeList.themes[i].link) {
         this.setState({
-          //title: this.state.data.FilmList[i],
-          //films: FilmList[filmNum[i]],
-          currentTheme: ThemeList.themes[0].title,
-          currentSummary: ThemeList.themes[0].summary,
-          currentImage: ThemeList.themes[0].image,
+          currentTheme: ThemeList.themes[i].title,
+          currentSummary: ThemeList.themes[i].summary,
+          currentImage: ThemeList.themes[i].image,
         });
+        var j;
+        var k;
+        for (j in filmKeys) {
+          var listKeys = Object.keys(this.state.data.FilmList[j].lists);
+          for (k in listKeys) {
+            if (
+              this.props.match.params.theme ===
+              this.state.data.FilmList[j].lists[k]
+            ) {
+              this.state.films.push(this.state.data.FilmList[j]);
+            }
+          }
+        }
       }
     }
 
