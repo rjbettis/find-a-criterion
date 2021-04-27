@@ -20,11 +20,367 @@
       "url": "https://www.criterion.com/films/27871-12-angry-men"
     },
     {
-      "title": "Babo 73",
-      "director": "Robert Downey Sr.",
-      "lists": ["AmericaAmerica", "CultMovies", "FirstFilms"],
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babo_73.jpg",
-      "url": "https://www.criterion.com/films/27938-babo-73"
+      "title": "3 Women",
+      "director": "Robert Altman",
+      "lists": ["NewAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/3_Women.jpg",
+      "url": "https://www.criterion.com/films/712-3-women"
+    },
+    {
+      "title": "3:10 to Yuma",
+      "director": "Delmer Daves",
+      "lists": ["Originals", "Suspense", "Westerns"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/310_to_Yuma.jpg",
+      "url": "https://www.criterion.com/films/27910-3-10-to-yuma"
+    },
+    {
+      "title": "45 Years",
+      "director": "Andrew Haigh",
+      "lists": ["AmourFou"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/45_Years.jpg",
+      "url": "https://www.criterion.com/films/28908-45-years"
+    },
+    {
+      "title": "49th Parallel",
+      "director": "Michael Powell",
+      "lists": [
+        "LittleSomethingExtra",
+        "MadeDuringWorldWarII",
+        "OscarWinners",
+        "WarFilms"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/49th_Parallel.jpg",
+      "url": "https://www.criterion.com/films/520-49th-parallel"
+    },
+    {
+      "title": "8½",
+      "director": "Federico Fellini",
+      "lists": ["OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/8.5.jpg",
+      "url": "https://www.criterion.com/films/150-8-1-2"
+    },
+    {
+      "title": "Ace in the Hole",
+      "director": "Billy Wilder",
+      "lists": ["ClassicHollywood"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ace_in_the_Hole.jpg",
+      "url": "https://www.criterion.com/films/829-ace-in-the-hole"
+    },
+    {
+      "title": "¡Alambrista!",
+      "director": "Robert M. Young",
+      "lists": ["IndependentAmericanCinema", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alambrista.jpg",
+      "url": "https://www.criterion.com/films/28101--alambrista"
+    },
+    {
+      "title": "The 39 Steps",
+      "director": "Alfred Hitchcock",
+      "lists": ["CompareAndContrast", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/39_Steps.jpg",
+      "url": "https://www.criterion.com/films/234-the-39-steps"
+    },
+    {
+      "title": "The 400 Blows",
+      "director": "François Truffaut",
+      "lists": [
+        "DysfunctionalFamilies",
+        "FirstFilms",
+        "FrenchNewWave",
+        "GrowingPains",
+        "LittleSomethingExtra"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/400_Blows.jpg",
+      "url": "https://www.criterion.com/films/151-the-400-blows"
+    },
+    {
+      "title": "The Age of Innocence",
+      "director": "Martin Scorsese",
+      "lists": ["OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Age_of_Innocence.jpg",
+      "url": "https://www.criterion.com/films/28834-the-age-of-innocence"
+    },
+    {
+      "title": "Alexander Nevsky",
+      "director": "Sergei Eisenstein",
+      "lists": ["MadeDuringWorldWarII", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alexander_Nevsky.jpg",
+      "url": "https://www.criterion.com/films/341-alexander-nevsky"
+    },
+    {
+      "title": "Ali: Fear Eats the Soul",
+      "director": "Rainer Werner Fassbinder",
+      "lists": [
+        "DysfunctionalFamilies",
+        "LittleSomethingExtra",
+        "Melodrama",
+        "NewGermanCinema",
+        "Tearjerkers"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ali_Fear_Eats_the_Soul.jpg",
+      "url": "https://www.criterion.com/films/152-ali-fear-eats-the-soul"
+    },
+    {
+      "title": "Alice in the Cities",
+      "director": "Wim Wenders",
+      "lists": ["LittleSomethingExtra", "NewGermanCinema", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alice_in_the_Cities.jpg",
+      "url": "https://www.criterion.com/films/27717-alice-in-the-cities"
+    },
+    {
+      "title": "All Night Long",
+      "director": "Basil Dearden",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_Night_Long.jpg",
+      "url": "https://www.criterion.com/films/27539-all-night-long"
+    },
+    {
+      "title": "All That Heaven Allows",
+      "director": "Douglas Sirk",
+      "lists": [
+        "BlueChristmases",
+        "ClassicHollywood",
+        "Melodrama",
+        "Originals",
+        "Tearjerkers",
+        "Technicolor"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Heaven_Allows.jpg",
+      "url": "https://www.criterion.com/films/635-all-that-heaven-allows"
+    },
+    {
+      "title": "All That Jazz",
+      "director": "Bob Fosse",
+      "lists": [
+        "CannesBigWinners",
+        "NewYorkStories",
+        "OscarWinners",
+        "SongAndDance"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/All_That_Jazz.jpg",
+      "url": "https://www.criterion.com/films/28561-all-that-jazz"
+    },
+    {
+      "title": "Alphaville",
+      "director": "Jean-Luc Godard",
+      "lists": ["FrenchNewWave", "NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Alphaville.jpg",
+      "url": "https://www.criterion.com/films/207-alphaville"
+    },
+    {
+      "title": "Amarcord",
+      "director": "Federico Fellini",
+      "lists": ["Cut", "GreatSoundtracks", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amarcord.jpg",
+      "url": "https://www.criterion.com/films/208-amarcord"
+    },
+    {
+      "title": "The American Friend",
+      "director": "Wim Wenders",
+      "lists": ["NewGermanCinema", "NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Friend.jpg",
+      "url": "https://www.criterion.com/films/28763-the-american-friend"
+    },
+    {
+      "title": "The American Soldier",
+      "director": "Rainer Werner Fassbinder",
+      "lists": ["NewGermanCinema", "NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/American_Soldier.jpg",
+      "url": "https://www.criterion.com/films/27951-the-american-soldier"
+    },
+    {
+      "title": "El amor brujo",
+      "director": "Carlos Saura",
+      "lists": ["SongAndDance", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Amor_brujo.jpg",
+      "url": "https://www.criterion.com/films/885-el-amor-brujo"
+    },
+    {
+      "title": "Anatomy of a Murder",
+      "director": "Otto Preminger",
+      "lists": ["ClassicHollywood", "GreatSoundtracks", "NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Anatomy_of_a_Murder.jpg",
+      "url": "https://www.criterion.com/films/27901-anatomy-of-a-murder"
+    },
+    {
+      "title": "And Everything Is Going Fine",
+      "director": "Steven Soderbergh",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_Everything_Is_Going_Fine.jpg",
+      "url": "https://www.criterion.com/films/27874-and-everything-is-going-fine"
+    },
+    {
+      "title": "And God Created Woman",
+      "director": "Roger Vadim",
+      "lists": ["CultMovies", "FirstFilms", "Originals"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/And_God_Created_Woman.jpg",
+      "url": "https://www.criterion.com/films/616-and-god-created-woman"
+    },
+    {
+      "title": "Andrei Rublev",
+      "director": "Andrei Tarkovsky",
+      "lists": ["FaithOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Andrei_Rublev.jpg",
+      "url": "https://www.criterion.com/films/300-andrei-rublev"
+    },
+    {
+      "title": "Androcles and the Lion",
+      "director": "Chester Erskine",
+      "lists": ["Animals", "Comedies", "FaithOnFilm", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Androcles_and_the_Lion.jpg",
+      "url": "https://www.criterion.com/films/6225-androcles-and-the-lion"
+    },
+    {
+      "title": "An Angel at My Table",
+      "director": "Jane Campion",
+      "lists": ["Cut"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Angel_at_My_Table.jpg",
+      "url": "https://www.criterion.com/films/742-an-angel-at-my-table"
+    },
+    {
+      "title": "Antichrist",
+      "director": "Lars von Trier",
+      "lists": ["ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Antichrist.jpg",
+      "url": "https://www.criterion.com/films/27524-antichrist"
+    },
+    {
+      "title": "Antonio Gaudí",
+      "director": "Hiroshi Teshigahara",
+      "lists": [
+        "AvantGarde",
+        "Documentaries",
+        "LittleSomethingExtra",
+        "VirtuallyReality"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Antonio_Gaudi.jpg",
+      "url": "https://www.criterion.com/films/536-antonio-gaud"
+    },
+    {
+      "title": "Aparajito",
+      "director": "Satyajit Ray",
+      "lists": ["GrowingPains", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Aparajito.jpg",
+      "url": "https://www.criterion.com/films/28443-aparajito"
+    },
+    {
+      "title": "Apart from You",
+      "director": "Mikio Naruse",
+      "lists": ["Melodrama", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Apart_from_You.jpg",
+      "url": "https://www.criterion.com/films/27546-apart-from-you"
+    },
+    {
+      "title": "Apur Sansar",
+      "director": "Satyajit Ray",
+      "lists": ["Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Apur_Sansar.jpg",
+      "url": "https://www.criterion.com/films/27905-apur-sansar"
+    },
+    {
+      "title": "Arabian Nights",
+      "director": "Pier Paolo Pasolini",
+      "lists": ["Cut"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Arabian_Nights.jpg",
+      "url": "https://www.criterion.com/films/28374-arabian-nights"
+    },
+    {
+      "title": "Ariel",
+      "director": "Aki Kaurismäki",
+      "lists": ["RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ariel.jpg",
+      "url": "https://www.criterion.com/films/959-ariel"
+    },
+    {
+      "title": "Armageddon",
+      "director": "Michael Bay",
+      "lists": ["Cut"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Armageddon.jpg",
+      "url": "https://www.criterion.com/films/578-armageddon"
+    },
+    {
+      "title": "Army",
+      "director": "Keisuke Kinoshita",
+      "lists": ["MadeDuringWorldWarII"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Army.jpg",
+      "url": "https://www.criterion.com/films/27831-army"
+    },
+    {
+      "title": "Army of Shadows",
+      "director": "Jean-Pierre Melville",
+      "lists": ["NoirAndNeonoir", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Army_of_Shadows.jpg",
+      "url": "https://www.criterion.com/films/153-army-of-shadows"
+    },
+    {
+      "title": "As Long as You've Got Your Health ",
+      "director": "Pierre Etaix",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/As_Long_as_Youve_Got_Your_Health.jpg",
+      "url": "https://www.criterion.com/films/28399-as-long-as-you-ve-got-your-health"
+    },
+    {
+      "title": "The Ascent",
+      "director": "Larisa Shepitko",
+      "lists": ["WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ascent.jpg",
+      "url": "https://www.criterion.com/films/561-the-ascent"
+    },
+    {
+      "title": "Ashes and Diamonds",
+      "director": "Andrzej Wajda",
+      "lists": ["WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ashes_and_Diamonds.jpg",
+      "url": "https://www.criterion.com/films/342-ashes-and-diamonds"
+    },
+    {
+      "title": "The Asphalt Jungle",
+      "director": "John Huston",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Asphalt_Jungle.jpg",
+      "url": "https://www.criterion.com/films/28690-the-asphalt-jungle"
+    },
+    {
+      "title": "The Atomic Submarine",
+      "director": "Spencer G. Bennet",
+      "lists": ["CultMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Atomic_Submarine.jpg",
+      "url": "https://www.criterion.com/films/804-the-atomic-submarine"
+    },
+    {
+      "title": "Au hasard Balthazar",
+      "director": "Robert Bresson",
+      "lists": ["Animals", "FaithOnFilm", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Au_hasard_Balthazar.jpg",
+      "url": "https://www.criterion.com/films/455-au-hasard-balthazar"
+    },
+    {
+      "title": "Au revoir les enfants",
+      "director": "Louis Malle",
+      "lists": ["GrowingPains", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Au_revoir_les_enfants.jpg",
+      "url": "https://www.criterion.com/films/549-au-revoir-les-enfants"
+    },
+    {
+      "title": "An Autumn Afternoon",
+      "director": "Yasujiro Ozu",
+      "lists": ["Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Autumn_Afternoon.jpg",
+      "url": "https://www.criterion.com/films/784-an-autumn-afternoon"
+    },
+    {
+      "title": "Autumn Sonata",
+      "director": "Ingmar Bergman",
+      "lists": ["DysfunctionalFamilies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Autumn_Sonata.jpg",
+      "url": "https://www.criterion.com/films/605-autumn-sonata"
+    },
+    {
+      "title": "The Awful Truth",
+      "director": "Leo McCarey",
+      "lists": ["ClassicHollywood", "Comedies", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Awful_Truth.jpg",
+      "url": "https://www.criterion.com/films/27904-the-awful-truth"
     }
   ]
 }

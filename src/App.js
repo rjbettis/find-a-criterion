@@ -6,7 +6,7 @@ import Explore from './components/Explore';
 import Top10 from './components/Top10';
 import Themes from './components/Themes';
 import People from './components/People';
-import GetTheme2 from './components/GetTheme2';
+import GetTheme from './components/GetTheme';
 import GetPerson from './components/GetPerson';
 import Home from './components/Home';
 
@@ -24,7 +24,7 @@ class App extends Component {
           <Route exact path="/explore/top10" component={Top10} />
           <Route exact path="/explore/themes" component={Themes} />
           <Route exact path="/explore/people" component={People} />
-          <Route exact path="/explore/themes/:theme" component={GetTheme2} />
+          <Route exact path="/explore/themes/:theme" component={GetTheme} />
           <Route exact path="/explore/people/:person" component={GetPerson} />
         </Container>
       </Router>

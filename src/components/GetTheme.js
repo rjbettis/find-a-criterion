@@ -2,36 +2,54 @@ import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import legacyThemes from '../data/legacy_themes.json';
+import FilmList from '../data/film_list.json';
 import Container from 'react-bootstrap/Container';
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Image from 'react-bootstrap/Image';
 import ThemeList from '../data/theme_list.json';
+import legacyThemes from '../data/legacy_themes.json';
 
 export class GetTheme extends Component {
   state = {
     films: [],
-    data: legacyThemes,
+    data: FilmList,
+    themes: ThemeList.themes,
   };
 
   componentDidMount() {
-    // Creates an array of keys from the json files in Combined.js
-    var keys = Object.keys(this.state.data);
+    // Creates an array of keys from the json files in Combined.js ---- REWRITE
+    var keys = Object.keys(this.state.themes);
+    var filmKeys = Object.keys(this.state.data.FilmList);
 
-    /* 
+    console.log(filmKeys);
+
+    /* REWRITE BELOW
     Checks the dynamic react router param from the URL against the keys array. If it matches one of the keys 
     then the required data to render the page (currentTheme, CurrentSummary, CurrentImage) are set to states.
     An array of films that match the key are set to the 'films' state.
     */
     var i;
     for (i in keys) {
-      if (this.props.match.params.theme === keys[i]) {
+      console.log(ThemeList.themes[i].link);
+      if (this.props.match.params.theme === ThemeList.themes[i].link) {
         this.setState({
-          films: legacyThemes[keys[i]],
           currentTheme: ThemeList.themes[i].title,
           currentSummary: ThemeList.themes[i].summary,
           currentImage: ThemeList.themes[i].image,
         });
+        var j;
+        var k;
+        for (j in filmKeys) {
+          var listKeys = Object.keys(this.state.data.FilmList[j].lists);
+          for (k in listKeys) {
+            if (
+              this.props.match.params.theme ===
+              this.state.data.FilmList[j].lists[k]
+            ) {
+              this.state.films.push(this.state.data.FilmList[j]);
+            }
+          }
+        }
       }
     }
 
@@ -123,7 +141,7 @@ export class GetTheme extends Component {
                   <Card.Img variant="top" src={film.image} />
                   <Card.Body>
                     <Card.Title className={'movie-title'}>
-                      {film.film}
+                      {film.title}
                     </Card.Title>
                     <Card.Text className={'card-text'}>
                       {film.director}
