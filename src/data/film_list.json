@@ -381,6 +381,307 @@
       "lists": ["ClassicHollywood", "Comedies", "OscarWinners"],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Awful_Truth.jpg",
       "url": "https://www.criterion.com/films/27904-the-awful-truth"
+    },
+    {
+      "title": "Babette's Feast",
+      "director": "Gabriel Axel",
+      "lists": ["FaithOnFilm", "FoodOnFilm", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babettes_Feast.jpg",
+      "url": ""
+    },
+    {
+      "title": "Babo 73",
+      "director": "Robert Downey Sr.",
+      "lists": ["AmericaAmerica", "CultMovies", "FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Babo_73.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Bad Sleep Well",
+      "director": "Akira Kurosawa",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Sleep_Well.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bad Timing",
+      "director": "Nicolas Roeg",
+      "lists": ["AmourFou", "Cut"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bad_Timing.jpg",
+      "url": ""
+    },
+    {
+      "title": "Badlands",
+      "director": "Terrence Malick",
+      "lists": ["AmourFou", "FirstFilms", "NewAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Badlands.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Bakery Girl of Monceau",
+      "director": "Eric Rohmer",
+      "lists": ["FoodOnFilm", "FrenchNewWave", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bakery_Girl_of_Monceau.jpg",
+      "url": ""
+    },
+    {
+      "title": "Ballad of a Soldier",
+      "director": "Grigori Chukhrai",
+      "lists": ["WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ballad_of_a_Soldier.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Ballad of Narayama",
+      "director": "Keisuke Kinoshita",
+      "lists": ["NovelsOnTheBigScreen", "Originals"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ballad_of_Narayama.jpg",
+      "url": ""
+    },
+    {
+      "title": "Band of Outsiders",
+      "director": "Jean-Luc Godard",
+      "lists": ["FrenchNewWave", "HeistMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Band_of_Outsiders.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Bank Dick",
+      "director": "Edward Cline",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bank_Dick.jpg",
+      "url": ""
+    },
+    {
+      "title": "Barcelona",
+      "director": "Whit Stillman",
+      "lists": ["Comedies", "Cut", "IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Barcelona.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Baron of Arizona",
+      "director": "Samuel Fuller",
+      "lists": ["IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Baron_of_Arizona.jpg",
+      "url": ""
+    },
+    {
+      "title": "Barry Lyndon",
+      "director": "Stanley Kubrick",
+      "lists": ["OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Barry_Lyndon.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Battle of Algiers",
+      "director": "Gillo Pontecorvo",
+      "lists": ["WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Battle_of_Algiers.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bay of Angels",
+      "director": "Jacques Demy",
+      "lists": ["FrenchNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bay_of_Angels.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Beales of Grey Gardens",
+      "director": "Albert Maysles and David Maysles",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beales_of_Grey_Gardens.jpg",
+      "url": ""
+    },
+    {
+      "title": "Le beau Serge",
+      "director": "Claude Chabrol",
+      "lists": ["FirstFilms", "FrenchNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beau_Serge.jpg",
+      "url": ""
+    },
+    {
+      "title": "Before the Rain",
+      "director": "Milcho Manchevski",
+      "lists": ["FaithOnFilm", "FirstFilms", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Before_the_Rain.jpg",
+      "url": ""
+    },
+    {
+      "title": "Being John Malkovich",
+      "director": "Spike Jonze",
+      "lists": ["Comedies", "FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Being_John_Malkovich.jpg",
+      "url": ""
+    },
+    {
+      "title": "Being There",
+      "director": "Hal Ashby",
+      "lists": ["NewAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Being_There.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bergman Island",
+      "director": "Marie Nyreröd",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bergman_Island.jpg",
+      "url": ""
+    },
+    {
+      "title": "Berlin Alexanderplatz",
+      "director": "Rainer Werner Fassbinder",
+      "lists": [
+        "CompareAndContrast",
+        "NewGermanCinema",
+        "NovelsOnTheBigScreen"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beware_of_a_Holy_Whore.jpg",
+      "url": ""
+    },
+    {
+      "title": "Beware of a Holy Whore",
+      "director": "Rainer Werner Fassbinder",
+      "lists": ["NewGermanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beware_of_a_Holy_Whore.jpg",
+      "url": ""
+    },
+    {
+      "title": "Beyond the Law",
+      "director": "Norman Mailer",
+      "lists": ["IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beyond_the_Law.jpg",
+      "url": ""
+    },
+    {
+      "title": "Beyond the Valley of the Dolls",
+      "director": "Russ Meyer",
+      "lists": ["CultMovies", "SongAndDance"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beyond_the_Valley_of_the_Dolls.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bicycle Thieves",
+      "director": "Vittorio De Sica",
+      "lists": ["GrowingPains", "ItalianNeorealism", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bicycle_Thieves.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Big Chill",
+      "director": "Lawrence Kasdan",
+      "lists": ["Cut", "GreatSoundtracks"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Chill.jpg",
+      "url": ""
+    },
+    {
+      "title": "Big Deal on Madonna Street",
+      "director": "Mario Monicelli",
+      "lists": ["Comedies", "HeistMovies", "Originals"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Big_Deal_on_Madonna_Street.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bigger Than Life",
+      "director": "Nicholas Ray",
+      "lists": [
+        "ClassicHollywood",
+        "DysfunctionalFamilies",
+        "Melodrama",
+        "Technicolor"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bigger_Than_Life.jpg",
+      "url": ""
+    },
+    {
+      "title": "Billy Liar",
+      "director": "John Schlesinger",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Billy_Liar.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bitter Rice",
+      "director": "Giuseppe De Santis",
+      "lists": ["ItalianNeorealism"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Rice.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Bitter Tears of Petra von Kant",
+      "director": "Rainer Werner Fassbinder",
+      "lists": ["NewGermanCinema", "OutatCriterion", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Tears_of_Petra_von_Kant.jpg",
+      "url": ""
+    },
+    {
+      "title": "Black Girl",
+      "director": "Ousmane Sembène",
+      "lists": ["LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Girl.jpg",
+      "url": ""
+    },
+    {
+      "title": "Black Moon",
+      "director": "Louis Malle",
+      "lists": ["CultMovies", "GrowingPains"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Moon.jpg",
+      "url": ""
+    },
+    {
+      "title": "Black Narcissus",
+      "director": "Michael Powell and Emeric Pressburger",
+      "lists": [
+        "BlueChristmases",
+        "FaithOnFilm",
+        "OscarWinners",
+        "Technicolor"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Narcissus.jpg",
+      "url": ""
+    },
+    {
+      "title": "Black Panthers",
+      "director": "Agnès Varda",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Panthers.jpg",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
     }
   ]
 }
