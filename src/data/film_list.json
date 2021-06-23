@@ -611,7 +611,7 @@
     {
       "title": "The Bitter Tears of Petra von Kant",
       "director": "Rainer Werner Fassbinder",
-      "lists": ["NewGermanCinema", "OutatCriterion", "StageToScreen"],
+      "lists": ["NewGermanCinema", "OutAtCriterion", "StageToScreen"],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bitter_Tears_of_Petra_von_Kant.jpg",
       "url": ""
     },
@@ -649,31 +649,350 @@
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Black River",
+      "director": "Masaki Kobayashi",
+      "lists": ["Yakuza"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_River.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "The Black Stallion",
+      "director": "Carroll Ballard",
+      "lists": ["Animals", "LittleSomethingExtra", "NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Stallion.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Black Sun",
+      "director": "Koreyoshi Kurahara",
+      "lists": ["JapaneseNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Sun.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Blaise Pascal",
+      "director": "Roberto Rossellini",
+      "lists": ["FaithOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blaise_Pascal.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blast of Silence",
+      "director": "Allen Baron",
+      "lists": [
+        "BlueChristmases",
+        "FirstFilms",
+        "IndependentAmericanCinema",
+        "NewYorkStories",
+        "NoirAndNeonoir"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blast_of_Silence.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blithe Spirit",
+      "director": "David Lean",
+      "lists": ["Comedies", "OscarWinners", "StageToScreen", "Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blithe_Spirit.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Blob",
+      "director": "Irvin S. Yeaworth Jr.",
+      "lists": ["CultMovies", "Originals", "ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blob.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blood for Dracula",
+      "director": "Paul Morrissey",
+      "lists": ["CultMovies", "ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_for_Dracula.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Blood of a Poet",
+      "director": "Jean Cocteau",
+      "lists": ["AvantGarde", "FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_of_a_Poet.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blood Simple",
+      "director": "Joel Coen",
+      "lists": ["FirstFilms", "IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_Simple.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blood Wedding",
+      "director": "Carlos Saura",
+      "lists": ["SongAndDance", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blood_Wedding.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blow Out",
+      "director": "Brian De Palma",
+      "lists": ["AmericaAmerica", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blow_Out.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blow-Up",
+      "director": "Michelangelo Antonioni",
+      "lists": ["GreatSoundtracks"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blow_Up.jpg",
+      "url": ""
+    },
+    {
+      "title": "Blue Is the Warmest Color",
+      "director": "Abdellatif Kechiche",
+      "lists": ["CannesBigWinners", "GrowingPains", "OutAtCriterion"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Blue_Is_the_Warmest_Color.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bob le flambeur",
+      "director": "Jean-Pierre Melville",
+      "lists": ["HeistMovies", "Originals"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bob_le_flambeur.jpg",
+      "url": ""
+    },
+    {
+      "title": "Body and Soul",
+      "director": "Oscar Micheaux",
+      "lists": ["IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Body_and_Soul.jpg",
+      "url": ""
+    },
+    {
+      "title": "Le bonheur",
+      "director": "Agnès Varda",
+      "lists": ["FrenchNewWave", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bonheur.jpg",
+      "url": ""
+    },
+    {
+      "title": "Border Radio",
+      "director": "Allison Anders, Dean Lent and Kurt Voss",
+      "lists": [
+        "Cut",
+        "FirstFilms",
+        "GreatSoundtracks",
+        "IndependentAmericanCinema",
+        "RoadTrips"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Border_Radio.jpg",
+      "url": ""
+    },
+    {
+      "title": "Borderline",
+      "director": "Kenneth Macpherson",
+      "lists": ["AvantGarde", "IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Borderline.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bottle Rocket",
+      "director": "Wes Anderson",
+      "lists": [
+        "Comedies",
+        "CompareAndContrast",
+        "Cut",
+        "FirstFilms",
+        "HeistMovies",
+        "IndependentAmericanCinema",
+        "LittleSomethingExtra",
+        "RoadTrips"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bottle_Rocket.jpg",
+      "url": ""
+    },
+    {
+      "title": "Boudu Saved from Drowning",
+      "director": "Jean Renoir",
+      "lists": ["Comedies", "Originals", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Boudu_Saved_from_Drowning.jpg",
+      "url": ""
+    },
+    {
+      "title": "Bowling for Columbine",
+      "director": "Michael Moore",
+      "lists": ["OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bowling_for_Columbine.jpg",
+      "url": ""
+    },
+    {
+      "title": "Boyhood",
+      "director": "Richard Linklater",
+      "lists": ["GrowingPains"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Boyhood.jpg",
+      "url": ""
+    },
+    {
+      "title": "Brand upon the Brain!",
+      "director": "Guy Maddin",
+      "lists": ["CultMovies", "Cut", "GrowingPains", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brand_upon_the_Brain.jpg",
+      "url": ""
+    },
+    {
+      "title": "Branded to Kill",
+      "director": "Seijun Suzuki",
+      "lists": ["JapaneseNewWave", "NoirAndNeonoir", "Yakuza"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Branded_to_Kill.jpg",
+      "url": ""
+    },
+    {
+      "title": "Brazil",
+      "director": "Terry Gilliam",
+      "lists": ["BlueChristmases", "CompareAndContrast"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brazil.jpg",
+      "url": ""
+    },
+    {
+      "title": "Breaker Morant",
+      "director": "Bruce Beresford",
+      "lists": ["StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaker_Morant.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Breakfast Club",
+      "director": "John Hughes",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breakfast_Club.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Breaking Point",
+      "director": "Michael Curtiz",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_Point.jpg",
+      "url": ""
+    },
+    {
+      "title": "Breaking the Waves",
+      "director": "Lars von Trier",
+      "lists": ["AmourFou", "FaithOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breaking_the_Waves.jpg",
+      "url": ""
+    },
+    {
+      "title": "Breathless",
+      "director": "Jean-Luc Godard",
+      "lists": [
+        "FirstFilms",
+        "FrenchNewWave",
+        "LittleSomethingExtra",
+        "NoirAndNeonoir",
+        "Originals"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Breathless.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Bridge",
+      "director": "Bernhard Wicki",
+      "lists": ["WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Bridge.jpg",
+      "url": ""
+    },
+    {
+      "title": "Brief Encounter",
+      "director": "David Lean",
+      "lists": ["StageToScreen", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brief_Encounter.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Brief History of Time",
+      "director": "Errol Morris",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brief_History_of_Time.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Brighter Summer Day",
+      "director": "Edward Yang",
+      "lists": ["GrowingPains"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brighter_Summer_Day.jpg",
+      "url": ""
+    },
+    {
+      "title": "Broadcast News",
+      "director": "James L. Brooks",
+      "lists": ["Comedies", "Cut"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Broadcast_News.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Brood",
+      "director": "David Cronenberg",
+      "lists": ["ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brood.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Browning Version",
+      "director": "Anthony Asquith",
+      "lists": ["Originals", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Browning_Version.jpg",
+      "url": ""
+    },
+    {
+      "title": "Brute Force",
+      "director": "Jules Dassin",
+      "lists": ["NoirAndNeonoir", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Brute_Force.jpg",
+      "url": ""
+    },
+    {
+      "title": "Buena Vista Social Club",
+      "director": "Wim Wenders",
+      "lists": ["Documentaries", "GreatSoundtracks"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Buena_Vista_Social_Club.jpg",
+      "url": ""
+    },
+    {
+      "title": "Burden of Dreams",
+      "director": "Les Blank",
+      "lists": [
+        "Cut",
+        "Documentaries",
+        "IndependentAmericanCinema",
+        "LittleSomethingExtra"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burden_of_Dreams.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Burmese Harp",
+      "director": "Kon Ichikawa",
+      "lists": ["Originals", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burmese_Harp.jpg",
+      "url": ""
+    },
+    {
+      "title": "Burroughs: The Movie ",
+      "director": "Howard Brookner",
+      "lists": ["Documentaries", "IndependentAmericanCinema", "OutAtCriterion"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Burroughs_The_Movie.jpg",
+      "url": ""
+    },
+    {
+      "title": "By Brakhage: An Anthology, Volume One",
+      "director": "Stan Brakhage",
+      "lists": ["AvantGarde", "IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/By_Brakhage_1.jpg",
+      "url": ""
+    },
+    {
+      "title": "By Brakhage: An Anthology, Volume Two",
+      "director": "Stan Brakhage",
+      "lists": ["AvantGarde", "IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/By_Brakhage_2.jpg",
       "url": ""
     },
     {
