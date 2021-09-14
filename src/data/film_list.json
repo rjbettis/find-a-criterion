@@ -996,6 +996,612 @@
       "url": ""
     },
     {
+      "title": "Caesar and Cleopatra",
+      "director": "Gabriel Pascal",
+      "lists": ["StageToScreen", "Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Caesar_and_Cleopatra.jpg",
+      "url": ""
+    },
+    {
+      "title": "La Cage aux Folles",
+      "director": "Edouard Molinaro",
+      "lists": ["Comedies", "Originals", "OutAtCriterion"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cage_aux_Folles.jpg",
+      "url": ""
+    },
+    {
+      "title": "Cameraperson",
+      "director": "Kirsten Johnson",
+      "lists": ["LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cameraperson.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Canterbury Tale",
+      "director": "Michael Powell and Emeric Pressburger",
+      "lists": ["LittleSomethingExtra", "MadeDuringWorldWarII"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Canterbury_Tale.jpg",
+      "url": ""
+    },
+    {
+      "title": "Carl Th. Dreyer—My Metier",
+      "director": "Torben Skjødt Jensen",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carl_Th_Dreyer_My_Metier.jpg",
+      "url": ""
+    },
+    {
+      "title": "Carmen",
+      "director": "Carlos Saura",
+      "lists": ["SongAndDance", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carmen.jpg",
+      "url": ""
+    },
+    {
+      "title": "Carnival of Souls",
+      "director": "Herk Harvey",
+      "lists": [
+        "CompareAndContrast",
+        "CultMovies",
+        "Cut",
+        "IndependentAmericanCinema",
+        "ScaryMovies"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Carnival_of_Souls.jpg",
+      "url": ""
+    },
+    {
+      "title": "Casque d’or",
+      "director": "Jacques Becker",
+      "lists": ["AmourFou"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Casque_dor.jpg",
+      "url": ""
+    },
+    {
+      "title": "Cat People",
+      "director": "Jacques Tourneur",
+      "lists": ["Animals", "CultMovies", "ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cat_People.jpg",
+      "url": ""
+    },
+    {
+      "title": "Le cercle rouge",
+      "director": "Jean-Pierre Melville",
+      "lists": ["HeistMovies", "NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cercle_rouge.jpg",
+      "url": ""
+    },
+    {
+      "title": "Chafed Elbows",
+      "director": "Robert Downey Sr.",
+      "lists": ["Comedies", "CultMovies", "NewYorkStories"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chafed_Elbows.jpg",
+      "url": ""
+    },
+    {
+      "title": "Chains",
+      "director": "Raffaello Matarazzo",
+      "lists": ["DysfunctionalFamilies", "Melodrama"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chains.jpg",
+      "url": ""
+    },
+    {
+      "title": "La chambre",
+      "director": "Chantal Akerman",
+      "lists": ["AvantGarde"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chambre.jpg",
+      "url": ""
+    },
+    {
+      "title": "Charade",
+      "director": "Stanley Donen",
+      "lists": [
+        "Comedies",
+        "GreatSoundtracks",
+        "Originals",
+        "Suspense",
+        "Technicolor"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Charade.jpg",
+      "url": ""
+    },
+    {
+      "title": "Chasing Amy",
+      "director": "Kevin Smith",
+      "lists": ["Comedies", "Cut", "OutAtCriterion"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chasing_Amy.jpg",
+      "url": ""
+    },
+    {
+      "title": "Che",
+      "director": "Steven Soderbergh",
+      "lists": ["Cut", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Che.jpg",
+      "url": ""
+    },
+    {
+      "title": "La chienne",
+      "director": "Jean Renoir",
+      "lists": ["Originals"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chienne.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Children Are Watching Us",
+      "director": "Vittorio De Sica",
+      "lists": [
+        "DysfunctionalFamilies",
+        "GrowingPains",
+        "ItalianNeorealism",
+        "Tearjerkers"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_Are_Watching_Us.jpg",
+      "url": ""
+    },
+    {
+      "title": "Children of Paradise",
+      "director": "Marcel Carné",
+      "lists": ["MadeDuringWorldWarII", "PoeticRealism"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Children_of_Paradise.jpg",
+      "url": ""
+    },
+    {
+      "title": "Chimes at Midnight",
+      "director": "Orson Welles",
+      "lists": ["StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chimes_at_Midnight.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Christmas Tale",
+      "director": "Arnaud Desplechin",
+      "lists": ["BlueChristmases", "DysfunctionalFamilies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Christmas_Tale.jpg",
+      "url": ""
+    },
+    {
+      "title": "Chronicle of a Summer",
+      "director": "Jean Rouch and Edgar Morin",
+      "lists": ["Documentaries", "FrenchNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chronicle_of_a_Summer.jpg",
+      "url": ""
+    },
+    {
+      "title": "Chungking Express",
+      "director": "Wong Kar-wai",
+      "lists": ["GreatSoundtracks"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chungking_Express.jpg",
+      "url": ""
+    },
+    {
+      "title": "Le ciel est à vous",
+      "director": "Jean Grémillon",
+      "lists": ["MadeDuringWorldWarII"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Ciel_est_a_vous.jpg",
+      "url": ""
+    },
+    {
+      "title": "La Ciénaga",
+      "director": "Lucrecia Martel",
+      "lists": ["DysfunctionalFamilies", "FirstFilms", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cienaga.jpg",
+      "url": ""
+    },
+    {
+      "title": "City Lights",
+      "director": "Charles Chaplin",
+      "lists": ["Comedies", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/City_Lights.jpg",
+      "url": ""
+    },
+    {
+      "title": "Claire’s Knee",
+      "director": "Eric Rohmer",
+      "lists": ["LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Claires_Knee.jpg",
+      "url": ""
+    },
+    {
+      "title": "Classe tous risques",
+      "director": "Claude Sautet",
+      "lists": ["HeistMovies", "NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Classe_tous_risques.jpg",
+      "url": ""
+    },
+    {
+      "title": "Clean, Shaven",
+      "director": "Lodge Kerrigan",
+      "lists": ["FirstFilms", "IndependentAmericanCinema", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Clean_Shaven.jpg",
+      "url": ""
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "director": "Agnès Varda",
+      "lists": ["FrenchNewWave", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cleo_from_5_to_7.jpg",
+      "url": ""
+    },
+    {
+      "title": "Closely Watched Trains",
+      "director": "Jiří Menzel",
+      "lists": ["GrowingPains", "NovelsOnTheBigScreen", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Closely_Watched_Trains.jpg",
+      "url": ""
+    },
+    {
+      "title": "Close-up",
+      "director": "Abbas Kiarostami",
+      "lists": ["VirtuallyReality"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Close_up.jpg",
+      "url": ""
+    },
+    {
+      "title": "La collectionneuse",
+      "director": "Eric Rohmer",
+      "lists": ["LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Collectionneuse.jpg",
+      "url": ""
+    },
+    {
+      "title": "Colossal Youth",
+      "director": "Pedro Costa",
+      "lists": ["LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Colossal_Youth.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Colt Is My Passport ",
+      "director": "Takashi Nomura",
+      "lists": ["JapaneseNewWave", "NoirAndNeonoir", "Suspense", "Yakuza"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Colt_Is_My_Passport.jpg",
+      "url": ""
+    },
+    {
+      "title": "Come On Children",
+      "director": "Allan King",
+      "lists": ["Documentaries", "GrowingPains"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Come_On_Children.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Complete Mr. Arkadin",
+      "director": "Orson Welles",
+      "lists": ["CompareAndContrast", "Cut"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Complete_Mr_Arkadin.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Constant Forge",
+      "director": "Charles Kiselyak",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Constant_Forge.jpg",
+      "url": ""
+    },
+    {
+      "title": "Contempt",
+      "director": "Jean-Luc Godard",
+      "lists": ["FrenchNewWave", "Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Contempt.jpg",
+      "url": ""
+    },
+    {
+      "title": "Le Corbeau",
+      "director": "Henri-Georges Clouzot",
+      "lists": ["MadeDuringWorldWarII"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Corbeau.jpg",
+      "url": ""
+    },
+    {
+      "title": "Corridors of Blood",
+      "director": "Robert Day",
+      "lists": ["CultMovies", "Cut", "ScaryMovies", "ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Corridors_of_Blood.jpg",
+      "url": ""
+    },
+    {
+      "title": "Coup de grâce",
+      "director": "Volker Schlöndorff",
+      "lists": ["NewGermanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Coup_de_grace.jpg",
+      "url": ""
+    },
+    {
+      "title": "Coup de torchon",
+      "director": "Bertrand Tavernier",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Coup_de_torchon.jpg",
+      "url": ""
+    },
+    {
+      "title": "Les cousins",
+      "director": "Claude Chabrol",
+      "lists": ["FrenchNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cousins.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Cranes Are Flying",
+      "director": "Mikhail Kalatozov",
+      "lists": ["CannesBigWinners", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cranes_Are_Flying.jpg",
+      "url": ""
+    },
+    {
+      "title": "Crazed Fruit",
+      "director": "Kô Nakahira",
+      "lists": ["AmourFou"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crazed_Fruit.jpg",
+      "url": ""
+    },
+    {
+      "title": "Cría cuervos . . . ",
+      "director": "Carlos Saura",
+      "lists": [
+        "DysfunctionalFamilies",
+        "GreatSoundtracks",
+        "GrowingPains",
+        "Tearjerkers"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cria_cuervos.jpg",
+      "url": ""
+    },
+    {
+      "title": "Cries and Whispers",
+      "director": "Ingmar Bergman",
+      "lists": ["DysfunctionalFamilies", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cries_and_Whispers.jpg",
+      "url": ""
+    },
+    {
+      "title": "Crisis",
+      "director": "Ingmar Bergman",
+      "lists": ["FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crisis.jpg",
+      "url": ""
+    },
+    {
+      "title": "Cronos",
+      "director": "Guillermo del Toro",
+      "lists": [
+        "CultMovies",
+        "FirstFilms",
+        "LittleSomethingExtra",
+        "ScaryMovies"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cronos.jpg",
+      "url": ""
+    },
+    {
+      "title": "Cruel Gun Story",
+      "director": "Takumi Furukawa",
+      "lists": ["HeistMovies", "JapaneseNewWave", "NoirAndNeonoir", "Yakuza"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Cruel_Gun_Story.jpg",
+      "url": ""
+    },
+    {
+      "title": "Crumb",
+      "director": "Terry Zwigoff",
+      "lists": [
+        "CultMovies",
+        "Documentaries",
+        "DysfunctionalFamilies",
+        "IndependentAmericanCinema"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Crumb.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "director": "David Fincher",
+      "lists": ["OscarWinners", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Curious_Case_of_Benjamin_Button.jpg",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
       "title": "",
       "director": "",
       "lists": [],
