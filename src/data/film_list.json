@@ -5253,6 +5253,382 @@
       "url": ""
     },
     {
+      "title": "Safe",
+      "director": "Todd Haynes",
+      "lists": ["IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Safe.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Safe Place",
+      "director": "Henry Jaglom",
+      "lists": ["Cut", "FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Safe_Place.jpg",
+      "url": ""
+    },
+    {
+      "title": "Safety Last!",
+      "director": "Fred Newmeyer and Sam Taylor",
+      "lists": ["Comedies", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Safety_Last.jpg",
+      "url": ""
+    },
+    {
+      "title": "Salesman",
+      "director": "Albert Maysles, David Maysles and Charlotte Zwerin",
+      "lists": ["Documentaries", "IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Salesman.jpg",
+      "url": ""
+    },
+    {
+      "title": "Salò, or The 120 Days of Sodom",
+      "director": "Pier Paolo Pasolini",
+      "lists": ["CultMovies", "NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Salo_or_The_120_Days_of_Sodom.jpg",
+      "url": ""
+    },
+    {
+      "title": "Le samouraï",
+      "director": "Jean-Pierre Melville",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samourai.jpg",
+      "url": ""
+    },
+    {
+      "title": "Samurai I: Musashi Miyamoto",
+      "director": "Hiroshi Inagaki",
+      "lists": ["OscarWinners", "SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_I_Musashi_Miyamoto.jpg",
+      "url": ""
+    },
+    {
+      "title": "Samurai II: Duel at Ichijoji Temple",
+      "director": "Hiroshi Inagaki",
+      "lists": ["SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_II_Duel_at_Ichijoji_Temple.jpg",
+      "url": ""
+    },
+    {
+      "title": "Samurai III: Duel at Ganryu Island",
+      "director": "Hiroshi Inagaki",
+      "lists": ["SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_III_Duel_at_Ganryu_Island.jpg",
+      "url": ""
+    },
+    {
+      "title": "Samurai Rebellion",
+      "director": "Masaki Kobayashi",
+      "lists": ["SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_Rebellion.jpg",
+      "url": ""
+    },
+    {
+      "title": "Samurai Spy",
+      "director": "Masahiro Shinoda",
+      "lists": ["JapaneseNewWave", "SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Samurai_Spy.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sanjuro",
+      "director": "Akira Kurosawa",
+      "lists": ["SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanjuro.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sans Soleil",
+      "director": "Chris Marker",
+      "lists": ["Documentaries", "VirtuallyReality"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sans_Soleil.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sanshiro Sugata",
+      "director": "Akira Kurosawa",
+      "lists": ["FirstFilms", "MadeDuringWorldWarII", "SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sanshiro Sugata, Part Two",
+      "director": "Akira Kurosawa",
+      "lists": ["SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sanshiro_Sugata_Part_Two.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sansho the Bailiff",
+      "director": "Kenji Mizoguchi",
+      "lists": ["Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sansho_the_Bailiff.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sapphire",
+      "director": "Basil Dearden",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sapphire.jpg",
+      "url": ""
+    },
+    {
+      "title": "Scanners",
+      "director": "David Cronenberg",
+      "lists": ["CultMovies", "ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scanners.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Scarlet Empress",
+      "director": "Josef von Sternberg",
+      "lists": ["ClassicHollywood"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scarlet_Empress.jpg",
+      "url": ""
+    },
+    {
+      "title": "Scenes from a Marriage",
+      "director": "Ingmar Bergman",
+      "lists": ["CompareAndContrast", "DysfunctionalFamilies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Scenes_from_a_Marriage.jpg",
+      "url": ""
+    },
+    {
+      "title": "Schizopolis",
+      "director": "Steven Soderbergh",
+      "lists": ["Comedies", "CultMovies", "IndependentAmericanCinema"],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Science Is Fiction: 23 Films by Jean Painlevé",
+      "director": "Jean Painlevé",
+      "lists": ["Animals", "AvantGarde"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Science_is_Fiction.jpg",
+      "url": ""
+    },
+    {
+      "title": "Seconds",
+      "director": "John Frankenheimer",
+      "lists": ["NovelsOnTheBigScreen", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seconds.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Secret of the Grain",
+      "director": "Abdellatif Kechiche",
+      "lists": ["DysfunctionalFamilies", "FoodOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_of_the_Grain.jpg",
+      "url": ""
+    },
+    {
+      "title": "Secret Sunshine",
+      "director": "Lee Chang-dong",
+      "lists": ["FaithOnFilm", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Secret_Sunshine.jpg",
+      "url": ""
+    },
+    {
+      "title": "Seduced and Abandoned",
+      "director": "Pietro Germi",
+      "lists": ["DysfunctionalFamilies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seduced_and_Abandoned.jpg",
+      "url": ""
+    },
+    {
+      "title": "Senso",
+      "director": "Luchino Visconti",
+      "lists": [
+        "AmourFou",
+        "CompareAndContrast",
+        "Melodrama",
+        "Tearjerkers",
+        "Technicolor"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Senso.jpg",
+      "url": ""
+    },
+    {
+      "title": "Seven Samurai",
+      "director": "Akira Kurosawa",
+      "lists": ["Originals", "SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Seven_Samurai.jpg",
+      "url": ""
+    },
+    {
+      "title": "Shadows",
+      "director": "John Cassavetes",
+      "lists": ["FirstFilms", "IndependentAmericanCinema", "NewYorkStories"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shadows.jpg",
+      "url": ""
+    },
+    {
+      "title": "Shallow Grave",
+      "director": "Danny Boyle",
+      "lists": ["FirstFilms", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shallow_Grave.jpg",
+      "url": ""
+    },
+    {
+      "title": "Shoah",
+      "director": "Claude Lanzmann",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoah.jpg",
+      "url": ""
+    },
+    {
+      "title": "Shock Corridor",
+      "director": "Samuel Fuller",
+      "lists": ["IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shock_Corridor.jpg",
+      "url": ""
+    },
+    {
+      "title": "Shoot the Piano Player",
+      "director": "François Truffaut",
+      "lists": ["FrenchNewWave", "NoirAndNeonoir", "NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shoot_the_Piano_Player.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Shooting",
+      "director": "Monte Hellman",
+      "lists": ["Westerns"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shooting.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Shop on Main Street",
+      "director": "Ján Kadár and Elmar Klos",
+      "lists": ["OscarWinners", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Shop_on_Main_Street.jpg",
+      "url": ""
+    },
+    {
+      "title": "Short Cuts",
+      "director": "Robert Altman",
+      "lists": ["Cut", "GreatSoundtracks"],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Le silence de la mer",
+      "director": "Jean-Pierre Melville",
+      "lists": ["NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Silence_de_la_mer.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "lists": ["Cut", "NovelsOnTheBigScreen", "OscarWinners", "ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Silence_of_the_Lambs.jpg",
+      "url": ""
+    },
+    {
+      "title": "Simon of the Desert",
+      "director": "Luis Buñuel",
+      "lists": ["FaithOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Simon_of_the_Desert.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sing a Song of Sex",
+      "director": "Nagisa Oshima",
+      "lists": ["JapaneseNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sing_a_Song_of_Sex.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sisters",
+      "director": "Brian De Palma",
+      "lists": [
+        "CultMovies",
+        "NewAmericanCinema",
+        "Originals",
+        "ScaryMovies",
+        "Suspense"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sisters.jpg",
+      "url": ""
+    },
+    {
+      "title": "Slacker",
+      "director": "Richard Linklater",
+      "lists": ["CultMovies", "Cut", "IndependentAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Slacker.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Small Back Room",
+      "director": "Michael Powell and Emeric Pressburger",
+      "lists": ["NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Small_Back_Room.jpg",
+      "url": ""
+    },
+    {
+      "title": "Smiles of a Summer Night",
+      "director": "Ingmar Bergman",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiles_of_a_Summer_Night.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Smiling Lieutenant",
+      "director": "Ernst Lubitsch",
+      "lists": ["ClassicHollywood", "Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Smiling_Lieutenant.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Soft Skin",
+      "director": "François Truffaut",
+      "lists": ["FrenchNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Soft_Skin.jpg",
+      "url": ""
+    },
+    {
+      "title": "Solaris",
+      "director": "Andrei Tarkovsky",
+      "lists": ["Cut", "NovelsOnTheBigScreen", "Originals"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Solaris.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sólo con tu pareja",
+      "director": "Alfonso Cuarón",
+      "lists": ["Comedies", "FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Solo_con_tu_pareja.jpg",
+      "url": ""
+    },
+    {
+      "title": "Something Wild",
+      "director": "Jonathan Demme",
+      "lists": ["AmourFou", "Comedies", "GreatSoundtracks", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Something_Wild.jpg",
+      "url": ""
+    },
+    {
+      "title": "Il sorpasso",
+      "director": "Dino Risi",
+      "lists": ["Comedies", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sorpasso.jpg",
+      "url": ""
+    },
+    {
+      "title": "Spartacus",
+      "director": "Stanley Kubrick",
+      "lists": ["Cut", "OscarWinners", "Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spartacus.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Special Day",
+      "director": "Ettore Scola",
+      "lists": ["OutAtCriterion"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Special_Day.jpg",
+      "url": ""
+    },
+    {
       "title": "",
       "director": "",
       "lists": [],
