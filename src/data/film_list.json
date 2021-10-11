@@ -5629,6 +5629,372 @@
       "url": ""
     },
     {
+      "title": "Speedy",
+      "director": "Ted Wilde",
+      "lists": ["Comedies", "NewYorkStories"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Speedy.jpg",
+      "url": ""
+    },
+    {
+      "title": "Spellbound",
+      "director": "Alfred Hitchcock",
+      "lists": ["ClassicHollywood", "CompareAndContrast", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spellbound.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Spirit of the Beehive",
+      "director": "Víctor Erice",
+      "lists": ["FirstFilms", "GrowingPains"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spirit_of_the_Beehive.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Spy Who Came in from the Cold",
+      "director": "Martin Ritt",
+      "lists": ["NovelsOnTheBigScreen", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Spy_Who_Came_in_from_the_Cold.jpg",
+      "url": ""
+    },
+    {
+      "title": "Stagecoach",
+      "director": "John Ford",
+      "lists": ["ClassicHollywood", "OscarWinners", "Westerns"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stagecoach.jpg",
+      "url": ""
+    },
+    {
+      "title": "Stalker",
+      "director": "Andrei Tarkovsky",
+      "lists": ["FaithOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stalker.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Steel Helmet",
+      "director": "Samuel Fuller",
+      "lists": ["IndependentAmericanCinema", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Steel_Helmet.jpg",
+      "url": ""
+    },
+    {
+      "title": "Still Walking",
+      "director": "Hirokazu Kore-eda",
+      "lists": ["DysfunctionalFamilies", "FoodOnFilm", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Still_Walking.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Story of a Cheat",
+      "director": "Sacha Guitry",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_a_Cheat.jpg",
+      "url": ""
+    },
+    {
+      "title": "Story of a Prostitute",
+      "director": "Seijun Suzuki",
+      "lists": ["JapaneseNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_a_Prostitute.jpg",
+      "url": ""
+    },
+    {
+      "title": "A Story of Floating Weeds",
+      "director": "Yasujiro Ozu",
+      "lists": ["CompareAndContrast"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Story_of_Floating_Weeds.jpg",
+      "url": ""
+    },
+    {
+      "title": "La strada",
+      "director": "Federico Fellini",
+      "lists": ["OscarWinners", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Strada.jpg",
+      "url": ""
+    },
+    {
+      "title": "Stranger Than Paradise",
+      "director": "Jim Jarmusch",
+      "lists": ["GreatSoundtracks", "IndependentAmericanCinema", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stranger_Than_Paradise.jpg",
+      "url": ""
+    },
+    {
+      "title": "Straw Dogs",
+      "director": "Sam Peckinpah",
+      "lists": ["NewAmericanCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Straw_Dogs.jpg",
+      "url": ""
+    },
+    {
+      "title": "Stray Dog",
+      "director": "Akira Kurosawa",
+      "lists": ["NoirAndNeonoir", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Stray_Dog.jpg",
+      "url": ""
+    },
+    {
+      "title": "Street of Shame",
+      "director": "Kenji Mizoguchi",
+      "lists": ["Melodrama"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_of_Shame.jpg",
+      "url": ""
+    },
+    {
+      "title": "Street Without End",
+      "director": "Mikio Naruse",
+      "lists": ["Melodrama"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Street_Without_End.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Suitor",
+      "director": "Pierre Etaix",
+      "lists": ["Comedies", "FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suitor.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sullivan’s Travels",
+      "director": "Preston Sturges",
+      "lists": ["ClassicHollywood", "Comedies", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sullivans_Travels.jpg",
+      "url": ""
+    },
+    {
+      "title": "Summer Hours",
+      "director": "Olivier Assayas",
+      "lists": ["Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Summer_Hours.jpg",
+      "url": ""
+    },
+    {
+      "title": "Summer Interlude",
+      "director": "Ingmar Bergman",
+      "lists": ["GrowingPains"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Summer_Interlude.jpg",
+      "url": ""
+    },
+    {
+      "title": "Summertime",
+      "director": "David Lean",
+      "lists": ["Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Summertime.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sunday Bloody Sunday",
+      "director": "John Schlesinger",
+      "lists": ["BritishRealism", "OutAtCriterion"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sunday_Bloody_Sunday.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sundays and Cybèle",
+      "director": "Serge Bourguignon",
+      "lists": ["LittleSomethingExtra", "NovelsOnTheBigScreen", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sundays_and_Cybele.jpg",
+      "url": ""
+    },
+    {
+      "title": "Suzanne’s Career",
+      "director": "Eric Rohmer",
+      "lists": ["FrenchNewWave", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Suzannes_Career.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sweet Movie",
+      "director": "Dušan Makavejev",
+      "lists": ["CultMovies", "FoodOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Movie.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sweet Smell of Success",
+      "director": "Alexander Mackendrick",
+      "lists": ["ClassicHollywood", "NewYorkStories"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweet_Smell_of_Success.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sweetie",
+      "director": "Jane Campion",
+      "lists": ["DysfunctionalFamilies", "FirstFilms", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sweetie.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Sword of Doom",
+      "director": "Kihachi Okamoto",
+      "lists": ["JapaneseNewWave", "SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sword_of_Doom.jpg",
+      "url": ""
+    },
+    {
+      "title": "Sword of the Beast",
+      "director": "Hideo Gosha",
+      "lists": ["JapaneseNewWave", "SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Sword_of_the_Beast.jpg",
+      "url": ""
+    },
+    {
+      "title": "Symbiopsychotaxiplasm",
+      "director": "William Greaves",
+      "lists": [
+        "CompareAndContrast",
+        "CultMovies",
+        "FirstFilms",
+        "GreatSoundtracks",
+        "IndependentAmericanCinema",
+        "NewAmericanCinema",
+        "NewYorkStories",
+        "VirtuallyReality"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Symbiopsychotaxiplasm.jpg",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "",
+      "director": "",
+      "lists": [],
+      "image": "",
+      "url": ""
+    },
+    {
       "title": "",
       "director": "",
       "lists": [],
