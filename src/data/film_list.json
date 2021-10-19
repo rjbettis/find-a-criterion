@@ -1093,6 +1093,13 @@
       "url": ""
     },
     {
+      "title": "Une chambre en ville",
+      "director": "Jacques Demy",
+      "lists": ["Melodrama"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Chambre_en_ville.jpg",
+      "url": ""
+    },
+    {
       "title": "Charade",
       "director": "Stanley Donen",
       "lists": [
@@ -5855,136 +5862,562 @@
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Take Aim at the Police Van",
+      "director": "Seijun Suzuki",
+      "lists": ["NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Take_Aim_at_the_Police_Van.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "The Taking of Power by Louis XIV",
+      "director": "Roberto Rossellini",
+      "lists": ["FoodOnFilm"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taking_of_Power_by_Louis_XIV.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "The Tales of Hoffmann",
+      "director": "Michael Powell and Emeric Pressburger",
+      "lists": [
+        "LittleSomethingExtra",
+        "SongAndDance",
+        "StageToScreen",
+        "Technicolor"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tales_of_Hoffmann.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Tampopo",
+      "director": "Juzo Itami",
+      "lists": ["FoodOnFilm", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tampopo.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Tanner ’88",
+      "director": "Robert Altman",
+      "lists": ["AmericaAmerica"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tanner_88.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Taste of Cherry",
+      "director": "Abbas Kiarostami",
+      "lists": ["CannesBigWinners", "RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Cherry.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "A Taste of Honey",
+      "director": "Tony Richardson",
+      "lists": ["GrowingPains", "LittleSomethingExtra", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Taste_of_Honey.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Tess",
+      "director": "Roman Polanski",
+      "lists": ["GrowingPains", "NovelsOnTheBigScreen", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tess.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "The Testament of Dr. Mabuse",
+      "director": "Fritz Lang",
+      "lists": ["CompareAndContrast", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Dr_Mabuse.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Testament of Orpheus",
+      "director": "Jean Cocteau",
+      "lists": ["AvantGarde"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Testament_of_Orpheus.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "La tête d’un homme",
+      "director": "Julien Duvivier",
+      "lists": ["NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tete_dun_homme.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "That Hamilton Woman",
+      "director": "Alexander Korda",
+      "lists": ["MadeDuringWorldWarII", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/That_Hamilton_Woman.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "There Was a Father",
+      "director": "Yasujiro Ozu",
+      "lists": ["MadeDuringWorldWarII", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/There_Was_a_Father.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "They Live by Night",
+      "director": "Nicholas Ray",
+      "lists": ["NoirAndNeonoir", "NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/They_Live_by_Night.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Thief",
+      "director": "Michael Mann",
+      "lists": ["FirstFilms", "HeistMovies", "NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thief.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "The Thief of Bagdad",
+      "director": "Tim Whelan, Michael Powell and Ludwig Berger",
+      "lists": ["OscarWinners", "Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thief_of_Bagdad.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "Thieves’ Highway",
+      "director": "Jules Dassin",
+      "lists": ["NoirAndNeonoir", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thieves_Highway.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "The Thin Blue Line",
+      "director": "Errol Morris",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thin_Blue_Line.jpg",
       "url": ""
     },
     {
-      "title": "",
-      "director": "",
-      "lists": [],
-      "image": "",
+      "title": "The Thin Red Line",
+      "director": "Terrence Malick",
+      "lists": ["Cut", "NovelsOnTheBigScreen", "WarFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thin_Red_Line.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Third Man",
+      "director": "Carol Reed",
+      "lists": [
+        "CannesBigWinners",
+        "CompareAndContrast",
+        "GreatSoundtracks",
+        "NoirAndNeonoir",
+        "OscarWinners",
+        "Suspense"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Third Man",
+      "director": "Carol Reed",
+      "lists": [
+        "CannesBigWinners",
+        "CompareAndContrast",
+        "GreatSoundtracks",
+        "NoirAndNeonoir",
+        "OscarWinners",
+        "Suspense"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Third_Man.jpg",
+      "url": ""
+    },
+    {
+      "title": "Thirst for Love",
+      "director": "Koreyoshi Kurahara",
+      "lists": ["JapaneseNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Thirst_for_Love.jpg",
+      "url": ""
+    },
+    {
+      "title": "This Happy Breed",
+      "director": "David Lean",
+      "lists": ["StageToScreen", "Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Happy_Breed.jpg",
+      "url": ""
+    },
+    {
+      "title": "This Is Spinal Tap",
+      "director": "Rob Reiner",
+      "lists": ["Comedies", "Cut", "FirstFilms", "SongAndDance"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Is_Spinal_Tap.jpg",
+      "url": ""
+    },
+    {
+      "title": "This Sporting Life",
+      "director": "Lindsay Anderson",
+      "lists": ["BritishRealism", "FirstFilms", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/This_Sporting_Life.jpg",
+      "url": ""
+    },
+    {
+      "title": "Three Colors: Blue",
+      "director": "Krzysztof Kieślowski",
+      "lists": ["GreatSoundtracks", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Colors_Blue.jpg",
+      "url": ""
+    },
+    {
+      "title": "Three Colors: White",
+      "director": "Krzysztof Kieślowski",
+      "lists": ["AmourFou", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Colors_White.jpg",
+      "url": ""
+    },
+    {
+      "title": "Three Outlaw Samurai",
+      "director": "Hideo Gosha",
+      "lists": ["FirstFilms", "SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Outlaw_Samurai.jpg",
+      "url": ""
+    },
+    {
+      "title": "Three Resurrected Drunkards",
+      "director": "Nagisa Oshima",
+      "lists": ["JapaneseNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Three_Resurrected_Drunkards.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Threepenny Opera",
+      "director": "Georg Wilhelm Pabst",
+      "lists": ["CompareAndContrast", "StageToScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Threepenny_Opera.jpg",
+      "url": ""
+    },
+    {
+      "title": "Throne of Blood",
+      "director": "Akira Kurosawa",
+      "lists": ["SamuraiCinema"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Throne_of_Blood.jpg",
+      "url": ""
+    },
+    {
+      "title": "Through a Glass Darkly",
+      "director": "Ingmar Bergman",
+      "lists": ["FaithOnFilm", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Through_a_Glass_Darkly.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tie Me Up! Tie Me Down!",
+      "director": "Pedro Almodóvar",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tie_Me_Up_Tie_Me_Down.jpg",
+      "url": ""
+    },
+    {
+      "title": "Time Bandits",
+      "director": "Terry Gilliam",
+      "lists": ["Comedies", "CultMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Time_Bandits.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Times of Harvey Milk",
+      "director": "Robert Epstein",
+      "lists": [
+        "Documentaries",
+        "IndependentAmericanCinema",
+        "OscarWinners",
+        "OutAtCriterion"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Times_of_Harvey_Milk.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Tin Drum",
+      "director": "Volker Schlöndorff",
+      "lists": [
+        "CannesBigWinners",
+        "Cut",
+        "GrowingPains",
+        "NewGermanCinema",
+        "NovelsOnTheBigScreen",
+        "OscarWinners",
+        "WarFilms"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tin_Drum.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tiny Furniture",
+      "director": "Lena Dunham",
+      "lists": [
+        "Comedies",
+        "FirstFilms",
+        "GrowingPains",
+        "IndependentAmericanCinema",
+        "LittleSomethingExtra",
+        "NewYorkStories"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tiny_Furniture.jpg",
+      "url": ""
+    },
+    {
+      "title": "To Be or Not to Be",
+      "director": "Ernst Lubitsch",
+      "lists": [
+        "ClassicHollywood",
+        "Comedies",
+        "CompareAndContrast",
+        "LittleSomethingExtra",
+        "MadeDuringWorldWarII",
+        "Originals"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/To_Be_or_Not_to_Be.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tokyo Chorus",
+      "director": "Yasujiro Ozu",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Chorus.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tokyo Drifter",
+      "director": "Seijun Suzuki",
+      "lists": ["JapaneseNewWave", "NoirAndNeonoir", "Yakuza"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Drifter.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tokyo Olympiad",
+      "director": "Kon Ichikawa",
+      "lists": ["Documentaries", "JapaneseNewWave"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Olympiad.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tokyo Story",
+      "director": "Yasujiro Ozu",
+      "lists": ["Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Story.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tokyo Twilight",
+      "director": "Yasujiro Ozu",
+      "lists": ["Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tokyo_Twilight.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tom Jones",
+      "director": "Tony Richardson",
+      "lists": ["OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tom_Jones.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tootsie",
+      "director": "Sydney Pollack",
+      "lists": ["Comedies", "Cut", "NewYorkStories", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tootsie.jpg",
+      "url": ""
+    },
+    {
+      "title": "Topsy-Turvy",
+      "director": "Mike Leigh",
+      "lists": [
+        "Cut",
+        "GreatSoundtracks",
+        "LittleSomethingExtra",
+        "OscarWinners",
+        "SongAndDance"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Topsy_Turvy.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tormento",
+      "director": "Raffaello Matarazzo",
+      "lists": ["Melodrama", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tormento.jpg",
+      "url": ""
+    },
+    {
+      "title": "Total Balalaika Show",
+      "director": "Aki Kaurismäki",
+      "lists": ["Documentaries", "LittleSomethingExtra", "SongAndDance"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Total_Balalaika_Show.jpg",
+      "url": ""
+    },
+    {
+      "title": "Touchez pas au grisbi",
+      "director": "Jacques Becker",
+      "lists": ["HeistMovies", "NoirAndNeonoir"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Touchez_pas_au_grisbi.jpg",
+      "url": ""
+    },
+    {
+      "title": "Touki bouki",
+      "director": "Djibril Diop Mambéty",
+      "lists": ["RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Touki_bouki.jpg",
+      "url": ""
+    },
+    {
+      "title": "Traffic",
+      "director": "Steven Soderbergh",
+      "lists": ["Cut", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Traffic.jpg",
+      "url": ""
+    },
+    {
+      "title": "Trafic",
+      "director": "Jacques Tati",
+      "lists": ["Comedies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trafic.jpg",
+      "url": ""
+    },
+    {
+      "title": "Trances",
+      "director": "Ahmed El Maanouni",
+      "lists": ["Documentaries", "SongAndDance"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trances.jpg",
+      "url": ""
+    },
+    {
+      "title": "Le trou",
+      "director": "Jacques Becker",
+      "lists": ["NoirAndNeonoir", "Suspense"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trou.jpg",
+      "url": ""
+    },
+    {
+      "title": "Trouble in Paradise",
+      "director": "Ernst Lubitsch",
+      "lists": [
+        "ClassicHollywood",
+        "Comedies",
+        "CompareAndContrast",
+        "LittleSomethingExtra"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Trouble_in_Paradise.jpg",
+      "url": ""
+    },
+    {
+      "title": "Tunes of Glory",
+      "director": "Ronald Neame",
+      "lists": ["Technicolor"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Tunes_of_Glory.jpg",
+      "url": ""
+    },
+    {
+      "title": "Twenty-Four Eyes",
+      "director": "Keisuke Kinoshita",
+      "lists": ["Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Twenty_Four_Eyes.jpg",
+      "url": ""
+    },
+    {
+      "title": "Twin Peaks: Fire Walk with Me",
+      "director": "David Lynch",
+      "lists": ["DysfunctionalFamilies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Twin_Peaks_Fire_Walk_with_Me.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Two of Us",
+      "director": "Claude Berri",
+      "lists": ["FirstFilms", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Two_of_Us.jpg",
+      "url": ""
+    },
+    {
+      "title": "Two Tons of Turquoise to Taos Tonight",
+      "director": "Robert Downey Sr.",
+      "lists": ["CultMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Two_Tons_of_Turquoise_to_Taos_Tonight.jpg",
+      "url": ""
+    },
+    {
+      "title": "Two-Lane Blacktop",
+      "director": "Monte Hellman",
+      "lists": [
+        "AmericaAmerica",
+        "CultMovies",
+        "NewAmericanCinema",
+        "RoadTrips"
+      ],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Two_Lane_Blacktop.jpg",
+      "url": ""
+    },
+    {
+      "title": "Umberto D.",
+      "director": "Vittorio De Sica",
+      "lists": ["ItalianNeorealism", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umberto_D.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "director": "Jacques Demy",
+      "lists": ["CannesBigWinners", "FrenchNewWave", "Tearjerkers"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Umbrellas_of_Cherbourg.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "director": "Philip Kaufman",
+      "lists": ["NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unbearable_Lightness_of_Being.jpg",
+      "url": ""
+    },
+    {
+      "title": "Uncle Yanco",
+      "director": "Agnès Varda",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uncle_Yanco.jpg",
+      "url": ""
+    },
+    {
+      "title": "Under the Roofs of Paris",
+      "director": "René Clair",
+      "lists": ["LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Under_the_Roofs_of_Paris.jpg",
+      "url": ""
+    },
+    {
+      "title": "Under the Volcano",
+      "director": "John Huston",
+      "lists": ["NovelsOnTheBigScreen"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Under_the_Volcano.jpg",
+      "url": ""
+    },
+    {
+      "title": "Underworld ",
+      "director": "Josef von Sternberg",
+      "lists": ["ClassicHollywood", "NoirAndNeonoir", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Underworld.jpg",
+      "url": ""
+    },
+    {
+      "title": "Unfaithfully Yours",
+      "director": "Preston Sturges",
+      "lists": ["ClassicHollywood", "Comedies", "Originals"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Unfaithfully_Yours.jpg",
+      "url": ""
+    },
+    {
+      "title": "The Uninvited",
+      "director": "Lewis Allen",
+      "lists": ["ClassicHollywood", "NovelsOnTheBigScreen", "ScaryMovies"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Uninvited.jpg",
+      "url": ""
+    },
+    {
+      "title": "Vagabond",
+      "director": "Agnès Varda",
+      "lists": ["RoadTrips"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vagabond.jpg",
       "url": ""
     },
     {
