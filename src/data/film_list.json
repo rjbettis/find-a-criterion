@@ -642,6 +642,13 @@
       "url": ""
     },
     {
+      "title": "Black Orpheus",
+      "director": "Marcel Camus",
+      "lists": ["CannesBigWinners", "GreatSoundtracks", "OscarWinners"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Black_Orpheus.jpg",
+      "url": ""
+    },
+    {
       "title": "Black Panthers",
       "director": "Agnès Varda",
       "lists": ["Documentaries"],
@@ -1538,7 +1545,7 @@
       "url": ""
     },
     {
-      "title": "Devil and Daniel Webster, The",
+      "title": "The Devil and Daniel Webster",
       "director": "William Dieterle",
       "lists": ["ClassicHollywood", "CompareAndContrast", "GreatSoundtracks"],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Devil_and_Daniel_Webster.jpg",
@@ -1936,6 +1943,13 @@
         "OscarWinners"
       ],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Television_Version.jpg",
+      "url": ""
+    },
+    {
+      "title": "Fanny and Alexander: Theatrical Version",
+      "director": "Ingmar Bergman",
+      "lists": ["BlueChristmases"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg",
       "url": ""
     },
     {
