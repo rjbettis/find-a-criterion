@@ -537,7 +537,7 @@
         "NewGermanCinema",
         "NovelsOnTheBigScreen"
       ],
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Beware_of_a_Holy_Whore.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Berlin_Alexanderplatz.jpg",
       "url": ""
     },
     {
@@ -2746,7 +2746,7 @@
     {
       "title": "I Am Curious—Blue",
       "director": "Vilgot Sjöman",
-      "lists": ["CultMovies", "CultMovies"],
+      "lists": ["CultMovies", "Cut"],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/I_Am_Curious_Blue.jpg",
       "url": ""
     },
@@ -6437,7 +6437,7 @@
     {
       "title": "Vampyr",
       "director": "Carl Th. Dreyer",
-      "lists": ["CompareAndContrast", "CompareAndContrast", "ScaryMovies"],
+      "lists": ["CompareAndContrast", "ScaryMovies"],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Vampyr.jpg",
       "url": ""
     },
@@ -6571,7 +6571,7 @@
       "title": "The War Room",
       "director": "Chris Hegedus and D. A. Pennebaker",
       "lists": ["Cut", "Documentaries"],
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Warped_Ones.jpg",
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/War_Room.jpg",
       "url": ""
     },
     {
@@ -6626,7 +6626,7 @@
     {
       "title": "White Dog",
       "director": "Samuel Fuller",
-      "lists": ["Animals", "ScaryMovies", "Suspense"],
+      "lists": ["Animals", "CultMovies", "ScaryMovies", "Suspense"],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/White_Dog.jpg",
       "url": ""
     },
