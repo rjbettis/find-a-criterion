@@ -94,6 +94,27 @@
       "url": "https://www.criterion.com/films/151-the-400-blows"
     },
     {
+      "title": "À nos amours",
+      "director": "Maurice Pialat",
+      "lists": ["DysfunctionalFamilies", "GrowingPains"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nos_amours.jpg",
+      "url": ""
+    },
+    {
+      "title": "À nous la liberté",
+      "director": "René Clair",
+      "lists": ["Comedies", "Cut", "LittleSomethingExtra"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nous_la_liberte.jpg",
+      "url": ""
+    },
+    {
+      "title": "À propos de Nice",
+      "director": "Jean Vigo and Boris Kaufman",
+      "lists": ["FirstFilms"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Propos_de_Nice.jpg",
+      "url": ""
+    },
+    {
       "title": "The Age of Innocence",
       "director": "Martin Scorsese",
       "lists": ["OscarWinners"],
@@ -140,6 +161,7 @@
       "lists": [
         "BlueChristmases",
         "ClassicHollywood",
+        "DysfunctionalFamilies",
         "Melodrama",
         "Originals",
         "Tearjerkers",
@@ -1937,7 +1959,6 @@
       "lists": [
         "BlueChristmases",
         "CompareAndContrast",
-        "FaithOnFilm",
         "FoodOnFilm",
         "GrowingPains",
         "OscarWinners"
@@ -1948,7 +1969,7 @@
     {
       "title": "Fanny and Alexander: Theatrical Version",
       "director": "Ingmar Bergman",
-      "lists": ["BlueChristmases"],
+      "lists": ["BlueChristmases", "FaithOnFilm"],
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Fanny_and_Alexander_Theatrical_Version.jpg",
       "url": ""
     },
@@ -4400,6 +4421,13 @@
       "url": ""
     },
     {
+      "title": "Naqoyqatsi",
+      "director": "Godfrey Reggio",
+      "lists": ["Documentaries"],
+      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Naqoyqatsi.jpg",
+      "url": ""
+    },
+    {
       "title": "The New Land",
       "director": "Jan Troell",
       "lists": ["NovelsOnTheBigScreen"],
@@ -4500,13 +4528,7 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Norte.jpg",
       "url": ""
     },
-    {
-      "title": "À nos amours",
-      "director": "Maurice Pialat",
-      "lists": ["DysfunctionalFamilies", "GrowingPains"],
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nos_amours.jpg",
-      "url": ""
-    },
+
     {
       "title": "Notorious",
       "director": "Alfred Hitchcock",
@@ -4521,13 +4543,7 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Notti_bianche.jpg",
       "url": ""
     },
-    {
-      "title": "À nous la liberté",
-      "director": "René Clair",
-      "lists": ["Comedies", "Cut", "LittleSomethingExtra"],
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Nous_la_liberte.jpg",
-      "url": ""
-    },
+
     {
       "title": "Odd Man Out",
       "director": "Carol Reed",
@@ -4931,13 +4947,7 @@
       "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Promesse.jpg",
       "url": ""
     },
-    {
-      "title": "À propos de Nice",
-      "director": "Jean Vigo and Boris Kaufman",
-      "lists": ["FirstFilms"],
-      "image": "https://find-a-criterion.s3-us-west-1.amazonaws.com/film-images/Propos_de_Nice.jpg",
-      "url": ""
-    },
+
     {
       "title": "Punch-Drunk Love",
       "director": "Paul Thomas Anderson",
